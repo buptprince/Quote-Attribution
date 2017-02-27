@@ -1,0 +1,363 @@
+(lp0
+(lp1
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - Good News, Bad News Script.html
+p2
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Stakeout Script.html
+p3
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Robbery Script.html
+p4
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - Male Unbonding Script.html
+p5
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Stock Tip Script.html
+p6
+aa(lp7
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Ex-Girlfriend Script.html
+p8
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pony Remark Script.html
+p9
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Jacket Script.html
+p10
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Phone Message Script.html
+p11
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Apartment Script.html
+p12
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Statue Script.html
+p13
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Revenge Script.html
+p14
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Heart Attack Script.html
+p15
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Deal Script.html
+p16
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Baby Shower Script.html
+p17
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Chinese Restaurant Script.html
+p18
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Busboy Script.html
+p19
+aa(lp20
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Note Script.html
+p21
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Truth Script.html
+p22
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pen Script.html
+p23
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Dog Script.html
+p24
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Library Script.html
+p25
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Parking Garage Script.html
+p26
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Cafe Script.html
+p27
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Tape Script.html
+p28
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Nose Job Script.html
+p29
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Stranded Script.html
+p30
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Alternate Side Script.html
+p31
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Red Dot Script.html
+p32
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Subway Script.html
+p33
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pez Dispenser Script.html
+p34
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Suicide Script.html
+p35
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Fix-Up Script.html
+p36
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Boyfriend Part 1 Script.html
+p37
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Boyfriend Part 2 Script.html
+p38
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Limo Script.html
+p39
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Good Samaritan Script.html
+p40
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Letter Script.html
+p41
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Parking Space Script.html
+p42
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Keys Script.html
+p43
+aa(lp44
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Trip Part 1 Script.html
+p45
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Trip Part 2 Script.html
+p46
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pitch Script.html
+p47
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Ticket Script.html
+p48
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Wallet Script.html
+p49
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Watch Script.html
+p50
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Bubble Boy Script.html
+p51
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Cheever Letters Script.html
+p52
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Opera Script.html
+p53
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Virgin Script.html
+p54
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Contest Script.html
+p55
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Airport Script.html
+p56
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pick Script.html
+p57
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Movie Script.html
+p58
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Visa Script.html
+p59
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Shoes Script.html
+p60
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Outing Script.html
+p61
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Old Man Script.html
+p62
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Implant Script.html
+p63
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Junior Mint Script.html
+p64
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Smelly Car Script.html
+p65
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Handicap Spot Script.html
+p66
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pilot Part 1 Script.html
+p67
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pilot Part 2 Script.html
+p68
+aa(lp69
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Mango Script.html
+p70
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Puffy Shirt Script.html
+p71
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Glasses Script.html
+p72
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Sniffing Accountant Script.html
+p73
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Bris Script.html
+p74
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Lip Reader Script.html
+p75
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Non-Fat Yogurt Script.html
+p76
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Barber Script.html
+p77
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Masseuse Script.html
+p78
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Cigar Store Indian Script.html
+p79
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Conversion Script.html
+p80
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Stall Script.html
+p81
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Dinner Party Script.html
+p82
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Marine Biologist Script.html
+p83
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pie Script.html
+p84
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Stand-In Script.html
+p85
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Wife Script.html
+p86
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Raincoats Part 1 Script.html
+p87
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Raincoats Part 2 Script.html
+p88
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Fire Script.html
+p89
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Hamptons Script.html
+p90
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Opposite Script.html
+p91
+aa(lp92
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Chaperone Script.html
+p93
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Big Salad Script.html
+p94
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pledge Drive Script.html
+p95
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Chinese Woman Script.html
+p96
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Couch Script.html
+p97
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Gymnast Script.html
+p98
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Mom And Pop Store Script.html
+p99
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Soup Script.html
+p100
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Secretary Script.html
+p101
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Switch Script.html
+p102
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Label Maker Script.html
+p103
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Race Script.html
+p104
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Scofflaw Script.html
+p105
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Kiss Hello Script.html
+p106
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Beard Script.html
+p107
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Doorman Script.html
+p108
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Jimmy Script.html
+p109
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Doodle Script.html
+p110
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Fusilli Jerry Script.html
+p111
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Diplomat's Club Script.html
+p112
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Understudy Script.html
+p113
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Face Painter Script.html
+p114
+aa(lp115
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Engagement Script.html
+p116
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Postponement Script.html
+p117
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Maestro Script.html
+p118
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Wink Script.html
+p119
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Hot Tub Script.html
+p120
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Soup Nazi Script.html
+p121
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Secret Code Script.html
+p122
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pool Guy Script.html
+p123
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Sponge Script.html
+p124
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Gum Script.html
+p125
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Rye Script.html
+p126
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Caddy Script.html
+p127
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Seven Script.html
+p128
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Cadillac Part 1 Script.html
+p129
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Cadillac Part 2 Script.html
+p130
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Shower Head Script.html
+p131
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Doll Script.html
+p132
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Friars Club Script.html
+p133
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Wig Master Script.html
+p134
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Calzone Script.html
+p135
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Bottle Deposit Part 1 Script.html
+p136
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Bottle Deposit Part 2 Script.html
+p137
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Wait Out Script.html
+p138
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Invitations Script.html
+p139
+aa(lp140
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Foundation Script.html
+p141
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Soul Mate Script.html
+p142
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Bizarro Jerry Script.html
+p143
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Little Kicks Script.html
+p144
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Package Script.html
+p145
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Fatigues Script.html
+p146
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Checks Script.html
+p147
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Chicken Roaster Script.html
+p148
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Abstinence Script.html
+p149
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Andrea Doria Script.html
+p150
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Little Jerry Script.html
+p151
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Money Script.html
+p152
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Comeback Script.html
+p153
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Van Buren Boys Script.html
+p154
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Susie Script.html
+p155
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Pothole Script.html
+p156
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The English Patient Script.html
+p157
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Nap Script.html
+p158
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Yada Yada Script.html
+p159
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Millennium Script.html
+p160
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Muffin Tops Script.html
+p161
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Summer of George Script.html
+p162
+aa(lp163
+Vhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Butter Shave Script.html
+p164
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Voice Script.html
+p165
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Serenity Now Script.html
+p166
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Blood Script.html
+p167
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Junk Mail Script.html
+p168
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Merv Griffin Show Script.html
+p169
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Slicer Script.html
+p170
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Betrayal Script.html
+p171
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Apology Script.html
+p172
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Strike Script.html
+p173
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Dealership Script.html
+p174
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Reverse Peephole Script.html
+p175
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Cartoon Script.html
+p176
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Strong Box Script.html
+p177
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Wizard Script.html
+p178
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Burning Script.html
+p179
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Bookstore Script.html
+p180
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Frogger Script.html
+p181
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Maid Script.html
+p182
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Puerto Rican Day Script.html
+p183
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Finale Part 1 Script.html
+p184
+aVhttp://www.imsdb.com/TV Transcripts/Seinfeld - The Finale Part 2 Script.html
+p185
+aa.
