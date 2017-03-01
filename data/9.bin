@@ -1,0 +1,1287 @@
+(lp0
+(V JERRY 
+p1
+V  THE APARTMENT  Written by Peter Mehlman     (Night club)   Well, I painted my apartment again. I've been living in this apartment for years and years, and every time I paint it, it kinda gets me down. I look around,     and I think, well, it's a little bit smaller now. You know, I realize it's just the thickness of the paint, but I'm aware of it. It keeps coming in and coming in. Everytime I    paint it, it's closer and closer. I don't even know where the wall outlets are anymore. I just look for like a lump with two slots in it. Kinda looks like a pig is trying to    push his way through from the other side. That's where I plug in.. My idea of the perfect living room would be the bridge on the Starship Enterprise. You know what    I mean? Big chair, nice screen, remote control.. that's why Star Trek really was the ultimate male fantasy. Just hurling through space in your living room, watching    TV. That's why all the aliens were always dropping in, because Kirk was the only one that had a big screen. They came over Friday night, Klingon boxing.. gotta be    there.   (Scene ends)   (Jerry's apartment)   (Jerry and Elaine are looking at Kramer with their arms folded. His hair is slicked down)   
+p2
+tp3
+a(V JERRY 
+p4
+V What did you do?  
+p5
+tp6
+a(V KRAMER 
+p7
+V Mousse. I moussed up.  
+p8
+tp9
+a(V ELAINE 
+p10
+V I guess it was just a matter of time.    
+p11
+tp12
+a(V KRAMER 
+p13
+V You know, I should've done this years ago. I mean, I feel like I had two lives. My pre-mousse and now, I begin my post-mousse. Hey, tell me the truth,    have you ever seen a better looking guy?  
+p14
+tp15
+a(V JERRY 
+p16
+V Oh, look, its so subjective.  
+p17
+tp18
+a(V ELAINE 
+p19
+V I don't mean to interrupt or anything, but on Sunday, my friend is having a brunch for the New York Marathon.    
+p20
+tp21
+a(V KRAMER 
+p22
+V Oh, I keep forgetting to enter that.    
+p23
+tp24
+a(V ELAINE 
+p25
+V She lives right above First Avenue, and says she has a perfect view of the race. And she said I can invite some friends.   
+p26
+tp27
+a(V JERRY 
+p28
+V Maybe.   (A loud argument erupts in the hallway between Harold and Manny, the building supervisors)   
+p29
+tp30
+a(V HAROLD 
+p31
+V No, I'm not going up there. (Manny screams out something in Spanish)   
+p32
+tp33
+a(V JERRY 
+p34
+V Harold and Manny.  
+p35
+tp36
+a(V HAROLD 
+p37
+V I'm not going. (Manny says something in Spanish, Jerry goes out into the hall)   
+p38
+tp39
+a(V JERRY 
+p40
+V Boys, boys.  
+p41
+tp42
+a(V HAROLD 
+p43
+V Oh, Jerry.  
+p44
+tp45
+a(V JERRY 
+p46
+V I slid the rent under your door, Harold. Did you get it?   
+p47
+tp48
+a(V HAROLD 
+p49
+V Yeah, yeah.. (Joking) Hey, Jerry, would you like anything from Mrs. Hudwalker's apartment? (Manny starts yelling at Harold in Spanish) I was only    joking. (To Jerry) He thinks I'm going to give you Mrs. Hudwalker's things. (Manny starts talking in Spanish) We have to go up there now and clean the apartment.    It's a good thing her rent was overdue. She'd be rotting up there for a month.   
+p50
+tp51
+a(V JERRY 
+p52
+V She died? ..Mrs. Hudwalker died?  
+p53
+tp54
+a(V HAROLD 
+p55
+V Ninety-four years old. I found her yesterday. She didn't have a wig on. It was horrifying.    
+p56
+tp57
+a(V MANNY 
+p58
+V Harold, (In Spanish) Come on, hurry up!   
+p59
+tp60
+a(V HAROLD 
+p61
+V (To Manny) What's the matter with you?! I'm talking. So, Jerry, you know anyone who needs an apartment?   
+p62
+tp63
+a(V JERRY 
+p64
+V Are you kidding? You know my friend Elaine?   
+p65
+tp66
+a(V HAROLD 
+p67
+V Oh yeah, I like her. She always says "hello" to me.   
+p68
+tp69
+a(V JERRY 
+p70
+V It's not promised to anybody? 'Cause she would take it in a second.   
+p71
+tp72
+a(V HAROLD 
+p73
+V Well, Manny wanted it for his brother, but he got deported. (Manny starts protesting in Spanish) What's the difference? It's true.   
+p74
+tp75
+a(V JERRY 
+p76
+V So, it's okay? I could just tell her she can have it?   
+p77
+tp78
+a(V HAROLD 
+p79
+V Sure, sure. She's getting a bargain, too. It's only four hundred dollars a month. (Manny yells in Spanish) Okay.. (Manny keeps talking in Spanish) Okay.     (Jerry goes back to his apartment, passing Kramer on the way)    
+p80
+tp81
+a(V KRAMER 
+p82
+V (Talking about his hair) Hey, Harold, what do you think?   
+p83
+tp84
+a(V HAROLD 
+p85
+V Manny, look, Kramer put mousse in his hair.   
+p86
+tp87
+a(V MANNY 
+p88
+V (In Spanish) It looks worse.  
+p89
+tp90
+a(V KRAMER 
+p91
+V (Not knowing what Manny said) Thanks.     (Jerry enters his apartment)  
+p92
+tp93
+a(V ELAINE 
+p94
+V What was that all about?  
+p95
+tp96
+a(V JERRY 
+p97
+V Oh, nothing important.  
+p98
+tp99
+a(V ELAINE 
+p100
+V What's going on? What is that look?    
+p101
+tp102
+a(V JERRY 
+p103
+V What look? Nothing.  
+p104
+tp105
+a(V ELAINE 
+p106
+V Something's going on here.  
+p107
+tp108
+a(V JERRY 
+p109
+V I don't know if you should sit for this or not. Sitting is good if you faint, but standing is good for jumping up and down.. I can't decide.   
+p110
+tp111
+a(V ELAINE 
+p112
+V Jumping up and down? What are you talking about? C'mon. Cough it up.   
+p113
+tp114
+a(V JERRY 
+p115
+V Oh, Elaine. You know the way I am - rarely ever thinking of myself. My only concern is the welfare and happiness of those close to me. Sure, it hurts     sometimes - to give, and give, and give..  
+p116
+tp117
+a(V ELAINE 
+p118
+V Would you please?  
+p119
+tp120
+a(V JERRY 
+p121
+V What would you say if I told you that..    
+p122
+tp123
+a(V ELAINE 
+p124
+V Told me what?!  
+p125
+tp126
+a(V JERRY 
+p127
+V ..I got you an apartment in this building.    
+p128
+tp129
+a(V ELAINE 
+p130
+V (Dumbfounded) No.  
+p131
+tp132
+a(V JERRY 
+p133
+V Yes.  
+p134
+tp135
+a(V ELAINE 
+p136
+V No.  
+p137
+tp138
+a(V JERRY 
+p139
+V Yes.  
+p140
+tp141
+a(V ELAINE 
+p142
+V You didn't.  
+p143
+tp144
+a(V JERRY 
+p145
+V I did.  
+p146
+tp147
+a(V ELAINE 
+p148
+V You got me an apartment in the building?!    
+p149
+tp150
+a(V JERRY 
+p151
+V I got you an apartment in the building.    
+p152
+tp153
+a(V ELAINE 
+p154
+V How did you..  
+p155
+tp156
+a(V JERRY 
+p157
+V Remember Mrs. Hudwalker? The ninety-four-year-old woman who lived above me?   
+p158
+tp159
+a(V ELAINE 
+p160
+V No.  
+p161
+tp162
+a(V JERRY 
+p163
+V She died.  
+p164
+tp165
+a(V ELAINE 
+p166
+V (Thrilled) She died?!  
+p167
+tp168
+a(V JERRY 
+p169
+V She died.  
+p170
+tp171
+a(V ELAINE 
+p172
+V She died!  
+p173
+tp174
+a(V JERRY 
+p175
+V And the rent's only four hundred dollars a month!   
+p176
+tp177
+a(V ELAINE 
+p178
+V Get out! (Pushes Jerry, he stumbles back) Four hundred a month? Only four hundred a month?!   
+p179
+tp180
+a(V JERRY 
+p181
+V Four hundred a month.  
+p182
+tp183
+a(V ELAINE 
+p184
+V And I'll be right upstairs?  
+p185
+tp186
+a(V JERRY 
+p187
+V Right upstairs.  
+p188
+tp189
+a(V ELAINE 
+p190
+V Right above you?  
+p191
+tp192
+a(V JERRY 
+p193
+V Right above me.  
+p194
+tp195
+a(V ELAINE 
+p196
+V Oh, we're neighbors. I'll be here all the time!   
+p197
+tp198
+a(V JERRY 
+p199
+V (Suddenly having second thoughts) All the time..   
+p200
+tp201
+a(V ELAINE 
+p202
+V We can exchange keys so we can come in and out. Oh, this is going to be great!   
+p203
+tp204
+a(V JERRY 
+p205
+V ..All the time..   (Scene ends)   (Night club)  
+p206
+tp207
+a(V JERRY 
+p208
+V The problem with talking is that nobody stops you from saying the wrong thing. I think life would be a lot better if it was like you're always making a movie.     You mess up, somebody just walks on the set, and stops the whole shot. You know what I mean? Think of the things you wish you could take back. You're out    somewhere with people, "Gee, you look pregnant.. are ya?" "Cut, cut, cut, cut, cut, that's not gonna work at all. Walk out the door, and come back in. Let's take    this whole scene again. People, think about what you're saying!"     (Scene ends)   (Coffee shop)  
+p209
+tp210
+a(V GEORGE 
+p211
+V (Pays his bill) Thanks, see ya later, Donna. (Walks out, he runs into Jerry outside the shop) What happened to you?    
+p212
+tp213
+a(V JERRY 
+p214
+V You can't believe what I just did.    
+p215
+tp216
+a(V GEORGE 
+p217
+V What? What did you do?  
+p218
+tp219
+a(V JERRY 
+p220
+V I could tell you what I did, but you wouldn't believe it. It's not believable.    
+p221
+tp222
+a(V GEORGE 
+p223
+V What did you do?  
+p224
+tp225
+a(V JERRY 
+p226
+V How could I have done that?  
+p227
+tp228
+a(V GEORGE 
+p229
+V Done what?  
+p230
+tp231
+a(V JERRY 
+p232
+V I told Elaine about an apartment opening up in my building. She's going to move in.   
+p233
+tp234
+a(V GEORGE 
+p235
+V Elaine's moving into your building?    
+p236
+tp237
+a(V JERRY 
+p238
+V Yes. Right above me.  
+p239
+tp240
+a(V GEORGE 
+p241
+V Right above you?  
+p242
+tp243
+a(V JERRY 
+p244
+V Yes.  
+p245
+tp246
+a(V GEORGE 
+p247
+V You're gonna be neighbors.  
+p248
+tp249
+a(V JERRY 
+p250
+V I know. Neighbors.  
+p251
+tp252
+a(V GEORGE 
+p253
+V She's right above you?  
+p254
+tp255
+a(V JERRY 
+p256
+V Right above me.  
+p257
+tp258
+a(V GEORGE 
+p259
+V How could you do that?  
+p260
+tp261
+a(V JERRY 
+p262
+V 'Cause I'm an idiot! You may think you're an idiot, but with all due respect - I'm a much bigger idiot than you are.    
+p263
+tp264
+a(V GEORGE 
+p265
+V Don't insult me, my friend. Remember who you're talking to. No one's a bigger idiot than me.   
+p266
+tp267
+a(V JERRY 
+p268
+V Did you ever ask an ex-girlfriend to move into your building?   
+p269
+tp270
+a(V GEORGE 
+p271
+V Did you ever go to a singles weekend in the Poconos?   
+p272
+tp273
+a(V JERRY 
+p274
+V She's right in my building! Right above me! Every time I come in the building, I'm gonna have to sneak around like a cat burglar.   
+p275
+tp276
+a(V GEORGE 
+p277
+V You're doomed. You're gonna have to have all your sex at women's apartments. It'll be like a permanent road trip. Forget about the home bed    advantage.  
+p278
+tp279
+a(V JERRY 
+p280
+V But I need the home bed advantage!    
+p281
+tp282
+a(V GEORGE 
+p283
+V Of course, we all do.  
+p284
+tp285
+a(V JERRY 
+p286
+V (Gesturing to the coffee shop) Come in for two minutes and sit with me.    
+p287
+tp288
+a(V GEORGE 
+p289
+V I was just in there. It's embarrassing.    
+p290
+tp291
+a(V JERRY 
+p292
+V Oh, who's gonna know?  
+p293
+tp294
+a(V GEORGE 
+p295
+V They saw me walk out.  
+p296
+tp297
+a(V JERRY 
+p298
+V Two minutes.   (Scene cuts to Jerry and George in the coffee shop)  
+p299
+tp300
+a(V JERRY 
+p301
+V My censoring system broke down. You know that little guy in your head who watches everything you say? Makes sure you don't make a mistake? He went     for a cup of coffee, and in that second - ruined my life.  
+p302
+tp303
+a(V GEORGE 
+p304
+V My censor quit two years ago. He checked into a clinic. Emotionally exhausted.    
+p305
+tp306
+a(V JERRY 
+p307
+V ..So, is there any way out of this Elaine thing?   
+p308
+tp309
+a(V GEORGE 
+p310
+V Tough.  
+p311
+tp312
+a(V JERRY 
+p313
+V You know, the water pressure's terrible in my building.. and she loves a good shower.   
+p314
+tp315
+a(V GEORGE 
+p316
+V I don't think anyone's turned down an apartment because of a weak shower spray.    
+p317
+tp318
+a(V JERRY 
+p319
+V If they were fanatic about showers, they might.   
+p320
+tp321
+a(V GEORGE 
+p322
+V For that rent, she'd take a bath in the toilet tank if she had to..   
+p323
+tp324
+a(V JERRY 
+p325
+V Look at that woman feeding her baby greasy, disgusting, coffee shop corned beef hash. Isn't that child abuse?    
+p326
+tp327
+a(V GEORGE 
+p328
+V I'd like to have a kid. Of course, you have to have a date first.. remember my friend, Adam, from Detroit?   
+p329
+tp330
+a(V JERRY 
+p331
+V Yeah, the guy with the flat head?  
+p332
+tp333
+a(V GEORGE 
+p334
+V He's a cube.. anyway, he got married six months ago. he told me ever since he's been wearing a wedding band, women have been coming on to him    everywhere he goes.  
+p335
+tp336
+a(V JERRY 
+p337
+V Yeah, I've heard that about wedding bands.   
+p338
+tp339
+a(V GEORGE 
+p340
+V (Joking) I wonder if that's really true.    
+p341
+tp342
+a(V JERRY 
+p343
+V That would be an interesting sociological experiment. You know, Kramer has his father's band. He'd loan it to you.     (Scene ends)   (Apartment buliding hallway)   (George is trying on a wedding band)  
+p344
+tp345
+a(V GEORGE 
+p346
+V Thanks a lot. I"ll give it back to you in a week.   
+p347
+tp348
+a(V KRAMER 
+p349
+V You know, I don't even know why you're fooling around with this ring. I've been telling you, get yourself some plugs, or a piece.   
+p350
+tp351
+a(V GEORGE 
+p352
+V I'm not doing that.  
+p353
+tp354
+a(V KRAMER 
+p355
+V Oh, man. You know, you're crazy. You're a good looking guy. What do you want to walk around like that for?   
+p356
+tp357
+a(V GEORGE 
+p358
+V No, I'll put half a can of mousse in my head like you.    (Manny and Harold are arguing again from down the hall)  
+p359
+tp360
+a(V HAROLD 
+p361
+V I told you I don't like these sponges, they're too small! I want a big sponge! (Manny yells) You can't pick up anything with these! There's no absorption!     (Manny yells in Spanish, Jerry exits his apartment)  
+p362
+tp363
+a(V JERRY 
+p364
+V Boys, boys.  
+p365
+tp366
+a(V HAROLD 
+p367
+V Hi, Jerry.  
+p368
+tp369
+a(V HAROLD 
+p370
+V Hello, Jerry. (Says something in Spanish to Harold)   
+p371
+tp372
+a(V HAROLD 
+p373
+V Okay.. your friend can't have the apartment, Jerry.   
+p374
+tp375
+a(V JERRY 
+p376
+V What?  
+p377
+tp378
+a(V HAROLD 
+p379
+V Because somebody offered Manny five thousand dollars for the apartment. I don't want to do it. Manny wants to do it. (Manny yells) Because it's true!     Why shouldn't I tell him?  
+p380
+tp381
+a(V JERRY 
+p382
+V Hey, hey. I understand. You're businessmen. (Manny talks in Spanish)   
+p383
+tp384
+a(V HAROLD 
+p385
+V Oh, now, he says that if your friend has five thousand dollars, we'll give it to her.   
+p386
+tp387
+a(V JERRY 
+p388
+V Well, that's a lot of money. But, if that's the way it's gotta be, that's the way it's gotta be. (Goes back to his apartment) You know, I used to think that the    universe is a random, chaotic, sequence of meaningless events, but I see now that there is reason and purpose to all things.    
+p389
+tp390
+a(V GEORGE 
+p391
+V What happened to you?  
+p392
+tp393
+a(V JERRY 
+p394
+V Religion, my friend, that's what happened to me. Because, I have just been informed that it's going to cost Elaine the sum of five thousand dollars to get the     apartment upstairs.  
+p395
+tp396
+a(V GEORGE 
+p397
+V Five thousand dollars? She doesn't have five thousand dollars!   
+p398
+tp399
+a(V JERRY 
+p400
+V Of course she doesn't have five thousand dollars!   
+p401
+tp402
+a(V GEORGE 
+p403
+V So, she can't get the apartment.  
+p404
+tp405
+a(V JERRY 
+p406
+V Can't get it.  
+p407
+tp408
+a(V GEORGE 
+p409
+V So, she doesn't move in.  
+p410
+tp411
+a(V JERRY 
+p412
+V No move. So, you see, it's all part of a divine plan.   
+p413
+tp414
+a(V GEORGE 
+p415
+V And how does the baldness fit into that plan?    (The intercom buzzes)  
+p416
+tp417
+a(V JERRY 
+p418
+V (Into the intercom) Elaine?  
+p419
+tp420
+a(V ELAINE 
+p421
+V Yeah.  
+p422
+tp423
+a(V JERRY 
+p424
+V (Unlocks the main door. To George) Alright, this is going to require some great acting now. I have to pretend I'm disappointed. You're going to really see    me being a phony, now. I hope you can take this.. maybe you should go in the other room.   
+p425
+tp426
+a(V GEORGE 
+p427
+V Are you kidding?! I lie ever second of the day. My whole life is a sham!    
+p428
+tp429
+a(V JERRY 
+p430
+V 'Cause you know, I love Elaine.  
+p431
+tp432
+a(V GEORGE 
+p433
+V Of course you do.  
+p434
+tp435
+a(V JERRY 
+p436
+V But you know.. not in the building. Really, I feel terrible about this. My intentions were good. What can I do? Tell me..     (To someone in the hallway) No, I'll be seeing you. (Starts to sing) "Good morning, good morning.." Have you ever gotten up in the morning    and felt it's great to be alive? That every breath is a gift of sweet life from above? (George leaves, and goes to the other room) Oh, and before I forget, I have the    checks for first month, last month, security deposit. I have seventy-five dollars left in my account.   
+p437
+tp438
+a(V JERRY 
+p439
+V (Looks at the checks) Well.. there's a little bit of a problem.   
+p440
+tp441
+a(V ELAINE 
+p442
+V Oh, I know. There's a weak shower spray, I know. I've already thought about it, and I'm switching to baths. As Winston Churchill said, "Why stand when    you can sit?" Maybe I'll get some rubber duckies..  
+p443
+tp444
+a(V JERRY 
+p445
+V No, someone offered Harold and Manny five thousand for the apartment. I'm sure they'd just as soon give it to you, but you'd have to come up with that    money.  
+p446
+tp447
+a(V ELAINE 
+p448
+V Five thousand dollars? I don't have five thousand dollars.   
+p449
+tp450
+a(V JERRY 
+p451
+V I know.  
+p452
+tp453
+a(V ELAINE 
+p454
+V How am I going to get five thousand dollars?   
+p455
+tp456
+a(V JERRY 
+p457
+V I have no idea.   (Enter Kramer)  
+p458
+tp459
+a(V KRAMER 
+p460
+V Hey, my new neighbor!  
+p461
+tp462
+a(V ELAINE 
+p463
+V I'm not moving in.  
+p464
+tp465
+a(V KRAMER 
+p466
+V What?  
+p467
+tp468
+a(V ELAINE 
+p469
+V They want five thousand dollars now.    
+p470
+tp471
+a(V KRAMER 
+p472
+V So, okay. What's the problem?  
+p473
+tp474
+a(V ELAINE 
+p475
+V I don't have five thousand dollars.    
+p476
+tp477
+a(V KRAMER 
+p478
+V C'mon, you can come up with five thousand dollars.. Jerry, you don't have five thousand dollars you can led her? Come on.   
+p479
+tp480
+a(V JERRY 
+p481
+V Yeah, well, I didn't.. Is that something you want to borrow?   
+p482
+tp483
+a(V ELAINE 
+p484
+V No, that's too much money to borrow.    
+p485
+tp486
+a(V KRAMER 
+p487
+V Loan her the money. You can afford it.    
+p488
+tp489
+a(V JERRY 
+p490
+V She doesn't want to borrow the money.    
+p491
+tp492
+a(V KRAMER 
+p493
+V Oh, c'mon. She'll pay you back. What's five grand between friends?   
+p494
+tp495
+a(V ELAINE 
+p496
+V Of course I'd pay you back..  
+p497
+tp498
+a(V KRAMER 
+p499
+V Yeah, so what's the problem?  
+p500
+tp501
+a(V JERRY 
+p502
+V Who said there's a problem?  
+p503
+tp504
+a(V KRAMER 
+p505
+V He said he'd loan you the money.  
+p506
+tp507
+a(V ELAINE 
+p508
+V Well Jerry, it might take a while for me to pay you back. Maybe a few years. How do you feel about that?   
+p509
+tp510
+a(V KRAMER 
+p511
+V That's okay. He doesn't care.  
+p512
+tp513
+a(V ELAINE 
+p514
+V You know, money can sometimes come between friends.   
+p515
+tp516
+a(V KRAMER 
+p517
+V Get outta here.  
+p518
+tp519
+a(V ELAINE 
+p520
+V Let me think about it.  
+p521
+tp522
+a(V KRAMER 
+p523
+V What's to think about?  
+p524
+tp525
+a(V ELAINE 
+p526
+V I don't know.. I don't know. Five thousand.. let me just take one more look at it. (Leaves)   
+p527
+tp528
+a(V JERRY 
+p529
+V It was all over! Taken care of. Done! Finished. Five thousand.. Where's she gonna get five thousand? She doesn't have five thousand. Clean. Good bye.     She's gone. Then you come in, "Why don't you loan her five thousand? What do you care? You've got five thousand. Give her five thousand."    
+p530
+tp531
+a(V KRAMER 
+p532
+V You didn't want her in the building?    
+p533
+tp534
+a(V JERRY 
+p535
+V No, I didn't!  
+p536
+tp537
+a(V KRAMER 
+p538
+V Well, then what did you loan her the five thousand for? Oh, look, maybe she won't take it.. I mean, she did say that she was going to think about it.    
+p539
+tp540
+a(V JERRY 
+p541
+V People don't turn down money! It's what separates us from the animals.   
+p542
+tp543
+a(V KRAMER 
+p544
+V I still don't understand what the problem is having her in the building.   
+p545
+tp546
+a(V JERRY 
+p547
+V Let me explain something to you.. You see, you're not normal. You're a great guy, I love you, but you're a pod. I, on the other hand, am a human being. 
+p548
+tp549
+a(V I 
+p550
+V   sometimes feel awkward, uncomfortable, even inhibited in certain situations with the other human beings. You wouldn't understand.    
+p551
+tp552
+a(V KRAMER 
+p553
+V Because I'm a pod?   (George returns for Jerry's bedroom just as Elaine returns)    
+p554
+tp555
+a(V ELAINE 
+p556
+V I'll take it!   (George turns on his heels, and goes back into Jerry's room)     (Scene ends)   (Roxanne's apartment)   (Guests are milling around, eating. Elaine enters with Jerry and George. Roxanne greets them)   
+p557
+tp558
+a(V ROXANNE 
+p559
+V Hi, Elaine..  
+p560
+tp561
+a(V ELAINE 
+p562
+V Oh, hi, Roxanne. Nice to be here. These are my friends. This is George, and this is Jerry. (They exchange greetings) Jerry's the one who got me my new     apartment!  
+p563
+tp564
+a(V ROXANNE 
+p565
+V So, you're Elaine's hero.  
+p566
+tp567
+a(V JERRY 
+p568
+V Yeah, it's my life's work.  
+p569
+tp570
+a(V ROXANNE 
+p571
+V There are so few true heros left in this world. (Jerry's attracted to Roxanne, Elaine notices)   
+p572
+tp573
+a(V GEORGE 
+p574
+V (Showing off his wedding band) Yeah, my wife couldn't make it today. She's got some thing with her mother.. Who know's what going on with her. Don't     let any one kid you, it's tough. (Goes off to mingle)  
+p575
+tp576
+a(V JERRY 
+p577
+V Well, better load up on some carbos before the race. (Starts selecting food from the tables)   
+p578
+tp579
+a(V ROXANNE 
+p580
+V Oh, the marathon is great, isn't it?    
+p581
+tp582
+a(V JERRY 
+p583
+V Oh, yes. Particularily if your not in it.   
+p584
+tp585
+a(V ROXANNE 
+p586
+V I wish we had a view of the finish line.    
+p587
+tp588
+a(V JERRY 
+p589
+V What's to see? A woman from Norway, a guy from Kenya, and twenty thousand losers.    (Roxanne makes a face, Scene guts to George. He's standing next to an attractive woman)   
+p590
+tp591
+a(V GEORGE 
+p592
+V ..Yeah, my wife started getting on me about the lawn today. I'm tellin' ya, it's one thing after another.   
+p593
+tp594
+a(V RITA 
+p595
+V Is she here?  
+p596
+tp597
+a(V GEORGE 
+p598
+V No, she's working.  
+p599
+tp600
+a(V RITA 
+p601
+V What does she do?  
+p602
+tp603
+a(V GEORGE 
+p604
+V She's an.. entymologist - you know, bees, flies, gnats. What about you?    
+p605
+tp606
+a(V RITA 
+p607
+V I work for the Director of Madison Square Garden. It's great! I can get free tickets to any sporting even in New York. (George is stunned) Anyway, she's a    very luck woman.  
+p608
+tp609
+a(V GEORGE 
+p610
+V But.. (She leaves, George is standing there)    (Scene cuts to an entering man and woman)  
+p611
+tp612
+a(V ROXANNE 
+p613
+V Hi Stan. Joanne.  
+p614
+tp615
+a(V ELAINE 
+p616
+V Jerry, this is Joanne, and this is Stan. They're in my short story class with Roxanne and me. Hey, Jerry just got me a great apartment in his building!    
+p617
+tp618
+a(V JOANNE 
+p619
+V Well, Jerry, it'll be nice having a close friend nearby?   
+p620
+tp621
+a(V JERRY 
+p622
+V Fantastic..  
+p623
+tp624
+a(V STAN 
+p625
+V She can pop in whenever she wants.    
+p626
+tp627
+a(V JERRY 
+p628
+V I know.  
+p629
+tp630
+a(V JOANNE 
+p631
+V She doesn't even need to knock!  
+p632
+tp633
+a(V JERRY 
+p634
+V It's tremendous.  
+p635
+tp636
+a(V STAN 
+p637
+V Anytime of day.  
+p638
+tp639
+a(V JERRY 
+p640
+V I'm in heaven.  
+p641
+tp642
+a(V ELAINE 
+p643
+V Oh, Rita come here. This is Jerry. He's the one who got me the apartment.    
+p644
+tp645
+a(V RITA 
+p646
+V Oh, Hi. (Calling to someone) bob, this is the guy who got Elaine the apartment.     (Scene cuts to George)  
+p647
+tp648
+a(V GEORGE 
+p649
+V I'm sorry, I don't see the big deal about being a matador. The bull charges, you move the cape, wha't so hard? (The both laugh flirtingly)   
+p650
+tp651
+a(V SUSIE 
+p652
+V So, are you really married? Because, I've actually heard of single guys who wear wedding bands to attrack women.    
+p653
+tp654
+a(V GEORGE 
+p655
+V You'd have to be a real loser to try something like that.   
+p656
+tp657
+a(V SUSIE 
+p658
+V That's too bad, because I really have a thing for bald guys with glasses. (Shrugs, smiles, then leaves George)    
+p659
+tp660
+a(V RITA 
+p661
+V Hey everybody! Here come the runners!     (Everyone runs to the windows. Jerry and Elaine stay put)  
+p662
+tp663
+a(V ELAINE 
+p664
+V So you and Roxanne are hitting it off, huh?   
+p665
+tp666
+a(V JERRY 
+p667
+V Oh, I wouldn't quite say that.  
+p668
+tp669
+a(V ELAINE 
+p670
+V Really? From a distance, you seemed to be coming on to her.   
+p671
+tp672
+a(V JERRY 
+p673
+V I'm a guy.. it always looks like that.    
+p674
+tp675
+a(V ELAINE 
+p676
+V Because, I was thinking.. are you at all concerned that living in the same building will, y'kno.. cramp our styles?    
+p677
+tp678
+a(V JERRY 
+p679
+V Na..  
+p680
+tp681
+a(V ELAINE 
+p682
+V Because, I was worried that there might be a situation in which one of us come home with somebody, it could get a little uncomfortable. But - as long as    you're okay with it, it's fine with me.   (Scene cuts to George)  
+p683
+tp684
+a(V JANICE 
+p685
+V I've never been able to be with just one person. I can, however, carry on strictly physical relationships which can last for years and years. It's a shame    you're married..  
+p686
+tp687
+a(V GEORGE 
+p688
+V (Frantically tries to take the ring off) I'm not. It's just a sociological experiment!   
+p689
+tp690
+a(V JANICE 
+p691
+V Please.. (Walks away)   (Jerry walks over to George)  
+p692
+tp693
+a(V JERRY 
+p694
+V You have no idea what an idiot it. Elaine just gave me a chance to get out and I didn't take it. (Points to himself) This is an idiot.   
+p695
+tp696
+a(V GEORGE 
+p697
+V Is that right? (Showing him up) I just threw away a lifetime of guilt-free sex and floor seats for ever sporting event in Madison Square Garden. So please,     a little respect. For I am Costanza. Lord of the Idiots!  
+p698
+tp699
+a(V ROXANNE 
+p700
+V (Yelling out the window) You're all winners!   
+p701
+tp702
+a(V GEORGE 
+p703
+V But suddenly, a new contender has emerged..     (Scene ends)   (Jerry's apartment)  
+p704
+tp705
+a(V JERRY 
+p706
+V (Into the phone) George, I didn't sleep at all last night.. I decided I have to tell her.. I'm just going to be honest. That's all.. Yes, I'm nervous.. Are you    listening to me? Just put some soap on your finger.. it'll slide right off.. Then try axle grease. (Kramer enters) I'll call you back after I talk to her. Bye.   
+p707
+tp708
+a(V KRAMER 
+p709
+V Well, it's all taken care of. Everything's cool.   
+p710
+tp711
+a(V JERRY 
+p712
+V What? What's cool?  
+p713
+tp714
+a(V KRAMER 
+p715
+V Elaine.  
+p716
+tp717
+a(V JERRY 
+p718
+V What are you talking about?  
+p719
+tp720
+a(V KRAMER 
+p721
+V I just found a guy who's willing to pay ten thousand dollars for the apartment.    
+p722
+tp723
+a(V JERRY 
+p724
+V You what?! Get out! Ten thousand?  
+p725
+tp726
+a(V KRAMER 
+p727
+V (Nods) Cash.  
+p728
+tp729
+a(V JERRY 
+p730
+V Who would pay that much?  
+p731
+tp732
+a(V KRAMER 
+p733
+V He's in the music business.  
+p734
+tp735
+a(V JERRY 
+p736
+V Elaine would never borrow that much money! (Hugs Kramer, then grabs him by the cheeks) Kramer, my God, man! This is beautiful! I think I'm in the clear    here. Elaine's not moving in! I don't have to confront her! She has no idea I never wanted her to move in.. I"m golden!   
+p737
+tp738
+a(V KRAMER 
+p739
+V Well, occasionally, I like to help the humans.    (Scene ends)   (Jerry's apartment)   (Harold and Manny are in Jerry's apartment. A pulsing music is coming through the walls)   
+p740
+tp741
+a(V ELAINE 
+p742
+V Wow. You're right. That is loud.  
+p743
+tp744
+a(V JERRY 
+p745
+V It's just unbelievable.  
+p746
+tp747
+a(V ELAINE 
+p748
+V They rehearse all the time?  
+p749
+tp750
+a(V JERRY 
+p751
+V All the time. I've been up there six times. They refuse to stop. I can't live like this. I don't know what I'm gonna do. I'm heading for breakdown! (To Harold)    Can't you do something?  
+p752
+tp753
+a(V HAROLD 
+p754
+V I'm not going up. It stinks up there.    
+p755
+tp756
+a(V JERRY 
+p757
+V Manny..  
+p758
+tp759
+a(V MANNY 
+p760
+V (In Spanish) They're allowed to play until eleven o' clock.   
+p761
+tp762
+a(V HAROLD 
+p763
+V I'm not the one who said eleven o' clock. He makes up his own rules.   
+p764
+tp765
+a(V ELAINE 
+p766
+V Boy, too bad. If I was up there, you'd never hear a peep out of me. I'm as quiet as a mouse.    (Kramer enters)  
+p767
+tp768
+a(V KRAMER 
+p769
+V (Talking about the music) Oh, I love the one they do right after this one!     (Scene ends)   (Night club)  
+p770
+tp771
+a.

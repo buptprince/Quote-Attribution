@@ -1,0 +1,1402 @@
+(lp0
+(V JERRY 
+p1
+V  THE RED DOT  Written by Larry David     (Comedy club)   I'm sorry it's gotta be a little bit of a scary place to work. I don't know how you feel about it. You want to be standing there having people comming in all day going "I need knives. I need more knives. Do you have any bigger knives? I'd like a bigger knife, a big, long, sharp knife, that's what I'm in the market for. I like them really sharp. Do you have one with hooks and gouges like blades and kind of serrated? That's the kind of knife I'm looking for. I need one I can throw. I need another one I can just hack away with. Do you have anything like that?    (Commercial)   At a party  
+p2
+tp3
+a(V JERRY 
+p4
+V Oh yeah, like you know what you're talking about.   
+p5
+tp6
+a(V GEORGE 
+p7
+V Like you do.  
+p8
+tp9
+a(V JERRY 
+p10
+V Well what do you think? They put the statue on a giant raft and a tugboat pulled it all the way from France?    
+p11
+tp12
+a(V GEORGE 
+p13
+V What do you think? The brought it over in pieces and screwed it together like a coffee table?   
+p14
+tp15
+a(V JERRY 
+p16
+V I don't know. It's too early for a Christmas party isn't it?   
+p17
+tp18
+a(V GEORGE 
+p19
+V Why did France give that to us anyway?    
+p20
+tp21
+a(V JERRY 
+p22
+V It was a gift.  
+p23
+tp24
+a(V GEORGE 
+p25
+V So countries just exchange gifts like that?   
+p26
+tp27
+a(V JERRY 
+p28
+V If they like each other.  
+p29
+tp30
+a(V GEORGE 
+p31
+V There's Elaine.  
+p32
+tp33
+a(V JERRY 
+p34
+V See that guy he's talking with? That's her new boyfriend.   
+p35
+tp36
+a(V GEORGE 
+p37
+V Really? They work here in the office?    
+p38
+tp39
+a(V JERRY 
+p40
+V Yeah. They're having a little fling so don't say anything.   
+p41
+tp42
+a(V GEORGE 
+p43
+V Who am I going to tell? My mother? Like I've got nothing better to talk about.    
+p44
+tp45
+a(V JERRY 
+p46
+V You don't. He's a recovering alcoholic.    
+p47
+tp48
+a(V GEORGE 
+p49
+V Really?  
+p50
+tp51
+a(V JERRY 
+p52
+V Yeah. He's been off the wagon for two years.   
+p53
+tp54
+a(V GEORGE 
+p55
+V "Off the wagon"?  
+p56
+tp57
+a(V JERRY 
+p58
+V I think it's off the wagon.  
+p59
+tp60
+a(V GEORGE 
+p61
+V I think it's "on the wagon".  
+p62
+tp63
+a(V ELAINE 
+p64
+V Jerry, George, what are you doing here?    
+p65
+tp66
+a(V JERRY 
+p67
+V What am I doing here? Ba-boom (holding out a present)   
+p68
+tp69
+a(V ELAINE 
+p70
+V *gasp* My god! My watch! You found my watch! (pushing Jerry)   
+p71
+tp72
+a(V JERRY 
+p73
+V Hey keep your hands to yourself if you know what's good for you.   
+p74
+tp75
+a(V ELAINE 
+p76
+V Where did you find it?  
+p77
+tp78
+a(V JERRY 
+p79
+V Under the sofa cushion.  
+p80
+tp81
+a(V ELAINE 
+p82
+V And you stopped by just to give it to me?   
+p83
+tp84
+a(V JERRY 
+p85
+V It's your Christmas present.  
+p86
+tp87
+a(V ELAINE 
+p88
+V I though I'd never find it.  
+p89
+tp90
+a(V GEORGE 
+p91
+V Well today's your lucky day.  
+p92
+tp93
+a(V ELAINE 
+p94
+V No. Today's *your* lucky day.  
+p95
+tp96
+a(V GEORGE 
+p97
+V It will be my first one.  
+p98
+tp99
+a(V ELAINE 
+p100
+V You want to work here?  
+p101
+tp102
+a(V GEORGE 
+p103
+V Huh?  
+p104
+tp105
+a(V ELAINE 
+p106
+V Yeah one of the readers left and there's a job opening. Dick, this is Jerry and this is George.   
+p107
+tp108
+a(V DICK 
+p109
+V Hi nice to meet you. Is this the guy?    
+p110
+tp111
+a(V JERRY 
+p112
+V "The guy?"  
+p113
+tp114
+a(V ELAINE 
+p115
+V (softly to Dick) Dick.  
+p116
+tp117
+a(V GEORGE 
+p118
+V How can you just get it?  
+p119
+tp120
+a(V ELAINE 
+p121
+V My boss told me to find someone. I'm in charge of it. All you have to do is meet him. Come on. Come on, come on, here hold my drink.   
+p122
+tp123
+a(V JERRY 
+p124
+V Cranberry juice?  
+p125
+tp126
+a(V ELAINE 
+p127
+V And vodka.  
+p128
+tp129
+a(V DICK 
+p130
+V I got the cranberry juice.  
+p131
+tp132
+a(V DICK 
+p133
+V So... you're Jerry.  
+p134
+tp135
+a(V JERRY 
+p136
+V So... I'm Jerry. (he puts down the drink)    
+p137
+tp138
+a(V BOSS 
+p139
+V So have you ever done this kind of work before?   
+p140
+tp141
+a(V GEORGE 
+p142
+V Well, you know, book reports. That kind of stuff.   
+p143
+tp144
+a(V BOSS 
+p145
+V How do you read?  
+p146
+tp147
+a(V GEORGE 
+p148
+V I like Mike Lubika.  
+p149
+tp150
+a(V BOSS 
+p151
+V Mike Lubika?  
+p152
+tp153
+a(V GEORGE 
+p154
+V He's a sports writer for the daily news. I find him very insightful...   
+p155
+tp156
+a(V BOSS 
+p157
+V No, no, no. I mean authors.  
+p158
+tp159
+a(V GEORGE 
+p160
+V Lot of good ones. I don't even want to mention anyone because I'm afraid I'm going to leave somebody out.   
+p161
+tp162
+a(V BOSS 
+p163
+V Name a couple.  
+p164
+tp165
+a(V GEORGE 
+p166
+V Who do I like? I, like, uh, Art, Vandelay.    
+p167
+tp168
+a(V BOSS 
+p169
+V Art Vandelay?  
+p170
+tp171
+a(V GEORGE 
+p172
+V He's an obscure writer. Betnik, on the village.   
+p173
+tp174
+a(V BOSS 
+p175
+V What has he written?  
+p176
+tp177
+a(V GEORGE 
+p178
+V Venetian Blinds.  
+p179
+tp180
+a(V DICK 
+p181
+V (picking up the drink) I've got new for you. I'm funnier than you are.    
+p182
+tp183
+a(V JERRY 
+p184
+V Why don't get we together New Years day and watch some football.   
+p185
+tp186
+a(V ELAINE 
+p187
+V Where's my drink?  
+p188
+tp189
+a(V JERRY 
+p190
+V There. (turns to George) So, how did it go?   
+p191
+tp192
+a(V GEORGE 
+p193
+V I think he was impressed.  
+p194
+tp195
+a(V ELAINE 
+p196
+V No, no, no, this is just cranberry juice.    
+p197
+tp198
+a(V JERRY 
+p199
+V Oh, uh, I think maybe Dick picked up yours.   
+p200
+tp201
+a(V ELAINE 
+p202
+V Dick? He can't drink. He's an alcoholic. I told you to hold it.   
+p203
+tp204
+a(V JERRY 
+p205
+V I didn't know you meant *hold* it, I thought you meant hold it.   
+p206
+tp207
+a(V ELAINE 
+p208
+V One drink like that and he could fall right off the wagon.   
+p209
+tp210
+a(V GEORGE 
+p211
+V Told you.   At a clothing store.  
+p212
+tp213
+a(V JERRY 
+p214
+V I never feel comfortable in the women's department. I feel like I'm just a *little* too close to trying on a dress.   
+p215
+tp216
+a(V GEORGE 
+p217
+V Do I really have to buy her something?    
+p218
+tp219
+a(V JERRY 
+p220
+V Hey the woman got you a job. The least you could do is buy her a gift. How about this?   
+p221
+tp222
+a(V GEORGE 
+p223
+V What is that? Is that cashmere?  
+p224
+tp225
+a(V JERRY 
+p226
+V Yeah. She would love cashmere.  
+p227
+tp228
+a(V GEORGE 
+p229
+V Who doesn't like cashmere? Find me one person in the world that doesn't like cashmere. It's too expensive.   
+p230
+tp231
+a(V JERRY 
+p232
+V Look at this. It's 85 dollars marked down from 600.   
+p233
+tp234
+a(V GEORGE 
+p235
+V Wow. Excuse me, Miss?  
+p236
+tp237
+a(V WOMAN 
+p238
+V Yes?  
+p239
+tp240
+a(V GEORGE 
+p241
+V How come this sweater is only 85 dollars?    
+p242
+tp243
+a(V WOMAN 
+p244
+V (showing the dot) Oh, here. This is why.   
+p245
+tp246
+a(V GEORGE 
+p247
+V What? I don't see anything.  
+p248
+tp249
+a(V WOMAN 
+p250
+V See this red dot?  
+p251
+tp252
+a(V GEORGE 
+p253
+V Oh yeah.  
+p254
+tp255
+a(V JERRY 
+p256
+V Oh it's damaged. (grabbing the sweater)    
+p257
+tp258
+a(V GEORGE 
+p259
+V (grabbing the sweater back) Well it's not really damaged. 85 dollars huh?    
+p260
+tp261
+a(V WOMAN 
+p262
+V There's no exchanges on this.  
+p263
+tp264
+a(V GEORGE 
+p265
+V You think she would care about the red dot?   
+p266
+tp267
+a(V JERRY 
+p268
+V It's hard to say.  
+p269
+tp270
+a(V GEORGE 
+p271
+V I don't even think she'd notice it. Can you see it?   
+p272
+tp273
+a(V JERRY 
+p274
+V Well I can see it.  
+p275
+tp276
+a(V GEORGE 
+p277
+V Yeah, but you know where it is.  
+p278
+tp279
+a(V JERRY 
+p280
+V Well what do you want me to do? Not look at it?   
+p281
+tp282
+a(V GEORGE 
+p283
+V Pretend you didn't know it was there. Can you see it?   
+p284
+tp285
+a(V JERRY 
+p286
+V It's hard to pretend because I know where it is.   
+p287
+tp288
+a(V GEORGE 
+p289
+V Well just take an overview. Can't you just take an overview?   
+p290
+tp291
+a(V JERRY 
+p292
+V You want me to take an overview?  
+p293
+tp294
+a(V GEORGE 
+p295
+V Please.  
+p296
+tp297
+a(V JERRY 
+p298
+V I see a very cheap man holding a sweater trying to get away with something. That's my overview.    At Jerry's apartment.  
+p299
+tp300
+a(V JERRY 
+p301
+V Yeah so?  
+p302
+tp303
+a(V ELAINE 
+p304
+V He's acting very strangely. I think he started drinking again.   
+p305
+tp306
+a(V JERRY 
+p307
+V Oh boy, can you smell it?  
+p308
+tp309
+a(V ELAINE 
+p310
+V No. I can't smell it.  
+p311
+tp312
+a(V JERRY 
+p313
+V Well if you can't smell it then he hasn't been drinking.   
+p314
+tp315
+a(V ELAINE 
+p316
+V You don't always smell someone from a drink.   
+p317
+tp318
+a(V JERRY 
+p319
+V Yes you do.  
+p320
+tp321
+a(V ELAINE 
+p322
+V What about one drink? Would you smell it from one drink?   
+p323
+tp324
+a(V JERRY 
+p325
+V Yes you would.   Kramer enters  
+p326
+tp327
+a(V JERRY 
+p328
+V I'll prove it. Would you do me a favor?    
+p329
+tp330
+a(V KRAMER 
+p331
+V Okay.  
+p332
+tp333
+a(V JERRY 
+p334
+V Would you take a drink and let us smell you?   
+p335
+tp336
+a(V KRAMER 
+p337
+V You can smell me without the drink.    
+p338
+tp339
+a(V ELAINE 
+p340
+V I suspect that this guy I'm seeing might be drinking but I can't smell it.    
+p341
+tp342
+a(V KRAMER 
+p343
+V Okay, well what am I drinking? What do you got?   
+p344
+tp345
+a(V JERRY 
+p346
+V I got a bottle of scotch my uncle gave me. It's Hennigans. It's been here for two years. I've been using it as a paint thinner.    Kramer drinks.  
+p347
+tp348
+a(V KRAMER 
+p349
+V All right.   Elaine and Jerry lean up really close to him.  
+p350
+tp351
+a(V JERRY 
+p352
+V I don't smell anything.  
+p353
+tp354
+a(V ELAINE 
+p355
+V Maybe we're too close to the bottle.     Jerry's buzzer buzzes.  
+p356
+tp357
+a(V JERRY 
+p358
+V Yeah.  
+p359
+tp360
+a(V GEORGE 
+p361
+V (over the speaker) It's George.  
+p362
+tp363
+a(V JERRY 
+p364
+V Come on up.  
+p365
+tp366
+a(V KRAMER 
+p367
+V That is *damn* good scotch. I could do a commercial for this stuff. Mmmmm, boy that Hennigans goes down smooth. And afterwords you don't even smell. That's right folks. I just had three shots of Hennigans and I don't smell. Imagine, you can walk around drunk all day. That's Hennigans, the no-smell, no-tell scotch.   
+p368
+tp369
+a(V GEORGE 
+p370
+V Hello everybody.  
+p371
+tp372
+a(V KRAMER 
+p373
+V Hey. (snuggling really close to George) I'm going to tell you what I think. I know you don't care what I think, but I'm going to tell you. I think that you are terrific.   
+p374
+tp375
+a(V GEORGE 
+p376
+V (uncomfortablly) Thank you.  
+p377
+tp378
+a(V ELAINE 
+p379
+V Hey what's that?  
+p380
+tp381
+a(V GEORGE 
+p382
+V It's an early Christmas present.  
+p383
+tp384
+a(V ELAINE 
+p385
+V Christmas present? For who?  
+p386
+tp387
+a(V GEORGE 
+p388
+V For you.  
+p389
+tp390
+a(V ELAINE 
+p391
+V *gasp* (pushing George) Get out of here.    
+p392
+tp393
+a(V KRAMER 
+p394
+V Say you got a big job interview, and you're a little nervous. Well throw back a couple shots of Hennigans and you'll be as loose as a goose and ready to roll in no time. And because it's odorless, why, it will be our little secret. (singing) h-e-double n...    
+p395
+tp396
+a(V JERRY 
+p397
+V Kramer. Yeah that'll do.  
+p398
+tp399
+a(V ELAINE 
+p400
+V (opening the present) Oh George, this is beautiful. Is this cashmere?   
+p401
+tp402
+a(V GEORGE 
+p403
+V Of course it's cashmere.  
+p404
+tp405
+a(V ELAINE 
+p406
+V Oh, I love cashmere.  
+p407
+tp408
+a(V GEORGE 
+p409
+V Well who doesn't.  
+p410
+tp411
+a(V ELAINE 
+p412
+V My, George this must have cost a fortune.    
+p413
+tp414
+a(V GEORGE 
+p415
+V Ahh, money.  
+p416
+tp417
+a(V ELAINE 
+p418
+V Jerry, how could you let him spend so much money?   
+p419
+tp420
+a(V JERRY 
+p421
+V I tried to stop him. I couldn't. He just wants to make people happy.   
+p422
+tp423
+a(V ELAINE 
+p424
+V George, this is one of the nicest things anyone has ever given me.   
+p425
+tp426
+a(V GEORGE 
+p427
+V Well good, good. Take it off you're going to wear it out already. It's for special occasions this thing.   
+p428
+tp429
+a(V KRAMER 
+p430
+V What's that red dot on your sweater?    
+p431
+tp432
+a(V ELAINE 
+p433
+V What?  
+p434
+tp435
+a(V GEORGE 
+p436
+V Just take it off. I'm getting hot just looking at it.   
+p437
+tp438
+a(V ELAINE 
+p439
+V Uhh. This. It's like a red dot.  
+p440
+tp441
+a(V GEORGE 
+p442
+V What red dot? What are you talking about? Jerry come here for a second. Do you see anything here?   
+p443
+tp444
+a(V JERRY 
+p445
+V (uncomfortable) Uh, I don't know. Uh, I don't know.   
+p446
+tp447
+a(V ELAINE 
+p448
+V What don't you know?  
+p449
+tp450
+a(V JERRY 
+p451
+V I don't know.  
+p452
+tp453
+a(V ELAINE 
+p454
+V Well do you see it or don't you?  
+p455
+tp456
+a(V JERRY 
+p457
+V Ahem. Say that again?  
+p458
+tp459
+a(V ELAINE 
+p460
+V Do you see it or don't you?  
+p461
+tp462
+a(V JERRY 
+p463
+V Do I see it... or don't I? That's the question.    Jerry goes to the counter and pours some scotch. He drinks it. He comes back groggy.   
+p464
+tp465
+a(V JERRY 
+p466
+V Now what did you ask me again.   Kramer is snoring.   (Commercial)   (Whew, Jerry is saved by the bell.)   At the office. Elaine is walking by.  
+p467
+tp468
+a(V ELAINE 
+p469
+V You're still here. You're a dynamo.    
+p470
+tp471
+a(V GEORGE 
+p472
+V I can't believe I get paid for this.    
+p473
+tp474
+a(V ELAINE 
+p475
+V I'll see you tomorrow.   Elaine walks out. George gets back to work. The cleaning lady comes by.   
+p476
+tp477
+a(V GEORGE 
+p478
+V How you doing?   CLEANING LADY  Hello.   The lady starts cleaning. George has a thought. He watches the lady as she is cleaning.    At Monk's.  
+p479
+tp480
+a(V JERRY 
+p481
+V You had sex with the cleaning woman on your desk? Who are you, how did you do that?   
+p482
+tp483
+a(V GEORGE 
+p484
+V Hennigans. I was there sitting in the office and the cleaning woman comes in. I've always been attracted to cleaning women. Cleaning women, chambermaids.    
+p485
+tp486
+a(V JERRY 
+p487
+V Yeah chambermaids, I'm attracted to them too.   
+p488
+tp489
+a(V GEORGE 
+p490
+V Why is that?  
+p491
+tp492
+a(V JERRY 
+p493
+V It's a woman in your room. So go ahead.    
+p494
+tp495
+a(V GEORGE 
+p496
+V So she starts vaccuming, back and forth, back and forth, her hips swivelling, her breasts, uh... (trying to think of a word)   
+p497
+tp498
+a(V JERRY 
+p499
+V Convulsing?  
+p500
+tp501
+a(V GEORGE 
+p502
+V Convulsing?  
+p503
+tp504
+a(V JERRY 
+p505
+V I don't know, I'm trying to help you.    
+p506
+tp507
+a(V GEORGE 
+p508
+V Then I asked her if she wanted a drink.    
+p509
+tp510
+a(V JERRY 
+p511
+V You don't drink.  
+p512
+tp513
+a(V GEORGE 
+p514
+V I know but I couldn't think of anything else to say to her.   
+p515
+tp516
+a(V JERRY 
+p517
+V So you started drinking.  
+p518
+tp519
+a(V GEORGE 
+p520
+V So we started drinking, and I'll tell you I don't know if it was the alcohol or the ammonia, but the next think I knew she was mopping the floor with me.   
+p521
+tp522
+a(V JERRY 
+p523
+V So how was it?  
+p524
+tp525
+a(V GEORGE 
+p526
+V Well the sex was okay, but I threw up from the Hennigans.   
+p527
+tp528
+a(V JERRY 
+p529
+V Good thing the cleaning lady was there.     At Jerry's apartment.  
+p530
+tp531
+a(V ELAINE 
+p532
+V Dick was fired.  
+p533
+tp534
+a(V JERRY 
+p535
+V You mean to tell me if I had put that drink six inches over to the right, and none of this would have happened.    
+p536
+tp537
+a(V ELAINE 
+p538
+V You knew he was an alcoholic. Why'd you put the drink down at all?   
+p539
+tp540
+a(V JERRY 
+p541
+V What are you saying?  
+p542
+tp543
+a(V ELAINE 
+p544
+V I'm not saying anything.  
+p545
+tp546
+a(V JERRY 
+p547
+V You're saying something.  
+p548
+tp549
+a(V ELAINE 
+p550
+V What could I be saying?  
+p551
+tp552
+a(V JERRY 
+p553
+V Well you're not saying nothing you must be saying something.   
+p554
+tp555
+a(V ELAINE 
+p556
+V If I was saying something I would have said it.   
+p557
+tp558
+a(V JERRY 
+p559
+V Well why don't you say it?  
+p560
+tp561
+a(V ELAINE 
+p562
+V I said it.  
+p563
+tp564
+a(V JERRY 
+p565
+V What did you say?  
+p566
+tp567
+a(V ELAINE 
+p568
+V Nothing. It's exhausting being with you.    Jerry's buzzer buzzes.  
+p569
+tp570
+a(V JERRY 
+p571
+V Yeah?  
+p572
+tp573
+a(V GEORGE 
+p574
+V (over the speaker) It's George.  
+p575
+tp576
+a(V JERRY 
+p577
+V Come on up.  
+p578
+tp579
+a(V ELAINE 
+p580
+V Hey, let me ask you something something. Did George buy that sweater knowing the red dot was on it because it was cheaper? (Jerry is unconfortable) Ooookay, you just gave me the answer.   
+p581
+tp582
+a(V JERRY 
+p583
+V No I didn't.  
+p584
+tp585
+a(V ELAINE 
+p586
+V Yes you did, yes you did. I saw your expression.   
+p587
+tp588
+a(V JERRY 
+p589
+V I didn't have an expression. I have a deviated septum. I have to open my mouth sometimes to breathe.   
+p590
+tp591
+a(V ELAINE 
+p592
+V How much did he save?  
+p593
+tp594
+a(V JERRY 
+p595
+V Frankly I am shocked that you would ask such a question (Elaine sticking out her tongue like she isn't buying a word of it) of me, that you would think - the only surprise is how you could even think of that. That's what you were seeing.    Elaine gets up and goes into the bathroom.  
+p596
+tp597
+a(V GEORGE 
+p598
+V I have to talk to Elaine. This cleaing lady is turning the screws on me. She's pushing for this whole relationship thing. She keeps calling me, threatening to go to the boss with this thing, I could lose my job, I gotta do something to keep her quiet.   
+p599
+tp600
+a(V JERRY 
+p601
+V Elaine is in the bathroom. She's wise to whole red dot thing. She's asking me all kinds of questions.   
+p602
+tp603
+a(V GEORGE 
+p604
+V Did you tell her anything?  
+p605
+tp606
+a(V JERRY 
+p607
+V No.  
+p608
+tp609
+a(V GEORGE 
+p610
+V Do you swear?  
+p611
+tp612
+a(V JERRY 
+p613
+V I'm not swearing. I don't want to swear.    
+p614
+tp615
+a(V GEORGE 
+p616
+V Oh you told her didn't you.  
+p617
+tp618
+a(V JERRY 
+p619
+V No.  
+p620
+tp621
+a(V ELAINE 
+p622
+V Hey George, did you buy that sweater knowing that red dot was on it because you could get it at a discount?   
+p623
+tp624
+a(V GEORGE 
+p625
+V What? Did I what?  
+p626
+tp627
+a(V ELAINE 
+p628
+V You did didn't you.  
+p629
+tp630
+a(V GEORGE 
+p631
+V Elaine, I'm, I'm shocked. I'm shocked. Here I go out in the spirit of the season (Elaine looking like she's not buying a word of it) and spend all my savings to buy you the most beautiful Christmas sweater I have ever seen to show my appreciation to you at Christmas and this is the thanks that I get at Christmas.    
+p632
+tp633
+a(V ELAINE 
+p634
+V Well Jerry told me that you did.  
+p635
+tp636
+a(V GEORGE 
+p637
+V You told her? How could you tell her? I told you not to say anything.   
+p638
+tp639
+a(V JERRY 
+p640
+V I didn't tell her you stupid idiot. She tricked you.   
+p641
+tp642
+a(V GEORGE 
+p643
+V Elaine you don't understand. I had 103 temperature when I bought that sweater. I was so dizzy I was seeing red dots everywhere. I thought everything in the store had a red dot on it. I couldn't distinguish one red dot from another. I couldn't afford anything. I have nothing. I haven't worked for a really long time. (Jerry is standing right behind George. Jerry takes out a hankerchief and starts fake-crying in it.) I mean look, I have no clothes, look at what I'm wearing. It's just a little red dot.    At the office.  
+p644
+tp645
+a(V GEORGE 
+p646
+V This is for you.  
+p647
+tp648
+a(V LADY 
+p649
+V Oh, Georgie, you bought this for me? Oh I knew you cared for me.   
+p650
+tp651
+a(V GEORGE 
+p652
+V As you care for me. Which is why it is very important that you never breathe a word of this to anyone about the... you know. What, with Clarence Thomas and everything.   
+p653
+tp654
+a(V LADY 
+p655
+V Okay, okay, can I open it now?  
+p656
+tp657
+a(V GEORGE 
+p658
+V Yes of course go ahead. My guess is you're going to like this very much.    
+p659
+tp660
+a(V LADY 
+p661
+V Oh! Is that cashmere?  
+p662
+tp663
+a(V GEORGE 
+p664
+V Of course it's cashemere.  
+p665
+tp666
+a(V LADY 
+p667
+V A cashmere sweater. Oh Georgie Porgie!    
+p668
+tp669
+a(V GEORGE 
+p670
+V Just a little something for Christmas.    
+p671
+tp672
+a(V LADY 
+p673
+V When I was a little girl in Panama, a rich American came to our town and he was wearing the softest most beautiful sweater. I said to him, "what do you call this most beautiful fabric?", and he said "they call it cashmere". I repeated the words "cashmere, cashmere". I asked if I could have it, and he said "No. Get away from me." Then he started walk away. But I grabbed onto his leg screaming for him to give me the sweater and he dragged me through the street. And then he kicked at me with the other foot and threw some change at me. Oh, but I didn't want the change Georgie. I wanted the cashmere.   
+p674
+tp675
+a(V GEORGE 
+p676
+V I had a feeling you would like it. No, don't try it on now, try it on later.    
+p677
+tp678
+a(V LADY 
+p679
+V Wow, look at this. It feels so beautiful.    
+p680
+tp681
+a(V GEORGE 
+p682
+V Take it off. You're going to ruin it.    
+p683
+tp684
+a(V LADY 
+p685
+V (noticing the dot) What's this?   At the comedy club.  
+p686
+tp687
+a(V JERRY 
+p688
+V I was in the men's room the other day and they had the hand blower, instead of the paper towels, you know this thing. I like the hand blower I have to say. It takes a little bit longer, but I feel when you're in a room with a revolting stench you want to spend as much time as you can.   
+p689
+tp690
+a(V DICK 
+p691
+V The only stench is comming from you.    
+p692
+tp693
+a(V AUDIENCE 
+p694
+V Oooooh.  
+p695
+tp696
+a(V JERRY 
+p697
+V Oh, wait a second, I believe we have a heckler ladies and gentlemen. Hey Dick I don't know what your problem is. It's not my fault you're back on the wagon.   
+p698
+tp699
+a(V DICK 
+p700
+V It's off the wagon.  
+p701
+tp702
+a(V JERRY 
+p703
+V In the old days how do you think they got the alcohol from town to town?    
+p704
+tp705
+a(V DICK 
+p706
+V I don't know.  
+p707
+tp708
+a(V JERRY 
+p709
+V On the wagon. Don't you think they broke into a couple of those bottles along the way?   
+p710
+tp711
+a(V DICK 
+p712
+V You can't drink on a wagon it would be too bumpy.   
+p713
+tp714
+a(V JERRY 
+p715
+V They had smooth trails. What about the Cumberland Gap?   
+p716
+tp717
+a(V DICK 
+p718
+V What the hell do you know about wagons?    
+p719
+tp720
+a(V JERRY 
+p721
+V I know enough not to get on them.   In the boss' office.  
+p722
+tp723
+a(V BOSS 
+p724
+V I'm going to get right to the point. It has come to my attention that you and the cleaning woman have engaged in sexual intercourse on the desk in your office. Is that correct?   
+p725
+tp726
+a(V GEORGE 
+p727
+V Who said that?  
+p728
+tp729
+a(V BOSS 
+p730
+V She did.  
+p731
+tp732
+a(V GEORGE 
+p733
+V Was that wrong? Should I have not done that? I tell you I gotta plead ingnorance on this thing because if anyone had said anything to me at all when I first started here that that sort of thing was frouned upon, you know, cause I've worked in a lot of offices and I tell you peope do that all the time.   
+p734
+tp735
+a(V BOSS 
+p736
+V You're fired.  
+p737
+tp738
+a(V GEORGE 
+p739
+V Well you didn't have to say it like that.   
+p740
+tp741
+a(V BOSS 
+p742
+V I want you out of here by the end of the day.   
+p743
+tp744
+a(V GEORGE 
+p745
+V What about the whole Christmas spirit thing? Any flexability there?   
+p746
+tp747
+a(V BOSS 
+p748
+V Nah. Wait, wait, she wanted me to give you this.    He tosses the sweater and it lands right on top of George's face. George walks out of the office "wearing" it.    In the hall of the office.  
+p749
+tp750
+a(V ELAINE 
+p751
+V You had sex on your desk with the cleaning woman.   
+p752
+tp753
+a(V GEORGE 
+p754
+V You never had sex in the office before?    
+p755
+tp756
+a(V ELAINE 
+p757
+V No. I once made out with someone but that was it.   
+p758
+tp759
+a(V GEORGE 
+p760
+V Alright so you made out with someone.    
+p761
+tp762
+a(V ELAINE 
+p763
+V Well that's not sex.  
+p764
+tp765
+a(V GEORGE 
+p766
+V Kissing is sex.  
+p767
+tp768
+a(V ELAINE 
+p769
+V Kissing is not sex.  
+p770
+tp771
+a(V JERRY 
+p772
+V George?  
+p773
+tp774
+a(V GEORGE 
+p775
+V Jerry.  
+p776
+tp777
+a(V ELAINE 
+p778
+V Hey, did Jerry leave that drink next to Dick's on purpose?   
+p779
+tp780
+a(V GEORGE 
+p781
+V No.  
+p782
+tp783
+a(V JERRY 
+p784
+V George?  
+p785
+tp786
+a(V GEORGE 
+p787
+V Over here.  
+p788
+tp789
+a(V ELAINE 
+p790
+V What are you doing here?  
+p791
+tp792
+a(V JERRY 
+p793
+V I'm taking the kid out to dinner to chear him up.   
+p794
+tp795
+a(V ELAINE 
+p796
+V Hey Jerry when do you consider that sex has taken place?   
+p797
+tp798
+a(V JERRY 
+p799
+V I would say when the nipple makes its first appearance.    (Commercial)  
+p800
+tp801
+a(V ELAINE 
+p802
+V So, George told me that you left the drink next to Dick's on purpose.   
+p803
+tp804
+a(V JERRY 
+p805
+V Nice try. So guess who heckled me at the club last night.    *crash*  
+p806
+tp807
+a(V DICK 
+p808
+V Merry Christmas.  
+p809
+tp810
+a(V ELAINE 
+p811
+V Oh my god that's Dick. It's Cape Fear.    
+p812
+tp813
+a(V GEORGE 
+p814
+V Hide, hide under the desk.  
+p815
+tp816
+a(V ELAINE 
+p817
+V Ow, ow move over.  
+p818
+tp819
+a(V JERRY 
+p820
+V Get off of me.  
+p821
+tp822
+a(V ELAINE 
+p823
+V I've got no room.   Dick walks over dragging behind him a Christmas tree. He looks down and notices them under the table. George holds out the sweater, his hand shaking.   
+p824
+tp825
+a(V DICK 
+p826
+V Is that cashmere?  
+p827
+tp828
+a(V GEORGE 
+p829
+V Of course it's cashmere.  
+p830
+tp831
+a(V DICK 
+p832
+V (noticing the dot) What's this?   At the comedy club.  
+p833
+tp834
+a(V JERRY 
+p835
+V But in a way, I think I inadvertantly turned this guy into an alcoholic. I hate being around alcoholics because they're either telling you how much they love you or how much they hate you. And those are the two statements that scare me the most. But I think he's okay now because I have no idea how he feels about me. He's finally off the wagon.   
+p836
+tp837
+a(V DICK 
+p838
+V You mean on the wagon.  
+p839
+tp840
+a.

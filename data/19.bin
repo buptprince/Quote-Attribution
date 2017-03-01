@@ -1,0 +1,1872 @@
+(lp0
+(V JERRY 
+p1
+V  THE PEN  Written by Larry David     (Night club)   I have never seen an old person in a new bathing suit in my life. I don't know where they get their bathing suits, but my father has bathing suits from other centuries. My parents live in Florida, and if you go down there and you forget your bathing suits then they want you to wear one of theirs. You know how that gets? "You need trunks son? I've got trunks for you. You can wear my trunks." Fathers don't wear bathing suits, they wear trunks. It's kind of the same thing a tree would wear if it went swimming. So I get in the water with in thing and it's like floating around me somewhere. Did you ever put on a bathing suit that you don't even know exactly where you are inside the bathing suit? You bump into somebody you know: "No I'm parasailing, I'm waiting for the boat to come back."         (Florida, evening, condo of Jerry's parents)  
+p2
+tp3
+a(V HELEN 
+p4
+V (looking by the window) They were supposed to be here at 7:30. Call the airlines again.   
+p5
+tp6
+a(V MORTY 
+p7
+V (searching in a kitchen drawer) What happened to the scotch tape? Who takes the scotch tape? Nobody returns anything around here.   
+p8
+tp9
+a(V HELEN 
+p10
+V Oh I think that's them!  
+p11
+tp12
+a(V MORTY 
+p13
+V You what I'll do next time? I'll hide it so nobody can find it.    (Jerry and Elaine enter)  
+p14
+tp15
+a(V ALL 
+p16
+V Hi, welcome, greetings, hugs, etc.    
+p17
+tp18
+a(V MORTY 
+p19
+V Welcome to Florida!  
+p20
+tp21
+a(V ELAINE 
+p22
+V Hi Mr. Seinfeld! (hug)  
+p23
+tp24
+a(V JERRY 
+p25
+V Hey, there's the old man! (hug)  
+p26
+tp27
+a(V MORTY 
+p28
+V So, what took you so long?  
+p29
+tp30
+a(V JERRY 
+p31
+V We waited 35 minutes in the rent-a-car place.   
+p32
+tp33
+a(V HELEN 
+p34
+V I don't know why you had to rent a car. We would have picked you up.   
+p35
+tp36
+a(V JERRY 
+p37
+V What's the difference?  
+p38
+tp39
+a(V HELEN 
+p40
+V You could have used our car.  
+p41
+tp42
+a(V JERRY 
+p43
+V I don't wanna use your car.  
+p44
+tp45
+a(V HELEN 
+p46
+V What's wrong with our car?  
+p47
+tp48
+a(V JERRY 
+p49
+V Nothing. It's a fine car. What if you wanna use it?   
+p50
+tp51
+a(V HELEN 
+p52
+V We don't use it.  
+p53
+tp54
+a(V MORTY 
+p55
+V What are you talking? We use it.  
+p56
+tp57
+a(V HELEN 
+p58
+V If you were using it, we wouldn't use it.   
+p59
+tp60
+a(V JERRY 
+p61
+V So what would you do? You'd hitch?    
+p62
+tp63
+a(V HELEN 
+p64
+V How much is a rent-a-car?  
+p65
+tp66
+a(V JERRY 
+p67
+V I don't know. 25 bucks a day.  
+p68
+tp69
+a(V HELEN 
+p70
+V What? You're crazy.  
+p71
+tp72
+a(V MORTY 
+p73
+V Plus the insurance.  
+p74
+tp75
+a(V JERRY 
+p76
+V Oh, I didn't get the insurance.  
+p77
+tp78
+a(V MORTY 
+p79
+V How could you not get the insurance?    
+p80
+tp81
+a(V HELEN 
+p82
+V We'll pay for the car.  
+p83
+tp84
+a(V JERRY 
+p85
+V You're not paying for it.  
+p86
+tp87
+a(V HELEN 
+p88
+V Morty. (asking him to back her. He doesn't)    
+p89
+tp90
+a(V JERRY 
+p91
+V God it's so hot in here. Why don't you put on the air conditioning?   
+p92
+tp93
+a(V HELEN 
+p94
+V You don't need the air conditioner. So, you have your speech all ready?    
+p95
+tp96
+a(V JERRY 
+p97
+V It's not a speech. Do I have to make a speech?   
+p98
+tp99
+a(V HELEN 
+p100
+V Of course, they're giving a testimonial for your father. You could do your comic routines.   
+p101
+tp102
+a(V JERRY 
+p103
+V (ironically) Oh yeah, that will go over real well with that crowd.   
+p104
+tp105
+a(V ELAINE 
+p106
+V (looking by the window) Ooh, you have a lake?   
+p107
+tp108
+a(V JERRY 
+p109
+V The lake isn't real.  
+p110
+tp111
+a(V HELEN 
+p112
+V The lake is real.  
+p113
+tp114
+a(V MORTY 
+p115
+V Are you kidding? They built the lake.    
+p116
+tp117
+a(V HELEN 
+p118
+V But it's real. It's water.   (Jerry and Elaine take their luggages to the guest room)  
+p119
+tp120
+a(V HELEN 
+p121
+V Where are you going with those?  
+p122
+tp123
+a(V JERRY 
+p124
+V I'm gonna put Elaine's stuff in here.    
+p125
+tp126
+a(V HELEN 
+p127
+V Don't sleep in there. You can you use the bedroom.   
+p128
+tp129
+a(V ELAINE 
+p130
+V I can't take your bedroom.  
+p131
+tp132
+a(V HELEN 
+p133
+V I'm up at 6 o'clock in the morning.    
+p134
+tp135
+a(V ELAINE 
+p136
+V I can't kick you out of your bed.  
+p137
+tp138
+a(V HELEN 
+p139
+V We don't even sleep.  
+p140
+tp141
+a(V JERRY 
+p142
+V Ma.  
+p143
+tp144
+a(V HELEN 
+p145
+V But this is sofa bed, you'll be uncomfortable.    
+p146
+tp147
+a(V JERRY 
+p148
+V (to Morty) What about you?  
+p149
+tp150
+a(V MORTY 
+p151
+V Why should I be comfortable?  
+p152
+tp153
+a(V JERRY 
+p154
+V (to Helen) What about him?  
+p155
+tp156
+a(V HELEN 
+p157
+V Don't worry, he's comfortable.  
+p158
+tp159
+a(V MORTY 
+p160
+V I'll sleep standing up. I'll be fine.    
+p161
+tp162
+a(V HELEN 
+p163
+V Will you stop?  
+p164
+tp165
+a(V ELAINE 
+p166
+V Yeah, I'll just stay in here. (goes in the guest room)   
+p167
+tp168
+a(V HELEN 
+p169
+V (asking Jerry to go in the kitchen so Elaine won't hear) Jerry. You don't have to stay on the couch on my account. The two of you could stay in there together.    
+p170
+tp171
+a(V JERRY 
+p172
+V No that's not such a good idea.  
+p173
+tp174
+a(V HELEN 
+p175
+V Well I tought that...  
+p176
+tp177
+a(V JERRY 
+p178
+V Not now. She's right inside.  
+p179
+tp180
+a(V HELEN 
+p181
+V (quieter) What happened?  
+p182
+tp183
+a(V JERRY 
+p184
+V I don't know. We decided we don't really work as a couple.   
+p185
+tp186
+a(V HELEN 
+p187
+V What does that mean?  
+p188
+tp189
+a(V JERRY 
+p190
+V Well...  
+p191
+tp192
+a(V MORTY 
+p193
+V (comes to the kitchen and with a loud voice) Why are you whispering?   
+p194
+tp195
+a(V JERRY 
+p196
+V Shh! Nothing, nothing.  
+p197
+tp198
+a(V HELEN 
+p199
+V Elaine...  
+p200
+tp201
+a(V MORTY 
+p202
+V (still loud) What about her?  
+p203
+tp204
+a(V JERRY 
+p205
+V (tries to explain to Morty but Elaine then comes out of the guest room to get more luggages, so he fakes a conversation) ...but you know, look at the sun-dried tomatoes. Where were they five years ago? It just goes to show you. You never know what... huh (waiting for Elaine to go back in the guest room) you know... huh... What could happen to a vegetable. It could just take right off at any time. (Morty finally gets it. So Jerry goes on quieter) We've tried all kind of arrangments, but we can't seem to be friend when we sleep together.    
+p206
+tp207
+a(V MORTY 
+p208
+V (Morty goes on louder! Did he ever whisper in any episode? :-) Why do you need more friends? You've got plenty of friends.    
+p209
+tp210
+a(V HELEN 
+p211
+V He's an idealist.  
+p212
+tp213
+a(V MORTY 
+p214
+V What the hell are you looking for?    
+p215
+tp216
+a(V JERRY 
+p217
+V I'm looking. That's the point. I like looking.   
+p218
+tp219
+a(V HELEN 
+p220
+V He likes looking.  
+p221
+tp222
+a(V MORTY 
+p223
+V So look.  
+p224
+tp225
+a(V HELEN 
+p226
+V But how long can you look?  
+p227
+tp228
+a(V JERRY 
+p229
+V I'm going for the record.   (Morty walks away with a face like he disagrees with Jerry)    
+p230
+tp231
+a(V HELEN 
+p232
+V You know your father wouldn't say so but he's really glad you came.   
+p233
+tp234
+a(V JERRY 
+p235
+V Oh, come on.  
+p236
+tp237
+a(V HELEN 
+p238
+V This is a big thing for him. Outgoing president of the condo association.      this is Jack and Doris, neigboors)    
+p239
+tp240
+a(V MORTY 
+p241
+V Aha!  
+p242
+tp243
+a(V DORIS 
+p244
+V So they arrived safely.  
+p245
+tp246
+a(V MORTY 
+p247
+V (to Jerry) You remember Jack and Doris?    
+p248
+tp249
+a(V JERRY 
+p250
+V Nice to meet you. This is Elaine.  
+p251
+tp252
+a(V ELAINE 
+p253
+V Hi. Nice to meet you.  
+p254
+tp255
+a(V JACK 
+p256
+V So Jerry, you came all the way down here for this?   
+p257
+tp258
+a(V ELAINE 
+p259
+V And scuba diving.  
+p260
+tp261
+a(V HELEN 
+p262
+V Scuba diving? Who's going scuba diving?    
+p263
+tp264
+a(V JERRY 
+p265
+V We're going scuba diving. We'll be back in time.   
+p266
+tp267
+a(V HELEN 
+p268
+V What do you have to go scuba diving for?   
+p269
+tp270
+a(V JERRY 
+p271
+V For fun.  
+p272
+tp273
+a(V HELEN 
+p274
+V For fun?  
+p275
+tp276
+a(V MORTY 
+p277
+V Jack have some spong cake.  
+p278
+tp279
+a(V JACK 
+p280
+V No. thanks, no.  
+p281
+tp282
+a(V MORTY 
+p283
+V Jack is emceeing tomorrow. He's in charge of the whole thing.   
+p284
+tp285
+a(V JACK 
+p286
+V So Jerry, your mother told me you're gonna do one your little comedy skit tommsorow?   
+p287
+tp288
+a(V JERRY 
+p289
+V I don't think so.  
+p290
+tp291
+a(V JACK 
+p292
+V No? Listen Morty you wanna settle up for last night? (Morty nods) All right. I owe you 19.45$ (he gets his checks book and a pen from his pocket).   
+p293
+tp294
+a(V MORTY 
+p295
+V What did you have? You had the minute steak?   
+p296
+tp297
+a(V JACK 
+p298
+V Yeah.  
+p299
+tp300
+a(V MORTY 
+p301
+V Did you have a coke or what?  
+p302
+tp303
+a(V JACK 
+p304
+V I did NOT have a coke.  
+p305
+tp306
+a(V MORTY 
+p307
+V Somebody had a coke.  
+p308
+tp309
+a(V HELEN 
+p310
+V Oh I had a coke.  
+p311
+tp312
+a(V DORIS 
+p313
+V And I had the scampi.  
+p314
+tp315
+a(V JACK 
+p316
+V So that's 17.10$ and the tax and the tip.   
+p317
+tp318
+a(V MORTY 
+p319
+V All right. Make it 20 bucks.  
+p320
+tp321
+a(V JACK 
+p322
+V It's: 19.45$, Morty. (he gives him the check)   
+p323
+tp324
+a(V MORTY 
+p325
+V 19.45$ ?   
+p326
+tp327
+a(V JACK 
+p328
+V See? You know your father. He can't get a write to the penny, but that's why he was such a good president.     (Jerry notices Klompus's pen)  
+p329
+tp330
+a(V JERRY 
+p331
+V What kind of pen is that?  
+p332
+tp333
+a(V JACK 
+p334
+V This pen?  
+p335
+tp336
+a(V JERRY 
+p337
+V Yeah.  
+p338
+tp339
+a(V JACK 
+p340
+V This is an astronaut pen. It writes upside down. They use this in space.    
+p341
+tp342
+a(V JERRY 
+p343
+V Wow! That's the astronaut pen. I heard about that. Where did you get it?    
+p344
+tp345
+a(V JACK 
+p346
+V Oh it was a gift.  
+p347
+tp348
+a(V JERRY 
+p349
+V Cause sometimes I write in bed and I have to turn and lean on my elbow to make the pen works.   
+p350
+tp351
+a(V JACK 
+p352
+V Take the pen.  
+p353
+tp354
+a(V JERRY 
+p355
+V Oh no.  
+p356
+tp357
+a(V JACK 
+p358
+V Go ahead.  
+p359
+tp360
+a(V JERRY 
+p361
+V I couldn't  
+p362
+tp363
+a(V JACK 
+p364
+V Come on, take the pen!  
+p365
+tp366
+a(V JERRY 
+p367
+V I can't take it.  
+p368
+tp369
+a(V JACK 
+p370
+V Do me a personal favor!  
+p371
+tp372
+a(V JERRY 
+p373
+V No, I'm not...  
+p374
+tp375
+a(V JACK 
+p376
+V Take the pen!  
+p377
+tp378
+a(V JERRY 
+p379
+V I cannot take it!  
+p380
+tp381
+a(V JACK 
+p382
+V Take the pen!  
+p383
+tp384
+a(V JERRY 
+p385
+V Are you sure?  
+p386
+tp387
+a(V JACK 
+p388
+V Positive! Take the pen!  
+p389
+tp390
+a(V JERRY 
+p391
+V O.K. Thank you very much. Thank you. Gee, boy!   
+p392
+tp393
+a(V HELEN 
+p394
+V Jack, what are you doing?  
+p395
+tp396
+a(V JACK 
+p397
+V Stop it!  
+p398
+tp399
+a(V DORIS 
+p400
+V Jack, we should go. (they go to the door) It was nice to meeting you.    
+p401
+tp402
+a(V ELAINE 
+p403
+V Mmm, nice to meet you.  
+p404
+tp405
+a(V JERRY 
+p406
+V Thanks again.  
+p407
+tp408
+a(V JACK 
+p409
+V Come on!  
+p410
+tp411
+a(V DORIS 
+p412
+V (to Morty) She's adorable. (they leave)    
+p413
+tp414
+a(V HELEN 
+p415
+V (as soon as the door's closed) What did you take his pen for?   
+p416
+tp417
+a(V JERRY 
+p418
+V What he gave it to me.  
+p419
+tp420
+a(V HELEN 
+p421
+V You didn't have to take it.  
+p422
+tp423
+a(V MORTY 
+p424
+V Oh my God! She's gotta make a big deal out of everything.   
+p425
+tp426
+a(V JERRY 
+p427
+V He offered it to me.  
+p428
+tp429
+a(V HELEN 
+p430
+V Because you made such a big fuss about it.   
+p431
+tp432
+a(V JERRY 
+p433
+V I liked it. Should I have said I didn't like it?   
+p434
+tp435
+a(V HELEN 
+p436
+V You shouldn't have said anything. What did you expect him to do? (the camera shows Elaine shaking her head at their dispute)   
+p437
+tp438
+a(V JERRY 
+p439
+V He could have said: "Thank you, I like it too" and put it back in his pocket.    
+p440
+tp441
+a(V HELEN 
+p442
+V He loves that pen.  
+p443
+tp444
+a(V MORTY 
+p445
+V Oh come on!  
+p446
+tp447
+a(V HELEN 
+p448
+V He talks about it all the time. Every time he takes it out he goes on and on about how it writes upside down, how the astronauts use it.   
+p449
+tp450
+a(V JERRY 
+p451
+V If he likes it so much, he never should have offered it.   
+p452
+tp453
+a(V HELEN 
+p454
+V He didn't think you'd accpet.  
+p455
+tp456
+a(V JERRY 
+p457
+V Well, he was wrong.  
+p458
+tp459
+a(V HELEN 
+p460
+V I know his wife. She has some mouth on her. She'll tell everyone in the condo now that you made him give you the pen. They're talking about it right now. (againe we see Elaine smiling at their argument)   
+p461
+tp462
+a(V JERRY 
+p463
+V So you want me to return it?  
+p464
+tp465
+a(V HELEN 
+p466
+V Yes.  
+p467
+tp468
+a(V MORTY 
+p469
+V He's not gonna return the pen. That's ridiculous.   
+p470
+tp471
+a(V JERRY 
+p472
+V Hey I don't even want the pen now!    
+p473
+tp474
+a(V MORTY 
+p475
+V Jack can afford to give away a pen with all his money. Believe me. He gives me a check for 19.45. He didn't have a Coke. Ho, ho, ho!   
+p476
+tp477
+a(V ELAINE 
+p478
+V Here, let me see it. (She takes a pad to try the pen) Hey, it wrtites upside down.    (scene ends)       (condo's guest room)   (Elaine is lying on the sofa bed. It's too hot. She can't fall asleep)    (knock on door)  
+p479
+tp480
+a(V ELAINE 
+p481
+V Come in.  
+p482
+tp483
+a(V JERRY 
+p484
+V Are you O.K. in here?  
+p485
+tp486
+a(V ELAINE 
+p487
+V Why is it so hot in here? How can they sleep like this?   
+p488
+tp489
+a(V JERRY 
+p490
+V It's only for three days. Today's over and we have tommorow. We leave on Sunday. It's one day, really.   
+p491
+tp492
+a(V ELAINE 
+p493
+V Oh man. What is with this bar? It's right in my back. It's killing me.    
+p494
+tp495
+a(V JERRY 
+p496
+V Oh you wanna switch? I'm sleeping on a love seat. I've got my feet up in the air like I'm in a space capsule.    
+p497
+tp498
+a(V ELAINE 
+p499
+V I am never gonna fall asleep.  
+p500
+tp501
+a(V JERRY 
+p502
+V Oh, don't say that. You'll jinx me.    
+p503
+tp504
+a(V ELAINE 
+p505
+V How can they not put the air conditioning on?   
+p506
+tp507
+a(V JERRY 
+p508
+V They're nuts with temperature.  
+p509
+tp510
+a(V ELAINE 
+p511
+V This bar is right in my back! It's making a dent.   
+p512
+tp513
+a(V JERRY 
+p514
+V How about that guy writing a check for  19.45?   
+p515
+tp516
+a(V ELAINE 
+p517
+V I'm sweating here. I'm in bed, sweating.    
+p518
+tp519
+a(V JERRY 
+p520
+V It's one day. Half a day, really. I mean you substract showers and meals, it's like twenty minutes. It will go by like that. (snapping his fingers)     (scene ends)       (condo, morning)   (Jerry and Morty are sitting at the table, Helen is at the counter. Elaine's still sleeping? Well, she's still in the guest room.)    
+p521
+tp522
+a(V MORTY 
+p523
+V Stay on 95 South to Biscayne Boulevard. Then you make a left turn. Put you blinker on immediatly, there's an abutment there. Then you're gonna merge over very quickly, but stay on Biscayne. Don't get off Biscayne. You understand me?   
+p524
+tp525
+a(V JERRY 
+p526
+V Stay on Biscayne.  
+p527
+tp528
+a(V HELEN 
+p529
+V You're going underwater?  
+p530
+tp531
+a(V JERRY 
+p532
+V Yes. Generally that's where scuba diving is done.   
+p533
+tp534
+a(V HELEN 
+p535
+V What do you have to go underwater for? What's down there that's so special?    
+p536
+tp537
+a(V JERRY 
+p538
+V What's so special up here?   (Elaine open the guest room's door and she's in pain)  
+p539
+tp540
+a(V ELAINE 
+p541
+V Oh!   (everybody get up and walk to her)  
+p542
+tp543
+a(V HELEN 
+p544
+V What's the matter?  
+p545
+tp546
+a(V ELAINE 
+p547
+V My back.  
+p548
+tp549
+a(V HELEN 
+p550
+V What happened?  
+p551
+tp552
+a(V ELAINE 
+p553
+V That... That bed. The bar was right in my back.   
+p554
+tp555
+a(V HELEN 
+p556
+V (to Jerry) I told you to let us sleep in there.   
+p557
+tp558
+a(V JERRY 
+p559
+V Then YOU would be hunched over.  
+p560
+tp561
+a(V ELAINE 
+p562
+V I don't even know if I can go scuba diving.   
+p563
+tp564
+a(V JERRY 
+p565
+V You can't go?  
+p566
+tp567
+a(V HELEN 
+p568
+V So stay home.  
+p569
+tp570
+a(V ELAINE 
+p571
+V You can go.  
+p572
+tp573
+a(V JERRY 
+p574
+V Without you? That's the whole reason you came down here.   
+p575
+tp576
+a(V HELEN 
+p577
+V Don't go.  
+p578
+tp579
+a(V JERRY 
+p580
+V You sure?  
+p581
+tp582
+a(V MORTY 
+p583
+V Maybe you should see a doctor.  
+p584
+tp585
+a(V JERRY 
+p586
+V We'll stay in a hotel tonight.  
+p587
+tp588
+a(V ELAINE 
+p589
+V (whispering to Jerry) Yes!  
+p590
+tp591
+a(V HELEN 
+p592
+V No, we'll stay in there.  
+p593
+tp594
+a(V JERRY 
+p595
+V Why don't you get a new sofa?  
+p596
+tp597
+a(V MORTY 
+p598
+V Nobody uses it.  
+p599
+tp600
+a(V JERRY 
+p601
+V I'm buying you a new sofa.  
+p602
+tp603
+a(V HELEN 
+p604
+V Oh Jerry, don't talk crazy.  
+p605
+tp606
+a(V ELAINE 
+p607
+V Mrs Seinfeld, please. I am begging you. Put the air conditioner on.   
+p608
+tp609
+a(V HELEN 
+p610
+V You're hot?  
+p611
+tp612
+a(V ELAINE 
+p613
+V I've lost 6 pounds.  
+p614
+tp615
+a(V HELEN 
+p616
+V I don't even know how to work it.  
+p617
+tp618
+a(V MORTY 
+p619
+V I keep telling her it's like an oven in here.    (Evelyn, a neighboor, enters)  
+p620
+tp621
+a(V EVELYN 
+p622
+V Is everybody up?  
+p623
+tp624
+a(V JERRY 
+p625
+V Hi. How are you?  
+p626
+tp627
+a(V EVELYN 
+p628
+V Hello Jerry.  
+p629
+tp630
+a(V JERRY 
+p631
+V Evelyn, this is Elaine.  
+p632
+tp633
+a(V ELAINE 
+p634
+V (with pain) Hi Evelyn.  
+p635
+tp636
+a(V EVELYN 
+p637
+V Jerry you got thin.  
+p638
+tp639
+a(V JERRY 
+p640
+V Too thin?  
+p641
+tp642
+a(V HELEN 
+p643
+V Oh stop worrying so much about how you look.   
+p644
+tp645
+a(V EVELYN 
+p646
+V So where's the new pen? (everybody's surprised by this question)   
+p647
+tp648
+a(V JERRY 
+p649
+V (Jerry scratches his head and acts like he's not sure what she's talking about) What?   
+p650
+tp651
+a(V EVELYN 
+p652
+V The pen. The one Jack Klompus gave you.    
+p653
+tp654
+a(V HELEN 
+p655
+V How did you know that?  
+p656
+tp657
+a(V EVELYN 
+p658
+V Blanche told me.  
+p659
+tp660
+a(V HELEN 
+p661
+V Blanche?  
+p662
+tp663
+a(V EVELYN 
+p664
+V That's some good pen. It writes upside down.   
+p665
+tp666
+a(V ELAINE 
+p667
+V The astronauts use them.  
+p668
+tp669
+a(V HELEN 
+p670
+V What did Blanche say?  
+p671
+tp672
+a(V EVELYN 
+p673
+V I don't know. She said Jerry wanted the pen.   
+p674
+tp675
+a(V JERRY 
+p676
+V I never really wanted the pen.  
+p677
+tp678
+a(V MORTY 
+p679
+V He gave him the pen.  
+p680
+tp681
+a(V HELEN 
+p682
+V Morty.  
+p683
+tp684
+a(V EVELYN 
+p685
+V Why you don't like the pen?  
+p686
+tp687
+a(V JERRY 
+p688
+V No, no, I...  
+p689
+tp690
+a(V EVELYN 
+p691
+V Cause if you don't like it, give it back to him.   
+p692
+tp693
+a(V HELEN 
+p694
+V Is that what she said?  
+p695
+tp696
+a(V EVELYN 
+p697
+V Who?  
+p698
+tp699
+a(V HELEN 
+p700
+V Blanche.  
+p701
+tp702
+a(V EVELYN 
+p703
+V What are you talking about?   (The phone rings, Helen answers.)  
+p704
+tp705
+a(V HELEN 
+p706
+V Hello? Oh hello Gussy. What? Jerry wouldn't do that. Jack gave it to him. All he said was he liked it. I mean nobody put a gun to his head. (to Jerry) You're giving him back that pen. (She continues the discussion with Gussy but we don't hear it.)   
+p707
+tp708
+a(V ELAINE 
+p709
+V Somebody please-- THE AIR CONDITIONER!    
+p710
+tp711
+a(V MORTY 
+p712
+V (Morty gets up) Oh! I forgot all about it.    (the phone conversation is over. Helen looks at Jerry.)  
+p713
+tp714
+a(V JERRY 
+p715
+V All I said was "I like the pen".   (Morty looks at the control panel for the air conditioner)  
+p716
+tp717
+a(V MORTY 
+p718
+V How the hell do you work this thing?     (scene ends)       (still the condo, later)   (Jerry's gone scuba diving. Elaine is lying on the floor with pillows under her legs. Morty and Helen are on the couch, looking at Elaine. Helen is wearing a sweater and she's freezing)   
+p719
+tp720
+a(V HELEN 
+p721
+V Maybe you shouldn't go tonight.  
+p722
+tp723
+a(V ELAINE 
+p724
+V No no, I wanna go.  
+p725
+tp726
+a(V HELEN 
+p727
+V But your back hurts.  
+p728
+tp729
+a(V MORTY 
+p730
+V Maybe a couple of muscle relaxers would help.   
+p731
+tp732
+a(V ELAINE 
+p733
+V Oh, oh, O.K. (Helen holds her sweater tight against herself) You can turn down the air conditioning if you want.    
+p734
+tp735
+a(V HELEN 
+p736
+V No. I'm fine.  
+p737
+tp738
+a(V ELAINE 
+p739
+V You're not too cold?  
+p740
+tp741
+a(V HELEN 
+p742
+V No.   (Jerry enters with a black eye)  
+p743
+tp744
+a(V JERRY 
+p745
+V Don't be alarmed.  
+p746
+tp747
+a(V MORTY 
+p748
+V Oh my God! What the hell happened to you?   
+p749
+tp750
+a(V JERRY 
+p751
+V I'm O.K. My capillaries burst.  
+p752
+tp753
+a(V HELEN 
+p754
+V Your capillaries? Do you know what you look like?   
+p755
+tp756
+a(V JERRY 
+p757
+V (to Elaine on the floor) How are you doing?   
+p758
+tp759
+a(V ELAINE 
+p760
+V Having a good time!  
+p761
+tp762
+a(V JERRY 
+p763
+V Is it my imagination or is it freezing in here?   
+p764
+tp765
+a(V HELEN 
+p766
+V What happened to your eyes?  
+p767
+tp768
+a(V JERRY 
+p769
+V Well I started to go under...  
+p770
+tp771
+a(V HELEN 
+p772
+V With the instructor?  
+p773
+tp774
+a(V JERRY 
+p775
+V Yeah, and I got about ten feet down and I felt this tremendous pressure on my mask. Like my eyeballs were being sucked out of their sockets.   
+p776
+tp777
+a(V HELEN 
+p778
+V I told you...   (Jack enters, all dressed-up, smoking a cigar)  
+p779
+tp780
+a(V JACK 
+p781
+V Excuse me. (to Helen) Doris would like to borrow red your pocketbook to go with her shoes. (to Elaine on the floor) The shoes have to match the pocketbook. (to the others) What's she doing? Yoga?    
+p782
+tp783
+a(V ELAINE 
+p784
+V My back hurts.  
+p785
+tp786
+a(V JACK 
+p787
+V Morty you gotta hurry up. Get ready.    
+p788
+tp789
+a(V MORTY 
+p790
+V We got plenty of time.  
+p791
+tp792
+a(V JACK 
+p793
+V (to Jerry) What happened to you?  
+p794
+tp795
+a(V JERRY 
+p796
+V I got in a fist fight with one of the ladies at the pool.   
+p797
+tp798
+a(V HELEN 
+p799
+V It's from scuba diving.  
+p800
+tp801
+a(V JACK 
+p802
+V What's there to see underwater?    give him back the pen)  
+p803
+tp804
+a(V JERRY 
+p805
+V Listen M. Klompus, it was really a nice gesture of you to give me the pen, but I don't really need it.   
+p806
+tp807
+a(V JACK 
+p808
+V You what?  
+p809
+tp810
+a(V JERRY 
+p811
+V I mean it's a terrific pen, but I think you should keep it. (he tends the pen to Jack)   
+p812
+tp813
+a(V JACK 
+p814
+V Well I mean...  
+p815
+tp816
+a(V JERRY 
+p817
+V Take it.  
+p818
+tp819
+a(V JACK 
+p820
+V All right! (he smiles and take it)     (Morty gets up and walks right to Jack)  
+p821
+tp822
+a(V MORTY 
+p823
+V You know Jack, you've got a hell of a nerve taking that kid's pen.   
+p824
+tp825
+a(V JACK 
+p826
+V Whose pen?  
+p827
+tp828
+a(V MORTY 
+p829
+V His pen.  
+p830
+tp831
+a(V JACK 
+p832
+V This happens to be my pen.  
+p833
+tp834
+a(V MORTY 
+p835
+V You didn't give it to him.  
+p836
+tp837
+a(V JACK 
+p838
+V What are you talking about? He pratically begged me for it.   
+p839
+tp840
+a(V MORTY 
+p841
+V Where do you come off with this crap?    
+p842
+tp843
+a(V JACK 
+p844
+V Listen, do you think I take everything everybody offers me? You offered me sponge cake yesterday. Did I take it?    
+p845
+tp846
+a(V MORTY 
+p847
+V You said you didn't want it!  
+p848
+tp849
+a(V JACK 
+p850
+V Of course I wanted it! I love sponge cake!   
+p851
+tp852
+a(V MORTY 
+p853
+V Then who the hell said you couldn't have any? I mean what the hell do I care whether you have sponge cake?     (Jerry and Elaine can't beleive what they're hearing)  
+p854
+tp855
+a(V JACK 
+p856
+V Because I saw the look on your face last week when I took the scotch tape!    
+p857
+tp858
+a(V MORTY 
+p859
+V Ahh! Ahh! So YOU got the scotch tape! I've been looking all over for it!    
+p860
+tp861
+a(V JACK 
+p862
+V Don't worry about it! I'll give it back!    
+p863
+tp864
+a(V MORTY 
+p865
+V I don't want it!  
+p866
+tp867
+a(V JACK 
+p868
+V I don't want it!  
+p869
+tp870
+a(V MORTY 
+p871
+V You know Jack, do me a favor will you? Take the pen and the scotch tape, and get the hell out of here!   
+p872
+tp873
+a(V JACK 
+p874
+V Listen do you think I give a damn?    
+p875
+tp876
+a(V MORTY 
+p877
+V Aah! (Jack leaves) The nerve of that guy! Taking back that pen. Well that'it for them.   
+p878
+tp879
+a(V JERRY 
+p880
+V What is going on in this community! Are you people aware of what's happening? What is driving you to this behavior? Is it the humudity? Is it the Muzak? Is it the white shoes?   
+p881
+tp882
+a(V HELEN 
+p883
+V I have no use for either one of them. I don't even want them there tonight. (she still has the pocketbook in her hands)   
+p884
+tp885
+a(V JERRY 
+p886
+V Isn't he supposed to be the emcee?    
+p887
+tp888
+a(V MORTY 
+p889
+V yeah, he's supposed to be the emcee.    
+p890
+tp891
+a(V JERRY 
+p892
+V Well. This should be a very interesting evening.   
+p893
+tp894
+a(V ELAINE 
+p895
+V (still on the floor) Uh... What about those muscle relaxers?    (scene ends)       (reception room, evening)   (Morty, Helen, Elaine and Jerry are standing for a photograph in the entrance. Jerry wears sunglasses and Elaine is all drugged-up on muscle relaxers.)   
+p896
+tp897
+a(V PHOTOGRAPHER 
+p898
+V Say astronaut.   (Elaine is laughing for nothing and she walks right up to the lens of the camera.)   
+p899
+tp900
+a(V ELAINE 
+p901
+V Say what? (laughing) Say what?  
+p902
+tp903
+a(V JERRY 
+p904
+V (Jerry brings her back) You took too many of those pills.   
+p905
+tp906
+a(V MORTY 
+p907
+V Astronaut?  
+p908
+tp909
+a(V HELEN 
+p910
+V Say it.   
+p911
+tp912
+a(V ELAINE 
+p913
+V (still laughing, she says it just as the picture is taking) Astro...naut!     (the image frozes and we see that the picture is awful, with Jerry and his sunglasses, and Elaine laughing who can barely stand.)   
+p914
+tp915
+a(V MORTY 
+p916
+V Good. O.K. (the photographer walks away) What about last year when I took him to the hospital every day? Did he ever say thank you?   
+p917
+tp918
+a(V JERRY 
+p919
+V Oh God. (foreseeing an arm's grabbing as he sees Uncle Leo entering with his wife Stella)   
+p920
+tp921
+a(V JERRY 
+p922
+V (to Leo) Uncle Leo.  
+p923
+tp924
+a(V LEO 
+p925
+V Hello!  
+p926
+tp927
+a(V STELLA 
+p928
+V Morty are you nervous?  
+p929
+tp930
+a(V MORTY 
+p931
+V What nervous?  
+p932
+tp933
+a(V LEO 
+p934
+V (to Jerry while he's grabbing his arm as usual) What's with the sunglasses? Who are you? Van Johnson?   
+p935
+tp936
+a(V JERRY 
+p937
+V I've got a black eye.  
+p938
+tp939
+a(V STELLA 
+p940
+V (to Elaine in a childish voice) Hello.    
+p941
+tp942
+a(V JERRY 
+p943
+V Elaine, this is my aunt Stella.  
+p944
+tp945
+a(V HELEN 
+p946
+V (shouting as she imitates Marlon Brando)  STELLA! STELLA!   
+p947
+tp948
+a(V JERRY 
+p949
+V (to Stella) Her back hurts.  
+p950
+tp951
+a(V STELLA 
+p952
+V Humm... We saw you on "The Tonight Show" last week.   
+p953
+tp954
+a(V LEO 
+p955
+V I thought Johnny was very rude to you. He didn't even let you talk.   
+p956
+tp957
+a(V JERRY 
+p958
+V No, no.  
+p959
+tp960
+a(V LEO 
+p961
+V You need some new material. I've heard you do that dog routine three times already.   
+p962
+tp963
+a(V ELAINE 
+p964
+V (still with her imitation, shouting even louder) STELLA! STELLA!   
+p965
+tp966
+a(V LEO 
+p967
+V Listen, you should get your cousin Jeffrey to write some material for you.   
+p968
+tp969
+a(V MORTY 
+p970
+V What are you talking? Jeffrey works for the parks department!   
+p971
+tp972
+a(V LEO 
+p973
+V You should read the letters he's written. He's funnier than the whole bunch of you! (Jack enters with Doris) Oh, here's Jack. We should sit down.    (Jack and Morty exchange a look.)  
+p974
+tp975
+a(V STELLA 
+p976
+V (to Helen on a sarcastic tone of voice) This better be good. I'm missing "Golden Girls" for this.   
+p977
+tp978
+a(V HELEN 
+p979
+V (laughing hypocritically till Stella walks away) I hate her like poison.      "Jack let's get started!" Everyone applause and we see, from left to right, all sitting on the same side of a long table, facing the public: Stella, Leo, Elaine, Jerry, Helen, Morty, Jack at the microphone, Doris, and four other people.)   
+p980
+tp981
+a(V JACK 
+p982
+V (on the microphone) Ladies and gentlemen, as you know, every year, Phase Two of the Pines of Mark Gables honors the previous year president. And this year we are honoring Morty Seinfeld (the crowd applause and someone yells: Morty!) A man who slept more hours on the job than Ronald Reagan.   
+p983
+tp984
+a(V MORTY 
+p985
+V (to Helen) Slept on the job? (she shushed him)   
+p986
+tp987
+a(V JACK 
+p988
+V Being president of the condo is not easy. It requires hard work, dedication, and commitment, and unfortunately he possesses none of these qualities. (everyone laugh except Jerry, Helen, and Morty. Even Elaine who's still druggy)   
+p989
+tp990
+a(V HELEN 
+p991
+V (Morty complains again to Helen) He's joking.   
+p992
+tp993
+a(V JACK 
+p994
+V His administration did excel in one department: the hiring of incompetents.    
+p995
+tp996
+a(V MORTY 
+p997
+V (to Jack, loud) That's what you say.    
+p998
+tp999
+a(V JACK 
+p1000
+V But we do owe him a debt of gratitude because by not fixing the crack in the sidewalk, he put Mrs Ziven out of commission for a few weeks. (Morty is now the only one not laughing)   
+p1001
+tp1002
+a(V MORTY 
+p1003
+V (loud) Tell them when you took my son's pen back. Tell them about that! (he gets up)   
+p1004
+tp1005
+a(V JERRY 
+p1006
+V Dad!  
+p1007
+tp1008
+a(V MORTY 
+p1009
+V (to the crowd) He gave my son a pen, and then he takes it back. Tell them about that!   
+p1010
+tp1011
+a(V JACK 
+p1012
+V He gave it to me!  
+p1013
+tp1014
+a(V MORTY 
+p1015
+V Come on. That's enough, sit down!  
+p1016
+tp1017
+a(V JACK 
+p1018
+V I'm not sitting down!   (they start to fight. Morty tries to get the microphone off Jack' hands. He yells to Jack to give him the pen. Jerry gets up and tries to separate them. We hear a feedback from the microphone and they stop to fight)   
+p1019
+tp1020
+a(V JACK 
+p1021
+V Ow! You broke my dental plate! (Jack is touching his dental plate while Morty reaches in Jack's pocket to get the pen) Doris! He broke my dental plate. You son-of-a-bitch! I'm gonna sue you. (he leaves the table and Morty follows him and continue arguing with him. Jerry now have the microphone in his hands and the crowd begins to think the ceremony is over.)   
+p1022
+tp1023
+a(V HELEN 
+p1024
+V Jerry, do your act.  
+p1025
+tp1026
+a(V JERRY 
+p1027
+V (in the microphone, but to Helen) I can't. Nobody's even listening.   
+p1028
+tp1029
+a(V HELEN 
+p1030
+V They're all gonna leave.  
+p1031
+tp1032
+a(V JERRY 
+p1033
+V (to himself) Oh God! (in the microphone) huh... Hey! How you folks doing tonight? (everybody in the crowd is talking over Jerry)    MAN IN THE CROWD  Who are you?  
+p1034
+tp1035
+a(V JERRY 
+p1036
+V (still with his sunglasses) Have you ever noticed how they always give you the peanuts on the planes?    WOMAN IN THE CROWD  (to heckle Jerry) Not my Harry. He flies first class.    (Elaine is almost asleep at the table)  
+p1037
+tp1038
+a(V JERRY 
+p1039
+V Who ever thought the first thing somebody wants on a plane is a peanut?    MAN IN THE CROWD  I'd rather have a bottle of scotch!    
+p1040
+tp1041
+a(V HELEN 
+p1042
+V (to Jerry) Do the dog routine.  
+p1043
+tp1044
+a(V JERRY 
+p1045
+V All I said was I liked the pen!  
+p1046
+tp1047
+a(V ELAINE 
+p1048
+V (wakes up and yells very loud) STELLA!     (Everybody stops talking and put their hands on their ears)     (scene ends)       (condo, morning)   (Elaine is sitting on the couch and a chiro is examining her. Jerry's sitting next to her. Helen is standing beside them and Morty is still asleep in the guest room)   
+p1049
+tp1050
+a(V CHIROPRACTOR 
+p1051
+V You could aggravated. I wouldn't go anywhere for at least five days.   
+p1052
+tp1053
+a(V ELAINE 
+p1054
+V Five days? You want me to stay here for five more days?   
+p1055
+tp1056
+a(V JERRY 
+p1057
+V There must be some mistake.  
+p1058
+tp1059
+a(V CHIROPRACTOR 
+p1060
+V I'm afraid not.  
+p1061
+tp1062
+a(V ELAINE 
+p1063
+V (discouraged) Five days. Here.  
+p1064
+tp1065
+a(V HELEN 
+p1066
+V (to Jerry, happily) So we have you for five more days!   
+p1067
+tp1068
+a(V JERRY 
+p1069
+V (to Elaine) Well there's really no point in me staying. I mean you just gonna be...   
+p1070
+tp1071
+a(V ELAINE 
+p1072
+V Excuse me?  
+p1073
+tp1074
+a(V JERRY 
+p1075
+V Nothing.   (Evelyn enters)  
+p1076
+tp1077
+a(V EVELYN 
+p1078
+V Good morning.  
+p1079
+tp1080
+a(V JERRY 
+p1081
+V Hi Evelyn.  
+p1082
+tp1083
+a(V EVELYN 
+p1084
+V (to Helen) Has Morty decided on a lawyer yet?   
+p1085
+tp1086
+a(V HELEN 
+p1087
+V I don't think so.  
+p1088
+tp1089
+a(V EVELYN 
+p1090
+V Because my nephew Larry could do it. He's a brilliant lawyer. He says Jack has no case.   
+p1091
+tp1092
+a(V HELEN 
+p1093
+V I'll ask him when he gets up.  
+p1094
+tp1095
+a(V EVELYN 
+p1096
+V Oh, and I spoke to Arnold. And he says that according to the bylaws of the condo constitution, they need six votes to throw you out for unruly behavior. Not five. Doctor Chernov is the one you'll have to suck up to.    (Morty gets up in a bad shape)  
+p1097
+tp1098
+a(V MORTY 
+p1099
+V Aw! Aw! Oh my back! Oh my back! It's that bar. Who the hell could sleep on that thing?   
+p1100
+tp1101
+a(V HELEN 
+p1102
+V I was very comfortable.  
+p1103
+tp1104
+a(V EVELYN 
+p1105
+V Morty, Arnold says they need six votes to throw you out.   
+p1106
+tp1107
+a(V HELEN 
+p1108
+V It's in the constitution.  
+p1109
+tp1110
+a(V MORTY 
+p1111
+V (to the chiro) Who are you?  
+p1112
+tp1113
+a(V CHIROPRACTOR 
+p1114
+V I'm a chiropractor.  
+p1115
+tp1116
+a(V MORTY 
+p1117
+V What are you kidding me?  
+p1118
+tp1119
+a(V ELAINE 
+p1120
+V (to Jerry) Five more days?  
+p1121
+tp1122
+a.

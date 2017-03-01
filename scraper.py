@@ -1,11 +1,16 @@
 from bs4 import BeautifulSoup as bs
-import urllib2, pickle, re
+import urllib2, pickle, re, os
 
 class Scrape:
 
     def __init__(self):
         self.url = "http://www.imsdb.com/TV/Seinfeld.html"
         self.root = "http://www.imsdb.com"
+
+        self.process = {
+            'season': None,
+            'episode': None
+        }
 
         # self.extractLinks()
         self.scrapeLinks()
@@ -33,11 +38,10 @@ class Scrape:
         with open("cache/links.pkl", "rb") as f:
             series =  pickle.load(f)
             for season in series:
+                self.process['season'] = series.index(season)+1
                 for ep in season:
                     self.scrapePage(ep)
-                    break
-                break
-
+                    self.process['episode'] = season.index(ep)+1
 
     def scrapePage(self, link):
         link = urllib2.quote(link).replace("http%3A", "http:")
@@ -54,13 +58,25 @@ class Scrape:
         soup = bs(html)
 
         pre = soup.find('td', class_="scrtext").find('pre')
-        counter = 0
+        tscript = []
+        speaker, dialogue = None, None
         for c in pre.strings:
             c = re.sub(r'(\s\s+)|(\n)', ' ', c)
 
             if re.match(r'\s[A-Z]+\s$|\s[A-Z]+\sAND\s[A-Z]+\s$', c):
-                print c
-            # print len(c), "++", c, "--"
+                if speaker:
+                    tscript.append((speaker, dialogue))
+                    dialogue = None
+                speaker = c
+            else:
+                if dialogue:
+                    dialogue += c
+                else:
+                    dialogue = c
+
+        with open("data/%s.bin"%str(len(os.listdir("./data"))), "wb") as f:
+            pickle.dump(tscript, f)
+            print "[SUCCESS] tScript Season.", self.process['season'], "Episode", self.process['episode']
 
 
     def cache(self):

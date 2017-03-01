@@ -1,0 +1,1282 @@
+(lp0
+(V JERRY 
+p1
+V  THE JACKET  Written by Larry David & Jerry Seinfeld     (Night club)   I hate clothes, okay? I hate buying them. I hate picking them out of my closet. I can't stand every day trying to come up with little outfits for myself. I think    eventually fashion won't even exist. It won't. I think eventually we'll all be wearing the same thing. 'Cause anytime I see a movie or a TV show where there's people    from the future of another planet, they're all wearing the same thing. Somehow they decided "This is going to be our outfit. One-piece silver jumpsuit, V-stripe, and    boots. That's it." We should come up for an outfit for earth. An earth outfit. We should vote on it. Candidates propose different outfits, no speeches. They walk out,    twirl, walk off. We just sit in the audience and go, "That was nice. I could wear that."    (Scene ends)   (Clothing store)  
+p2
+tp3
+a(V JERRY 
+p4
+V I think I've seen enough.  
+p5
+tp6
+a(V SALESMAN 
+p7
+V Well, I might have something in the back.   
+p8
+tp9
+a(V ELAINE 
+p10
+V The back? They never find anything in the back. If they had anything good in the back, they'd put it out in the front.   
+p11
+tp12
+a(V JERRY 
+p13
+V Why don't they open up an entire store for the back? Call it, "Just Back." All back. No front. You walk in the front, you're immediately in the back. (Picks    up a tie display) Look, Elaine, tie car wash.  
+p14
+tp15
+a(V CUSTOMER 
+p16
+V (Sees the book Elaine is holding) Oh, I just read that. That's terrific.    
+p17
+tp18
+a(V JERRY 
+p19
+V (Pointing to Elaine) Her father wrote that.   
+p20
+tp21
+a(V CUSTOMER 
+p22
+V Alton Benes is your father?  
+p23
+tp24
+a(V ELAINE 
+p25
+V Yeah.  
+p26
+tp27
+a(V CUSTOMER 
+p28
+V I always felt he deserved a wider audience.    
+p29
+tp30
+a(V ELAINE 
+p31
+V I'm not so sure he wants one. (Customer leaves) Hey, don't forget Sunday, okay? You and George are coming, right? Hotel Westbury, eight o' clock.   
+p32
+tp33
+a(V JERRY 
+p34
+V ..I guess I'm coming.. I mean..  
+p35
+tp36
+a(V ELAINE 
+p37
+V What? What, you don't want to go now?    
+p38
+tp39
+a(V JERRY 
+p40
+V No, I'll go. I'm going.  
+p41
+tp42
+a(V ELAINE 
+p43
+V No, Jerry, you have to. I need a buffer. You know, I haven't seen my father in a while and.. you know.   
+p44
+tp45
+a(V JERRY 
+p46
+V I'm worried I won't be able to talk to him. He's such a great writer. Frankly, I perfer the company of nitwits.   
+p47
+tp48
+a(V ELAINE 
+p49
+V So, that's why we're not togeter anymore.    
+p50
+tp51
+a(V JERRY 
+p52
+V (Looks at a jacket) What is this? (Holds it up) This is beautiful.. but these jackets never fit me right.   
+p53
+tp54
+a(V ELAINE 
+p55
+V Try it on. (Feels it) Wow, this is soft suede.   
+p56
+tp57
+a(V JERRY 
+p58
+V This may be the most perfect jacket I have ever put on. (Elaine grabs the tag) How much is it?   
+p59
+tp60
+a(V ELAINE 
+p61
+V (Shocked) Oh my God.  
+p62
+tp63
+a(V JERRY 
+p64
+V Bad? (Elaine nods) ..Very bad?  
+p65
+tp66
+a(V ELAINE 
+p67
+V You have no idea.  
+p68
+tp69
+a(V JERRY 
+p70
+V I have some idea.  
+p71
+tp72
+a(V ELAINE 
+p73
+V No idea.  
+p74
+tp75
+a(V JERRY 
+p76
+V I've got a ballpark.  
+p77
+tp78
+a(V ELAINE 
+p79
+V There is no park and the team has relocated.    
+p80
+tp81
+a(V JERRY 
+p82
+V (Looks at the tag) ..That is high.    
+p83
+tp84
+a(V ELAINE 
+p85
+V Oh man, that is a beautiful jacket, though.   
+p86
+tp87
+a(V JERRY 
+p88
+V (Looking at the insides of the jacket) What's with the pink lining and the candy stripes?   
+p89
+tp90
+a(V ELAINE 
+p91
+V Well, it's just a lining. You can always have it changed.   
+p92
+tp93
+a(V JERRY 
+p94
+V Should I get it? I hate these moments. I'm hearing the dual voices now, you know. "What about the money?" "What's money?"   
+p95
+tp96
+a(V SALESMAN 
+p97
+V It looks wonderful on you.   (Scene ends)   (Jerry's apartment)   (Jerry's sitting on his couch wearing his pajamas and his new jacket. He gets up to look at his jacket in the mirror. Kramer enters)   
+p98
+tp99
+a(V JERRY 
+p100
+V Hey.  
+p101
+tp102
+a(V KRAMER 
+p103
+V Hey. New jacket?  
+p104
+tp105
+a(V JERRY 
+p106
+V What do you think?  
+p107
+tp108
+a(V KRAMER 
+p109
+V It's beautiful.  
+p110
+tp111
+a(V JERRY 
+p112
+V Is it me?  
+p113
+tp114
+a(V KRAMER 
+p115
+V That's definitely you.  
+p116
+tp117
+a(V JERRY 
+p118
+V Really?  
+p119
+tp120
+a(V KRAMER 
+p121
+V That's more you than you've ever been. (Starts looking the jacket over) What is with the pink lining?   
+p122
+tp123
+a(V JERRY 
+p124
+V I don't know. It's got a pink lining.    
+p125
+tp126
+a(V KRAMER 
+p127
+V Oh.. So, what did you pay for this?    
+p128
+tp129
+a(V JERRY 
+p130
+V I paid what it costs.  
+p131
+tp132
+a(V KRAMER 
+p133
+V How much?  
+p134
+tp135
+a(V JERRY 
+p136
+V What's the difference?  
+p137
+tp138
+a(V KRAMER 
+p139
+V What, you're not gonna tell me?  
+p140
+tp141
+a(V JERRY 
+p142
+V I'd rather not say it out loud. It's embarrassing.   
+p143
+tp144
+a(V KRAMER 
+p145
+V Over three hundred?  
+p146
+tp147
+a(V JERRY 
+p148
+V Yes, but let's just stop it right there.    
+p149
+tp150
+a(V KRAMER 
+p151
+V It's over four hundred?  
+p152
+tp153
+a(V JERRY 
+p154
+V Really, I'm not answering anymore.    
+p155
+tp156
+a(V KRAMER 
+p157
+V Is it over four hundred?  
+p158
+tp159
+a(V JERRY 
+p160
+V Would you?  
+p161
+tp162
+a(V KRAMER 
+p163
+V (Finds the tag) Woah, Nelson!  
+p164
+tp165
+a(V JERRY 
+p166
+V I know, I know.  
+p167
+tp168
+a(V KRAMER 
+p169
+V (Talking about his old jacket) What are you gonna do with the leather one?    
+p170
+tp171
+a(V JERRY 
+p172
+V I don't know.  
+p173
+tp174
+a(V KRAMER 
+p175
+V Well, are you gonna wear it?  
+p176
+tp177
+a(V JERRY 
+p178
+V Maybe.  
+p179
+tp180
+a(V KRAMER 
+p181
+V (Looking over the leather jacket) You're not going to wear this.   
+p182
+tp183
+a(V JERRY 
+p184
+V Do you want it?  
+p185
+tp186
+a(V KRAMER 
+p187
+V Well, yeah. Okay. I'll take it.. I like the jacket.   
+p188
+tp189
+a(V JERRY 
+p190
+V (Takes one last look at the leather jacket) ..Okay, take it.   
+p191
+tp192
+a(V KRAMER 
+p193
+V Good karma for you. (Kramer puts on his new jacket, and stands next to Jerry, looking in the mirror.) Oh baby.    (Scene ends)   (Jerry's apartment)   (George enters singing "Master Of the House" - a Les Miserables show tune)   
+p194
+tp195
+a(V GEORGE 
+p196
+V "Master of the house.. doling out the charm, ready with a handshake and an open palm. Tells a saucy talke, loves to make a stir everyone appreciates a.."   
+p197
+tp198
+a(V JERRY 
+p199
+V What is that song?  
+p200
+tp201
+a(V GEORGE 
+p202
+V Oh, it's from Les Miserables. I went to see it last wee. I can't get it out of my head. I just keep singing it over and over. It just comes out. I have no    control over it. I'm singing it on elevators, buses. I sing it infront of clients. It's taking over my life.   
+p203
+tp204
+a(V JERRY 
+p205
+V You know, Schumann went mad from that.    
+p206
+tp207
+a(V GEORGE 
+p208
+V Artie Schumann? From Camp Hatchapee?    
+p209
+tp210
+a(V JERRY 
+p211
+V No, you idiot.  
+p212
+tp213
+a(V GEORGE 
+p214
+V What are you, Bud Abbott? What, are you calling my an idiot?   
+p215
+tp216
+a(V JERRY 
+p217
+V You don't know Rober Schumann? The composer?    
+p218
+tp219
+a(V GEORGE 
+p220
+V Oh, Schumann. Of course.  
+p221
+tp222
+a(V JERRY 
+p223
+V (Trying to scare George) He went crazy from one note. He couldn't get it out of his head. I think it was an A. He kept repeating it over and over again. He    had to be institutionalized.  
+p224
+tp225
+a(V GEORGE 
+p226
+V Really? ..Well, what if it doesn't stop? (Jerry gestures "That's the breaks." George gasps) Oh, that I really needed to hear. That helps a lot! Alright, just    say something. Just start talking. Change the subject.. Let's just go, alright? I can't believe we're having dinner with Alton Benes.   
+p227
+tp228
+a(V JERRY 
+p229
+V I know exactly what's goin to happen tonight. I'm gonna try and act like I'm not impressed, he's gonna see right through it.   
+p230
+tp231
+a(V GEORGE 
+p232
+V Yeah, he'll be looking at us like he's backstage at a puppet show.   
+p233
+tp234
+a(V JERRY 
+p235
+V Let me just get my jacket. (Moves to the bedroom)   
+p236
+tp237
+a(V GEORGE 
+p238
+V "Master of the house, keeper of the inn.." (Jerry proudly models his new jacket infront of George. George looks in admiration at the jacket) This is huge!    When did this happen?  
+p239
+tp240
+a(V JERRY 
+p241
+V Wednesday. This jacket has completely changed my life. When I leave the house in this, it's with a whole different confidence. Like tonight, I might've been    a little nervous. But, inside this jacket, I am composed, grounded, secure that I can meet an social challenge.   
+p242
+tp243
+a(V GEORGE 
+p244
+V (Nods) Can I say one thing to you? And I say this wiht an unblemished record of staunch heterosexuality.   
+p245
+tp246
+a(V JERRY 
+p247
+V Absolutely.  
+p248
+tp249
+a(V GEORGE 
+p250
+V ..It's fabulous.  
+p251
+tp252
+a(V JERRY 
+p253
+V I know.  
+p254
+tp255
+a(V GEORGE 
+p256
+V And I'll tell you something else, I'm not even going to ask you. I want to know. But I'm not going to ask. You'll tell me when you feel comfortable.. So    what was it? Four hundred? Five hundred? Did you pay five hundred for this? (Jerry's acting coy throughout the whole thing) Over six? Can't be seven. Don't tell my    you paid seven hundred dollars for this jacket! Did you pay seven hundred dollars for this jacket? Is that what you're saying to me?! You are sick! Is that what you    paid for this jacket?! Over seven hundred? What did you pay for this jacket? I won't say anything. I wanna know what you paid for this jacket! Oh my God! A    thousand dollars?! You paid a thousand dollars for this jacket?! Alright, fine. I'm walking out of here right now thinking you paid a thousand dollars for this jacket,    unless you tell me different. (Jerry still coy, stays silent) Oh, ho! Alright! I'll tell you what, if you don't say anything in the next five seconds, I'll know it was over a    thousand..   (Enter Kramer)  
+p257
+tp258
+a(V KRAMER 
+p259
+V Hey. Hey, would you do me a solid?    
+p260
+tp261
+a(V JERRY 
+p262
+V Well, what kind of solid?  
+p263
+tp264
+a(V KRAMER 
+p265
+V I need you to sit in the car for two minutes while it's double-parked. I gotta pick up some birds.   
+p266
+tp267
+a(V JERRY 
+p268
+V Birds?  
+p269
+tp270
+a(V KRAMER 
+p271
+V Yeah. A friend of mine, he's a magician. He's going away on vacation. He asked me to take care of his doves.   
+p272
+tp273
+a(V JERRY 
+p274
+V So take a cab.  
+p275
+tp276
+a(V KRAMER 
+p277
+V They won't take a cage full of birds.    
+p278
+tp279
+a(V JERRY 
+p280
+V I can't. I'm on my way out. There's no way I can do it.   
+p281
+tp282
+a(V KRAMER 
+p283
+V George, do me a solid? Two minutes.    
+p284
+tp285
+a(V GEORGE 
+p286
+V Well, I'm going with him. I'd like to, I've never done a solid before.   
+p287
+tp288
+a(V KRAMER 
+p289
+V Alright.. yeah.. alright, have a good one.    (Kramer leaves)  
+p290
+tp291
+a(V JERRY 
+p292
+V (Scoffs) Two minutes. Believe me, I know his two minutes.. By his conception of time, his life will last over two thousand years.    (Scene ends)   (Hotel lobby)   (Jerry and George enter. George's singing "Master of the House")    
+p293
+tp294
+a(V GEORGE 
+p295
+V "Master of the House. Quick to catch your eye, never wants a passerby to pass him by."   
+p296
+tp297
+a(V JERRY 
+p298
+V (Points to his head) Schumann. (George gets visibly scared) Where are they?    
+p299
+tp300
+a(V GEORGE 
+p301
+V Maybe he didn't show up.  
+p302
+tp303
+a(V JERRY 
+p304
+V What, you don't want to do this?  
+p305
+tp306
+a(V GEORGE 
+p307
+V I don't think there's ever been an appointment in my life where I wanted the other guy to show up.   
+p308
+tp309
+a(V GEORGE 
+p310
+V (Sees an elderly man sitting on a leather chair) Wait a second, is that him?    
+p311
+tp312
+a(V JERRY 
+p313
+V Yeah, I think it is. (They walk tward him) Where's Elaine?   
+p314
+tp315
+a(V GEORGE 
+p316
+V I'm nervous.  
+p317
+tp318
+a(V JERRY 
+p319
+V Excuse me.. Mister Benes?  
+p320
+tp321
+a(V ALTON 
+p322
+V Yeah?  
+p323
+tp324
+a(V JERRY 
+p325
+V I'm Jerry. Elaine's friend.. and this is George.   
+p326
+tp327
+a(V GEORGE 
+p328
+V (Holds out his hand for a handshake) It's a great thrill to meet you, Sir.     (Alton starts hacking, George withdraws his hand)  
+p329
+tp330
+a(V ALTON 
+p331
+V Sit down. Want a drink?  
+p332
+tp333
+a(V JERRY 
+p334
+V Sure.  
+p335
+tp336
+a(V ALTON 
+p337
+V (Summons waiter) What do you have?    
+p338
+tp339
+a(V JERRY 
+p340
+V (To waiter) I'll have a cranberry juice with two limes.   
+p341
+tp342
+a(V GEORGE 
+p343
+V And, I'll have a club soda with no ice.    
+p344
+tp345
+a(V BENES 
+p346
+V (Gives both Jerry and George a look) I'll have another Scotch with plenty of ice.   
+p347
+tp348
+a(V GEORGE 
+p349
+V You like ice?  
+p350
+tp351
+a(V ALTON 
+p352
+V Huh?  
+p353
+tp354
+a(V GEORGE 
+p355
+V I said, do you like ice?  
+p356
+tp357
+a(V ALTON 
+p358
+V Like it?  
+p359
+tp360
+a(V GEORGE 
+p361
+V Don't you think you get more without it?   
+p362
+tp363
+a(V ALTON 
+p364
+V (Pauses) Where's Elaine?  
+p365
+tp366
+a(V JERRY 
+p367
+V Well, we thought she was meeting you earlier. She's usually pretty punctual. (Alton remains quiet) ..Don't you find that, George?   
+p368
+tp369
+a(V GEORGE 
+p370
+V Yeah, yeah. She's punctual.. and she's been late sometimes.   
+p371
+tp372
+a(V JERRY 
+p373
+V Yeah, yeah. Sometimes she's on time, and sometimes she's late.   
+p374
+tp375
+a(V GEORGE 
+p376
+V I guess today she's late.  
+p377
+tp378
+a(V JERRY 
+p379
+V It appears that way.  
+p380
+tp381
+a(V GEORGE 
+p382
+V Yep.  
+p383
+tp384
+a(V JERRY 
+p385
+V Yep.   (Both Jerry and George look at the door, anticipating Elaine's arrival)   
+p386
+tp387
+a(V ALTON 
+p388
+V Looks like rain.  
+p389
+tp390
+a(V GEORGE 
+p391
+V (Perks up) I know, I know, that's what they said.   
+p392
+tp393
+a(V ALTON 
+p394
+V Who said?  
+p395
+tp396
+a(V GEORGE 
+p397
+V The weather guy, Dr. Waldo.  
+p398
+tp399
+a(V ALTON 
+p400
+V I don't need anybody to tell me it's gonna rain.   
+p401
+tp402
+a(V GEORGE 
+p403
+V No, of course not. I didn't..  
+p404
+tp405
+a(V ALTON 
+p406
+V All I have to do is stick my head out the window. (Waiter shows up with the drinks) Which one's suppose to be the funny guy?   
+p407
+tp408
+a(V GEORGE 
+p409
+V (Pointing at Jerry) Oh, he's the comedian.    
+p410
+tp411
+a(V JERRY 
+p412
+V I'm just a regular person.  
+p413
+tp414
+a(V GEORGE 
+p415
+V No, no. He's just being modest.  
+p416
+tp417
+a(V ALTON 
+p418
+V We had a funny guy with us in Korea. A tailgunner. They blew his brains out all over the Pacific. (Long pause) There's nothing funny about that.    (Jerry and George turn to the door again)  
+p419
+tp420
+a(V JERRY 
+p421
+V Would you excuse me a minute? I'm gonna go to the bathroom. I'll be right back.     (Jerry leaves. George is left alone with Alton)  
+p422
+tp423
+a(V GEORGE 
+p424
+V I just wanted to tell you that I really enjoyed Fair Game. I thought it was just brilliant.   
+p425
+tp426
+a(V ALTON 
+p427
+V Drivel.  
+p428
+tp429
+a(V GEORGE 
+p430
+V Maybe some parts.  
+p431
+tp432
+a(V ALTON 
+p433
+V What parts?  
+p434
+tp435
+a(V GEORGE 
+p436
+V The drivel parts.. Oh my gosh, I just realized - I have to make a phone call. I can believe.. would you.. (Gets up, and leaves)    (Scene cuts to the hotel bathroom)  
+p437
+tp438
+a(V GEORGE 
+p439
+V Thank you for leaving me alone with him!   
+p440
+tp441
+a(V JERRY 
+p442
+V That was brutal. I can't go back out there.   
+p443
+tp444
+a(V GEORGE 
+p445
+V Well, let's just leave.  
+p446
+tp447
+a(V JERRY 
+p448
+V Elaine'll kill me.  
+p449
+tp450
+a(V GEORGE 
+p451
+V Where is she?  
+p452
+tp453
+a(V JERRY 
+p454
+V She's gotta be here soon.  
+p455
+tp456
+a(V GEORGE 
+p457
+V How could she leave us alone with this lunatic? Ten more minutes, and that's it! I'm leaving. I have to tell you, this guy scares me.   
+p458
+tp459
+a(V JERRY 
+p460
+V The waiter was trembling.  
+p461
+tp462
+a(V GEORGE 
+p463
+V If she doesn't show up, we can't possibly have dinner with him alone.   
+p464
+tp465
+a(V JERRY 
+p466
+V How are we gonna get out of it?  
+p467
+tp468
+a(V GEORGE 
+p469
+V We'll say we're frightened and we have to go home.   
+p470
+tp471
+a(V JERRY 
+p472
+V Yeah, that's good. He'd clunk our heads together like Moe.   
+p473
+tp474
+a(V GEORGE 
+p475
+V I don't know. Just start scratching. Tell him you have the crabs. He was in the military. He'll understand that.     (Scene ends)   (Night club)  
+p476
+tp477
+a(V JERRY 
+p478
+V All fathers are intimidating. They're intimidating because they are fathers. Once a man has children, for the rest of his life, his attitude is, "To hell with the    world, I can make my own people. I'll eat whatever I want. I'll wear whatever I want, and I'll create whoever I want."    (Scene ends)   (Hotel lobby)   (Jerry and George come back from the bathroom)  
+p479
+tp480
+a(V ALTON 
+p481
+V Who'd you call?  
+p482
+tp483
+a(V GEORGE 
+p484
+V (Caught off guard) My uncle is having an operation. I just wanted to see how he was.   
+p485
+tp486
+a(V ALTON 
+p487
+V What kind of operation?  
+p488
+tp489
+a(V GEORGE 
+p490
+V Bone marrow.   (Manager approaches)  
+p491
+tp492
+a(V MANAGER 
+p493
+V Mister Benes?  
+p494
+tp495
+a(V ALTON 
+p496
+V Yes?  
+p497
+tp498
+a(V MANAGER 
+p499
+V A message for you. (Hands him a message)    
+p500
+tp501
+a(V ALTON 
+p502
+V From Elaine. She got tied up. She'll be here in thirty minutes. (Jerry and George freeze)    (Scene ends)   (Hotel lobby)  
+p503
+tp504
+a(V ALTON 
+p505
+V Yeah, they should've taken care of Castro when they had the chance. Like we did in Guatamala in 'fifty-three.   
+p506
+tp507
+a(V JERRY 
+p508
+V (Adding) Well, Guatamala.  
+p509
+tp510
+a(V GEORGE 
+p511
+V Sure, Guatamala.  
+p512
+tp513
+a(V ALTON 
+p514
+V (Gets up) Alright, you boys get yourselves together. We'll head up to the restaurant. I'll leave a note for Elaine. I'm going to the bathroom. (Leaves)   
+p515
+tp516
+a(V GEORGE 
+p517
+V Come on, let's go!  
+p518
+tp519
+a(V JERRY 
+p520
+V What about Elaine?  
+p521
+tp522
+a(V GEORGE 
+p523
+V To hell with Elaine!  
+p524
+tp525
+a(V JERRY 
+p526
+V She'll be furious.  
+p527
+tp528
+a(V GEORGE 
+p529
+V We're dying here!   (Elaine enters)  
+p530
+tp531
+a(V JERRY 
+p532
+V That's her! She's here!  
+p533
+tp534
+a(V ELAINE 
+p535
+V I'm sorry. I'm so sorry. Where is Dad?    
+p536
+tp537
+a(V GEORGE 
+p538
+V (Mocking Alton's voice) He's in the bathroom.   
+p539
+tp540
+a(V JERRY 
+p541
+V Where have you been?!  
+p542
+tp543
+a(V ELAINE 
+p544
+V Kramer, that .. Kramer! I'm just about to leave, he calls me up. He begs me to sit in his car for two minutes, so he can pick up these birds..   
+p545
+tp546
+a(V JERRY 
+p547
+V Oh, you didn't..  
+p548
+tp549
+a(V ELAINE 
+p550
+V Well, he said he'd drive me here right after. So, I am sitting in his car twenty minutes! he doesn't come down. I am freezing. Then a cop comes by, tells me    to get out of the car. He's a city marshal. He's towing the car away. Kramer owes thousands of dollars in back tickets. He was going to tow it with me in the car!    So, they tow the car. Now, I am standing outside, and I am freezing, but I cannot leave because I have to tell him what happened to the car.. so, finally, he finally    comes down with his giant cage filled with doves. He said he was getting special instructions, that each dove has a different diet. So, we're wandering around trying    to get a cab, when two of these doves fly out! Now we're running down the street after these doves. I almost got hit by a bus. (Sits down, takes a deep breath) ..So    how's everything going over here?  
+p551
+tp552
+a(V JERRY 
+p553
+V (After hearing Elaine's story, his is..) Great.   
+p554
+tp555
+a(V GEORGE 
+p556
+V Couldn't be better.  
+p557
+tp558
+a(V ELAINE 
+p559
+V Good. 'Cause Dad can make some people a little uncomfortable.   
+p560
+tp561
+a(V JERRY 
+p562
+V Oh, no, no.  
+p563
+tp564
+a(V GEORGE 
+p565
+V Get outta here..  
+p566
+tp567
+a(V ELAINE 
+p568
+V Man, Kramer! I could kill him.  
+p569
+tp570
+a(V JERRY 
+p571
+V I can't believe it. You know better than to get involved with Kramer.    
+p572
+tp573
+a(V ELAINE 
+p574
+V He said he'd give me a lift.  
+p575
+tp576
+a(V JERRY 
+p577
+V Ah, the lift. Like the lure of the siren's song. Never what it seems to be, yet who among us can resist?   
+p578
+tp579
+a(V GEORGE 
+p580
+V Where do you come up with this stuff?    
+p581
+tp582
+a(V ALTON 
+p583
+V (Returns) Well, look who's here.  
+p584
+tp585
+a(V ELAINE 
+p586
+V Oh, Hi, Dad.  
+p587
+tp588
+a(V ALTON 
+p589
+V (Kisses Elaine) Hello, dear. Who's the lipstick for?   
+p590
+tp591
+a(V ELAINE 
+p592
+V No one.  
+p593
+tp594
+a(V ALTON 
+p595
+V ..How's your mother?  
+p596
+tp597
+a(V ELAINE 
+p598
+V Fine.  
+p599
+tp600
+a(V ALTON 
+p601
+V How about you? Are you working?  
+p602
+tp603
+a(V ELAINE 
+p604
+V Yeah, I'm reading manuscripts for Pendant Publishing. I told you ten times.    
+p605
+tp606
+a(V ALTON 
+p607
+V Pendant, those bastards.. Alright, boys. We'll go to that Pakistani restaurant on 46th Street. You're not afraid of a little spice, are you?    (They all head for the door. Jerry and George trail behind a little)   
+p608
+tp609
+a(V GEORGE 
+p610
+V "Master of the house, doling out the charm. Ready with a handshake and an open.."   
+p611
+tp612
+a(V ALTON 
+p613
+V Pipe down, chorus boy.   (Alton glares, George gets embarrassed)  
+p614
+tp615
+a(V ELAINE 
+p616
+V Ohh.. it's snowing. It's beautiful.    
+p617
+tp618
+a(V JERRY 
+p619
+V (To George) Snow.. snow, that can't be good for suede, can it?   
+p620
+tp621
+a(V GEORGE 
+p622
+V I wouldn't think so.  
+p623
+tp624
+a(V JERRY 
+p625
+V What should I do? (To Alton) We're taking a cab, aren't we?   
+p626
+tp627
+a(V ALTON 
+p628
+V Cab? It's only five blocks.  
+p629
+tp630
+a(V GEORGE 
+p631
+V (To Jerry) Why don't you just turn it inside out?   
+p632
+tp633
+a(V JERRY 
+p634
+V Inside out! Great.   (Jery turns his jacket inside out, showing of the pink striped insides. Alton stops him before Jerry can leave the hotel)    
+p635
+tp636
+a(V ALTON 
+p637
+V Wait a minute. What the hell do you call this?   
+p638
+tp639
+a(V JERRY 
+p640
+V Oh, I turned my jacket inside out.    
+p641
+tp642
+a(V ALTON 
+p643
+V Well, you look like a damn fool!  
+p644
+tp645
+a(V JERRY 
+p646
+V (Like a child) Well, it's a new suede jacket. It might get ruined.   
+p647
+tp648
+a(V ALTON 
+p649
+V Well, you're not going to walk down the street with my and my daughter dressed like that! That's for damn sure!    (Jerry looks at George)  
+p650
+tp651
+a(V GEORGE 
+p652
+V It's only a few blocks.   (Scene ends)   (Jerry's apartment)   (Jerry's heading out, the intercom buzzes)  
+p653
+tp654
+a(V JERRY 
+p655
+V (Into intercom) Elaine?  
+p656
+tp657
+a(V ELAINE 
+p658
+V Yeah.  
+p659
+tp660
+a(V JERRY 
+p661
+V Come on up.   (Enter Kramer)  
+p662
+tp663
+a(V KRAMER 
+p664
+V Hey.  
+p665
+tp666
+a(V JERRY 
+p667
+V Hey.  
+p668
+tp669
+a(V KRAMER 
+p670
+V I've gotta feed the birds.  
+p671
+tp672
+a(V JERRY 
+p673
+V So?..  
+p674
+tp675
+a(V KRAMER 
+p676
+V You got any of those mini Ritzes?   (Jerry reaches up, and pulls out some mini Ritzes)  
+p677
+tp678
+a(V JERRY 
+p679
+V I can't believe I do.  
+p680
+tp681
+a(V KRAMER 
+p682
+V Yeah! ..Well, are you going out?  
+p683
+tp684
+a(V JERRY 
+p685
+V Yeah.  
+p686
+tp687
+a(V KRAMER 
+p688
+V Hey, where's your new jacket? (Jerry points to the jacket hanging in the bathroom. It's ruined, and unwearable) What? (Kramer enters the bathroom,     he's shocked at the sight of the jacket) Ohhh. What did you do to it?   
+p689
+tp690
+a(V JERRY 
+p691
+V I was out in the snow last night.  
+p692
+tp693
+a(V KRAMER 
+p694
+V Don't youk now what that does to suede?    
+p695
+tp696
+a(V JERRY 
+p697
+V I have an idea. (Elaine enters) We can make the nine-thirty at Cinema III.    
+p698
+tp699
+a(V ELAINE 
+p700
+V Okay.. (To Kramer) Hello. (To Jerry) Listen, thanks again for coming last night. Dad said he had a great time.    
+p701
+tp702
+a(V JERRY 
+p703
+V Is he still in town?  
+p704
+tp705
+a(V ELAINE 
+p706
+V No, he's driving back to Maryland tonight.    
+p707
+tp708
+a(V KRAMER 
+p709
+V (Talking about the ruined jacket) So, uh.. what are you gonna do with that one now?   
+p710
+tp711
+a(V JERRY 
+p712
+V I don't know.  
+p713
+tp714
+a(V KRAMER 
+p715
+V Well?..  
+p716
+tp717
+a(V ELAINE 
+p718
+V (To Jerry) I didn't want to tell you this, but usually he hates everyone.    
+p719
+tp720
+a(V JERRY 
+p721
+V Really?  
+p722
+tp723
+a(V KRAMER 
+p724
+V You gonna throw this out?  
+p725
+tp726
+a(V JERRY 
+p727
+V Well, I can't wear it.  
+p728
+tp729
+a(V ELAINE 
+p730
+V (To Jerry) Yeah, he like you though. Said you reminded him of somebody he knew in Korea.   
+p731
+tp732
+a(V KRAMER 
+p733
+V Well, if you're just gonna throw it out, you know, I could take it.   
+p734
+tp735
+a(V JERRY 
+p736
+V Yeah, go ahead, take it.  
+p737
+tp738
+a(V ELAINE 
+p739
+V Dad thinks George is gay.  
+p740
+tp741
+a(V JERRY 
+p742
+V Oh, because of all that singing?  
+p743
+tp744
+a(V ELAINE 
+p745
+V No, he pretty much thinks everyone is gay.    (Kramer returns from the bathroom wearing the ruined suede jacket)    
+p746
+tp747
+a(V KRAMER 
+p748
+V Hey, see, I like it like this.  
+p749
+tp750
+a(V ELAINE 
+p751
+V (Pointing at the jacket Kramer's wearing) Isnt' that..? (Jerry nods) Oh, is this fromt he snow last night? (Jerry nods again) Ugh.. you know what you    should've done? You should've turned it inside out.  
+p752
+tp753
+a(V JERRY 
+p754
+V I'll try and remember that.  
+p755
+tp756
+a(V KRAMER 
+p757
+V (Talking about the leather jacket from the start of the show) Boy, it's too bad you gave me this one too.   
+p758
+tp759
+a(V JERRY 
+p760
+V (Sarcastic) Yeah, too bad.  
+p761
+tp762
+a(V KRAMER 
+p763
+V I'm gonna have to do something about this lining.    (Kramer exits, Scene ends)   (Alton Benes' car)   (Alton is driving home, then all the sudden, he starts to sing)    
+p764
+tp765
+a(V ALTON 
+p766
+V "Master of the house doling out the charm, ready with a handshake and an open palm.."    (Scene ends)   (Night club)  
+p767
+tp768
+a.

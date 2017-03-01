@@ -1,0 +1,1202 @@
+(lp0
+(V JERRY 
+p1
+V  THE PONY REMARK  Written by Larry David & Jerry Seinfeld     (Night club)   My parents live in Florida now. They moved there last year. They didn't want to move to Floriday, but they're in their sixties, and that's the law. You know    how it works. They got the leisure police. They pull up in front of the old people's house with a golf cart, jump out, "Let's go Pop, white belt, white pants, white    shoes, get in the back. Drop the snow shovel right there, drop it!" I am not much for the family gathering. You know, you sit there, and the conversation's so boring.    It's so dull. And you start to fantasize. You know, you think, what if I just got up and jumped out that window? What would it be like? Just crashed right through the    glass.. You know. Come back in, there's broken glass, everybody's all upset. "No, I'm alright. I was just a little bored, there. No, I'm fine. I came back. I wanted to    hear a little about that Hummel collection, Aunt Rose. Let's pick it up right there."    (Jerry's apartment)   (Jerry's parents are in town. His father's watching T.V., his mother is ironing his father's jackets)   
+p2
+tp3
+a(V HELEN 
+p4
+V (To Morty) You have so many nice jackets. I don't know why you had to bring this jacket. Who wears a jacket like this? (He doesn't respond) What's    wrong with that nice gray one? You have beautiful clothes. They sit in your closet. Morty, you can't wear - this!    (Phone rings)  
+p5
+tp6
+a(V MORTY 
+p7
+V Are you getting that?  
+p8
+tp9
+a(V HELEN 
+p10
+V I thought you were getting it.  
+p11
+tp12
+a(V MORTY 
+p13
+V Should I pick up?  
+p14
+tp15
+a(V HELEN 
+p16
+V You want me to get that?  
+p17
+tp18
+a(V MORTY 
+p19
+V I'll get it!  
+p20
+tp21
+a(V HELEN 
+p22
+V I'll get it!   (They both go for the phone, Helen gets to it first)  
+p23
+tp24
+a(V HELEN 
+p25
+V Hello?.. Hello?   (She hangs up. Jerry enters - he's wearing baseball clothes and carrying a bat and glove)   
+p26
+tp27
+a(V JERRY 
+p28
+V (Talking about the loud T.V.) Would you make this thing lower! I can hear it on the street! (Turns it off)   
+p29
+tp30
+a(V MORTY 
+p31
+V So, how'd you do?  
+p32
+tp33
+a(V JERRY 
+p34
+V We won. I made an incredible play in the field! There was a tag-up at third base and I threw the guy out from left field on a fly! We'll be in the championship     game Wednesday because of me. It was the single greatest moment of my life.   
+p35
+tp36
+a(V HELEN 
+p37
+V This is your greatest moment? A game?    
+p38
+tp39
+a(V JERRY 
+p40
+V Well, no. Sharon Besser, of course.    
+p41
+tp42
+a(V MORTY 
+p43
+V You know what my greatest moment was, don't you? 1946. I went to work for Harry Flemming and I came up with the idea for the beltless trench coat.    
+p44
+tp45
+a(V HELEN 
+p46
+V Jerry, look at this sport jacket. Is this a jacket to wear to an anniversary party?   
+p47
+tp48
+a(V JERRY 
+p49
+V Well, the man's an individualist. He worked for Harry Flemming. He knows what he's doing.   
+p50
+tp51
+a(V HELEN 
+p52
+V But it's their 50th anniversary.  
+p53
+tp54
+a(V MORTY 
+p55
+V You know, I spoke to Manya and Isaac on the phone today. They invited you again. I think you should go.   
+p56
+tp57
+a(V JERRY 
+p58
+V First of all, I made plans with Elaine.    
+p59
+tp60
+a(V HELEN 
+p61
+V So bring her.  
+p62
+tp63
+a(V JERRY 
+p64
+V I don't even know them. What is she, your second cousin? I mean, I've met them three times in my life.   
+p65
+tp66
+a(V MORTY 
+p67
+V I don't know her either. (Gesturing to Helen) She makes me fly all the way from Floriday for this, and then she criticizes my jacket.   
+p68
+tp69
+a(V HELEN 
+p70
+V At least come and say hello, have a cup of coffee, then you'll leave.    
+p71
+tp72
+a(V MORTY 
+p73
+V How come he gets to leave?  
+p74
+tp75
+a(V JERRY 
+p76
+V If I wind up sitting nest to Uncle Leo, I am leaving. He's always grabbing my arm when he talks to me. I guess it's because so many people have left in the    middle of his conversation.  
+p77
+tp78
+a(V MORTY 
+p79
+V And it's always about Jeffrey, right?    
+p80
+tp81
+a(V JERRY 
+p82
+V Hey, he talks about him like he split the atom. The kid works for the Parks Department.    (Enter Kramer)  
+p83
+tp84
+a(V KRAMER 
+p85
+V Morty, are you coming in?  
+p86
+tp87
+a(V MORTY 
+p88
+V Oh, yeah. I forgot all about it.  
+p89
+tp90
+a(V KRAMER 
+p91
+V (To Jerry) Hey, how'd you do?  
+p92
+tp93
+a(V JERRY 
+p94
+V We won. We're in the finals on Wednesday..    
+p95
+tp96
+a(V KRAMER 
+p97
+V Yeah!  
+p98
+tp99
+a(V JERRY 
+p100
+V (To Kramer and Morty) What is this about?    
+p101
+tp102
+a(V KRAMER 
+p103
+V I'm completely changing the configuration of the apartment. You're not gonna believe it when you see it. A whole new lifestyle.    
+p104
+tp105
+a(V JERRY 
+p106
+V What are you doing?  
+p107
+tp108
+a(V KRAMER 
+p109
+V Levels.  
+p110
+tp111
+a(V JERRY 
+p112
+V Levels?  
+p113
+tp114
+a(V KRAMER 
+p115
+V Yeah, I'm getting rid of all my furniture. All of it. And I'm going to build these different levels, with steps, and it'll all be carpeted with a lot of pillows. You    know, like ancient Egypt.  
+p116
+tp117
+a(V JERRY 
+p118
+V You drew up plans for this?  
+p119
+tp120
+a(V KRAMER 
+p121
+V No, no. It's all in my head.  
+p122
+tp123
+a(V MORTY 
+p124
+V I don't know how you're going to be comfortable like that.   
+p125
+tp126
+a(V KRAMER 
+p127
+V Oh, I'll be comfortable.  
+p128
+tp129
+a(V JERRY 
+p130
+V When do you intend to do this?  
+p131
+tp132
+a(V KRAMER 
+p133
+V Ohh.. should be done by the end of the month.   
+p134
+tp135
+a(V JERRY 
+p136
+V You're doing this yourself?  
+p137
+tp138
+a(V KRAMER 
+p139
+V It's a simple job. Why, you don't think I can?   
+p140
+tp141
+a(V JERRY 
+p142
+V Oh, no. It's not that I don't think you can. I know that you can't, and I'm positive that you won't.   
+p143
+tp144
+a(V KRAMER 
+p145
+V Well, I got the tools. I got the pillows. All I need is the lumber.   
+p146
+tp147
+a(V MORTY 
+p148
+V Hey, that's some big job.  
+p149
+tp150
+a(V JERRY 
+p151
+V I don't see it happening.  
+p152
+tp153
+a(V KRAMER 
+p154
+V Well, this time, this time you're wrong. C'mon. I'll even bet you.   
+p155
+tp156
+a(V JERRY 
+p157
+V Seriously?  
+p158
+tp159
+a(V HELEN 
+p160
+V I dont' want you betting. Morty, don't let him bet.   
+p161
+tp162
+a(V KRAMER 
+p163
+V A big dinner with dessert. But I've got till the end of the month.   
+p164
+tp165
+a(V JERRY 
+p166
+V I'll give you a year.  
+p167
+tp168
+a(V KRAMER 
+p169
+V No, no, no. End of the month.  
+p170
+tp171
+a(V JERRY 
+p172
+V It's a bet. (They both "pinkie swear" to lock the deal)    (Scene ends)   (Manya's apartment)   (Jerry sits between Uncle Leo and Elaine. Leo grabs his choulder)    
+p173
+tp174
+a(V JERRY 
+p175
+V Seriously, do you wnat to switch chairs?    
+p176
+tp177
+a(V ELAINE 
+p178
+V No, no. I'm fine.  
+p179
+tp180
+a(V LEO 
+p181
+V Jerry, are you listening to this?  
+p182
+tp183
+a(V JERRY 
+p184
+V Yeah, Uncle Leo.  
+p185
+tp186
+a(V LEO 
+p187
+V So, so, now the parks commissioner is recommending Jeffrey for a citation.    
+p188
+tp189
+a(V JERRY 
+p190
+V Right. For reducing the pond scum?    
+p191
+tp192
+a(V LEO 
+p193
+V No, for the walking tours.  
+p194
+tp195
+a(V JERRY 
+p196
+V Oh, yeah. Where the people eat the plant life - the edible foliage tour.   
+p197
+tp198
+a(V LEO 
+p199
+V That's exactly right. He knows the whole history of the park. For two hours he's talking and answering questions. But you want to know something? Whenever     he has a problem with one of these high-powered big shots in the Parks Department, you know who he calls?   
+p200
+tp201
+a(V JERRY 
+p202
+V Mickey Mantle?  
+p203
+tp204
+a(V ELAINE 
+p205
+V (Helping him worm out of the conversation with Leo) Jerry, Jerry. Did you taste these peas? These peas are great!    
+p206
+tp207
+a(V JERRY 
+p208
+V (Eating a forkful) These peas are bursting with country-fresh flavor.   
+p209
+tp210
+a(V ELAINE 
+p211
+V Mmm.. phenomenal peas..  
+p212
+tp213
+a(V MORTY 
+p214
+V Are you ready for dessert?  
+p215
+tp216
+a(V JERRY 
+p217
+V Well, actually, we do have to kind of get going.   
+p218
+tp219
+a(V MANYA 
+p220
+V (Surprised) You're going?  
+p221
+tp222
+a(V ELAINE 
+p223
+V I don't really eat dessert. I'm dieting.    
+p224
+tp225
+a(V JERRY 
+p226
+V Yeah, I can't eat dessert either. The sugar makes my ankles swell up, and I can't dance.   
+p227
+tp228
+a(V MANYA 
+p229
+V Can't dance?  
+p230
+tp231
+a(V HELEN 
+p232
+V He's kidding, Manya.  
+p233
+tp234
+a(V MANYA 
+p235
+V Is that a joke?  
+p236
+tp237
+a(V HELEN 
+p238
+V (Canging subject) So, did you hear Claire's getting married?   
+p239
+tp240
+a(V MANYA 
+p241
+V Yeah, yeah..  
+p242
+tp243
+a(V HELEN 
+p244
+V I hear the fella owns a couple of racehorses. You know, trotters, like at Yonkers.    
+p245
+tp246
+a(V JERRY 
+p247
+V Horses. They're like big riding dogs.    
+p248
+tp249
+a(V ELAINE 
+p250
+V What about ponies? What kind of abnormal animal is that? And those kids who had their own ponies..   
+p251
+tp252
+a(V JERRY 
+p253
+V I know, I hated those kids. In fact, I hate anyone that ever had a pony when they were growing up.   
+p254
+tp255
+a(V MANYA 
+p256
+V ..I had a pony.   (The room is dead quiet)  
+p257
+tp258
+a(V JERRY 
+p259
+V ..Well, I didn't really mean a pony, per se.   
+p260
+tp261
+a(V MANYA 
+p262
+V (Angry) When I was a little girl in Poland, we all had ponies. My sister had pony, my cousin had pony, ..So, what's wrong with that?   
+p263
+tp264
+a(V JERRY 
+p265
+V Nothing. Nothing at all. I was just merely expressting..   
+p266
+tp267
+a(V HELEN 
+p268
+V Should we have coffee? Who's having coffee?   
+p269
+tp270
+a(V MANYA 
+p271
+V He was a beautiful pony! And I loved him.   
+p272
+tp273
+a(V JERRY 
+p274
+V Well, I'm sure you did. Who wouldn't love a pony? Who wouldn't love a person that had a pony?   
+p275
+tp276
+a(V MANYA 
+p277
+V You! You said so!  
+p278
+tp279
+a(V JERRY 
+p280
+V No, see, we didn't have ponies. I'm sure at the time in Poland, they were very common. They were probably like compact cars..   
+p281
+tp282
+a(V MANYA 
+p283
+V That's it! I've had enough! (She leaves the room)   
+p284
+tp285
+a(V ISAAC 
+p286
+V Have your coffee, everyone. She's a little upset. It's been an emotional day.    (Isaac leaves, everyone looks at Jerry)  
+p287
+tp288
+a(V JERRY 
+p289
+V I didn't know she had a pony. How was I to know she had a pony? Who figures an immigrant's going to have a pony? Do you know what the odds are on    that? I mean, in all the pictures I saw of immigrants on boats coming into New York harbor, I never saw one of them sitting on a pony. Why would anybody come    hre if they had a pony? Who leaves a country packed with ponies to come to a non-pony country? It doesn't make sense.. am I wrong?     (Scene ends)   (Jerry's apartment)   (Morty and Helen are leaving, their bags are packed)  
+p290
+tp291
+a(V JERRY 
+p292
+V I'll drive you to the airport.  
+p293
+tp294
+a(V HELEN 
+p295
+V No, we're taking a cab.  
+p296
+tp297
+a(V JERRY 
+p298
+V I just hope that whole pony incident didn't put a damper on the trip.   
+p299
+tp300
+a(V HELEN 
+p301
+V Don't be rediculous. It was a misunderstanding.    
+p302
+tp303
+a(V MORTY 
+p304
+V Hey, I agree with him. Nobody likes a kid with a pony.   
+p305
+tp306
+a(V JERRY 
+p307
+V Well, if you ever talk to her, tell her I'm sorry. Elaine too. She feels terrible.   
+p308
+tp309
+a(V HELEN 
+p310
+V You know, you should give Manya a call.    
+p311
+tp312
+a(V JERRY 
+p313
+V Maybe I will.   (Jerry opens his door, Kramer's standing in the hallway)  
+p314
+tp315
+a(V KRAMER 
+p316
+V Oh, hi. I just came to say goodbye. (Gestures to the bags) ..Need any help with those?   
+p317
+tp318
+a(V MORTY 
+p319
+V It's nothing. I got it. So, how are your levels coming along?   
+p320
+tp321
+a(V KRAMER 
+p322
+V Oh, well.. I decided I'm not gonna do it.   
+p323
+tp324
+a(V JERRY 
+p325
+V (Sarcastically) Really? What a shock.    
+p326
+tp327
+a(V HELEN 
+p328
+V Goodbye, Jerry.  
+p329
+tp330
+a(V JERRY 
+p331
+V Take care.  
+p332
+tp333
+a(V HELEN 
+p334
+V We'll call you. (Leaves)  
+p335
+tp336
+a(V MORTY 
+p337
+V Bye, Jer.  
+p338
+tp339
+a(V JERRY 
+p340
+V Bye, Dad. Take it easy.  
+p341
+tp342
+a(V MORTY 
+p343
+V Bye, Mr. Kramer.  
+p344
+tp345
+a(V KRAMER 
+p346
+V Yeah. So long, Morty. (Morty leaves)    
+p347
+tp348
+a(V JERRY 
+p349
+V So, when do I get my dinner?  
+p350
+tp351
+a(V KRAMER 
+p352
+V There's no dinner. The bet's off. I'm not gonna do it.   
+p353
+tp354
+a(V JERRY 
+p355
+V Yes. I know you're not gonna do it. That's why I bet.   
+p356
+tp357
+a(V KRAMER 
+p358
+V There's not bet if I' not doing it.    
+p359
+tp360
+a(V JERRY 
+p361
+V That's the bet! That you're not doing it!   
+p362
+tp363
+a(V KRAMER 
+p364
+V Yeah, well, I could do it. I don't want to do it.   
+p365
+tp366
+a(V JERRY 
+p367
+V We didn't bet on if you wanted to. We bet on if it would be done.   
+p368
+tp369
+a(V KRAMER 
+p370
+V And it could be done.  
+p371
+tp372
+a(V JERRY 
+p373
+V Well, of course it could be done! Anything could be done! But it only is done if it's done. Show me the levels! The bet is the levels.   
+p374
+tp375
+a(V KRAMER 
+p376
+V But I don't want the levels!  
+p377
+tp378
+a(V JERRY 
+p379
+V That's the bet! (Phone rings, Jerry answers it) Hello? ..No, oh, hi.. no, they just left.. Oh my God.. hand on a second. Maybe I can still catch them. (Jerry    goes over to the window, and opens it. He yells out of it) Ma!.. Ma!.. Up here! Don't get in the cab! .. Manya died! ..Manya died!!     (Scene ends)   (Jerry's apartment)  
+p380
+tp381
+a(V HELEN 
+p382
+V Who did you talk to?  
+p383
+tp384
+a(V JERRY 
+p385
+V Uncle Leo.  
+p386
+tp387
+a(V HELEN 
+p388
+V And when's the funeral?  
+p389
+tp390
+a(V JERRY 
+p391
+V I don't know. He said he'd call back.    
+p392
+tp393
+a(V MORTY 
+p394
+V You know what this means, don't you? We lost the supersaver. Those tickets are non-refundable.   
+p395
+tp396
+a(V HELEN 
+p397
+V She just had a check-up. The doctor said she was fine. Unless..   
+p398
+tp399
+a(V JERRY 
+p400
+V What?  
+p401
+tp402
+a(V HELEN 
+p403
+V What? Nothing.  
+p404
+tp405
+a(V JERRY 
+p406
+V You don't think.. What? The pony remark?    
+p407
+tp408
+a(V HELEN 
+p409
+V Oh, don't be ridiculous. She was an old woman.   
+p410
+tp411
+a(V JERRY 
+p412
+V You don't think that I killed her?    
+p413
+tp414
+a(V MORTY 
+p415
+V You know what the flight back'll cost us?   
+p416
+tp417
+a(V JERRY 
+p418
+V It was just an innocent comment! I didn't know she had a pony!   
+p419
+tp420
+a(V MORTY 
+p421
+V Maybe we can get an army transport flight. They got a base in Sarasota, I think.    
+p422
+tp423
+a(V JERRY 
+p424
+V The whole thing ws taking out of context. It was a joke. (Phone rings) That's probably Uncle Leo.    (Helen picks it up)  
+p425
+tp426
+a(V HELEN 
+p427
+V Hello? ..Yes, I know.. Well, it's just one of those things.. Sure, sure, we'll see you then. (Hangs up) The funeral's Wednesday.   
+p428
+tp429
+a(V JERRY 
+p430
+V Wednesday? What, what Wednesday?  
+p431
+tp432
+a(V HELEN 
+p433
+V Two o' clock, Wednesday. (Jerry shrugs) What?   
+p434
+tp435
+a(V JERRY 
+p436
+V I've got the softball game on Wednesday. It's the championship.   
+p437
+tp438
+a(V HELEN 
+p439
+V So? You're not obligated. Go play in your game.   
+p440
+tp441
+a(V JERRY 
+p442
+V I didn't even know the woman.  
+p443
+tp444
+a(V HELEN 
+p445
+V So don't go.  
+p446
+tp447
+a(V JERRY 
+p448
+V I mean I met her three times. I don't know her last name.   
+p449
+tp450
+a(V HELEN 
+p451
+V Jery, no one's forcing you.  
+p452
+tp453
+a(V JERRY 
+p454
+V I mean, who has a funeral on a Wednesday? That's what I want to know. I mean, it's the championship. I'm hitting everything.    
+p455
+tp456
+a(V HELEN 
+p457
+V I don't have a dress to wear. (To Morty) And you. You don't have anything.    
+p458
+tp459
+a(V MORTY 
+p460
+V I got a sport jacket.  
+p461
+tp462
+a(V HELEN 
+p463
+V You're not wearing that to a funeral.    
+p464
+tp465
+a(V MORTY 
+p466
+V What's wrong with it?  
+p467
+tp468
+a(V HELEN 
+p469
+V It looks ridiculous.  
+p470
+tp471
+a(V MORTY 
+p472
+V What? I'm gonna buy a new jacket now?    
+p473
+tp474
+a(V JERRY 
+p475
+V I don't know what to do.  
+p476
+tp477
+a(V MORTY 
+p478
+V ..You know what this funeral's gonna wind up costing me? Oh boy!    (Scene ends)   (Night club)  
+p479
+tp480
+a(V JERRY 
+p481
+V We don't understand death. And the proof of this is that we give dead people a pillow. And, uh, I mean, hey, you know. I think if you can't stretch out and    get some solid rest at that point, I don't see how bedding accessories really make the difference. I mean, they got the guy in a suit with a pillow. No is he going to a    meeting, or is he catching forty winks? I mean, let's make up our mind where we think they're going.    (Scene ends)   (Coffee Shop)  
+p482
+tp483
+a(V ELAINE 
+p484
+V I actually like ponies. I was just trying to make conversation. What time's your game?   
+p485
+tp486
+a(V JERRY 
+p487
+V Two Forty-Five.  
+p488
+tp489
+a(V ELAINE 
+p490
+V And what time's the funeral?  
+p491
+tp492
+a(V JERRY 
+p493
+V Two o' clock.  
+p494
+tp495
+a(V ELAINE 
+p496
+V How long does a funeral take?  
+p497
+tp498
+a(V JERRY 
+p499
+V Depends on how nice the person was. But you gotta figure, even Oswald took forty-five minutes.   
+p500
+tp501
+a(V ELAINE 
+p502
+V So you cna't do both?  
+p503
+tp504
+a(V JERRY 
+p505
+V You know, if the situation were reversed and Manya had some mah-jongg championship or something, I wouldn't expect her to go to my funeral. I would    understand.  
+p506
+tp507
+a(V ELAINE 
+p508
+V How can you even consider not going?    
+p509
+tp510
+a(V GEORGE 
+p511
+V You know, I've been thinking.. I cannot envision any circumstances in which I'll ever have the opportunity to have sex again. How's it gonna happen? I     just don't see how it could occur.  
+p512
+tp513
+a(V ELAINE 
+p514
+V You know, funerals always make me think about my own mortality and how I'm actually going to die someday. Me, dead. Imagine that.   
+p515
+tp516
+a(V GEORGE 
+p517
+V They always make me take stock of my life and how I've pretty much wasted all of it, and how I plan to continue wasting it.   
+p518
+tp519
+a(V JERRY 
+p520
+V I know, and then you say to yourself, "From this moment on, I'm not going to waste any more of it." But then you go, "How? What can I do that's not     wasting it?"  
+p521
+tp522
+a(V ELAINE 
+p523
+V Is this a waste of time? What should we be doing? Can't you hae coffee with people?   
+p524
+tp525
+a(V GEORGE 
+p526
+V You know, I can't believe you're even considering not playing. We need you. You're hitting everything.   
+p527
+tp528
+a(V ELAINE 
+p529
+V He has to go. He may have killed her.    
+p530
+tp531
+a(V JERRY 
+p532
+V Me? What about you? You brought up the pony.   
+p533
+tp534
+a(V ELAINE 
+p535
+V Oh, yeah, but I didn't say I hated anyone who had one.   
+p536
+tp537
+a(V GEORGE 
+p538
+V (To Jerry) Who's going to play left field?   
+p539
+tp540
+a(V JERRY 
+p541
+V Bender.  
+p542
+tp543
+a(V GEORGE 
+p544
+V Bender? He can't play left. He stinks. I just don't see what purpose is it going to serve your going? I mean, you think dead peole care who's at the     funeral? They don't even know they're having a funeral. It's not like she's hanging out in the back going, "I can't believe Jerry didn't show up."   
+p545
+tp546
+a(V ELAINE 
+p547
+V Maybe she's there in spirit. How about that?   
+p548
+tp549
+a(V GEORGE 
+p550
+V If you're a spirit, and you can travel to other dimensions and galaxies, and find out the mysteries of the universe, you think she's going to want to hang     around Drexler's funeral home on Ocean Parkway?  
+p551
+tp552
+a(V ELAINE 
+p553
+V George, I met this woman! She is not traveling to any other dimensions.    
+p554
+tp555
+a(V GEORGE 
+p556
+V You know how easy it is for dead people to travel? It's not like getting on a bus. One second. It's all mental.    
+p557
+tp558
+a(V JERRY 
+p559
+V Fifty years they were married. Now he's moving to Pheonix.   
+p560
+tp561
+a(V ELAINE 
+p562
+V Phoenix? What's happening with his appartment?    
+p563
+tp564
+a(V JERRY 
+p565
+V I don't know. They've been in there since, like, World War II. The rent's three hundred a month.   
+p566
+tp567
+a(V ELAINE 
+p568
+V Three hundred a month? Oh my God.   (Scene ends)   (Funeral home)   (The eulogy is in progress. Jerry attended afterall)  
+p569
+tp570
+a(V MAN 
+p571
+V Although this may seem like a sad even, it should not be a day of mourning.. for Manya had a rich, fulfilling life. She grew up in a different world - a simpler    world - with loving parents, a beautiful home in the country, and from what I understand, she eve had a pony.. (Jerry throws his hands up) Oh, how she loved that    pony. Even in her declining years, whenever she would speak of it, her eyes would light up. It's lustrous coat, it's flowing mane. It was the pride of Krakow. (Jery    sinks in his seat)   (Scene ends)   (Anteroom of funeral parlor)  
+p572
+tp573
+a(V JERRY 
+p574
+V (Looking at his watch) Well, the game's starting just about now.   
+p575
+tp576
+a(V HELEN 
+p577
+V It was good that the two of you came. It was a nice gesture.    (Scene cuts to Morty talking to an intern)  
+p578
+tp579
+a(V INTERN 
+p580
+V I'm not a doctor yet, Uncle Morty. I'm just an intern. I can't write a note to an airline.   
+p581
+tp582
+a(V MORTY 
+p583
+V You've got your degree. They don't care. They just want to see something.    (Scene cuts back to Jerry)  
+p584
+tp585
+a(V JERRY 
+p586
+V (To Isaac) I just wanted to say how sorry I was..   
+p587
+tp588
+a(V LEO 
+p589
+V (Interrupting) Jerry, you wanna hear something? Your cousin, Jeffrey, is switching parks. They're transferring him to Riverside - so he'll completely revamp that    operation, you understand? He'll do in Riverside what he did in Central Park. It's more money. So, that's your cousin.    (Scene cuts back to Morty)  
+p590
+tp591
+a(V MORTY 
+p592
+V You don't understand, I've never paid a full fare.   
+p593
+tp594
+a(V JERRY 
+p595
+V (To Isaac) Once again, I just want to say how sorry I am abou tthe other night.    
+p596
+tp597
+a(V ELAINE 
+p598
+V Oh, me too.  
+p599
+tp600
+a(V ISAAC 
+p601
+V Oh no, no, no. She forgot all about that. She was much mor upset about the potato salad.   
+p602
+tp603
+a(V ELAINE 
+p604
+V So, I understand you're moving to Phoenix?     (Jerry shake his head and walks away)  
+p605
+tp606
+a(V ISAAC 
+p607
+V Yeah, my brother lives there. I think Manya would've liked Phoenix.   
+p608
+tp609
+a(V ELAINE 
+p610
+V Mmm.. gorgeous, exquisite town. Who, what's happening with your apartment?    
+p611
+tp612
+a(V ISAAC 
+p613
+V Of course it's very hot there. I'l lhave to get an air conditioner.   
+p614
+tp615
+a(V ELAINE 
+p616
+V Oh, you can have mine. I'll ship it out ot you.. but what about that big apartment on West End Avenue?   
+p617
+tp618
+a(V ISAAC 
+p619
+V Although they say it's a dry heat.    
+p620
+tp621
+a(V ELAINE 
+p622
+V Dry, wet.. what's happening with your apartment?   
+p623
+tp624
+a(V ISAAC 
+p625
+V I don't even know if I should take my winter clothing.   
+p626
+tp627
+a(V ELAINE 
+p628
+V I have an idea. Leave the winter clothing in the apartment, and I'll watch it for you and I'll live there and I'll make sure that nothing happens to it.     (Jerry comes back)  
+p629
+tp630
+a(V ISAAC 
+p631
+V Oh, the apartment. Jeffrey's taking the apartment.   
+p632
+tp633
+a(V ELAINE 
+p634
+V (to Jerry) Oh, Jeffrey.  
+p635
+tp636
+a(V JERRY 
+p637
+V (To Elaine) You know Jeffery?  
+p638
+tp639
+a(V ELAINE 
+p640
+V Yeah, from what I understand, he works for the Parks Department.    (Helen approaches Jerry)  
+p641
+tp642
+a(V HELEN 
+p643
+V It's raining.  
+p644
+tp645
+a(V JERRY 
+p646
+V (Moves to the window) It's raining? It's raining. The game will be postponed. We'll play tomarrow.    (Scene cuts back to Morty)  
+p647
+tp648
+a(V MORTY 
+p649
+V Believe me, I wouldn't bother you if the army hadn't closed that base in Sarasota. Here, scribble a little something here.   
+p650
+tp651
+a(V INTERN 
+p652
+V I can't. I'll get in trouble.  
+p653
+tp654
+a(V MORTY 
+p655
+V Oh, for God's sakes!   (Scene ends)   (Coffee Shop)  
+p656
+tp657
+a(V GEORGE 
+p658
+V Who gets picked off in softball? It's unheard of.   
+p659
+tp660
+a(V JERRY 
+p661
+V It's never happend to me before.  
+p662
+tp663
+a(V ELAINE 
+p664
+V I remember saying to myself, "Why is Jerry so far off the base?"   
+p665
+tp666
+a(V JERRY 
+p667
+V I'll have to live with this shame for the rest of my life.   
+p668
+tp669
+a(V GEORGE 
+p670
+V And they in the fifth inning, why did you take off on the pop fly?   
+p671
+tp672
+a(V JERRY 
+p673
+V I thought there were two outs.  
+p674
+tp675
+a(V ELAINE 
+p676
+V I couldn't believe it when I saw you running. I thought maybe they had changed the rules or something.   
+p677
+tp678
+a(V JERRY 
+p679
+V It was the single worst moment of my life.   
+p680
+tp681
+a(V GEORGE 
+p682
+V What about Sharon Besser?  
+p683
+tp684
+a(V JERRY 
+p685
+V Oh, well, of course. 1973.  
+p686
+tp687
+a(V ELAINE 
+p688
+V Makes you wonder, though, doesn't it?    
+p689
+tp690
+a(V JERRY 
+p691
+V Wonder about what?  
+p692
+tp693
+a(V ELAINE 
+p694
+V You know.. the spirit world.  
+p695
+tp696
+a(V JERRY 
+p697
+V You think Manya showed up during the game and put a hex on me?   
+p698
+tp699
+a(V ELAINE 
+p700
+V I never saw anyone play like that.    
+p701
+tp702
+a(V JERRY 
+p703
+V But I went ot the funeral.  
+p704
+tp705
+a(V ELAINE 
+p706
+V Yeah, but that doesn't make up for killing her.   
+p707
+tp708
+a(V GEORGE 
+p709
+V Maybe Manya missed the funeral because she was off visiting another galaxy that day.   
+p710
+tp711
+a(V JERRY 
+p712
+V Don't you think she would've heard I was there?   
+p713
+tp714
+a(V GEORGE 
+p715
+V Not necessarily. (Elaine laughs)  
+p716
+tp717
+a(V JERRY 
+p718
+V Who figures and immigrant's gonna have a pony?    (Scene ends)   (Night Club)  
+p719
+tp720
+a.

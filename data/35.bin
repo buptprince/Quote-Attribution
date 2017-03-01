@@ -1,0 +1,1327 @@
+(lp0
+(V GEORGE 
+p1
+V  THE LIMO  Written by Larry Charles     (Comedy club)   Do you think that the people at the airport that run the stores have any idea   what the prices are every place else in the world? Or do you think they just   feel they have their own little country out there and they can charge anything   they want? You're hungry? Tuna sandwich is nine dollars. You don't like it;   go back to your own country. I think the whole airport airline complex is a   huge scam just to sell the tuna sandwiches. I think that profit is what's   supporting the whole air travel industry. I mean think about it; the terminals,   the airplanes, it's all just a distraction so that you don't notice the beating   that you're taking on the tuna.    George is at the airport.   It's all departures. I see nothing but departures. (to the woman   beside him) Do you know where the arrivals are?   The woman walks away. George addresses the man standing on the other side.   
+p2
+tp3
+a(V GEORGE 
+p4
+V Excuse me, sir, do you have the time?    
+p5
+tp6
+a(V MAN 
+p7
+V There's a clock over there.  
+p8
+tp9
+a(V GEORGE 
+p10
+V Where?  
+p11
+tp12
+a(V MAN 
+p13
+V There.  
+p14
+tp15
+a(V GEORGE 
+p16
+V But you have a watch on.  
+p17
+tp18
+a(V MAN 
+p19
+V It's right by the escalator.  
+p20
+tp21
+a(V GEORGE 
+p22
+V Why don't you just look at your watch?    
+p23
+tp24
+a(V MAN 
+p25
+V I told you, it's right over there.    
+p26
+tp27
+a(V GEORGE 
+p28
+V Let me see the watch.   George grabs the man's wrist.  
+p29
+tp30
+a(V MAN 
+p31
+V Hey! What are you, some kind of nut?!    
+p32
+tp33
+a(V GEORGE 
+p34
+V You know we're living in a society!     Jerry walks up from the ramp.  
+p35
+tp36
+a(V JERRY 
+p37
+V George.  
+p38
+tp39
+a(V GEORGE 
+p40
+V Jerry. Jerry.  
+p41
+tp42
+a(V JERRY 
+p43
+V Sorry, the flight was delayed, how long've you been waiting?   
+p44
+tp45
+a(V GEORGE 
+p46
+V I just got here. My car broke down on the Belt Parkway.    Jerry, Oh I can't believe-- why don't you get rid of that piece of junk.   
+p47
+tp48
+a(V GEORGE 
+p49
+V One mile from the exit it starts shaking, really violently shaking,   like it's having a nervous breakdown. It completely stopped dead.    
+p50
+tp51
+a(V JERRY 
+p52
+V So you have no car?  
+p53
+tp54
+a(V GEORGE 
+p55
+V No.  
+p56
+tp57
+a(V JERRY 
+p58
+V So what good are you?   Jerry looks over towards a chauffer holding a sign that says  O'BRIEN   
+p59
+tp60
+a(V JERRY 
+p61
+V I'll tell you one thing, this chauffeur's gonna be waiting a while,   O'Brien's not showing up.  
+p62
+tp63
+a(V GEORGE 
+p64
+V How do you know?  
+p65
+tp66
+a(V JERRY 
+p67
+V He was in Chicago, the flight was overbooked, wouldn't let him on the   plane. He kept screaming how he had to get to Madison Square Garden.   
+p68
+tp69
+a(V GEORGE 
+p70
+V We should take his limo.  
+p71
+tp72
+a(V JERRY 
+p73
+V Yeah, right.  
+p74
+tp75
+a(V GEORGE 
+p76
+V Wait a second. Think about it. He's not showing up. Wait till you   see the line of cabs, its like forty-five minutes long. You said he's in   Chicago.  
+p77
+tp78
+a(V JERRY 
+p79
+V He's definitely in Chicago.  
+p80
+tp81
+a(V GEORGE 
+p82
+V Well the guy's just standing there.    
+p83
+tp84
+a(V JERRY 
+p85
+V How would we do it?  
+p86
+tp87
+a(V GEORGE 
+p88
+V We just go up to him, we say, "We're O'Brien."   
+p89
+tp90
+a(V JERRY 
+p91
+V Maybe he knows O'Brien?  
+p92
+tp93
+a(V GEORGE 
+p94
+V No, he doesn't know O'Brien, if he knew O'Brien he wouldn't have a   sign. Let's just do it.  
+p95
+tp96
+a(V JERRY 
+p97
+V What if we get caught?  
+p98
+tp99
+a(V GEORGE 
+p100
+V What's gonna happen? They can't kill us.   
+p101
+tp102
+a(V JERRY 
+p103
+V Who's gonna be O'Brien?  
+p104
+tp105
+a(V GEORGE 
+p106
+V I'll be O'Brien.  
+p107
+tp108
+a(V JERRY 
+p109
+V Who am I?  
+p110
+tp111
+a(V GEORGE 
+p112
+V You're you.  
+p113
+tp114
+a(V JERRY 
+p115
+V Just me?  
+p116
+tp117
+a(V GEORGE 
+p118
+V Yeah.  
+p119
+tp120
+a(V JERRY 
+p121
+V Okay.  
+p122
+tp123
+a(V GEORGE 
+p124
+V What, you don't want to be you?  
+p125
+tp126
+a(V JERRY 
+p127
+V Well if you're gonna be O'Brien, why can't I be somebody?   
+p128
+tp129
+a(V GEORGE 
+p130
+V Like who?  
+p131
+tp132
+a(V JERRY 
+p133
+V Dylan Murphy.   George mumbles something.  
+p134
+tp135
+a(V JERRY 
+p136
+V What, now you wanna be Dylan Murphy?    
+p137
+tp138
+a(V GEORGE 
+p139
+V Well I like Dylan.  
+p140
+tp141
+a(V JERRY 
+p142
+V You could be Colin.  
+p143
+tp144
+a(V GEORGE 
+p145
+V Colin O'Brien.  
+p146
+tp147
+a(V JERRY 
+p148
+V I'm Dylan Murphy.  
+p149
+tp150
+a(V GEORGE 
+p151
+V I'm Colin O'Brien.   They walk towards the chauffer.  
+p152
+tp153
+a(V GEORGE 
+p154
+V Are we really doing this?  
+p155
+tp156
+a(V JERRY 
+p157
+V Come on,  
+p158
+tp159
+a(V MAN 
+p160
+V Hey, do you have the time?  
+p161
+tp162
+a(V GEORGE 
+p163
+V Clock over there. (to chauffer) O'Brien.    
+p164
+tp165
+a(V CHAUFFER 
+p166
+V Yes sir.  
+p167
+tp168
+a(V GEORGE 
+p169
+V Sorry we're late.  
+p170
+tp171
+a(V CHAUFFER 
+p172
+V Here let me take that for you.  
+p173
+tp174
+a(V GEORGE 
+p175
+V Oh thank you.  
+p176
+tp177
+a(V CHAUFFER 
+p178
+V I'll get the car and I'll bring it around front.   
+p179
+tp180
+a(V GEORGE 
+p181
+V Thank you very much. Dylan?  
+p182
+tp183
+a(V JERRY 
+p184
+V Colin?     George and Jerry are in the back of a limo. George is giddy with excitement.   
+p185
+tp186
+a(V GEORGE 
+p187
+V This is incredible! This is one of the greatest things I've ever done   in my life! I'm gonna call my mother.  
+p188
+tp189
+a(V JERRY 
+p190
+V What for?  
+p191
+tp192
+a(V GEORGE 
+p193
+V I dunno, I'm in a limo. (dials) Hello ma? It's me. Guess where I am.   In the back of a limo. No, nobody died. It's a long story, I can't tell you   now. Because I can't. I said I can't. If I could, I would. Would you stop   it? Alright, look, I'm getting off. No, I'm not telling you! How's this? I'm   *never* telling you! I don't care! No! Fine! Never!!  
+p194
+tp195
+a(V JERRY 
+p196
+V She happy for you?  
+p197
+tp198
+a(V GEORGE 
+p199
+V Can he hear us?  
+p200
+tp201
+a(V JERRY 
+p202
+V No. Why?  
+p203
+tp204
+a(V GEORGE 
+p205
+V I thought I saw him look in the mirror suspiciously.   
+p206
+tp207
+a(V JERRY 
+p208
+V He can't hear us.  
+p209
+tp210
+a(V GEORGE 
+p211
+V Let's test him. Hey, driver. What do you say we stop off, pick up   your sister, have a little fun back here? No, he can't hear us.    
+p212
+tp213
+a(V JERRY 
+p214
+V Where's he dropping us? Maybe we can get him to drop us right at my   house?  
+p215
+tp216
+a(V GEORGE 
+p217
+V We'll ask him. (opens partition) My dear fellow, where are you   dropping us?  
+p218
+tp219
+a(V CHAUFFER 
+p220
+V Madison Square Garden, of course. I have the four passes.   
+p221
+tp222
+a(V GEORGE 
+p223
+V Of course, the uh, the four passes. (closes partition) Four passes to    Madison Square Garden? Wait a minute. Wait a minute! Of course! Chicago!   The Knicks are playing the Bulls tonight!  
+p224
+tp225
+a(V JERRY 
+p226
+V What?  
+p227
+tp228
+a(V GEORGE 
+p229
+V We are going to the Knick game! Michael Jordan!   
+p230
+tp231
+a(V JERRY 
+p232
+V We're going to the Knick game!  
+p233
+tp234
+a(V GEORGE 
+p235
+V Did I tell you?! Did I tell you?!  
+p236
+tp237
+a(V JERRY 
+p238
+V I can't believe it! You may have hit with this one!   
+p239
+tp240
+a(V GEORGE 
+p241
+V You see, you see? I see things as they are and I say, 'no!' Uh, wait,   you see things as they are not and you s- Wait, uh, you see things, do you see   things as they are? What do you say when you see things?  
+p242
+tp243
+a(V JERRY 
+p244
+V Lemme call Elaine and Kramer.  
+p245
+tp246
+a(V GEORGE 
+p247
+V If I see things as they are, I would ask 'why' or 'why not?'   
+p248
+tp249
+a(V JERRY 
+p250
+V Elaine? It's me. What are you doing tonight? Great. George and I   have tickets, four free passes to the Knicks-Bulls game, Madison Square Garden.   Can you go? Great, listen, call Kramer, tell him to meet us on the corner at   seven o'clock. Alright. We're gonna pick you up in a limo. That's right   babydoll. Hey listen, when we pick you up, I'm Murphy and George is O'Brien. I   can't tell you now, it's a long story. I am serious. Okay. Okay bye. (opens   partition) 'Scuse me, driver, we have to make a little stop first.    
+p251
+tp252
+a(V CHAUFFER 
+p253
+V I know.  
+p254
+tp255
+a(V JERRY AND GEORGE 
+p256
+V He knows?  
+p257
+tp258
+a(V GEORGE 
+p259
+V Where are we going? Why are we pulling off here?   
+p260
+tp261
+a(V JERRY 
+p262
+V Maybe it's a shortcut.  
+p263
+tp264
+a(V GEORGE 
+p265
+V We're on the Grand Central, there's no traffic.   
+p266
+tp267
+a(V JERRY 
+p268
+V (opens partition) 'Scuse me, driver, why are we getting off this exit?    
+p269
+tp270
+a(V CHAUFFER 
+p271
+V Pick up the other members of your party.    
+p272
+tp273
+a(V GEORGE 
+p274
+V Right. The other members of our party. (closes partition) Other   members of our party? What other members of our party? I didn't even know we   were in a party. Oh, I'm telling you, the jig is up.  
+p275
+tp276
+a(V JERRY 
+p277
+V It was a bad jig to begin with, we never should have started this jig.   
+p278
+tp279
+a(V GEORGE 
+p280
+V It was a good jig.  
+p281
+tp282
+a(V JERRY 
+p283
+V It was a bad jig, a terrible terrible jig. What are we gonna do now?   They're gonna know you're not O'Brien.  
+p284
+tp285
+a(V GEORGE 
+p286
+V There could be more than one O'Brien on a plane who ordered a limo.   
+p287
+tp288
+a(V JERRY 
+p289
+V First of all, you don't look like any O'Brien, period.   
+p290
+tp291
+a(V GEORGE 
+p292
+V Well you should have been O'Brien.    
+p293
+tp294
+a(V JERRY 
+p295
+V I don't want to be Murphy anymore; do I still have to be Murphy?   
+p296
+tp297
+a(V GEORGE 
+p298
+V Yes, you have to be Murphy.  
+p299
+tp300
+a(V JERRY 
+p301
+V It makes no sense now, me being Murphy.    
+p302
+tp303
+a(V GEORGE 
+p304
+V You're Murphy!  
+p305
+tp306
+a(V JERRY 
+p307
+V I'm Seinfeld!  
+p308
+tp309
+a(V GEORGE 
+p310
+V You're Murphy!! Look, let's just jump out of the car.   
+p311
+tp312
+a(V JERRY 
+p313
+V We're doing sixty miles an hour!  
+p314
+tp315
+a(V GEORGE 
+p316
+V So we jump and roll, you won't get hurt.    
+p317
+tp318
+a(V JERRY 
+p319
+V Who are you, Mannix?  
+p320
+tp321
+a(V GEORGE 
+p322
+V We're slowing down. Are those the people?    
+p323
+tp324
+a(V JERRY 
+p325
+V Alright put your hands up over your face, pretend you're sleeping.    The limo pulls over, two people, a man (Tim) and a woman (Eva), get in.   
+p326
+tp327
+a(V WOMAN 
+p328
+V Mr. O'Brien?  
+p329
+tp330
+a(V JERRY 
+p331
+V No, I'm, uh, Dylan Murphy. Mr. O'Brien had a long trip, he's sleeping.   
+p332
+tp333
+a(V EVA 
+p334
+V Oh, well I don't want to disturb him. We're just rather   excited to meet him face to face, finally. We're faithful readers of his   newsletter.  
+p335
+tp336
+a(V JERRY 
+p337
+V Newsletter?  
+p338
+tp339
+a(V TIM 
+p340
+V And of course, his great book, "The Game".   
+p341
+tp342
+a(V JERRY 
+p343
+V Oh, yes, he's very proud of his work in the big game. So you've never   uh, met him before?  
+p344
+tp345
+a(V EVA 
+p346
+V No.  
+p347
+tp348
+a(V JERRY 
+p349
+V Never seen a picture of him?  
+p350
+tp351
+a(V EVA 
+p352
+V Never.  
+p353
+tp354
+a(V JERRY 
+p355
+V Not even on the book jacket?  
+p356
+tp357
+a(V EVA 
+p358
+V There was no picture on the book jacket.    
+p359
+tp360
+a(V JERRY 
+p361
+V Hey O'Brien, wake up, c'mon, we got company. Wake up.   
+p362
+tp363
+a(V GEORGE 
+p364
+V Hello. I'm O'Brien.     Elaine meets Kramer of Jerry's corner.  
+p365
+tp366
+a(V KRAMER 
+p367
+V Hey!  
+p368
+tp369
+a(V ELAINE 
+p370
+V Hey!  
+p371
+tp372
+a(V KRAMER 
+p373
+V What, you took a cab?  
+p374
+tp375
+a(V ELAINE 
+p376
+V Yeah? So?  
+p377
+tp378
+a(V KRAMER 
+p379
+V How much do you make?  
+p380
+tp381
+a(V ELAINE 
+p382
+V I'm not telling you.  
+p383
+tp384
+a(V KRAMER 
+p385
+V C'mon.  
+p386
+tp387
+a(V ELAINE 
+p388
+V No!  
+p389
+tp390
+a(V KRAMER 
+p391
+V I'll tell you how much I make.  
+p392
+tp393
+a(V ELAINE 
+p394
+V I know how much you make. I don't even know why I'm doing this, I   don't even like basketball.  
+p395
+tp396
+a(V KRAMER 
+p397
+V You ever seen Michael Jordan?  
+p398
+tp399
+a(V ELAINE 
+p400
+V Just in those commercials.  
+p401
+tp402
+a(V KRAMER 
+p403
+V Maybe you'll see him do one of those three-sixty dunks.   
+p404
+tp405
+a(V ELAINE 
+p406
+V What's that?  
+p407
+tp408
+a(V KRAMER 
+p409
+V Oh, it's like this, here, you guard me.   
+p410
+tp411
+a(V ELAINE 
+p412
+V Huh?  
+p413
+tp414
+a(V KRAMER 
+p415
+V Yeah.   Kramer then drives to 'the hoop' and tumbles headfirst into a bunch of garbage   cans.    Cut back to 'O'Brien' and 'Murphy' in the limo.  
+p416
+tp417
+a(V JERRY 
+p418
+V I don't think we're gonna make the tip off.   
+p419
+tp420
+a(V TIM 
+p421
+V You think someone's been tipped off?    
+p422
+tp423
+a(V GEORGE 
+p424
+V So, um, you've read "The Big Game", have you?   
+p425
+tp426
+a(V EVA 
+p427
+V Yes I've read it and I've memorized it.   
+p428
+tp429
+a(V GEORGE 
+p430
+V Tell me your impressions, I would love to hear what a young woman   thinks of "The Big Game".  
+p431
+tp432
+a(V EVA 
+p433
+V Well, this is sort of embarrassing, but it's changed my life. The way you    analyzed the game? The way you identify the major players? Well it left me   breathless. You're a brilliant, brilliant man.  
+p434
+tp435
+a(V GEORGE 
+p436
+V Well, it's just a game. Remember that, kids.   
+p437
+tp438
+a(V TIM 
+p439
+V Just a game. He's so humble. Don't forget what you wrote in the   epilogue, the fate of the world depends on the outcome of this game.   
+p440
+tp441
+a(V GEORGE 
+p442
+V Well, I was exaggerating a bit, just for effect.   
+p443
+tp444
+a(V JERRY 
+p445
+V He tends to exaggerate.  
+p446
+tp447
+a(V GEORGE 
+p448
+V Okay, I mean it's serious but--  
+p449
+tp450
+a(V EVA 
+p451
+V We are really looking forward to your speech tonight.   
+p452
+tp453
+a(V GEORGE 
+p454
+V Uh, my speech?  
+p455
+tp456
+a(V EVA 
+p457
+V Yes, your secretary faxed me the copy. Would you like to look it over?   
+p458
+tp459
+a(V JERRY 
+p460
+V Well you might as well look it over.      Cut back to Kramer and Elaine waiting on the corner.  
+p461
+tp462
+a(V KRAMER 
+p463
+V So what's going on, how did all this happen?   
+p464
+tp465
+a(V ELAINE 
+p466
+V Jerry and George called me from this limo and they said we're all going    to the Knicks-Bulls game.  
+p467
+tp468
+a(V KRAMER 
+p469
+V Limo? I thought that George went to pick him up.   
+p470
+tp471
+a(V ELAINE 
+p472
+V He did.  
+p473
+tp474
+a(V KRAMER 
+p475
+V Well then why would they take a limo from the airport?   
+p476
+tp477
+a(V ELAINE 
+p478
+V I don't know.  
+p479
+tp480
+a(V KRAMER 
+p481
+V That's pretty strange. Did he say anything else?   
+p482
+tp483
+a(V ELAINE 
+p484
+V Yeah. He said, um, he said it's really important that we call them   O'Brien and Murphy.  
+p485
+tp486
+a(V KRAMER 
+p487
+V O'Brien. Why would he want to be called O'Brien?     Cut back to the limo, George is reading from O'Brien's speech.    
+p488
+tp489
+a(V GEORGE 
+p490
+V ...and the Jews steal our money through their Zionist occupied   government and use the black man to bring drugs into our oppressed white   minority communities.  
+p491
+tp492
+a(V JERRY 
+p493
+V You're not going to open with that, are you?   
+p494
+tp495
+a(V EVA 
+p496
+V What was that you said about the myth of the Holocaust?   
+p497
+tp498
+a(V GEORGE 
+p499
+V I said so many things.   Suddenly they hear a loud bang.  
+p500
+tp501
+a(V GEORGE 
+p502
+V They're shooting! They're shooting!    
+p503
+tp504
+a(V TIM 
+p505
+V Alright, get down!   The limo comes to a screeching halt. Tim exits the limo to look around, Eva has   fallen on top of George.   Eva. Ohhh. I'm ready to die for you.  
+p506
+tp507
+a(V GEORGE 
+p508
+V That's really very nice of you, Eva. Thank you.   
+p509
+tp510
+a(V EVA 
+p511
+V But of course you know I would. I would do anything for you. Anything.    Tim returns.  
+p512
+tp513
+a(V TIM 
+p514
+V Nothing to worry about, it was just a flat tire. But rest assured, we're    prepared to handle anything that might come up.   Tim opens a briefcase filled with firearms. Eva grabs one and starts handling   it sensually.  
+p515
+tp516
+a(V JERRY 
+p517
+V Nice looking Lugar.     Jodi Baskerville, reporting live.  
+p518
+tp519
+a(V JODI 
+p520
+V I'm standing in front of the Paramount adjacent to Madison Square Garden    where a growing number of vociferous and angry demonstrators are gathering to   protest the very first public appearance of Donald O'Brien, the leader of the   midwestern regional chapter of the Aryan Union, and reputed to be their most   charismatic spokesman. The reclusive Mr. O'Brien is an advocate of the violent   overthrow of the government. He has openly professed a deep admiration of Adolf   Hitler. Even David Duke has denounced him as a dangerous extremist. There is a   full house inside awaiting his arrival from the airport. Sources tell me he is   in route and should be arriving momentarily. Police have set up barricades, but   quite frankly Bill and Jean, I don't think they're any match for the emotional   fuse that has been lit here tonight. Reporting from the Paramount, I'm Jodi   Baskerville, back to you in the studio.    Cut back to Kramer and Elaine on the corner.  
+p521
+tp522
+a(V KRAMER 
+p523
+V Something's very strange. George goes to the airport to pick up Jerry.   They come back in a limo with four tickets to the basketball game and wanna be   called O'Brien and Murphy? O'Brien. O'Brien, why O'Brien?   A group of people approach from the adjacent sidewalk. One of them recognized   Elaine.  
+p524
+tp525
+a(V DAN 
+p526
+V Elaine?  
+p527
+tp528
+a(V ELAINE 
+p529
+V Dan! Oh, hi Dan, how are you?  
+p530
+tp531
+a(V DAN 
+p532
+V Good.  
+p533
+tp534
+a(V ELAINE 
+p535
+V Um, oh, this is um, Kramer.  
+p536
+tp537
+a(V DAN 
+p538
+V Oh, Kramer?   They shake hands.  
+p539
+tp540
+a(V ELAINE 
+p541
+V What's going on?  
+p542
+tp543
+a(V DAN 
+p544
+V Oh, we're heading down to protest this big neo-nazi rally. The head of   the Aryan Union is speaking, he's in from Chicago. You should come.   
+p545
+tp546
+a(V ELAINE 
+p547
+V Oh, can't, I'm going to the Knicks-Bulls game.   
+p548
+tp549
+a(V DAN 
+p550
+V Oh, well that's where the rally is. The Paramount, right next door.   
+p551
+tp552
+a(V ELAINE 
+p553
+V Oh, well, maybe we'll run into you.    
+p554
+tp555
+a(V DAN 
+p556
+V Yeah, yeah ok. It's really gonna be something, this is the first time    he's ever appeared in public, no one even knows what he looks like.   
+p557
+tp558
+a(V KRAMER 
+p559
+V Who?  
+p560
+tp561
+a(V DAN 
+p562
+V The head of the Aryan Union; O'Brien.      Cut back to the limo. Jerry and George are alone inside.  
+p563
+tp564
+a(V JERRY 
+p565
+V What's taking him so long out there?    
+p566
+tp567
+a(V GEORGE 
+p568
+V Didja see the way she was looking at me?   
+p569
+tp570
+a(V JERRY 
+p571
+V She's a Nazi, George. A Nazi!  
+p572
+tp573
+a(V GEORGE 
+p574
+V I know, I know. Kind of a cute Nazi though.   
+p575
+tp576
+a(V JERRY 
+p577
+V Well we gotta make a plan before they come back, what are we gonna do?   
+p578
+tp579
+a(V GEORGE 
+p580
+V I don't know.  
+p581
+tp582
+a(V JERRY 
+p583
+V Let's just make a run for it.  
+p584
+tp585
+a(V GEORGE 
+p586
+V I can't run, I have a bad hamstring.    
+p587
+tp588
+a(V JERRY 
+p589
+V How'd that happen?  
+p590
+tp591
+a(V GEORGE 
+p592
+V I hurt it in a hotel room. You know where they tuck the covers in real    tight in those hotel rooms? I can't sleep like that so I tried to kick it out   and I pulled it.  
+p593
+tp594
+a(V JERRY 
+p595
+V I know, why do they make that bed so tight? You gotta sleep with your   feet like that.  
+p596
+tp597
+a(V GEORGE 
+p598
+V For a mental patient. Wait a minute, the phone, we'll call the police.     George grabs the phone and dials.  
+p599
+tp600
+a(V GEORGE 
+p601
+V 9... 1... 1. She said she'd do anything. Hello, police? Uh, yeah   listen, we're in the back of a limo in Queens--   Tim re-enters the limo.  
+p602
+tp603
+a(V GEORGE 
+p604
+V --Astroturf? You know who's responsible for that, don't you?! The   Jews! Ah, the Jews hate grass. They always have, they always will.   
+p605
+tp606
+a(V TIM 
+p607
+V We'll be ready in a minute.  
+p608
+tp609
+a(V GEORGE 
+p610
+V Would you excuse us for a minute Tim boy, we're kind of in the middle   of something.  
+p611
+tp612
+a(V TIM 
+p613
+V With all due respect, Mr. O'Brien, we're just about to leave.   
+p614
+tp615
+a(V GEORGE 
+p616
+V Tim, who's the head of the Aryan Union, you or me?   
+p617
+tp618
+a(V TIM 
+p619
+V You are.  
+p620
+tp621
+a(V GEORGE 
+p622
+V And who's responsible for making hate mongering and fascism popular   again?  
+p623
+tp624
+a(V TIM 
+p625
+V You are.  
+p626
+tp627
+a(V GEORGE 
+p628
+V Good. I think you forgot something.    
+p629
+tp630
+a(V TIM 
+p631
+V I'm sorry.  
+p632
+tp633
+a(V GEORGE 
+p634
+V Good. Now get out.   Tim leaves.  
+p635
+tp636
+a(V GEORGE 
+p637
+V Okay, what are we gonna do?  
+p638
+tp639
+a(V JERRY 
+p640
+V I don't know.  
+p641
+tp642
+a(V GEORGE 
+p643
+V Alright, how's this? We wait till we get to your street corner, we see    Elaine and Kramer then we get out. They can't shoot us in the city.   
+p644
+tp645
+a(V JERRY 
+p646
+V Nah. No one's ever been shot in the city.     Cut back to Elaine and Kramer on the corner.  
+p647
+tp648
+a(V KRAMER 
+p649
+V I'm telling you, something's going on. I can feel it, sense it.   
+p650
+tp651
+a(V ELAINE 
+p652
+V I'm sure he was just joking around.    
+p653
+tp654
+a(V KRAMER 
+p655
+V Oh no no no, this is no joke. O'Brien's coming in from Chicago,   Jerry's in a limo, says he's O'Brien? That's not funny. Oh my god. Yes. Yes!   
+p656
+tp657
+a(V ELAINE 
+p658
+V What is it?  
+p659
+tp660
+a(V KRAMER 
+p661
+V Don't you see? There's always been something very strange about Jerry,   always so clean and organized. Do I have to spell it out for you? The limo?   The name? The rally at Madison Square Garden? Jerry, O'Brien are the same   person. Jerry is the leader of the Aryan Union!  
+p662
+tp663
+a(V ELAINE 
+p664
+V Jerry's a nazi?!  
+p665
+tp666
+a(V KRAMER 
+p667
+V I can't believe I didn't see it.  
+p668
+tp669
+a(V ELAINE 
+p670
+V Listen, you idiot! Just calm down! I know Jerry, he's not a nazi.   
+p671
+tp672
+a(V KRAMER 
+p673
+V You don't think so.  
+p674
+tp675
+a(V ELAINE 
+p676
+V No, he's just neat.    Cut back to the limo.  
+p677
+tp678
+a(V TIM 
+p679
+V You know it's funny. You don't look like an O'Brien.   
+p680
+tp681
+a(V GEORGE 
+p682
+V Me??   George and Jerry laugh nervously.  
+p683
+tp684
+a(V TIM 
+p685
+V And you really don't look like a Murphy.    
+p686
+tp687
+a(V JERRY 
+p688
+V I may not look like a Murphy but I act like a Murphy.   
+p689
+tp690
+a(V GEORGE 
+p691
+V He's extremely Murphy. He's Murphy to a fault.   
+p692
+tp693
+a(V TIM 
+p694
+V Where are you from?  
+p695
+tp696
+a(V JERRY 
+p697
+V Dublin. Originally. Parents came over here when I was eighteen.   Cereal famine. Couldn't get a bowl anywhere. Bad. 'Tis a beautiful country   though; lush rolling hills, and the peat, ah the peat.  
+p698
+tp699
+a(V TIM 
+p700
+V Sounds more like Scottish.  
+p701
+tp702
+a(V JERRY 
+p703
+V We were right on the border.    Cut back to the street corner.  
+p704
+tp705
+a(V KRAMER 
+p706
+V Maybe he's with the company.  
+p707
+tp708
+a(V ELAINE 
+p709
+V What?  
+p710
+tp711
+a(V KRAMER 
+p712
+V The CIA! Maybe they placed him in there to infiltrate the organization   from within.  
+p713
+tp714
+a(V ELAINE 
+p715
+V What about his comedy act?  
+p716
+tp717
+a(V KRAMER 
+p718
+V That's the perfect cover! All that time on the road? Look Jerry, he's   too normal to be a comedian. These comedians, they're sick, neurotic people.   
+p719
+tp720
+a(V ELAINE 
+p721
+V What about George?  
+p722
+tp723
+a(V KRAMER 
+p724
+V What about him, he's part of it. His whole personality is a disguise.   No real person can act the way he does. Elaine, I'm telling you they're with   the organization. They're all part of it. He's in there with Helms and Hunt   and Liddy, that whole crowd. George and Jerry, they probably know who killed   Kennedy!  
+p725
+tp726
+a(V ELAINE 
+p727
+V I'll bet they were even in on it.  
+p728
+tp729
+a(V KRAMER 
+p730
+V Alright, what are we gonna do? I'm not gonna let him hurt you. (grabs   and hugs Elaine tightly) I'm not gonna.  
+p731
+tp732
+a(V ELAINE 
+p733
+V Kramer, you're hurting me!    Quick cut to the now approaching limo.  
+p734
+tp735
+a(V GEORGE 
+p736
+V Those are my friends I was telling you about. We're gonna talk to   them, pull over.  
+p737
+tp738
+a(V ELAINE 
+p739
+V Get off of me!!   The limo pulls over and George and Jerry get out.  
+p740
+tp741
+a(V KRAMER 
+p742
+V O'Brien.   This attracts the attention of Dan and his friends standing at a nearby bus   stop.  
+p743
+tp744
+a(V MAN 
+p745
+V O'Brien? Is that him?   MAN #2  Yeah, that's him.   MAN #3  Look there's O'Brien!   MAN #4  Filthy nazi bastard!   ALL FOUR  Let's get him!!   They begin running full speed towards the gang.  
+p746
+tp747
+a(V GEORGE 
+p748
+V What do I do?! What do I do?!  
+p749
+tp750
+a(V JERRY 
+p751
+V Get in the car! Get in the car!   George, Elaine, Jerry and Kramer all jump into the limo which speeds off.   
+p752
+tp753
+a(V KRAMER 
+p754
+V O'Brien. Long time no see. How's tricks, Murphy?   
+p755
+tp756
+a(V TIM 
+p757
+V Why did you call him O'Brien and him Murphy?   
+p758
+tp759
+a(V JERRY 
+p760
+V No, he was talking to me, he's cross-eyed.    
+p761
+tp762
+a(V ELAINE 
+p763
+V It could be very confusing.   The limo phone rings Kramer answers it.  
+p764
+tp765
+a(V KRAMER 
+p766
+V Yeah? Eva?  
+p767
+tp768
+a(V EVA 
+p769
+V It's for me. (takes phone) Hello? (cups receiver) It's O'Brien.   
+p770
+tp771
+a(V KRAMER 
+p772
+V O'Brien? Well that's weird.  
+p773
+tp774
+a(V EVA 
+p775
+V Who are you?   George and Jerry begin simultaneous explanations about how George's car broke   down when he went to pick Jerry up at the airport.    Cut back to Jodi Baskerville, reporting live.  
+p776
+tp777
+a(V JODI 
+p778
+V A limousine has just pulled up it's being surrounded by a huge group of    protestors, this has the makings of a very ugly scene.   Cut back to the limo, Elaine has joined the group explanation, none of the three   are intelligible at this point.  
+p779
+tp780
+a(V JODI 
+p781
+V They are banging on the car, trying to flip it over. The police seem   unable or unwilling to control the crowd, I would imagine Mr. O'Brien must be   having some very grave doubts if he made the right choice for his first public   appearance.   Cut back to the limo. The explanations are becoming more heated and less   understandable, the limo is rocking violently and Tim and Eva are becoming   unnerved.  
+p782
+tp783
+a(V EVA 
+p784
+V Get out!!  
+p785
+tp786
+a(V ELAINE 
+p787
+V Look, it's Dan! Hi Dan!  
+p788
+tp789
+a(V DAN 
+p790
+V Elaine?  
+p791
+tp792
+a(V ELAINE 
+p793
+V Hey!    Cut to George in front of a news camera, the on screen graphic says 'DONALD   O'BRIEN Leader of the Aryan Union'.  
+p794
+tp795
+a.
