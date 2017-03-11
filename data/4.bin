@@ -1,1082 +1,1082 @@
 (lp0
-(V JERRY 
-p1
-V  THE STOCK TIP  Written by Larry David & Jerry Seinfeld     (Nightclub)   Went out to dinner the other night. Check came at the end of the meal, as it always does. Never liked the check at the end of the meal system, because     money's a very different thing before and after you eat. Before you eat money has no value. And you don't care about money when you're hungry, you sit down at a    restaurant. You're like the ruler of an empire. "More drinks, appetizers, quickly, quickly! It will be the greatest meal of our lives." Then after the meal, you know,    you've got the pants open, you've got the napkins destroyed, cigarette butt in the mashed potatoes - then the check comes at that moment. People are always upset,    you know. They're mystified by the check. "What is this? How could this be?" They start passing it around the table, "Does this look right to you? We're not hungry    now. Why are we buying all this food?!"    I think Superman probably has a very good sense of humor.   
+(lp1
+V JERRY 
 p2
-tp3
-a(V GEORGE 
-p4
-V I never heard him say anything really funny.   
+aV  THE STOCK TIP  Written by Larry David & Jerry Seinfeld     (Nightclub)   Went out to dinner the other night. Check came at the end of the meal, as it always does. Never liked the check at the end of the meal system, because     money's a very different thing before and after you eat. Before you eat money has no value. And you don't care about money when you're hungry, you sit down at a    restaurant. You're like the ruler of an empire. "More drinks, appetizers, quickly, quickly! It will be the greatest meal of our lives." Then after the meal, you know,    you've got the pants open, you've got the napkins destroyed, cigarette butt in the mashed potatoes - then the check comes at that moment. People are always upset,    you know. They're mystified by the check. "What is this? How could this be?" They start passing it around the table, "Does this look right to you? We're not hungry    now. Why are we buying all this food?!"    I think Superman probably has a very good sense of humor.   
+p3
+aa(lp4
+V GEORGE 
 p5
-tp6
-a(V JERRY 
-p7
-V But it's common sense. He's got super strength, super speed.. I'm sure he's got super humor.   
+aV I never heard him say anything really funny.   
+p6
+aa(lp7
+V JERRY 
 p8
-tp9
-a(V GEORGE 
-p10
-V You would think that, but either you're born with a sense of humor, or you're not. It's not going to change even if you go from the red sun of Krypton all     the way to the yellow sun of the Earth.  
+aV But it's common sense. He's got super strength, super speed.. I'm sure he's got super humor.   
+p9
+aa(lp10
+V GEORGE 
 p11
-tp12
-a(V JERRY 
-p13
-V Why? Why would that one area of his mind not be affected by the yellow sun of Earth?   
+aV You would think that, but either you're born with a sense of humor, or you're not. It's not going to change even if you go from the red sun of Krypton all     the way to the yellow sun of the Earth.  
+p12
+aa(lp13
+V JERRY 
 p14
-tp15
-a(V GEORGE 
-p16
-V I don't know but he ain't funny.   (Elaine joins them, they check their watches.)  
+aV Why? Why would that one area of his mind not be affected by the yellow sun of Earth?   
+p15
+aa(lp16
+V GEORGE 
 p17
-tp18
-a(V ELAINE 
-p19
-V I know, I know. I'm sorry I'm late.    
+aV I don't know but he ain't funny.   (Elaine joins them, they check their watches.)  
+p18
+aa(lp19
+V ELAINE 
 p20
-tp21
-a(V JERRY 
-p22
-V No problem.  
+aV I know, I know. I'm sorry I'm late.    
+p21
+aa(lp22
+V JERRY 
 p23
-tp24
-a(V ELAINE 
-p25
-V I dropped a grape.  
+aV No problem.  
+p24
+aa(lp25
+V ELAINE 
 p26
-tp27
-a(V GEORGE 
-p28
-V Pardon?  
+aV I dropped a grape.  
+p27
+aa(lp28
+V GEORGE 
 p29
-tp30
-a(V ELAINE 
-p31
-V I dropped a grape in the kitchen and it disappeared. I couldn't find it. I was... I was literally on my knees for ten minutes looking for this stupid grape. I    have no idea where it went.  
+aV Pardon?  
+p30
+aa(lp31
+V ELAINE 
 p32
-tp33
-a(V JERRY 
-p34
-V Were you crying? I mean, it's just a grape. You'll find it.   
+aV I dropped a grape in the kitchen and it disappeared. I couldn't find it. I was... I was literally on my knees for ten minutes looking for this stupid grape. I    have no idea where it went.  
+p33
+aa(lp34
+V JERRY 
 p35
-tp36
-a(V ELAINE 
-p37
-V No, I'm just getting over an allergy attack. This guy I'm going out with  -   
+aV Were you crying? I mean, it's just a grape. You'll find it.   
+p36
+aa(lp37
+V ELAINE 
 p38
-tp39
-a(V JERRY 
-p40
-V Robert.  
+aV No, I'm just getting over an allergy attack. This guy I'm going out with  -   
+p39
+aa(lp40
+V JERRY 
 p41
-tp42
-a(V ELAINE 
-p43
-V Robert. Yes.. thank you. He has two cats and I'm allergic to them. You know, I finally meet a normal man, and I can't even go into his apartment, you    know. And, of course, my apartment is the actor's studio so we can't go there. It's really causing a lot of problems, you know. He won't even go away fro the    weekend because of these cats.  
+aV Robert.  
+p42
+aa(lp43
+V ELAINE 
 p44
-tp45
-a(V GEORGE 
-p46
-V Guys with cats.. I don't know.  
+aV Robert. Yes.. thank you. He has two cats and I'm allergic to them. You know, I finally meet a normal man, and I can't even go into his apartment, you    know. And, of course, my apartment is the actor's studio so we can't go there. It's really causing a lot of problems, you know. He won't even go away fro the    weekend because of these cats.  
+p45
+aa(lp46
+V GEORGE 
 p47
-tp48
-a(V JERRY 
-p49
-V I've been thinking about asking this girl I'm, uh, seeing -   
+aV Guys with cats.. I don't know.  
+p48
+aa(lp49
+V JERRY 
 p50
-tp51
-a(V ELAINE 
-p52
-V Vanessa.  
+aV I've been thinking about asking this girl I'm, uh, seeing -   
+p51
+aa(lp52
+V ELAINE 
 p53
-tp54
-a(V JERRY 
-p55
-V Vanessa, thank you.. I've been thinking about asking her to go away for a couple of days.   
+aV Vanessa.  
+p54
+aa(lp55
+V JERRY 
 p56
-tp57
-a(V GEORGE 
-p58
-V Oh no. No, no,no,no,no. I'd have to advise against that. What do you know this woman, a month? Let's see, you're going to be with her seventy-two    hours. That's a dating decathlon.  
+aV Vanessa, thank you.. I've been thinking about asking her to go away for a couple of days.   
+p57
+aa(lp58
+V GEORGE 
 p59
-tp60
-a(V ELAINE 
-p61
-V (balancing a spoon on her nose) Hey, why don't you take her to that place in Vermont I was telling you about? You know, that really charming place with    the separate faucets for the hot and cold. She'll love it.  
+aV Oh no. No, no,no,no,no. I'd have to advise against that. What do you know this woman, a month? Let's see, you're going to be with her seventy-two    hours. That's a dating decathlon.  
+p60
+aa(lp61
+V ELAINE 
 p62
-tp63
-a(V GEORGE 
-p64
-V (To Elaine) That's exquisite. Listen, uh, if it's not too much trouble, could you pass me that paper over there?     (Elaine gets the paper, he starts flipping through it.)  
+aV (balancing a spoon on her nose) Hey, why don't you take her to that place in Vermont I was telling you about? You know, that really charming place with    the separate faucets for the hot and cold. She'll love it.  
+p63
+aa(lp64
+V GEORGE 
 p65
-tp66
-a(V JERRY 
-p67
-V You better find that grape before it mutates into another life form. (Elaine laughs) There was once a mutant grape that terrorized an entire town in the Texas    panhandle. They brought in the army, nobody could stop it. Apparently it had a pit of steel.   
+aV (To Elaine) That's exquisite. Listen, uh, if it's not too much trouble, could you pass me that paper over there?     (Elaine gets the paper, he starts flipping through it.)  
+p66
+aa(lp67
+V JERRY 
 p68
-tp69
-a(V GEORGE 
-p70
-V (To himself) Up again?! This is incredible. I'm.. I'm getting it.   
+aV You better find that grape before it mutates into another life form. (Elaine laughs) There was once a mutant grape that terrorized an entire town in the Texas    panhandle. They brought in the army, nobody could stop it. Apparently it had a pit of steel.   
+p69
+aa(lp70
+V GEORGE 
 p71
-tp72
-a(V ELAINE 
-p73
-V You're getting what?  
+aV (To himself) Up again?! This is incredible. I'm.. I'm getting it.   
+p72
+aa(lp73
+V ELAINE 
 p74
-tp75
-a(V GEORGE 
-p76
-V A stock.  
+aV You're getting what?  
+p75
+aa(lp76
+V GEORGE 
 p77
-tp78
-a(V JERRY 
-p79
-V What stock?  
+aV A stock.  
+p78
+aa(lp79
+V JERRY 
 p80
-tp81
-a(V GEORGE 
-p82
-V Did you ever meet my friend, Simons?    
+aV What stock?  
+p81
+aa(lp82
+V GEORGE 
 p83
-tp84
-a(V JERRY 
-p85
-V Maybe.  
+aV Did you ever meet my friend, Simons?    
+p84
+aa(lp85
+V JERRY 
 p86
-tp87
-a(V GOERGE 
-p88
-V He knows this guy, Wilkinson. He made a fortune in the stock market. Now he's got some new thing - you know, there's supposed to be a big merger.    He wasn't even supposed to say anything. You guys should think about doing this too.   
+aV Maybe.  
+p87
+aa(lp88
+V GOERGE 
 p89
-tp90
-a(V JERRY 
-p91
-V How high's it suppose to go?  
+aV He knows this guy, Wilkinson. He made a fortune in the stock market. Now he's got some new thing - you know, there's supposed to be a big merger.    He wasn't even supposed to say anything. You guys should think about doing this too.   
+p90
+aa(lp91
+V JERRY 
 p92
-tp93
-a(V GEORGE 
-p94
-V I don't know. But Simons said that if I wanted to get involved, that Wilkinson would tell me the exact right minute to sell. You wanna do it?   
+aV How high's it suppose to go?  
+p93
+aa(lp94
+V GEORGE 
 p95
-tp96
-a(V JERRY 
-p97
-V Boy.. I don't know.  
+aV I don't know. But Simons said that if I wanted to get involved, that Wilkinson would tell me the exact right minute to sell. You wanna do it?   
+p96
+aa(lp97
+V JERRY 
 p98
-tp99
-a(V ELAINE 
-p100
-V I'd do it but I don't have any money.    
+aV Boy.. I don't know.  
+p99
+aa(lp100
+V ELAINE 
 p101
-tp102
-a(V JERRY 
-p103
-V What kind of company is it?  
+aV I'd do it but I don't have any money.    
+p102
+aa(lp103
+V JERRY 
 p104
-tp105
-a(V GEORGE 
-p106
-V It's Sendrax. They've got some new kind of technique for televising opera.    
+aV What kind of company is it?  
+p105
+aa(lp106
+V GEORGE 
 p107
-tp108
-a(V ELAINE 
-p109
-V Televising opera?  
+aV It's Sendrax. They've got some new kind of technique for televising opera.    
+p108
+aa(lp109
+V ELAINE 
 p110
-tp111
-a(V GEORGE 
-p112
-V Some sort of electronic thingy.  
+aV Televising opera?  
+p111
+aa(lp112
+V GEORGE 
 p113
-tp114
-a(V JERRY 
-p115
-V Well, how much are you going to invest?    
+aV Some sort of electronic thingy.  
+p114
+aa(lp115
+V JERRY 
 p116
-tp117
-a(V GEORGE 
-p118
-V (Unsure) Five thousand.. ten. Ten thousand.. Five thousand.   
+aV Well, how much are you going to invest?    
+p117
+aa(lp118
+V GEORGE 
 p119
-tp120
-a(V JERRY 
-p121
-V Boy..  
+aV (Unsure) Five thousand.. ten. Ten thousand.. Five thousand.   
+p120
+aa(lp121
+V JERRY 
 p122
-tp123
-a(V GEORGE 
-p124
-V C'mon. Wilkinson's got millions invested in this stock. It's gone up three points since I've been watching it.   
+aV Boy..  
+p123
+aa(lp124
+V GEORGE 
 p125
-tp126
-a(V JERRY 
-p127
-V What if I lose it?  
+aV C'mon. Wilkinson's got millions invested in this stock. It's gone up three points since I've been watching it.   
+p126
+aa(lp127
+V JERRY 
 p128
-tp129
-a(V GEORGE 
-p130
-V C'mon, go for twenty-five hundred. We'll do it together. Come on, come on. We're in it together.   
+aV What if I lose it?  
+p129
+aa(lp130
+V GEORGE 
 p131
-tp132
-a(V JERRY 
-p133
-V (gives in) All right -- twenty-five hundred.   
+aV C'mon, go for twenty-five hundred. We'll do it together. Come on, come on. We're in it together.   
+p132
+aa(lp133
+V JERRY 
 p134
-tp135
-a(V GEORGE 
-p136
-V That's it.   (Waitress arrives)  
+aV (gives in) All right -- twenty-five hundred.   
+p135
+aa(lp136
+V GEORGE 
 p137
-tp138
-a(V WAITRESS 
-p139
-V Yeah, can I take your order?  
+aV That's it.   (Waitress arrives)  
+p138
+aa(lp139
+V WAITRESS 
 p140
-tp141
-a(V GEORGE 
-p142
-V (Gesturing to Jerry) Check the raiser.    
+aV Yeah, can I take your order?  
+p141
+aa(lp142
+V GEORGE 
 p143
-tp144
-a(V JERRY 
-p145
-V My bet? All right.. I'll open with a tuna sandwich.   
+aV (Gesturing to Jerry) Check the raiser.    
+p144
+aa(lp145
+V JERRY 
 p146
-tp147
-a(V ELAINE 
-p148
-V Tuna?  
+aV My bet? All right.. I'll open with a tuna sandwich.   
+p147
+aa(lp148
+V ELAINE 
 p149
-tp150
-a(V JERRY 
-p151
-V Oh, the dolphin thing?  
+aV Tuna?  
+p150
+aa(lp151
+V JERRY 
 p152
-tp153
-a(V ELAINE 
-p154
-V They're dying in the nets.  
+aV Oh, the dolphin thing?  
+p153
+aa(lp154
+V ELAINE 
 p155
-tp156
-a(V JERRY 
-p157
-V Ooohhh.. You know, the whole concept of lunch is based on tuna.   
+aV They're dying in the nets.  
+p156
+aa(lp157
+V JERRY 
 p158
-tp159
-a(V ELAINE 
-p160
-V Jerry, can't you incorporate one unselfish act in your daily routine?   
+aV Ooohhh.. You know, the whole concept of lunch is based on tuna.   
+p159
+aa(lp160
+V ELAINE 
 p161
-tp162
-a(V JERRY 
-p163
-V Hey, when I'm driving, I let people in ahead of me all the time. I'm always waving everybody in. "Go ahead, go ahead, go ahead." ..Alright.. alright. I'll have    a chicken salad.  
+aV Jerry, can't you incorporate one unselfish act in your daily routine?   
+p162
+aa(lp163
+V JERRY 
 p164
-tp165
-a(V ELAINE 
-p166
-V And I'm going to have an English muffin with margarine on the side and a cup of coffee.   
+aV Hey, when I'm driving, I let people in ahead of me all the time. I'm always waving everybody in. "Go ahead, go ahead, go ahead." ..Alright.. alright. I'll have    a chicken salad.  
+p165
+aa(lp166
+V ELAINE 
 p167
-tp168
-a(V WAITRESS 
-p169
-V Okay. (To George) What about you?  
+aV And I'm going to have an English muffin with margarine on the side and a cup of coffee.   
+p168
+aa(lp169
+V WAITRESS 
 p170
-tp171
-a(V GEORGE 
-p172
-V I'll have the tuna.   (Scene ends.)   (A Korean Market)  
+aV Okay. (To George) What about you?  
+p171
+aa(lp172
+V GEORGE 
 p173
-tp174
-a(V JERRY 
-p175
-V I have to say. Those people talking behind us really ruined that movie for me.   
+aV I'll have the tuna.   (Scene ends.)   (A Korean Market)  
+p174
+aa(lp175
+V JERRY 
 p176
-tp177
-a(V VANESSA 
-p178
-V Why didn't you do something?  
+aV I have to say. Those people talking behind us really ruined that movie for me.   
+p177
+aa(lp178
+V VANESSA 
 p179
-tp180
-a(V JERRY 
-p181
-V What do you want me to do? I have the guy the half-turn. Then I have him the full-turn with the eye roll! I mean, beyond that, I'm risking a punch in the    mouth.. (To a stock boy) Excuse me, do you have these in the puffs?    STOCK BOY  No puffs. Just flakes.  
+aV Why didn't you do something?  
+p180
+aa(lp181
+V JERRY 
 p182
-tp183
-a(V JERRY 
-p184
-V Have you thought any more about that trip?   
+aV What do you want me to do? I have the guy the half-turn. Then I have him the full-turn with the eye roll! I mean, beyond that, I'm risking a punch in the    mouth.. (To a stock boy) Excuse me, do you have these in the puffs?    STOCK BOY  No puffs. Just flakes.  
+p183
+aa(lp184
+V JERRY 
 p185
-tp186
-a(V VANESSA 
-p187
-V Yeah, I've been thinking about it.    
+aV Have you thought any more about that trip?   
+p186
+aa(lp187
+V VANESSA 
 p188
-tp189
-a(V JERRY 
-p190
-V You know, my friend told me about this great place in Vermont.   
+aV Yeah, I've been thinking about it.    
+p189
+aa(lp190
+V JERRY 
 p191
-tp192
-a(V VANESSA 
-p193
-V I don't know. I just worry about trips like this.. It's a lot of pressure.    
+aV You know, my friend told me about this great place in Vermont.   
+p192
+aa(lp193
+V VANESSA 
 p194
-tp195
-a(V JERRY 
-p196
-V It's great! It speeds up the intimacy level. It's like putting the relationship in a time compressor. Where we would be six months from now we accomplish     (snaps) three days.  
+aV I don't know. I just worry about trips like this.. It's a lot of pressure.    
+p195
+aa(lp196
+V JERRY 
 p197
-tp198
-a(V VANESSA 
-p199
-V Oh, so you want to move our relationship into Phase Two..?   
+aV It's great! It speeds up the intimacy level. It's like putting the relationship in a time compressor. Where we would be six months from now we accomplish     (snaps) three days.  
+p198
+aa(lp199
+V VANESSA 
 p200
-tp201
-a(V JERRY 
-p202
-V Exactly. I love Phase Two. Extra toothbrushes, increased call frequency, walking around naked.. You know, the presents get a lot better in Phase Two.   
+aV Oh, so you want to move our relationship into Phase Two..?   
+p201
+aa(lp202
+V JERRY 
 p203
-tp204
-a(V VANESSA 
-p205
-V (Starting to like the idea) Really? Could we go fishing up there?   
+aV Exactly. I love Phase Two. Extra toothbrushes, increased call frequency, walking around naked.. You know, the presents get a lot better in Phase Two.   
+p204
+aa(lp205
+V VANESSA 
 p206
-tp207
-a(V JERRY 
-p208
-V Yeah. We can fish. What? Blues, carp, marlin?   
+aV (Starting to like the idea) Really? Could we go fishing up there?   
+p207
+aa(lp208
+V JERRY 
 p209
-tp210
-a(V VANESSA 
-p211
-V They have marlin in Vermont?  
+aV Yeah. We can fish. What? Blues, carp, marlin?   
+p210
+aa(lp211
+V VANESSA 
 p212
-tp213
-a(V JERRY 
-p214
-V Oh, big fighting marlin.   (Jerry picks up a paper)  
+aV They have marlin in Vermont?  
+p213
+aa(lp214
+V JERRY 
 p215
-tp216
-a(V VANESSA 
-p217
-V Jerry, the stock is the same as when you checked it earlier. There are no changes after the market closes. The stock is still down.   
+aV Oh, big fighting marlin.   (Jerry picks up a paper)  
+p216
+aa(lp217
+V VANESSA 
 p218
-tp219
-a(V JERRY 
-p220
-V I know. But this is a different paper. I thought maybe they have, uh, different.. sources.    (Scene ends)   (Jerry's apartment. Jerry's looking at a road map; Kramer is looking at the paper)   
+aV Jerry, the stock is the same as when you checked it earlier. There are no changes after the market closes. The stock is still down.   
+p219
+aa(lp220
+V JERRY 
 p221
-tp222
-a(V JERRY 
-p223
-V Is that my paper?  
+aV I know. But this is a different paper. I thought maybe they have, uh, different.. sources.    (Scene ends)   (Jerry's apartment. Jerry's looking at a road map; Kramer is looking at the paper)   
+p222
+aa(lp223
+V JERRY 
 p224
-tp225
-a(V KRAMER 
-p226
-V Bad news, my friend.  
+aV Is that my paper?  
+p225
+aa(lp226
+V KRAMER 
 p227
-tp228
-a(V JERRY 
-p229
-V What? What news?  
+aV Bad news, my friend.  
+p228
+aa(lp229
+V JERRY 
 p230
-tp231
-a(V KRAMER 
-p232
-V Sendrax.  
+aV What? What news?  
+p231
+aa(lp232
+V KRAMER 
 p233
-tp234
-a(V JERRY 
-p235
-V Oh, c'mon! It's down again?!  
+aV Sendrax.  
+p234
+aa(lp235
+V JERRY 
 p236
-tp237
-a(V KRAMER 
-p238
-V Two and a half points.  
+aV Oh, c'mon! It's down again?!  
+p237
+aa(lp238
+V KRAMER 
 p239
-tp240
-a(V JERRY 
-p241
-V Oh, I can't believe it. Let me see that. (Looks at the paper) That's four and a half points in three days! That's almost half my money!   
+aV Two and a half points.  
+p240
+aa(lp241
+V JERRY 
 p242
-tp243
-a(V KRAMER 
-p244
-V Hey, I told ya.  
+aV Oh, I can't believe it. Let me see that. (Looks at the paper) That's four and a half points in three days! That's almost half my money!   
+p243
+aa(lp244
+V KRAMER 
 p245
-tp246
-a(V JERRY 
-p247
-V (Sarcastic) Yeah, you told me.  
+aV Hey, I told ya.  
+p246
+aa(lp247
+V JERRY 
 p248
-tp249
-a(V KRAMER 
-p250
-V It's all manipulated with junk bonds. You can't win.   
+aV (Sarcastic) Yeah, you told me.  
+p249
+aa(lp250
+V KRAMER 
 p251
-tp252
-a(V JERRY 
-p253
-V (Holding the phone, calling George) There's one thing I don't understand. Why does it please you? (Into phone) George Costanza, please.   
+aV It's all manipulated with junk bonds. You can't win.   
+p252
+aa(lp253
+V JERRY 
 p254
-tp255
-a(V KRAMER 
-p256
-V Hey, I don't care. I'm just telling you to (yelling) get rid of that stock, now!   
+aV (Holding the phone, calling George) There's one thing I don't understand. Why does it please you? (Into phone) George Costanza, please.   
+p255
+aa(lp256
+V KRAMER 
 p257
-tp258
-a(V JERRY 
-p259
-V (Into phone) George, what's going on?!    
+aV Hey, I don't care. I'm just telling you to (yelling) get rid of that stock, now!   
+p258
+aa(lp259
+V JERRY 
 p260
-tp261
-a(V KRAMER 
-p262
-V Sell it, just say I'm selling!  
+aV (Into phone) George, what's going on?!    
+p261
+aa(lp262
+V KRAMER 
 p263
-tp264
-a(V JERRY 
-p265
-V (Into phone) Well, where is the guy?! Nothing? Almost half my money's gone.. Well, call me right back. (Hangs up) Nobody can reach Wilkinson. He    hasn't been home or in his office in the past three days!  
+aV Sell it, just say I'm selling!  
+p264
+aa(lp265
+V JERRY 
 p266
-tp267
-a(V KRAMER 
-p268
-V You know, I can't believe you put your money in that Sendrax. And you could've invested in my roll-out tie dispenser.    
+aV (Into phone) Well, where is the guy?! Nothing? Almost half my money's gone.. Well, call me right back. (Hangs up) Nobody can reach Wilkinson. He    hasn't been home or in his office in the past three days!  
+p267
+aa(lp268
+V KRAMER 
 p269
-tp270
-a(V JERRY 
-p271
-V Roll-out tie dispenser? What was that one?   
+aV You know, I can't believe you put your money in that Sendrax. And you could've invested in my roll-out tie dispenser.    
+p270
+aa(lp271
+V JERRY 
 p272
-tp273
-a(V KRAMER 
-p274
-V Okay, you're in a restaurant. You've got a very big meeting coming up.    
+aV Roll-out tie dispenser? What was that one?   
+p273
+aa(lp274
+V KRAMER 
 p275
-tp276
-a(V JERRY 
-p277
-V Okay.  
+aV Okay, you're in a restaurant. You've got a very big meeting coming up.    
+p276
+aa(lp277
+V JERRY 
 p278
-tp279
-a(V KRAMER 
-p280
-V You just (makes noise) tear it off, and you got a new one right here. Then you're gone.   
+aV Okay.  
+p279
+aa(lp280
+V KRAMER 
 p281
-tp282
-a(V JERRY 
-p283
-V You're gone alright.  
+aV You just (makes noise) tear it off, and you got a new one right here. Then you're gone.   
+p282
+aa(lp283
+V JERRY 
 p284
-tp285
-a(V KRAMER 
-p286
-V (Looking at map) Hey, where.. where are you going? You gonna take a trip? The map.. what..   
+aV You're gone alright.  
+p285
+aa(lp286
+V KRAMER 
 p287
-tp288
-a(V JERRY 
-p289
-V Yeah, I'm going to Vermont with Vanessa for a few days.   
+aV (Looking at map) Hey, where.. where are you going? You gonna take a trip? The map.. what..   
+p288
+aa(lp289
+V JERRY 
 p290
-tp291
-a(V KRAMER 
-p292
-V Hey, can I use your place? I got a bunch of friends coming over this weekend.    
+aV Yeah, I'm going to Vermont with Vanessa for a few days.   
+p291
+aa(lp292
+V KRAMER 
 p293
-tp294
-a(V JERRY 
-p295
-V What friends?  
+aV Hey, can I use your place? I got a bunch of friends coming over this weekend.    
+p294
+aa(lp295
+V JERRY 
 p296
-tp297
-a(V KRAMER 
-p298
-V Well, it's just some people I met at a rock concert.    (Phone rings)  
+aV What friends?  
+p297
+aa(lp298
+V KRAMER 
 p299
-tp300
-a(V KRAMER 
-p301
-V Do you mind if they use your bed? (Jerry give him a look) 'Cause they're really good people, Jerry. I'm telling you. You know, they're anarchists.    They're.. they're.. they're.. huge.   (Jerry answers phone)  
+aV Well, it's just some people I met at a rock concert.    (Phone rings)  
+p300
+aa(lp301
+V KRAMER 
 p302
-tp303
-a(V JERRY 
-p304
-V George.. what?! You're kidding.. Well, what's wrong?.. So, what are we gonna do?.. Great! Alright, I'll speak to you later. (Hangs up) Wilkinson, the guy    who's supposed to tell us when to sell the stock, he's in the hospital.    (Kramer has a pleased reaction on his face)   (Scene ends)   (Dry-Cleaning store; Jerry and George are in line)  
+aV Do you mind if they use your bed? (Jerry give him a look) 'Cause they're really good people, Jerry. I'm telling you. You know, they're anarchists.    They're.. they're.. they're.. huge.   (Jerry answers phone)  
+p303
+aa(lp304
+V JERRY 
 p305
-tp306
-a(V JERRY 
-p307
-V So you don't know what's wrong with him?   
+aV George.. what?! You're kidding.. Well, what's wrong?.. So, what are we gonna do?.. Great! Alright, I'll speak to you later. (Hangs up) Wilkinson, the guy    who's supposed to tell us when to sell the stock, he's in the hospital.    (Kramer has a pleased reaction on his face)   (Scene ends)   (Dry-Cleaning store; Jerry and George are in line)  
+p306
+aa(lp307
+V JERRY 
 p308
-tp309
-a(V GEORGE 
-p310
-V All Simons was able to find out is that he's in the hospital.   
+aV So you don't know what's wrong with him?   
+p309
+aa(lp310
+V GEORGE 
 p311
-tp312
-a(V JERRY 
-p313
-V Okay, fine. Has Simons been in touch with him?   
+aV All Simons was able to find out is that he's in the hospital.   
+p312
+aa(lp313
+V JERRY 
 p314
-tp315
-a(V GEORGE 
-p316
-V Of course he's been in touch with him. He's left two messages. He just hasn't heard back yet, that's all.   
+aV Okay, fine. Has Simons been in touch with him?   
+p315
+aa(lp316
+V GEORGE 
 p317
-tp318
-a(V JERRY 
-p319
-V Well, this is it. I'm selling.  
+aV Of course he's been in touch with him. He's left two messages. He just hasn't heard back yet, that's all.   
+p318
+aa(lp319
+V JERRY 
 p320
-tp321
-a(V GEORGE 
-p322
-V Just give it a little more time.  
+aV Well, this is it. I'm selling.  
+p321
+aa(lp322
+V GEORGE 
 p323
-tp324
-a(V JERRY 
-p325
-V I never should've gotten involved in this. I'm a nervous wreck. I"m not cut out for investing.   
+aV Just give it a little more time.  
+p324
+aa(lp325
+V JERRY 
 p326
-tp327
-a(V GEORGE 
-p328
-V Alright, alright. That's it. I'm gonna go down there.   
+aV I never should've gotten involved in this. I'm a nervous wreck. I"m not cut out for investing.   
+p327
+aa(lp328
+V GEORGE 
 p329
-tp330
-a(V JERRY 
-p331
-V Where?  
+aV Alright, alright. That's it. I'm gonna go down there.   
+p330
+aa(lp331
+V JERRY 
 p332
-tp333
-a(V GEORGE 
-p334
-V To the hospital.  
+aV Where?  
+p333
+aa(lp334
+V GEORGE 
 p335
-tp336
-a(V JERRY 
-p337
-V The hospital?  
+aV To the hospital.  
+p336
+aa(lp337
+V JERRY 
 p338
-tp339
-a(V GEORGE 
-p340
-V I'm going to find out what's going on. Alright?   
+aV The hospital?  
+p339
+aa(lp340
+V GEORGE 
 p341
-tp342
-a(V JERRY 
-p343
-V Are you nuts? You don't even know they guy.   
+aV I'm going to find out what's going on. Alright?   
+p342
+aa(lp343
+V JERRY 
 p344
-tp345
-a(V GEORGE 
-p346
-V So what? I'll start talking to him, you know, casual, and I'll work my way around to it.   
+aV Are you nuts? You don't even know they guy.   
+p345
+aa(lp346
+V GEORGE 
 p347
-tp348
-a(V JERRY 
-p349
-V What if he's in an iron lung or something? What are you gonna do? (knocking on glass) "How you feeling, Mr. Wilkinson? (makes hissing sound) By the    way, what's happening with Sendrax?"  
+aV So what? I'll start talking to him, you know, casual, and I'll work my way around to it.   
+p348
+aa(lp349
+V JERRY 
 p350
-tp351
-a(V GEORGE 
-p352
-V Maybe he's resting.  
+aV What if he's in an iron lung or something? What are you gonna do? (knocking on glass) "How you feeling, Mr. Wilkinson? (makes hissing sound) By the    way, what's happening with Sendrax?"  
+p351
+aa(lp352
+V GEORGE 
 p353
-tp354
-a(V JERRY 
-p355
-V Who goes to the hospital to rest?  
+aV Maybe he's resting.  
+p354
+aa(lp355
+V JERRY 
 p356
-tp357
-a(V GEORGE 
-p358
-V What are you, a doctor?  
+aV Who goes to the hospital to rest?  
+p357
+aa(lp358
+V GEORGE 
 p359
-tp360
-a(V JERRY 
-p361
-V Okay, fine, fine. When are you going down there?   
+aV What are you, a doctor?  
+p360
+aa(lp361
+V JERRY 
 p362
-tp363
-a(V GEORGE 
-p364
-V Today. I'm going today. Just don't do anything until you hear from me.   
+aV Okay, fine, fine. When are you going down there?   
+p363
+aa(lp364
+V GEORGE 
 p365
-tp366
-a(V JERRY 
-p367
-V Alright.   (Jerry moves up in line, a woman takes his place. George didn't notice)   
+aV Today. I'm going today. Just don't do anything until you hear from me.   
+p366
+aa(lp367
+V JERRY 
 p368
-tp369
-a(V GEORGE 
-p370
-V (To woman, thinking she's Jerry) Boy, I have to get to a bathroom.    (Woman gives him a look)   DRY CLEANER  May I help you?  
+aV Alright.   (Jerry moves up in line, a woman takes his place. George didn't notice)   
+p369
+aa(lp370
+V GEORGE 
 p371
-tp372
-a(V JERRY 
-p373
-V Yeah. I picked up this shirt here yesterday. It's completely shrunk. There's absolutely no way I can wear it.    DRY CLEANER  When did you bring it in?  
+aV (To woman, thinking she's Jerry) Boy, I have to get to a bathroom.    (Woman gives him a look)   DRY CLEANER  May I help you?  
+p372
+aa(lp373
+V JERRY 
 p374
-tp375
-a(V JERRY 
-p376
-V What's the difference? Look at it! Do you see the size of this shirt?!    DRY CLEANER  You got a receipt?  
+aV Yeah. I picked up this shirt here yesterday. It's completely shrunk. There's absolutely no way I can wear it.    DRY CLEANER  When did you bring it in?  
+p375
+aa(lp376
+V JERRY 
 p377
-tp378
-a(V JERRY 
-p379
-V I can't find the receipt.   DRY CLEANER  You should get the receipt.  
+aV What's the difference? Look at it! Do you see the size of this shirt?!    DRY CLEANER  You got a receipt?  
+p378
+aa(lp379
+V JERRY 
 p380
-tp381
-a(V JERRY 
-p382
-V Look, forget about the receipt, all right? Even if I had the receipt- look at it! It's a hand puppet. What am I gonna do with this?!    DRY CLEANER  Yes, but how do I know we did the shirt?    
+aV I can't find the receipt.   DRY CLEANER  You should get the receipt.  
+p381
+aa(lp382
+V JERRY 
 p383
-tp384
-a(V JERRY 
-p385
-V What do you think this is a little scam I have? I take this tiny shirt all over the city conning dry cleaners out of money?! In fact, forget the money. I don't even    want the money. I just once, I would like to hear a dry cleaner admit that something was their fault. That's what I want. I want an admission of guilt.    DRY CLEANER  Maybe you asked for it to be washed?    
+aV Look, forget about the receipt, all right? Even if I had the receipt- look at it! It's a hand puppet. What am I gonna do with this?!    DRY CLEANER  Yes, but how do I know we did the shirt?    
+p384
+aa(lp385
+V JERRY 
 p386
-tp387
-a(V JERRY 
-p388
-V No.. dry-cleaned.   DRY CLEANER  Let me explain to you something. Okay? With certain types of fabrics, different chemicals can react, causing..   
+aV What do you think this is a little scam I have? I take this tiny shirt all over the city conning dry cleaners out of money?! In fact, forget the money. I don't even    want the money. I just once, I would like to hear a dry cleaner admit that something was their fault. That's what I want. I want an admission of guilt.    DRY CLEANER  Maybe you asked for it to be washed?    
+p387
+aa(lp388
+V JERRY 
 p389
-tp390
-a(V JERRY 
-p391
-V (Interrupting) You shrunk it! You know you shrunk it! Just tell me that you shrunk it!    DRY CLEANER  I shrunk it.   (Scene ends.)   (Night club)  
+aV No.. dry-cleaned.   DRY CLEANER  Let me explain to you something. Okay? With certain types of fabrics, different chemicals can react, causing..   
+p390
+aa(lp391
+V JERRY 
 p392
-tp393
-a(V JERRY 
-p394
-V I think the only reason we go to the dry cleaner is so I can say to the dry cleaner, "Well, it's ruined." And of course, the dry cleaner can respond, "It's not    our fault. We're not responsible. We just ruin the clothes. That ends our legal obligation." You see, the whole problem with dry cleaning is that we all believe that this    is actually possible. Right? They're cleaning our clothes - but they're not getting anything wet. It's all dry. I know there's gotta be some liquids back there, some fluids    that they're using. There's no such thing as dry cleaning. When you get something on your shirt, ever get something on your shirt and try to get it off like that (brushes    shirt) - that's dry cleaning. I don't think that's what they're doing back there. They don't have eighty guys going (with imaginary brush) "Come on, hurry up! There's a    lot of shirts today."   (Jerry's apartment)   (Elaine sneezes)  
+aV (Interrupting) You shrunk it! You know you shrunk it! Just tell me that you shrunk it!    DRY CLEANER  I shrunk it.   (Scene ends.)   (Night club)  
+p393
+aa(lp394
+V JERRY 
 p395
-tp396
-a(V JERRY 
-p397
-V Bless you.  
+aV I think the only reason we go to the dry cleaner is so I can say to the dry cleaner, "Well, it's ruined." And of course, the dry cleaner can respond, "It's not    our fault. We're not responsible. We just ruin the clothes. That ends our legal obligation." You see, the whole problem with dry cleaning is that we all believe that this    is actually possible. Right? They're cleaning our clothes - but they're not getting anything wet. It's all dry. I know there's gotta be some liquids back there, some fluids    that they're using. There's no such thing as dry cleaning. When you get something on your shirt, ever get something on your shirt and try to get it off like that (brushes    shirt) - that's dry cleaning. I don't think that's what they're doing back there. They don't have eighty guys going (with imaginary brush) "Come on, hurry up! There's a    lot of shirts today."   (Jerry's apartment)   (Elaine sneezes)  
+p396
+aa(lp397
+V JERRY 
 p398
-tp399
-a(V ELAINE 
-p400
-V Thank you. What evidence is there that cats are so smart, anyway? Huh? What do they do? Because they're clean? I am sorry. My Uncle Pete showers    four times a day and he can't count to ten. So don't give me hygiene.   
+aV Bless you.  
+p399
+aa(lp400
+V ELAINE 
 p401
-tp402
-a(V JERRY 
-p403
-V So what are you gonna do?  
+aV Thank you. What evidence is there that cats are so smart, anyway? Huh? What do they do? Because they're clean? I am sorry. My Uncle Pete showers    four times a day and he can't count to ten. So don't give me hygiene.   
+p402
+aa(lp403
+V JERRY 
 p404
-tp405
-a(V ELAINE 
-p406
-V I don't know. I can't think of any solution, unless of course they should meet with some unfortunate accident. What do you think a hit man would charge to    rub out a couple of cats?  
+aV So what are you gonna do?  
+p405
+aa(lp406
+V ELAINE 
 p407
-tp408
-a(V JERRY 
-p409
-V Well, it couldn't be too expensive. Thirteen, fourteen bucks a cat?   
+aV I don't know. I can't think of any solution, unless of course they should meet with some unfortunate accident. What do you think a hit man would charge to    rub out a couple of cats?  
+p408
+aa(lp409
+V JERRY 
 p410
-tp411
-a(V ELAINE 
-p412
-V What do you think, Jerry? You wanna make twenty-eight bucks?   
+aV Well, it couldn't be too expensive. Thirteen, fourteen bucks a cat?   
+p411
+aa(lp412
+V ELAINE 
 p413
-tp414
-a(V JERRY 
-p415
-V I'm no cat killer.  
+aV What do you think, Jerry? You wanna make twenty-eight bucks?   
+p414
+aa(lp415
+V JERRY 
 p416
-tp417
-a(V ELAINE 
-p418
-V How about we go over there right now and we shave them?   
+aV I'm no cat killer.  
+p417
+aa(lp418
+V ELAINE 
 p419
-tp420
-a(V JERRY 
-p421
-V I'd really like to go, Elaine. But, George is coming back from the hospital. I gotta wait for him. But otherwise I would definitely go.   
+aV How about we go over there right now and we shave them?   
+p420
+aa(lp421
+V JERRY 
 p422
-tp423
-a(V ELAINE 
-p424
-V He actually wen to the hospital?  
+aV I'd really like to go, Elaine. But, George is coming back from the hospital. I gotta wait for him. But otherwise I would definitely go.   
+p423
+aa(lp424
+V ELAINE 
 p425
-tp426
-a(V JERRY 
-p427
-V Yeah.  
+aV He actually wen to the hospital?  
+p426
+aa(lp427
+V JERRY 
 p428
-tp429
-a(V ELAINE 
-p430
-V Oh man, he's nuts.  
+aV Yeah.  
+p429
+aa(lp430
+V ELAINE 
 p431
-tp432
-a(V JERRY 
-p433
-V Yeah, he's nuts. You wanta bump off a couple of cats. (Enter Kramer, holding a paper) I know, I know. It's down again.    
+aV Oh man, he's nuts.  
+p432
+aa(lp433
+V JERRY 
 p434
-tp435
-a(V KRAMER 
-p436
-V How much are you down altogether?  
+aV Yeah, he's nuts. You wanta bump off a couple of cats. (Enter Kramer, holding a paper) I know, I know. It's down again.    
+p435
+aa(lp436
+V KRAMER 
 p437
-tp438
-a(V JERRY 
-p439
-V I don't know.. fifteen hundred dollars.    
+aV How much are you down altogether?  
+p438
+aa(lp439
+V JERRY 
 p440
-tp441
-a(V KRAMER 
-p442
-V Wow.  
+aV I don't know.. fifteen hundred dollars.    
+p441
+aa(lp442
+V KRAMER 
 p443
-tp444
-a(V JERRY 
-p445
-V You don't have to say "Wow." I know it's "Wow." And there's that smile again. Well, what is that?    (Intercom buzzes)  
+aV Wow.  
+p444
+aa(lp445
+V JERRY 
 p446
-tp447
-a(V JERRY 
-p448
-V It's George. (Presses button to let George in.)    (Elaine goes into the bathroom; kramer picks up some binoculars and looks ou the window)   
+aV You don't have to say "Wow." I know it's "Wow." And there's that smile again. Well, what is that?    (Intercom buzzes)  
+p447
+aa(lp448
+V JERRY 
 p449
-tp450
-a(V KRAMER 
-p451
-V Oh, look at this one by the bus stop. Jerry, come here. Take a look at this.    
+aV It's George. (Presses button to let George in.)    (Elaine goes into the bathroom; kramer picks up some binoculars and looks ou the window)   
+p450
+aa(lp451
+V KRAMER 
 p452
-tp453
-a(V JERRY 
-p454
-V I really don't need to look.  
+aV Oh, look at this one by the bus stop. Jerry, come here. Take a look at this.    
+p453
+aa(lp454
+V JERRY 
 p455
-tp456
-a(V KRAMER 
-p457
-V What a body. Yeeaahh.. that's for me.    
+aV I really don't need to look.  
+p456
+aa(lp457
+V KRAMER 
 p458
-tp459
-a(V JERRY 
-p460
-V Yeah, and you're just what she's looking for too - a stranger leering through a pair of binoculars ten floors up.    
+aV What a body. Yeeaahh.. that's for me.    
+p459
+aa(lp460
+V JERRY 
 p461
-tp462
-a(V KRAMER 
-p463
-V I'm gonna go down there and try and talk to her. (leaves)    (Enter George; he flops onto the couch)  
+aV Yeah, and you're just what she's looking for too - a stranger leering through a pair of binoculars ten floors up.    
+p462
+aa(lp463
+V KRAMER 
 p464
-tp465
-a(V JERRY 
-p466
-V What? What? Did you go down there? (George nods) Did he tell you what's gonna happen? (George shakes his head "no".) How long were you there?   
+aV I'm gonna go down there and try and talk to her. (leaves)    (Enter George; he flops onto the couch)  
+p465
+aa(lp466
+V JERRY 
 p467
-tp468
-a(V GEORGE 
-p469
-V Fifteen seconds.  
+aV What? What? Did you go down there? (George nods) Did he tell you what's gonna happen? (George shakes his head "no".) How long were you there?   
+p468
+aa(lp469
+V GEORGE 
 p470
-tp471
-a(V JERRY 
-p472
-V You told him you knew Simons?  
+aV Fifteen seconds.  
+p471
+aa(lp472
+V JERRY 
 p473
-tp474
-a(V GEORGE 
-p475
-V Yeah, I mentioned Simons. Next thing I know - I'm in the parking lot. Perhaps they had some sort of a falling out. I'll tell you one thing.. I don't know     what he's got. But for a sick guy, he's very strong.   (Elaine exits bathroom)  
+aV You told him you knew Simons?  
+p474
+aa(lp475
+V GEORGE 
 p476
-tp477
-a(V JERRY 
-p478
-V Well, that's it. Look, I'm going to Vermont. I don't want to think about this. I'm selling.   
+aV Yeah, I mentioned Simons. Next thing I know - I'm in the parking lot. Perhaps they had some sort of a falling out. I'll tell you one thing.. I don't know     what he's got. But for a sick guy, he's very strong.   (Elaine exits bathroom)  
+p477
+aa(lp478
+V JERRY 
 p479
-tp480
-a(V ELAINE 
-p481
-V Didn't work, huh?  
+aV Well, that's it. Look, I'm going to Vermont. I don't want to think about this. I'm selling.   
+p480
+aa(lp481
+V ELAINE 
 p482
-tp483
-a(V GEORGE 
-p484
-V (Laughs) Not quite.  
+aV Didn't work, huh?  
+p483
+aa(lp484
+V GEORGE 
 p485
-tp486
-a(V ELAINE 
-p487
-V Well, what are you gonna do about the stock?   
+aV (Laughs) Not quite.  
+p486
+aa(lp487
+V ELAINE 
 p488
-tp489
-a(V GEORGE 
-p490
-V I'm keeping it. I'm going down with the ship.    (Scene ends.)   (Country Inn)  
+aV Well, what are you gonna do about the stock?   
+p489
+aa(lp490
+V GEORGE 
 p491
-tp492
-a(V JERRY 
-p493
-V So I know this guy. I'm getting all my sneakers at a discount now.   
+aV I'm keeping it. I'm going down with the ship.    (Scene ends.)   (Country Inn)  
+p492
+aa(lp493
+V JERRY 
 p494
-tp495
-a(V VANESSA 
-p496
-V I know. You mentioned it.  
+aV So I know this guy. I'm getting all my sneakers at a discount now.   
+p495
+aa(lp496
+V VANESSA 
 p497
-tp498
-a(V JERRY 
-p499
-V Oh yeah, right. (To himself) Oh God. Get me out of here. What a mistake. What made me think this would work? And I've still got another day! I've got    nothing left to say. Wait.. wait.. got one. (To Vanessa) That's a nice watch. Do you wind it?   
+aV I know. You mentioned it.  
+p498
+aa(lp499
+V JERRY 
 p500
-tp501
-a(V VANESSA 
-p502
-V No, it's got a little battery.  
+aV Oh yeah, right. (To himself) Oh God. Get me out of here. What a mistake. What made me think this would work? And I've still got another day! I've got    nothing left to say. Wait.. wait.. got one. (To Vanessa) That's a nice watch. Do you wind it?   
+p501
+aa(lp502
+V VANESSA 
 p503
-tp504
-a(V JERRY 
-p505
-V Well, that's good. (To himself) Well, the drive home should be a delight. I'm speeding the whole way. Let them throw me in jail. I don't care. (To Vanessa)    That' the manager? Do you wnat me to see if we can get another room?   
+aV No, it's got a little battery.  
+p504
+aa(lp505
+V JERRY 
 p506
-tp507
-a(V VANESSA 
-p508
-V No, it's okay.  
+aV Well, that's good. (To himself) Well, the drive home should be a delight. I'm speeding the whole way. Let them throw me in jail. I don't care. (To Vanessa)    That' the manager? Do you wnat me to see if we can get another room?   
+p507
+aa(lp508
+V VANESSA 
 p509
-tp510
-a(V JERRY 
-p511
-V So, I guess you don't find the separate faucets for the hot and cold - charming?    
+aV No, it's okay.  
+p510
+aa(lp511
+V JERRY 
 p512
-tp513
-a(V VANESSA 
-p514
-V Not especially.  
+aV So, I guess you don't find the separate faucets for the hot and cold - charming?    
+p513
+aa(lp514
+V VANESSA 
 p515
-tp516
-a(V JERRY 
-p517
-V Well, what do you wnat to do this afternoon?    
+aV Not especially.  
+p516
+aa(lp517
+V JERRY 
 p518
-tp519
-a(V VANESSA 
-p520
-V What can we do? It's raining.  
+aV Well, what do you wnat to do this afternoon?    
+p519
+aa(lp520
+V VANESSA 
 p521
-tp522
-a(V JERRY 
-p523
-V We cold play "Sorry!" We cold play "Steal the Old Man's Bundle." (To himself) Maybe I can get an extension cord and hang myself. (To Vanessa) What    kind of perfume is that you're wearing?  
+aV What can we do? It's raining.  
+p522
+aa(lp523
+V JERRY 
 p524
-tp525
-a(V VANESSA 
-p526
-V Oh, you've never heard of it.  
+aV We cold play "Sorry!" We cold play "Steal the Old Man's Bundle." (To himself) Maybe I can get an extension cord and hang myself. (To Vanessa) What    kind of perfume is that you're wearing?  
+p525
+aa(lp526
+V VANESSA 
 p527
-tp528
-a(V JERRY 
-p529
-V No, what? What kind is it?  
+aV Oh, you've never heard of it.  
+p528
+aa(lp529
+V JERRY 
 p530
-tp531
-a(V VANESSA 
-p532
-V I can't tell you.  
+aV No, what? What kind is it?  
+p531
+aa(lp532
+V VANESSA 
 p533
-tp534
-a(V JERRY 
-p535
-V (To himself) Yeah, that's normal. (Out loud, to a man nearby) Excuse me, Sir. Could I have a look at that business section?   
+aV I can't tell you.  
+p534
+aa(lp535
+V JERRY 
 p536
-tp537
-a(V VANESSA 
-p538
-V That stock? I thought you got out of that?   
+aV (To himself) Yeah, that's normal. (Out loud, to a man nearby) Excuse me, Sir. Could I have a look at that business section?   
+p537
+aa(lp538
+V VANESSA 
 p539
-tp540
-a(V JERRY 
-p541
-V I did. I'm just curious. It's been almost a week. I want to check it out. (finds stock) Six points. It's up six points!    
+aV That stock? I thought you got out of that?   
+p540
+aa(lp541
+V JERRY 
 p542
-tp543
-a(V VANESSA 
-p544
-V I told you not to sell.  
+aV I did. I'm just curious. It's been almost a week. I want to check it out. (finds stock) Six points. It's up six points!    
+p543
+aa(lp544
+V VANESSA 
 p545
-tp546
-a(V JERRY 
-p547
-V You did not tell me not to sell.  
+aV I told you not to sell.  
+p546
+aa(lp547
+V JERRY 
 p548
-tp549
-a(V VANESSA 
-p550
-V I said, the market fluctuates. Remember?    
+aV You did not tell me not to sell.  
+p549
+aa(lp550
+V VANESSA 
 p551
-tp552
-a(V JERRY 
-p553
-V Look, Vanessa, of course the market fluctuates. Everybody knows that. I just got fluctuated out of four thousand dollars!   
+aV I said, the market fluctuates. Remember?    
+p552
+aa(lp553
+V JERRY 
 p554
-tp555
-a(V VANESSA 
-p556
-V That's probably why.. (stops herself)    
+aV Look, Vanessa, of course the market fluctuates. Everybody knows that. I just got fluctuated out of four thousand dollars!   
+p555
+aa(lp556
+V VANESSA 
 p557
-tp558
-a(V JERRY 
-p559
-V What?  
+aV That's probably why.. (stops herself)    
+p558
+aa(lp559
+V JERRY 
 p560
-tp561
-a(V VANESSA 
-p562
-V Forget it.  
+aV What?  
+p561
+aa(lp562
+V VANESSA 
 p563
-tp564
-a(V JERRY 
-p565
-V No, what? 'That's probably why..'  
+aV Forget it.  
+p564
+aa(lp565
+V JERRY 
 p566
-tp567
-a(V VANESSA 
-p568
-V That's probably why we're staying here, because you lost money on the stock.    
+aV No, what? 'That's probably why..'  
+p567
+aa(lp568
+V VANESSA 
 p569
-tp570
-a(V JERRY 
-p571
-V (To himself) So, what am I looking at here? Twenty=nine hours to go. Well, at least I got plenty of time to find out the name of that purfume..    (Scene ends.)   (Coffee shop)  
+aV That's probably why we're staying here, because you lost money on the stock.    
+p570
+aa(lp571
+V JERRY 
 p572
-tp573
-a(V GEORGE 
-p574
-V Have something else. C'mon, have a little dessert?   
+aV (To himself) So, what am I looking at here? Twenty=nine hours to go. Well, at least I got plenty of time to find out the name of that purfume..    (Scene ends.)   (Coffee shop)  
+p573
+aa(lp574
+V GEORGE 
 p575
-tp576
-a(V JERRY 
-p577
-V I'm good, thanks.  
+aV Have something else. C'mon, have a little dessert?   
+p576
+aa(lp577
+V JERRY 
 p578
-tp579
-a(V GEORGE 
-p580
-V Elaine, get something! It's all taken care of.   
+aV I'm good, thanks.  
+p579
+aa(lp580
+V GEORGE 
 p581
-tp582
-a(V ELAINE 
-p583
-V I'm kinda full.  
+aV Elaine, get something! It's all taken care of.   
+p582
+aa(lp583
+V ELAINE 
 p584
-tp585
-a(V GEORGE 
-p586
-V So don't finish it.  
+aV I'm kinda full.  
+p585
+aa(lp586
+V GEORGE 
 p587
-tp588
-a(V JERRY 
-p589
-V (acidly) She's full. (George puts up his hands in an "excuse me" gesture.) So, Big daddy. I'm just curious. How much did you clear on your little trasaction     there? All told?  
+aV So don't finish it.  
+p588
+aa(lp589
+V JERRY 
 p590
-tp591
-a(V GEORGE 
-p592
-V I don't like to discuss figures.  
+aV (acidly) She's full. (George puts up his hands in an "excuse me" gesture.) So, Big daddy. I'm just curious. How much did you clear on your little trasaction     there? All told?  
+p591
+aa(lp592
+V GEORGE 
 p593
-tp594
-a(V JERRY 
-p595
-V How much?  
+aV I don't like to discuss figures.  
+p594
+aa(lp595
+V JERRY 
 p596
-tp597
-a(V GEORGE 
-p598
-V I don't know, what? Eight thousand. It's a Hyundai. Get out of here.. I told you not to sell. Simons made money, Wilkinson cleaned up.   
+aV How much?  
+p597
+aa(lp598
+V GEORGE 
 p599
-tp600
-a(V JERRY 
-p601
-V So, Wilkinson's out of the hospital now?   
+aV I don't know, what? Eight thousand. It's a Hyundai. Get out of here.. I told you not to sell. Simons made money, Wilkinson cleaned up.   
+p600
+aa(lp601
+V JERRY 
 p602
-tp603
-a(V GEORGE 
-p604
-V No. You'd be surprised. You don't recover that quickly from a nose job.    (Elaine sneezes)  
+aV So, Wilkinson's out of the hospital now?   
+p603
+aa(lp604
+V GEORGE 
 p605
-tp606
-a(V JERRY 
-p607
-V Is taht still from the cats?  
+aV No. You'd be surprised. You don't recover that quickly from a nose job.    (Elaine sneezes)  
+p606
+aa(lp607
+V JERRY 
 p608
-tp609
-a(V ELAINE 
-p610
-V No, I just have a cold.  
+aV Is taht still from the cats?  
+p609
+aa(lp610
+V ELAINE 
 p611
-tp612
-a(V JERRY 
-p613
-V So, what ever happened with that?  
+aV No, I just have a cold.  
+p612
+aa(lp613
+V JERRY 
 p614
-tp615
-a(V ELAINE 
-p616
-V I gave him an ultimatum. (Shrugs)  
+aV So, what ever happened with that?  
+p615
+aa(lp616
+V ELAINE 
 p617
-tp618
-a(V GEORGE 
-p619
-V He chose the cats?  
+aV I gave him an ultimatum. (Shrugs)  
+p618
+aa(lp619
+V GEORGE 
 p620
-tp621
-a(V ELAINE 
-p622
-V They're very clean animals.  
+aV He chose the cats?  
+p621
+aa(lp622
+V ELAINE 
 p623
-tp624
-a(V JERRY 
-p625
-V I gotta say, that's pretty sad. Losing out to a cat.   
+aV They're very clean animals.  
+p624
+aa(lp625
+V JERRY 
 p626
-tp627
-a(V ELAINE 
-p628
-V Almost as bad as losing out to a perfume.    
+aV I gotta say, that's pretty sad. Losing out to a cat.   
+p627
+aa(lp628
+V ELAINE 
 p629
-tp630
-a(V GEORGE 
-p631
-V I told you those trips were relationship killers. Too bad you can't get your buddy Superman to fly around the Earth at super speed and reverse time.    You'd get all the money back - you could have avoided the whole trip to Vermont.   
+aV Almost as bad as losing out to a perfume.    
+p630
+aa(lp631
+V GEORGE 
 p632
-tp633
-a(V ELAINE 
-p634
-V Superman can go back in time?  
+aV I told you those trips were relationship killers. Too bad you can't get your buddy Superman to fly around the Earth at super speed and reverse time.    You'd get all the money back - you could have avoided the whole trip to Vermont.   
+p633
+aa(lp634
+V ELAINE 
 p635
-tp636
-a(V JERRY 
-p637
-V We went over that.  
+aV Superman can go back in time?  
+p636
+aa(lp637
+V JERRY 
 p638
-tp639
-a(V GEORGE 
-p640
-V Wilkinson's got a bite on a new one.. Petramco Corp. Out of, hu, Springfield. I think. They're about to introduce some sort of robot butcher.   
+aV We went over that.  
+p639
+aa(lp640
+V GEORGE 
 p641
-tp642
-a(V JERRY 
-p643
-V A robot butcher?  
+aV Wilkinson's got a bite on a new one.. Petramco Corp. Out of, hu, Springfield. I think. They're about to introduce some sort of robot butcher.   
+p642
+aa(lp643
+V JERRY 
 p644
-tp645
-a(V GOERGE 
-p646
-V Shhhhh. If you want to get in - there's very little time. (Calling to waitress) Sweetheart.. (Waitress tears of check, George stops her) No, no, no. That'     ought to coever it. (He hands her some money, she turns to leave, George stops her) Just a second.. Just a.. let me.. (looks at the check, then take some money out    of her hand.) (Urging Jerry and Elaine to eat) Come on, come on, come on..    (Scene ends.)   (Night club)  
+aV A robot butcher?  
+p645
+aa(lp646
+V GOERGE 
 p647
-tp648
-a.
+aV Shhhhh. If you want to get in - there's very little time. (Calling to waitress) Sweetheart.. (Waitress tears of check, George stops her) No, no, no. That'     ought to coever it. (He hands her some money, she turns to leave, George stops her) Just a second.. Just a.. let me.. (looks at the check, then take some money out    of her hand.) (Urging Jerry and Elaine to eat) Come on, come on, come on..    (Scene ends.)   (Night club)  
+p648
+aa.

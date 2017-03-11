@@ -1,1032 +1,1032 @@
 (lp0
-(V JERRY 
-p1
-V  THE HEART ATTACK  Written by Larry Charles     (Night club)   You know, I tell ya, I gotta say that I'm enjoying adulthood. For a lot of reasons. And, I'll tell you reason number one: as an adult, if I want a cookie, I have    a cookie, okay? I have three cookies or four cookies, or eleven cookies if I want. Many times I will intentionally ruin my entire appetite. Just ruin it. And then, I call    my mother up right after to tell her that I did it. "Hello, Mom? yeah, I just ruined my entire appetite.. cookies." So what if you ruin.. See, because as an adult, we    understand even if you ruin an appetite, there's another appetite coming right behind it. There's no danger in running out of appetites. I've got millions of them, I'll ruin    them whenever I want!   (Scene ends)   (Jerry's apartment)   (Jerry's sitting on his couch in the dark, watching TV)   TV VOICE  (Germanic) Look, Sigmund. Look in the sky. The planets are on fire. It is just as you prophesied. The planets of our solar system, incinerating. Like     flaming globes, Sigmund. Like flaming globes.. Ah, ha, ha, ha..     (Jerry's now asleep)   (Scene ends)   (Jerry's bedroom)   (Jerry's laying in his bed. He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing    to himself)   (Scene ends)   (Coffee shop)   (Jerry looks tired. He's staring at a crumpled piece of note paper. George takes out a cucumber from a bag in his pocket)    
+(lp1
+V JERRY 
 p2
-tp3
-a(V ELAINE 
-p4
-V What do you got, a cucumber?  
+aV  THE HEART ATTACK  Written by Larry Charles     (Night club)   You know, I tell ya, I gotta say that I'm enjoying adulthood. For a lot of reasons. And, I'll tell you reason number one: as an adult, if I want a cookie, I have    a cookie, okay? I have three cookies or four cookies, or eleven cookies if I want. Many times I will intentionally ruin my entire appetite. Just ruin it. And then, I call    my mother up right after to tell her that I did it. "Hello, Mom? yeah, I just ruined my entire appetite.. cookies." So what if you ruin.. See, because as an adult, we    understand even if you ruin an appetite, there's another appetite coming right behind it. There's no danger in running out of appetites. I've got millions of them, I'll ruin    them whenever I want!   (Scene ends)   (Jerry's apartment)   (Jerry's sitting on his couch in the dark, watching TV)   TV VOICE  (Germanic) Look, Sigmund. Look in the sky. The planets are on fire. It is just as you prophesied. The planets of our solar system, incinerating. Like     flaming globes, Sigmund. Like flaming globes.. Ah, ha, ha, ha..     (Jerry's now asleep)   (Scene ends)   (Jerry's bedroom)   (Jerry's laying in his bed. He wakes suddenly, picks up a pen and scribbles something down on a pad. He laughs, shakes his head, then goes back to sleep, laughing    to himself)   (Scene ends)   (Coffee shop)   (Jerry looks tired. He's staring at a crumpled piece of note paper. George takes out a cucumber from a bag in his pocket)    
+p3
+aa(lp4
+V ELAINE 
 p5
-tp6
-a(V GEORGE 
-p7
-V Yeah, so what?  
+aV What do you got, a cucumber?  
+p6
+aa(lp7
+V GEORGE 
 p8
-tp9
-a(V ELAINE 
-p10
-V You're bringing in an ouside cucumber?    
+aV Yeah, so what?  
+p9
+aa(lp10
+V ELAINE 
 p11
-tp12
-a(V GEORGE 
-p13
-V They refuse to put cucumber in the salad. I need cucumber.   
+aV You're bringing in an ouside cucumber?    
+p12
+aa(lp13
+V GEORGE 
 p14
-tp15
-a(V JERRY 
-p16
-V (Trying to read the note) What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.    (Tries to focus on the paper) Wait a second, wait a second.. "Fax me some halibut." Is that funny? Is that a joke?   
+aV They refuse to put cucumber in the salad. I need cucumber.   
+p15
+aa(lp16
+V JERRY 
 p17
-tp18
-a(V ELAINE 
-p19
-V No. Let me see that. (Takes the paper from Jerry) Don't-mess-with-Johnny."    
+aV (Trying to read the note) What have I done? I can't read this! Ful-hel-mo-nen-ter-val? I got up last night, I wrote this down, I thought I had this great bit.    (Tries to focus on the paper) Wait a second, wait a second.. "Fax me some halibut." Is that funny? Is that a joke?   
+p18
+aa(lp19
+V ELAINE 
 p20
-tp21
-a(V JERRY 
-p22
-V Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?    
+aV No. Let me see that. (Takes the paper from Jerry) Don't-mess-with-Johnny."    
+p21
+aa(lp22
+V JERRY 
 p23
-tp24
-a(V ELAINE 
-p25
-V (Joking) Did you mess with Johnny, Jerry?    
+aV Johnny? Johnny who? Johnny Carson? Did I insult Johnny on The Tonight Show?    
+p24
+aa(lp25
+V ELAINE 
 p26
-tp27
-a(V GEORGE 
-p28
-V Let me see that. (Studies the note)    
+aV (Joking) Did you mess with Johnny, Jerry?    
+p27
+aa(lp28
+V GEORGE 
 p29
-tp30
-a(V ELAINE 
-p31
-V Hey, where's Kramer?  
+aV Let me see that. (Studies the note)    
+p30
+aa(lp31
+V ELAINE 
 p32
-tp33
-a(V JERRY 
-p34
-V I don't know. That's like asking "Where's Waldo?"   
+aV Hey, where's Kramer?  
+p33
+aa(lp34
+V JERRY 
 p35
-tp36
-a(V GEORGE 
-p37
-V (Still holding the note) I think I'm having a heart attack.   
+aV I don't know. That's like asking "Where's Waldo?"   
+p36
+aa(lp37
+V GEORGE 
 p38
-tp39
-a(V JERRY 
-p40
-V I don't think that's it.  
+aV (Still holding the note) I think I'm having a heart attack.   
+p39
+aa(lp40
+V JERRY 
 p41
-tp42
-a(V GEORGE 
-p43
-V I'm not kidding.  
+aV I don't think that's it.  
+p42
+aa(lp43
+V GEORGE 
 p44
-tp45
-a(V JERRY 
-p46
-V What does that mean?  
+aV I'm not kidding.  
+p45
+aa(lp46
+V JERRY 
 p47
-tp48
-a(V ELAINE 
-p49
-V I think what he's trying to say is that he's having a heart attack.   
+aV What does that mean?  
+p48
+aa(lp49
+V ELAINE 
 p50
-tp51
-a(V JERRY 
-p52
-V Oh, he's having a heart attack.  
+aV I think what he's trying to say is that he's having a heart attack.   
+p51
+aa(lp52
+V JERRY 
 p53
-tp54
-a(V GEORGE 
-p55
-V Tightness..  
+aV Oh, he's having a heart attack.  
+p54
+aa(lp55
+V GEORGE 
 p56
-tp57
-a(V JERRY 
-p58
-V C'mon.  
+aV Tightness..  
+p57
+aa(lp58
+V JERRY 
 p59
-tp60
-a(V GEORGE 
-p61
-V Shortness of breath..  
+aV C'mon.  
+p60
+aa(lp61
+V GEORGE 
 p62
-tp63
-a(V JERRY 
-p64
-V Oh, this is ridiculous.  
+aV Shortness of breath..  
+p63
+aa(lp64
+V JERRY 
 p65
-tp66
-a(V GEORGE 
-p67
-V Radiating waves of pain..  
+aV Oh, this is ridiculous.  
+p66
+aa(lp67
+V GEORGE 
 p68
-tp69
-a(V JERRY 
-p70
-V I know what this is. You saw that show on PBS last night, Coronary Country. (To Elaine) I saw it in the TV Guide. I called him and told him to make sure     and not watch it.  
+aV Radiating waves of pain..  
+p69
+aa(lp70
+V JERRY 
 p71
-tp72
-a(V GEORGE 
-p73
-V There was nothing else on. Oh, the left arm.. the left arm.   
+aV I know what this is. You saw that show on PBS last night, Coronary Country. (To Elaine) I saw it in the TV Guide. I called him and told him to make sure     and not watch it.  
+p72
+aa(lp73
+V GEORGE 
 p74
-tp75
-a(V JERRY 
-p76
-V (To Elaine) He saw that show on anorexia last year, and ate like an animal for two weeks.   
+aV There was nothing else on. Oh, the left arm.. the left arm.   
+p75
+aa(lp76
+V JERRY 
 p77
-tp78
-a(V GEORGE 
-p79
-V Why can't I have a heart attack? I'm allowed.   
+aV (To Elaine) He saw that show on anorexia last year, and ate like an animal for two weeks.   
+p78
+aa(lp79
+V GEORGE 
 p80
-tp81
-a(V JERRY 
-p82
-V So what do you want? You want me take you to the hospital?   
+aV Why can't I have a heart attack? I'm allowed.   
+p81
+aa(lp82
+V JERRY 
 p83
-tp84
-a(V GEORGE 
-p85
-V Manhattan Memorial, less of a line.    
+aV So what do you want? You want me take you to the hospital?   
+p84
+aa(lp85
+V GEORGE 
 p86
-tp87
-a(V JERRY 
-p88
-V I'll call an ambulance. (Exits)   (A waitress approaches. George is dying, but the waitress doesn't seem to notice)   
+aV Manhattan Memorial, less of a line.    
+p87
+aa(lp88
+V JERRY 
 p89
-tp90
-a(V WAITRESS 
-p91
-V Is everything alright?  
+aV I'll call an ambulance. (Exits)   (A waitress approaches. George is dying, but the waitress doesn't seem to notice)   
+p90
+aa(lp91
+V WAITRESS 
 p92
-tp93
-a(V GEORGE 
-p94
-V We'll just take a check. (She leaves the check. George, in all his cheapness, can't help but to review the check. He finds an error) You made a mistake     on the..  
+aV Is everything alright?  
+p93
+aa(lp94
+V GEORGE 
 p95
-tp96
-a(V ELAINE 
-p97
-V George!   (Scene ends)   (Hospital room)   (George lies in the bed. He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain)   
+aV We'll just take a check. (She leaves the check. George, in all his cheapness, can't help but to review the check. He finds an error) You made a mistake     on the..  
+p96
+aa(lp97
+V ELAINE 
 p98
-tp99
-a(V MAN 
-p100
-V Ooohhh... Argghhh..  
+aV George!   (Scene ends)   (Hospital room)   (George lies in the bed. He has EKG cups on his chest, a tube up his nose, and an IV in his arm. The man in the neighboring bed seems to be in pain)   
+p99
+aa(lp100
+V MAN 
 p101
-tp102
-a(V GEORGE 
-p103
-V Are.. are you okay?  
+aV Ooohhh... Argghhh..  
+p102
+aa(lp103
+V GEORGE 
 p104
-tp105
-a(V MAN 
-p106
-V Ooooooohhh..  
+aV Are.. are you okay?  
+p105
+aa(lp106
+V MAN 
 p107
-tp108
-a(V GEORGE 
-p109
-V I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any     ice cream. I always felt that-  
+aV Ooooooohhh..  
+p108
+aa(lp109
+V GEORGE 
 p110
-tp111
-a(V MAN 
-p112
-V Shut up!   (Scene goes to Jerry. He's standing at the doorway, showing the note to a nurse)   
+aV I'm George.. George Costanza.. I've never been in the hospital a day in my life.. except when I had my tonsils out. You know, they never gave me any     ice cream. I always felt that-  
+p111
+aa(lp112
+V MAN 
 p113
-tp114
-a(V JERRY 
-p115
-V Well? What do you think?   NURSE 1  "Salami, salami, bologna." Definitely.    
+aV Shut up!   (Scene goes to Jerry. He's standing at the doorway, showing the note to a nurse)   
+p114
+aa(lp115
+V JERRY 
 p116
-tp117
-a(V JERRY 
-p118
-V "Salami salami bologna"?  
+aV Well? What do you think?   NURSE 1  "Salami, salami, bologna." Definitely.    
+p117
+aa(lp118
+V JERRY 
 p119
-tp120
-a(V DOCTOR 
-p121
-V (In a hurry) Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.   
+aV "Salami salami bologna"?  
+p120
+aa(lp121
+V DOCTOR 
 p122
-tp123
-a(V JERRY 
-p124
-V (Sarcastic) What a surprise. (Enters George's room overly sympathetic - leading George to think that the Doctor told Jerry something significant) Hey, how     ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?   
+aV (In a hurry) Oh, your friend's fine. He didn't have a heart attack. I'll be in - in a few minutes.   
+p123
+aa(lp124
+V JERRY 
 p125
-tp126
-a(V GEORGE 
-p127
-V No, no thanks.  
+aV (Sarcastic) What a surprise. (Enters George's room overly sympathetic - leading George to think that the Doctor told Jerry something significant) Hey, how     ya doin' buddy? You need anything? Do you want me to go out and get you a Superman comic?   
+p126
+aa(lp127
+V GEORGE 
 p128
-tp129
-a(V JERRY 
-p130
-V (Still going along with the practical joke) You know, I was wondering.. You know that Black Hawks jacket you have?    
+aV No, no thanks.  
+p129
+aa(lp130
+V JERRY 
 p131
-tp132
-a(V GEORGE 
-p133
-V Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.   
+aV (Still going along with the practical joke) You know, I was wondering.. You know that Black Hawks jacket you have?    
+p132
+aa(lp133
+V GEORGE 
 p134
-tp135
-a(V JERRY 
-p136
-V Well, you know, I was thinking - if things don't exactly work out..   
+aV Oh, sure, my Black Hawks jacket. I love my Black Hawks jacket.   
+p135
+aa(lp136
+V JERRY 
 p137
-tp138
-a(V GEORGE 
-p139
-V Well, it wouldn't fit you. The sleeves are too short.   
+aV Well, you know, I was thinking - if things don't exactly work out..   
+p138
+aa(lp139
+V GEORGE 
 p140
-tp141
-a(V JERRY 
-p142
-V No, I tried it on. It fits good.  
+aV Well, it wouldn't fit you. The sleeves are too short.   
+p141
+aa(lp142
+V JERRY 
 p143
-tp144
-a(V GEORGE 
-p145
-V Well, I didn't really think about what I was gonna do with all..   
+aV No, I tried it on. It fits good.  
+p144
+aa(lp145
+V GEORGE 
 p146
-tp147
-a(V JERRY 
-p148
-V Well, you know..  
+aV Well, I didn't really think about what I was gonna do with all..   
+p147
+aa(lp148
+V JERRY 
 p149
-tp150
-a(V GEORGE 
-p151
-V (Reluctantly) Well, okay.  
+aV Well, you know..  
+p150
+aa(lp151
+V GEORGE 
 p152
-tp153
-a(V JERRY 
-p154
-V Oh, and.. do you think it would be alright if I called Susan Davis?   
+aV (Reluctantly) Well, okay.  
+p153
+aa(lp154
+V JERRY 
 p155
-tp156
-a(V GEORGE 
-p157
-V Susan Davis? (Getting possessive) Hey, wait a second..   
+aV Oh, and.. do you think it would be alright if I called Susan Davis?   
+p156
+aa(lp157
+V GEORGE 
 p158
-tp159
-a(V JERRY 
-p160
-V Well, it's not like we'd be bumping into you.   
+aV Susan Davis? (Getting possessive) Hey, wait a second..   
+p159
+aa(lp160
+V JERRY 
 p161
-tp162
-a(V GEORGE 
-p163
-V I don't know.. you and Susan Davis?    
+aV Well, it's not like we'd be bumping into you.   
+p162
+aa(lp163
+V GEORGE 
 p164
-tp165
-a(V JERRY 
-p166
-V You know, if your future was a little more certain..   
+aV I don't know.. you and Susan Davis?    
+p165
+aa(lp166
+V JERRY 
 p167
-tp168
-a(V GEORGE 
-p169
-V Okay, go ahead. Call her, get married, have babies, have a great life.. What do I care? I'm finished. (Really depressed) It's all over for me. In fact, let's     end it right now. Jerry, kill me, kill me now. I'm begging you. Let's just get it over with. Be a pal.. Just take the pillow and put it over my face.   
+aV You know, if your future was a little more certain..   
+p168
+aa(lp169
+V GEORGE 
 p170
-tp171
-a(V JERRY 
-p172
-V Well, ah.. (Takes his pillow) What? Kind of like this? (Violently smothers George with the pillow. George freaks out. He didn't think Jerry would actually     do it)  
+aV Okay, go ahead. Call her, get married, have babies, have a great life.. What do I care? I'm finished. (Really depressed) It's all over for me. In fact, let's     end it right now. Jerry, kill me, kill me now. I'm begging you. Let's just get it over with. Be a pal.. Just take the pillow and put it over my face.   
+p171
+aa(lp172
+V JERRY 
 p173
-tp174
-a(V GEORGE 
-p175
-V What are ya doing?! Whadya, crazy?!     (Elaine enters - she gets a clear shot of Jerry's jokingly trying to kill George)   
+aV Well, ah.. (Takes his pillow) What? Kind of like this? (Violently smothers George with the pillow. George freaks out. He didn't think Jerry would actually     do it)  
+p174
+aa(lp175
+V GEORGE 
 p176
-tp177
-a(V ELAINE 
-p178
-V Jerry!  
+aV What are ya doing?! Whadya, crazy?!     (Elaine enters - she gets a clear shot of Jerry's jokingly trying to kill George)   
+p177
+aa(lp178
+V ELAINE 
 p179
-tp180
-a(V JERRY 
-p181
-V (Acts like he was cought red-handed) Elaine, what are you doing here? (Takes the pillow off George, and puts it back on his bed)   
+aV Jerry!  
+p180
+aa(lp181
+V JERRY 
 p182
-tp183
-a(V GEORGE 
-p184
-V (To Jerry) Jerk off.   (Jerry goes over to Elaine)  
+aV (Acts like he was cought red-handed) Elaine, what are you doing here? (Takes the pillow off George, and puts it back on his bed)   
+p183
+aa(lp184
+V GEORGE 
 p185
-tp186
-a(V JERRY 
-p187
-V (Whispering) There's nothing wrong with him. I saw the doctor. He's fine.     (They both go to George's bed. Elaine decides to go along with Jerry's joke)   
+aV (To Jerry) Jerk off.   (Jerry goes over to Elaine)  
+p186
+aa(lp187
+V JERRY 
 p188
-tp189
-a(V ELAINE 
-p190
-V Hi, George. How ya feeling? Is anybody getting your apartment?    (Jerry and Elaine both sit down, and have their own conversation. They completely ignore George)   
+aV (Whispering) There's nothing wrong with him. I saw the doctor. He's fine.     (They both go to George's bed. Elaine decides to go along with Jerry's joke)   
+p189
+aa(lp190
+V ELAINE 
 p191
-tp192
-a(V GEORGE 
-p193
-V I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my    anger.. (Sees Jerry and Elaine aren't listening. He snaps) Hey, is anybody listening?!    (The doctor enters. Elaine and the doctor exchange an awkward, romantic glance)   
+aV Hi, George. How ya feeling? Is anybody getting your apartment?    (Jerry and Elaine both sit down, and have their own conversation. They completely ignore George)   
+p192
+aa(lp193
+V GEORGE 
 p194
-tp195
-a(V DOCTOR 
-p196
-V (To Elaine) Uh, hello. (To George) Uh, Mr. Costanza?   
+aV I'll tell ya, if I ever get out of here, I'm gonna change my life. I'm gonna do a whole Zen thing. Take up yoga, meditate.. I'll eat right. Calm down, lose my    anger.. (Sees Jerry and Elaine aren't listening. He snaps) Hey, is anybody listening?!    (The doctor enters. Elaine and the doctor exchange an awkward, romantic glance)   
+p195
+aa(lp196
+V DOCTOR 
 p197
-tp198
-a(V GEORGE 
-p199
-V (Panicky) Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.    
+aV (To Elaine) Uh, hello. (To George) Uh, Mr. Costanza?   
+p198
+aa(lp199
+V GEORGE 
 p200
-tp201
-a(V DOCTOR 
-p202
-V Well, we looked at your EKG's, ran some tests, did a complete work-up.   
+aV (Panicky) Uh, yeah. You know, Doctor, I gotta tell you, I feel a lot better.    
+p201
+aa(lp202
+V DOCTOR 
 p203
-tp204
-a(V GEORGE 
-p205
-V (Getting in a more panicked state) Oh God, Mommy!   
+aV Well, we looked at your EKG's, ran some tests, did a complete work-up.   
+p204
+aa(lp205
+V GEORGE 
 p206
-tp207
-a(V DOCTOR 
-p208
-V And you simply haven't had a heart attack.    
+aV (Getting in a more panicked state) Oh God, Mommy!   
+p207
+aa(lp208
+V DOCTOR 
 p209
-tp210
-a(V GEORGE 
-p211
-V (Relieved) I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.   
+aV And you simply haven't had a heart attack.    
+p210
+aa(lp211
+V GEORGE 
 p212
-tp213
-a(V JERRY 
-p214
-V (Sarcastic) Hey, that was really fun, George. Can we go home now?   
+aV (Relieved) I haven't? I'm okay? I'm okay? Oh, thank you, thank you, Doctor! I don't know how to thank you.   
+p213
+aa(lp214
+V JERRY 
 p215
-tp216
-a(V DOCTOR 
-p217
-V No, actually, we'd like to keep him here overnight for observation, just to be safe.   
+aV (Sarcastic) Hey, that was really fun, George. Can we go home now?   
+p216
+aa(lp217
+V DOCTOR 
 p218
-tp219
-a(V GEORGE 
-p220
-V Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.    
+aV No, actually, we'd like to keep him here overnight for observation, just to be safe.   
+p219
+aa(lp220
+V GEORGE 
 p221
-tp222
-a(V DOCTOR 
-p223
-V Well, I wouldn't go that far.  
+aV Oh, sure. Sure, anything. Can you believe it? There's nothing wrong with me.    
+p222
+aa(lp223
+V DOCTOR 
 p224
-tp225
-a(V GEORGE 
-p226
-V (Starting to panic again) What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!   
+aV Well, I wouldn't go that far.  
+p225
+aa(lp226
+V GEORGE 
 p227
-tp228
-a(V DOCTOR 
-p229
-V Have you ever had your tonsils taken out?   
+aV (Starting to panic again) What? Oh my God. What? Is it meningitis? Scoliosis? Lupis?! Is it Lupis?!   
+p228
+aa(lp229
+V DOCTOR 
 p230
-tp231
-a(V GEORGE 
-p232
-V My tonsils? Yeah, when I was a kid.    
+aV Have you ever had your tonsils taken out?   
+p231
+aa(lp232
+V GEORGE 
 p233
-tp234
-a(V DOCTOR 
-p235
-V Well, they've grown back. Your adenoids are swollen too.   
+aV My tonsils? Yeah, when I was a kid.    
+p234
+aa(lp235
+V DOCTOR 
 p236
-tp237
-a(V GEORGE 
-p238
-V Really?  
+aV Well, they've grown back. Your adenoids are swollen too.   
+p237
+aa(lp238
+V GEORGE 
 p239
-tp240
-a(V ELAINE 
-p241
-V (Jokingly hits the doctor) Whose tonsils grow back? (Laughs)   
+aV Really?  
+p240
+aa(lp241
+V ELAINE 
 p242
-tp243
-a(V DOCTOR 
-p244
-V It happens.  
+aV (Jokingly hits the doctor) Whose tonsils grow back? (Laughs)   
+p243
+aa(lp244
+V DOCTOR 
 p245
-tp246
-a(V JERRY 
-p247
-V Yeah, if you've been exposed to gamma rays.   
+aV It happens.  
+p246
+aa(lp247
+V JERRY 
 p248
-tp249
-a(V ELAINE 
-p250
-V I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.    
+aV Yeah, if you've been exposed to gamma rays.   
+p249
+aa(lp250
+V ELAINE 
 p251
-tp252
-a(V DOCTOR 
-p253
-V That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.   
+aV I still have my tonsils. Everyone in my family has their tonsils. In fact, we were forbidden to socialize with anyone who didn't have their tonsils.    
+p252
+aa(lp253
+V DOCTOR 
 p254
-tp255
-a(V JERRY 
-p256
-V (Sarcastically) Well, it's like the Capulets and the Montagues.   
+aV That's interesting. Because, no one in my family has their tonsils, and we were forbidden to socialize with tonsil people.   
+p255
+aa(lp256
+V JERRY 
 p257
-tp258
-a(V GEORGE 
-p259
-V (Drawing attention back to him) Excuse me!   
+aV (Sarcastically) Well, it's like the Capulets and the Montagues.   
+p258
+aa(lp259
+V GEORGE 
 p260
-tp261
-a(V DOCTOR 
-p262
-V Anyway, I strongly recommend they come out.   
+aV (Drawing attention back to him) Excuse me!   
+p261
+aa(lp262
+V DOCTOR 
 p263
-tp264
-a(V GEORGE 
-p265
-V What? You mean with a knife?  
+aV Anyway, I strongly recommend they come out.   
+p264
+aa(lp265
+V GEORGE 
 p266
-tp267
-a(V DOCTOR 
-p268
-V Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice    cream.  
+aV What? You mean with a knife?  
+p267
+aa(lp268
+V DOCTOR 
 p269
-tp270
-a(V GEORGE 
-p271
-V (Angry) Yeah, that's what they told me the last time.   
+aV Yes. With a knife. You know, snip, snip. Anyway, you'd be completely under, you wouldn't feel a thing. And when you wake up, you can have some ice    cream.  
+p270
+aa(lp271
+V GEORGE 
 p272
-tp273
-a(V DOCTOR 
-p274
-V Think about it. (Turns to leave, but runs into Elaine) Excuse me.   
+aV (Angry) Yeah, that's what they told me the last time.   
+p273
+aa(lp274
+V DOCTOR 
 p275
-tp276
-a(V ELAINE 
-p277
-V (Flustered) Oh, I'm sorry. (Doctor exits) I just.. have to ask that doctor one more question. (Leaves)   
+aV Think about it. (Turns to leave, but runs into Elaine) Excuse me.   
+p276
+aa(lp277
+V ELAINE 
 p278
-tp279
-a(V JERRY 
-p280
-V Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body.     (Kramer enters, eating off a tray of hospital food)  
+aV (Flustered) Oh, I'm sorry. (Doctor exits) I just.. have to ask that doctor one more question. (Leaves)   
+p279
+aa(lp280
+V JERRY 
 p281
-tp282
-a(V KRAMER 
-p283
-V Hey.  
+aV Women go after doctors like men go after models. They want someone with knowledge of the body.. we just want the body.     (Kramer enters, eating off a tray of hospital food)  
+p282
+aa(lp283
+V KRAMER 
 p284
-tp285
-a(V JERRY 
-p286
-V Hey.  
+aV Hey.  
+p285
+aa(lp286
+V JERRY 
 p287
-tp288
-a(V KRAMER 
-p289
-V Boy, they got a great cafeteria downstairs. Hot food, sandwiches, a salad bar.. It's like a Sizzler's opened up a hospital! (Sits and starts eating) So, how    did you have a heart attack? You're a young man. What were you doing? Are they gonna do a zipper job? Oh, they love to do zipper jobs.   
+aV Hey.  
+p288
+aa(lp289
+V KRAMER 
 p290
-tp291
-a(V JERRY 
-p292
-V (Trying to shut him up) Kramer.  
+aV Boy, they got a great cafeteria downstairs. Hot food, sandwiches, a salad bar.. It's like a Sizzler's opened up a hospital! (Sits and starts eating) So, how    did you have a heart attack? You're a young man. What were you doing? Are they gonna do a zipper job? Oh, they love to do zipper jobs.   
+p291
+aa(lp292
+V JERRY 
 p293
-tp294
-a(V KRAMER 
-p295
-V The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next     thing you know, you got a hose coming out of your chest attached to a piece of luggage.   
+aV (Trying to shut him up) Kramer.  
+p294
+aa(lp295
+V KRAMER 
 p296
-tp297
-a(V JERRY 
-p298
-V Kramer, George didn't have a heart attack.    
+aV The really bad thing about the heart is the sex thing. See, you gotta be careful about sex now. You get that heart pumping and suddenly, boom! Next     thing you know, you got a hose coming out of your chest attached to a piece of luggage.   
+p297
+aa(lp298
+V JERRY 
 p299
-tp300
-a(V KRAMER 
-p301
-V No? That's good.  
+aV Kramer, George didn't have a heart attack.    
+p300
+aa(lp301
+V KRAMER 
 p302
-tp303
-a(V GEORGE 
-p304
-V I have to have my tonsils taken out.    
+aV No? That's good.  
+p303
+aa(lp304
+V GEORGE 
 p305
-tp306
-a(V KRAMER 
-p307
-V Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.   
+aV I have to have my tonsils taken out.    
+p306
+aa(lp307
+V KRAMER 
 p308
-tp309
-a(V JERRY 
-p310
-V (Trying to calm George down) It's routine surgery.   
+aV Oh man.. No.. George, we gotta get you outta here. Get out! Right now! They'll kill ya in here.   
+p309
+aa(lp310
+V JERRY 
 p311
-tp312
-a(V KRAMER 
-p313
-V Oh yeah? My friend, Bob Saccomanno, he came in here for a hernia operation.. Oh yeah, routine surgery.. now he's sittin' around in a chair by a    window going, "My name is Bob" .. George, whatever you do, don't let 'em cut you. Don't let 'em cut you..   
+aV (Trying to calm George down) It's routine surgery.   
+p312
+aa(lp313
+V KRAMER 
 p314
-tp315
-a(V GEORGE 
-p316
-V Well, what should I do, Kramer?  
+aV Oh yeah? My friend, Bob Saccomanno, he came in here for a hernia operation.. Oh yeah, routine surgery.. now he's sittin' around in a chair by a    window going, "My name is Bob" .. George, whatever you do, don't let 'em cut you. Don't let 'em cut you..   
+p315
+aa(lp316
+V GEORGE 
 p317
-tp318
-a(V JERRY 
-p319
-V Well, for one think, don't listen to him.   
+aV Well, what should I do, Kramer?  
+p318
+aa(lp319
+V JERRY 
 p320
-tp321
-a(V KRAMER 
-p322
-V I'll tell you what to do, I'll tell you what to do. You go to Tor Eckman. Tor, Tor, he'll fix you right up. He's a herbalist, a healer, George. He's not just    gonna fix the tonsils and the adenoids, he is gonna change the whole way you function - body and mind.   
+aV Well, for one think, don't listen to him.   
+p321
+aa(lp322
+V KRAMER 
 p323
-tp324
-a(V JERRY 
-p325
-V Eckman? I thought he was doing time?    
+aV I'll tell you what to do, I'll tell you what to do. You go to Tor Eckman. Tor, Tor, he'll fix you right up. He's a herbalist, a healer, George. He's not just    gonna fix the tonsils and the adenoids, he is gonna change the whole way you function - body and mind.   
+p324
+aa(lp325
+V JERRY 
 p326
-tp327
-a(V KRAMER 
-p328
-V No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.   
+aV Eckman? I thought he was doing time?    
+p327
+aa(lp328
+V KRAMER 
 p329
-tp330
-a(V JERRY 
-p331
-V A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.   
+aV No, no, he's out. He got out. See, the medical establishment, see, they tried to frame him. It's all politics. But he's a rebel.   
+p330
+aa(lp331
+V JERRY 
 p332
-tp333
-a(V KRAMER 
-p334
-V He's holistic, George. He's holistic.    
+aV A rebel? No. Johnny Yuma was a rebel. Eckman is a nut. George, you want to take care of your tonsils, you do it in a hospital. With a doctor.   
+p333
+aa(lp334
+V KRAMER 
 p335
-tp336
-a(V GEORGE 
-p337
-V Holistic.. that sounds right.  
+aV He's holistic, George. He's holistic.    
+p336
+aa(lp337
+V GEORGE 
 p338
-tp339
-a(V JERRY 
-p340
-V George, you need a medical doctor.    
+aV Holistic.. that sounds right.  
+p339
+aa(lp340
+V JERRY 
 p341
-tp342
-a(V GEORGE 
-p343
-V (To Jerry) Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?   
+aV George, you need a medical doctor.    
+p342
+aa(lp343
+V GEORGE 
 p344
-tp345
-a(V JERRY 
-p346
-V Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.    
+aV (To Jerry) Let me ask you something.. How much do you think it would cost to have tonsils and adenoids removed in the hospital?   
+p345
+aa(lp346
+V JERRY 
 p347
-tp348
-a(V GEORGE 
-p349
-V Uh-huh. And how much does the healer charge?   
+aV Well, an overnight stay in a hospital? Minor surgery? I dunno, four grand.    
+p348
+aa(lp349
+V GEORGE 
 p350
-tp351
-a(V KRAMER 
-p352
-V First visit? Thirty-eight bucks.  
+aV Uh-huh. And how much does the healer charge?   
+p351
+aa(lp352
+V KRAMER 
 p353
-tp354
-a(V GEORGE 
-p355
-V Oh, yeah? Holistic.. that's what I need. That's the answer.    (Scene ends)   (Healer's apartment)   (Jerry and George are sitting on huge pillows on the apartment floor. Kramers fiddling with an acupuncture model)   
+aV First visit? Thirty-eight bucks.  
+p354
+aa(lp355
+V GEORGE 
 p356
-tp357
-a(V GEORGE 
-p358
-V So, how do you like the way I talked you into comin' down here?   
+aV Oh, yeah? Holistic.. that's what I need. That's the answer.    (Scene ends)   (Healer's apartment)   (Jerry and George are sitting on huge pillows on the apartment floor. Kramers fiddling with an acupuncture model)   
+p357
+aa(lp358
+V GEORGE 
 p359
-tp360
-a(V JERRY 
-p361
-V Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.    
+aV So, how do you like the way I talked you into comin' down here?   
+p360
+aa(lp361
+V JERRY 
 p362
-tp363
-a(V GEORGE 
-p364
-V All I know is I've been going to doctors all my life. What has it gotten me? I'm thirty-three years old. I haven't outgrown the problems of puberty, I'm     already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes    in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.   
+aV Don't flatter yourself, my friend. I'm here strictly for material, and I have a feeling this is a potential gold mine.. I still think you're nuts, though.    
+p363
+aa(lp364
+V GEORGE 
 p365
-tp366
-a(V JERRY 
-p367
-V (Jokingly making fun of George) I've never had a really good pickle.   
+aV All I know is I've been going to doctors all my life. What has it gotten me? I'm thirty-three years old. I haven't outgrown the problems of puberty, I'm     already facing the problems of old age. I completely skipped healthy adulthood. I went from having orgasms immediately to taking forever. You could do your taxes    in the time it takes me to have an orgasm. I've never had a normal, medium orgasm.   
+p366
+aa(lp367
+V JERRY 
 p368
-tp369
-a(V GEORGE 
-p370
-V Besides, what's it gonna cost me? Thirty-eight bucks?    (Tor enters. He hugs Kramer for a long time, then walks over to Jerry and George)   
+aV (Jokingly making fun of George) I've never had a really good pickle.   
+p369
+aa(lp370
+V GEORGE 
 p371
-tp372
-a(V TOR 
-p373
-V (To Jerry) Would you not put your foot on that please?   
+aV Besides, what's it gonna cost me? Thirty-eight bucks?    (Tor enters. He hugs Kramer for a long time, then walks over to Jerry and George)   
+p372
+aa(lp373
+V TOR 
 p374
-tp375
-a(V JERRY 
-p376
-V Sorry.   (Tor sits down, and turns tward George)  
+aV (To Jerry) Would you not put your foot on that please?   
+p375
+aa(lp376
+V JERRY 
 p377
-tp378
-a(V TOR 
-p379
-V What month were you born?  
+aV Sorry.   (Tor sits down, and turns tward George)  
+p378
+aa(lp379
+V TOR 
 p380
-tp381
-a(V GEORGE 
-p382
-V April.  
+aV What month were you born?  
+p381
+aa(lp382
+V GEORGE 
 p383
-tp384
-a(V TOR 
-p385
-V You should have been born in August. Your parents would have been well-advised to wait.   
+aV April.  
+p384
+aa(lp385
+V TOR 
 p386
-tp387
-a(V GEORGE 
-p388
-V Really?  
+aV You should have been born in August. Your parents would have been well-advised to wait.   
+p387
+aa(lp388
+V GEORGE 
 p389
-tp390
-a(V TOR 
-p391
-V Do you use hot water in the shower?    
+aV Really?  
+p390
+aa(lp391
+V TOR 
 p392
-tp393
-a(V GEORGE 
-p394
-V Yes.  
+aV Do you use hot water in the shower?    
+p393
+aa(lp394
+V GEORGE 
 p395
-tp396
-a(V TOR 
-p397
-V Stop using it.  
+aV Yes.  
+p396
+aa(lp397
+V TOR 
 p398
-tp399
-a(V GEORGE 
-p400
-V ..Okay.  
+aV Stop using it.  
+p399
+aa(lp400
+V GEORGE 
 p401
-tp402
-a(V KRAMER 
-p403
-V I'm off hot water.  
+aV ..Okay.  
+p402
+aa(lp403
+V KRAMER 
 p404
-tp405
-a(V TOR 
-p406
-V Kramer tells me that you are interested in an alternative to surgery.   
+aV I'm off hot water.  
+p405
+aa(lp406
+V TOR 
 p407
-tp408
-a(V GEORGE 
-p409
-V Yes, yes I am.  
+aV Kramer tells me that you are interested in an alternative to surgery.   
+p408
+aa(lp409
+V GEORGE 
 p410
-tp411
-a(V TOR 
-p412
-V (Blows into George's face) I think we can help you. See, unfortunately, the medical establishment is a business like any other business. And business needs    customers. And, they want to sell you their most expensive item which is unnecessary surgery.   
+aV Yes, yes I am.  
+p411
+aa(lp412
+V TOR 
 p413
-tp414
-a(V GEORGE 
-p415
-V (Still on the showers) Can I use hot water on my face?   
+aV (Blows into George's face) I think we can help you. See, unfortunately, the medical establishment is a business like any other business. And business needs    customers. And, they want to sell you their most expensive item which is unnecessary surgery.   
+p414
+aa(lp415
+V GEORGE 
 p416
-tp417
-a(V TOR 
-p418
-V No. You know, I am not a business man. I'm a holistic healer. It's a calling, it's a gift. You see, it's in the best interest of the medical profession that you remain    sick. You see, that insures good business. You're not a patient. You're a customer.   
+aV (Still on the showers) Can I use hot water on my face?   
+p417
+aa(lp418
+V TOR 
 p419
-tp420
-a(V JERRY 
-p421
-V (He thinks this, the audience can hear his thoughts) And you're not a doctor, but you play one in real life.   
+aV No. You know, I am not a business man. I'm a holistic healer. It's a calling, it's a gift. You see, it's in the best interest of the medical profession that you remain    sick. You see, that insures good business. You're not a patient. You're a customer.   
+p420
+aa(lp421
+V JERRY 
 p422
-tp423
-a(V GEORGE 
-p424
-V (Still on the hot water) What about shaving?   
+aV (He thinks this, the audience can hear his thoughts) And you're not a doctor, but you play one in real life.   
+p423
+aa(lp424
+V GEORGE 
 p425
-tp426
-a(V TOR 
-p427
-V (To Jerry) You're eating too much dairy. (To George) May I? (Reaches over, and touches George's face)   
+aV (Still on the hot water) What about shaving?   
+p426
+aa(lp427
+V TOR 
 p428
-tp429
-a(V GEORGE 
-p430
-V I guess so.  
+aV (To Jerry) You're eating too much dairy. (To George) May I? (Reaches over, and touches George's face)   
+p429
+aa(lp430
+V GEORGE 
 p431
-tp432
-a(V TOR 
-p433
-V (Feeling George's face) You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion     of heat and wind.  
+aV I guess so.  
+p432
+aa(lp433
+V TOR 
 p434
-tp435
-a(V JERRY 
-p436
-V (Again, we hear his thoughts) There's some hot air blowing in here..   
+aV (Feeling George's face) You see, you are in disharmony. The throat is the gateway to the lung. Tonsillitis, adenoiditis, is, in Chinese medical terms, and invasion     of heat and wind.  
+p435
+aa(lp436
+V JERRY 
 p437
-tp438
-a(V TOR 
-p439
-V You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.   
+aV (Again, we hear his thoughts) There's some hot air blowing in here..   
+p438
+aa(lp439
+V TOR 
 p440
-tp441
-a(V GEORGE 
-p442
-V (Once again, still on the shower) Could it be lukewarm?   
+aV You know, I lived with the Eskimos many years ago, and they used to plunge their faces into the snow.   
+p441
+aa(lp442
+V GEORGE 
 p443
-tp444
-a(V JERRY 
-p445
-V Too much dairy? You really think I'm eating too much dairy?    (Scene ends)   (Doctor's car)   (The Doctor and Elaine are almost done with their date. the doctor is speaking seductively to Elaine while holding out her tongue)    
+aV (Once again, still on the shower) Could it be lukewarm?   
+p444
+aa(lp445
+V JERRY 
 p446
-tp447
-a(V DOCTOR 
-p448
-V ..The tongue.. yes, the tongue.. or, in medical terms, the glossa. It's a muscular organ.. Consists of two parts.. the body, and the root.. You see, it's     covered by this mucous membrane.. These little raised projections are the papillae, which give it that furry appearance. Very tactile..     (The Doctor is still holding her tongue)  
+aV Too much dairy? You really think I'm eating too much dairy?    (Scene ends)   (Doctor's car)   (The Doctor and Elaine are almost done with their date. the doctor is speaking seductively to Elaine while holding out her tongue)    
+p447
+aa(lp448
+V DOCTOR 
 p449
-tp450
-a(V ELAINE 
-p451
-V Uh-huh.   (Scene ends)   (Healer's apartment)  
+aV ..The tongue.. yes, the tongue.. or, in medical terms, the glossa. It's a muscular organ.. Consists of two parts.. the body, and the root.. You see, it's     covered by this mucous membrane.. These little raised projections are the papillae, which give it that furry appearance. Very tactile..     (The Doctor is still holding her tongue)  
+p450
+aa(lp451
+V ELAINE 
 p452
-tp453
-a(V TOR 
-p454
-V (Pouring tea) Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.   
+aV Uh-huh.   (Scene ends)   (Healer's apartment)  
+p453
+aa(lp454
+V TOR 
 p455
-tp456
-a(V JERRY 
-p457
-V I love crampbark.  
+aV (Pouring tea) Your tea is ready now. This will solve your so-called tonsil problem. It's a special concoction. It contains crampbark.   
+p456
+aa(lp457
+V JERRY 
 p458
-tp459
-a(V TOR 
-p460
-V Cleavers.  
+aV I love crampbark.  
+p459
+aa(lp460
+V TOR 
 p461
-tp462
-a(V JERRY 
-p463
-V Cleaver, I once had cleaver as a kid. I was able to lift a car.   
+aV Cleavers.  
+p462
+aa(lp463
+V JERRY 
 p464
-tp465
-a(V TOR 
-p466
-V And some couchgrass.  
+aV Cleaver, I once had cleaver as a kid. I was able to lift a car.   
+p465
+aa(lp466
+V TOR 
 p467
-tp468
-a(V JERRY 
-p469
-V Couchgrass and crampbark? You know, I think that's what killed Curly.     (Tor hands George the tea. George isn't willing to drink it right away. Jerry looks skeptical, Kramer, on the other hand, is enthusiastic)    
+aV And some couchgrass.  
+p468
+aa(lp469
+V JERRY 
 p470
-tp471
-a(V KRAMER 
-p472
-V Go ahead, drink it, George.  
+aV Couchgrass and crampbark? You know, I think that's what killed Curly.     (Tor hands George the tea. George isn't willing to drink it right away. Jerry looks skeptical, Kramer, on the other hand, is enthusiastic)    
+p471
+aa(lp472
+V KRAMER 
 p473
-tp474
-a(V JERRY 
-p475
-V Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read.    I was wondering if-  
+aV Go ahead, drink it, George.  
+p474
+aa(lp475
+V JERRY 
 p476
-tp477
-a(V TOR 
-p478
-V (Takes the note, then laughs when he reads it) Oh, yes.. yes.. "Cleveland 117, San Antonio 109.. (Hands note back to Jerry)   
+aV Excuse me, Tor. May I ask you a question? You have intuitive abilities. You're in touch with a lot of this cosmic kind of things.. I have this note I can't read.    I was wondering if-  
+p477
+aa(lp478
+V TOR 
 p479
-tp480
-a(V KRAMER 
-p481
-V Go ahead, drink it, George.  
+aV (Takes the note, then laughs when he reads it) Oh, yes.. yes.. "Cleveland 117, San Antonio 109.. (Hands note back to Jerry)   
+p480
+aa(lp481
+V KRAMER 
 p482
-tp483
-a(V GEORGE 
-p484
-V (Takes a sip) Hey, it's not too bad..     (Scene ends)   (Ambulance)   (George's strapped down on a gurney. His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the    back are having a huge fight)  
+aV Go ahead, drink it, George.  
+p483
+aa(lp484
+V GEORGE 
 p485
-tp486
-a(V GEORGE 
-p487
-V (In a state of hysteria) I'm an eggplant! I'm an eggplant! I'm a minstrel man!    
+aV (Takes a sip) Hey, it's not too bad..     (Scene ends)   (Ambulance)   (George's strapped down on a gurney. His face is purple, and he's screaming. Jerry and Kramer are trying to calm him down. The driver and the assistant in the    back are having a huge fight)  
+p486
+aa(lp487
+V GEORGE 
 p488
-tp489
-a(V DRIVER 
-p490
-V (To Assistant) I didn't take your Chuckle, man!   
+aV (In a state of hysteria) I'm an eggplant! I'm an eggplant! I'm a minstrel man!    
+p489
+aa(lp490
+V DRIVER 
 p491
-tp492
-a(V ASSISTANT 
-p493
-V I had five Chuckles. I ate a green one, and the yellow one, and the red one is missing!   
+aV (To Assistant) I didn't take your Chuckle, man!   
+p492
+aa(lp493
+V ASSISTANT 
 p494
-tp495
-a(V DRIVER 
-p496
-V I don't even like Chuckles!  
+aV I had five Chuckles. I ate a green one, and the yellow one, and the red one is missing!   
+p495
+aa(lp496
+V DRIVER 
 p497
-tp498
-a(V JERRY 
-p499
-V (To Assistant) Maybe he doesn't like them. That's possible.   
+aV I don't even like Chuckles!  
+p498
+aa(lp499
+V JERRY 
 p500
-tp501
-a(V GEORGE 
-p502
-V My face! My face! Get me to the hospital!    
+aV (To Assistant) Maybe he doesn't like them. That's possible.   
+p501
+aa(lp502
+V GEORGE 
 p503
-tp504
-a(V ASSISTANT 
-p505
-V I want that Chuckle! You hear me?!    
+aV My face! My face! Get me to the hospital!    
+p504
+aa(lp505
+V ASSISTANT 
 p506
-tp507
-a(V JERRY 
-p508
-V (To Assistant) I'll get you a Chuckle. You want me to get you a Chuckle?    
+aV I want that Chuckle! You hear me?!    
+p507
+aa(lp508
+V JERRY 
 p509
-tp510
-a(V ASSISTANT 
-p511
-V (Angry, to Driver) Pull over!  
+aV (To Assistant) I'll get you a Chuckle. You want me to get you a Chuckle?    
+p510
+aa(lp511
+V ASSISTANT 
 p512
-tp513
-a(V DRIVER 
-p514
-V Pull over? Did you say pull over?! You want a piece of me?!   
+aV (Angry, to Driver) Pull over!  
+p513
+aa(lp514
+V DRIVER 
 p515
-tp516
-a(V ASSISTANT 
-p517
-V Yeah!  
+aV Pull over? Did you say pull over?! You want a piece of me?!   
+p516
+aa(lp517
+V ASSISTANT 
 p518
-tp519
-a(V JERRY 
-p520
-V You're gonna fight?  
+aV Yeah!  
+p519
+aa(lp520
+V JERRY 
 p521
-tp522
-a(V GEORGE 
-p523
-V Now?! I'm a mutant!  
+aV You're gonna fight?  
+p522
+aa(lp523
+V GEORGE 
 p524
-tp525
-a(V KRAMER 
-p526
-V (To Driver) Hey, let me drive.  
+aV Now?! I'm a mutant!  
+p525
+aa(lp526
+V KRAMER 
 p527
-tp528
-a(V ASSISTANT 
-p529
-V Come on, man. Pull over!  
+aV (To Driver) Hey, let me drive.  
+p528
+aa(lp529
+V ASSISTANT 
 p530
-tp531
-a(V DRIVER 
-p532
-V Alright! I'm gonna mess you up, man!     (Ambulance comes to a screeching halt. Driver gets out, and the assistant heads for the back door)   
+aV Come on, man. Pull over!  
+p531
+aa(lp532
+V DRIVER 
 p533
-tp534
-a(V JERRY 
-p535
-V (Pleading) Really, gentlemen, please.    
+aV Alright! I'm gonna mess you up, man!     (Ambulance comes to a screeching halt. Driver gets out, and the assistant heads for the back door)   
+p534
+aa(lp535
+V JERRY 
 p536
-tp537
-a(V GEORGE 
-p538
-V My heart! My heart! (To Assistant) Where you going? Are you crazy?!   
+aV (Pleading) Really, gentlemen, please.    
+p537
+aa(lp538
+V GEORGE 
 p539
-tp540
-a(V ASSISTANT 
-p541
-V I'm gonna kick his ass.  
+aV My heart! My heart! (To Assistant) Where you going? Are you crazy?!   
+p540
+aa(lp541
+V ASSISTANT 
 p542
-tp543
-a(V KRAMER 
-p544
-V (To Assistant) Hey, you have keys?    
+aV I'm gonna kick his ass.  
+p543
+aa(lp544
+V KRAMER 
 p545
-tp546
-a(V GEORGE 
-p547
-V You can't leave! This is an ambulance! This is an emergency!    (The Assistant leaves. Jerry, Kramer, and George watch the two fight)   
+aV (To Assistant) Hey, you have keys?    
+p546
+aa(lp547
+V GEORGE 
 p548
-tp549
-a(V JERRY 
-p550
-V All this for a Chuckle.  
+aV You can't leave! This is an ambulance! This is an emergency!    (The Assistant leaves. Jerry, Kramer, and George watch the two fight)   
+p549
+aa(lp550
+V JERRY 
 p551
-tp552
-a(V KRAMER 
-p553
-V What's a Chuckle?  
+aV All this for a Chuckle.  
+p552
+aa(lp553
+V KRAMER 
 p554
-tp555
-a(V JERRY 
-p556
-V It's a jelly candy. it comes in five flavors.    (Scene ends)   (Doctor's car)   (He's still holding Elaine's tongue)  
+aV What's a Chuckle?  
+p555
+aa(lp556
+V JERRY 
 p557
-tp558
-a(V DOCTOR 
-p559
-V You see, taste buds run on grooves along the surfaces.   
+aV It's a jelly candy. it comes in five flavors.    (Scene ends)   (Doctor's car)   (He's still holding Elaine's tongue)  
+p558
+aa(lp559
+V DOCTOR 
 p560
-tp561
-a(V ELAINE 
-p562
-V Can you let go of my tongue now?  
+aV You see, taste buds run on grooves along the surfaces.   
+p561
+aa(lp562
+V ELAINE 
 p563
-tp564
-a(V DOCTOR 
-p565
-V What?  
+aV Can you let go of my tongue now?  
+p564
+aa(lp565
+V DOCTOR 
 p566
-tp567
-a(V ELAINE 
-p568
-V Let go of my tongue!  
+aV What?  
+p567
+aa(lp568
+V ELAINE 
 p569
-tp570
-a(V DOCTOR 
-p571
-V (Lets go) Oh, sorry.  
+aV Let go of my tongue!  
+p570
+aa(lp571
+V DOCTOR 
 p572
-tp573
-a(V ELAINE 
-p574
-V Well, I should get going.. (The Doctor leans in for a kiss. Elaine stops him) What are you doing?   
+aV (Lets go) Oh, sorry.  
+p573
+aa(lp574
+V ELAINE 
 p575
-tp576
-a(V DOCTOR 
-p577
-V I was going to kiss you good night.    
+aV Well, I should get going.. (The Doctor leans in for a kiss. Elaine stops him) What are you doing?   
+p576
+aa(lp577
+V DOCTOR 
 p578
-tp579
-a(V ELAINE 
-p580
-V A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so. (Leaves)    (Scene ends)   (Ambulance)   (It's now moving. The driver's behind the wheel, but the assistant is nowhere in sight)   
+aV I was going to kiss you good night.    
+p579
+aa(lp580
+V ELAINE 
 p581
-tp582
-a(V JERRY 
-p583
-V You just can't leave him out there.    
+aV A kiss? With the tongue? The glossa with the bumps and the papillae? ..Yech, I don't think so. (Leaves)    (Scene ends)   (Ambulance)   (It's now moving. The driver's behind the wheel, but the assistant is nowhere in sight)   
+p582
+aa(lp583
+V JERRY 
 p584
-tp585
-a(V DRIVER 
-p586
-V I told him I was gonna mess him up.    
+aV You just can't leave him out there.    
+p585
+aa(lp586
+V DRIVER 
 p587
-tp588
-a(V KRAMER 
-p589
-V Well, can you call him an ambulance?    
+aV I told him I was gonna mess him up.    
+p588
+aa(lp589
+V KRAMER 
 p590
-tp591
-a(V DRIVER 
-p592
-V I told him I didn't take his Chuckle. I don't eat that gooey crap!   
+aV Well, can you call him an ambulance?    
+p591
+aa(lp592
+V DRIVER 
 p593
-tp594
-a(V KRAMER 
-p595
-V hey, watch the road! Watch the road, man!   
+aV I told him I didn't take his Chuckle. I don't eat that gooey crap!   
+p594
+aa(lp595
+V KRAMER 
 p596
-tp597
-a(V DRIVER 
-p598
-V (Turns back, facing Kramer) Hey, man, you want some of what he got?!   
+aV hey, watch the road! Watch the road, man!   
+p597
+aa(lp598
+V DRIVER 
 p599
-tp600
-a(V JERRY AND KRAMER 
-p601
-V Watch out!   (The Ambulance crashes into something)   (Scene ends)   (Hospital room)   (George is in the bed, watching TV, wearing a neck brace. Jerry enters limping and wearing a neck brace, also. He talks to George, but George can't respond    verbally)  
+aV (Turns back, facing Kramer) Hey, man, you want some of what he got?!   
+p600
+aa(lp601
+V JERRY AND KRAMER 
 p602
-tp603
-a(V JERRY 
-p604
-V How ya doing? (George nods) Can't talk? (George shakes his head. Jerry gestures to his brace) Hey, how'd you get the plastic one? (George raises his    eyebrows) I like that. (George sticks his tongue out) So how's life without tonsils? (George quickly indicates with his arm that he wants ice cream) What? What's    that? ..So, how much is this thing gonna cost you now? Like, five, six thousand?.. (George signals that it's more) Well, live and learn.. at least we lived. Kramer went    to Eckman.. He feels better alreadyy.. (George motions for ice cream again) What are you doing?    (Elaine enters)  
+aV Watch out!   (The Ambulance crashes into something)   (Scene ends)   (Hospital room)   (George is in the bed, watching TV, wearing a neck brace. Jerry enters limping and wearing a neck brace, also. He talks to George, but George can't respond    verbally)  
+p603
+aa(lp604
+V JERRY 
 p605
-tp606
-a(V ELAINE 
-p607
-V Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something. (Takes out a pint of ice    cream. George gets excited) Oh, please, come on.. it was nothing.     (Nurse enters)  
+aV How ya doing? (George nods) Can't talk? (George shakes his head. Jerry gestures to his brace) Hey, how'd you get the plastic one? (George raises his    eyebrows) I like that. (George sticks his tongue out) So how's life without tonsils? (George quickly indicates with his arm that he wants ice cream) What? What's    that? ..So, how much is this thing gonna cost you now? Like, five, six thousand?.. (George signals that it's more) Well, live and learn.. at least we lived. Kramer went    to Eckman.. He feels better alreadyy.. (George motions for ice cream again) What are you doing?    (Elaine enters)  
+p606
+aa(lp607
+V ELAINE 
 p608
-tp609
-a(V JERRY 
-p610
-V Hey, check the TV.   (The TV is showing the same exact movie Jerry was watching at the start of the show)    TV VOICE  (Germanic) It's just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmond. Like flaming globes. Ah, ha, ha, ha..   
+aV Oh, poor George. Oh, I'm sorry, but I can't stay long. I don't want to run into Doctor Tongue.. Here, I brought you something. (Takes out a pint of ice    cream. George gets excited) Oh, please, come on.. it was nothing.     (Nurse enters)  
+p609
+aa(lp610
+V JERRY 
 p611
-tp612
-a(V JERRY 
-p613
-V (Pulls the note out of his pocket) That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so     funny?! ..That's not funny.. There's nothing funny about that.      (George throws the whole carton of ice cream over the separating curtan)   
+aV Hey, check the TV.   (The TV is showing the same exact movie Jerry was watching at the start of the show)    TV VOICE  (Germanic) It's just as you prophesied. The planets of our solar system, incinerating. Like flaming globes, Sigmond. Like flaming globes. Ah, ha, ha, ha..   
+p612
+aa(lp613
+V JERRY 
 p614
-tp615
-a(V MAN 
-p616
-V Aaahhhgggg!   (Scene ends)   (Night club)  
+aV (Pulls the note out of his pocket) That's it! That's it! Flaming globes of Sigmond! Flaming Globes of Sigmond! That's my note! tha'ts what I thought was so     funny?! ..That's not funny.. There's nothing funny about that.      (George throws the whole carton of ice cream over the separating curtan)   
+p615
+aa(lp616
+V MAN 
 p617
-tp618
-a.
+aV Aaahhhgggg!   (Scene ends)   (Night club)  
+p618
+aa.

@@ -1,1742 +1,1742 @@
 (lp0
-(V JERRY 
-p1
-V  THE STAKEOUT  Written by Larry David & Jerry Seinfeld   (Opening comedy)   So, I'm on line at the supermarket. Two women in front of me. One of    them, her total was eight dollars, the other three dollars. They both    of course choose to pay by the use of the (pause and gesture to audience    for response)  
+(lp1
+V JERRY 
 p2
-tp3
-a(V AUDIENCE 
-p4
-V Cheque  
+aV  THE STAKEOUT  Written by Larry David & Jerry Seinfeld   (Opening comedy)   So, I'm on line at the supermarket. Two women in front of me. One of    them, her total was eight dollars, the other three dollars. They both    of course choose to pay by the use of the (pause and gesture to audience    for response)  
+p3
+aa(lp4
+V AUDIENCE 
 p5
-tp6
-a(V JERRY 
-p7
-V Cheque. Now, the fact is, if it's a woman in front of you that's    writing the cheque, you will not be waiting long. I have noticed that    women are very *fast* with cheques, y'know, 'cuz they write out so many    cheques. The keys, they can never find in their purse, they don't know    where that is, but the cheque book they got that. They never fumble for     book from an imaginary holster) ``Who do I make it out to?... There's my    ID...''. There's something about a cheque that, to a man, is not masculine.    I don't know exactly what it is... I think to a man, a cheque is like a note    from your mother that says ``I don't have any money, but if you'll     contact these people, I'm sure they'll stick up for me... If you    just trust me this one time I don't have any money but I have     these... I wrote on these; is this of any value at all?''   (End stand-up)    
+aV Cheque  
+p6
+aa(lp7
+V JERRY 
 p8
-tp9
-a(V JERRY 
-p10
-V What's that one?  
+aV Cheque. Now, the fact is, if it's a woman in front of you that's    writing the cheque, you will not be waiting long. I have noticed that    women are very *fast* with cheques, y'know, 'cuz they write out so many    cheques. The keys, they can never find in their purse, they don't know    where that is, but the cheque book they got that. They never fumble for     book from an imaginary holster) ``Who do I make it out to?... There's my    ID...''. There's something about a cheque that, to a man, is not masculine.    I don't know exactly what it is... I think to a man, a cheque is like a note    from your mother that says ``I don't have any money, but if you'll     contact these people, I'm sure they'll stick up for me... If you    just trust me this one time I don't have any money but I have     these... I wrote on these; is this of any value at all?''   (End stand-up)    
+p9
+aa(lp10
+V JERRY 
 p11
-tp12
-a(V ELAINE 
-p13
-V "Coccoon II: The Return". I guess they didn't like it up there...   
+aV What's that one?  
+p12
+aa(lp13
+V ELAINE 
 p14
-tp15
-a(V JERRY 
-p16
-V Maybe they came back for Chinese food. Y'know Maureen Stapleton, if    she gets a craving, she's probably screamin' at those aliens, "I gotta have a Lo mein!"  
+aV "Coccoon II: The Return". I guess they didn't like it up there...   
+p15
+aa(lp16
+V JERRY 
 p17
-tp18
-a(V ELAINE 
-p19
-V Okay, what're we doing here? I have seen *everything*.   
+aV Maybe they came back for Chinese food. Y'know Maureen Stapleton, if    she gets a craving, she's probably screamin' at those aliens, "I gotta have a Lo mein!"  
+p18
+aa(lp19
+V ELAINE 
 p20
-tp21
-a(V JERRY 
-p22
-V Oh yeah? I don't believe you've seen... this.     
+aV Okay, what're we doing here? I have seen *everything*.   
+p21
+aa(lp22
+V JERRY 
 p23
-tp24
-a(V ELAINE 
-p25
-V Oh, lovely...  
+aV Oh yeah? I don't believe you've seen... this.     
+p24
+aa(lp25
+V ELAINE 
 p26
-tp27
-a(V JERRY 
-p28
-V Yeah...  
+aV Oh, lovely...  
+p27
+aa(lp28
+V JERRY 
 p29
-tp30
-a(V ELAINE 
-p31
-V What do you think their parents think?    
+aV Yeah...  
+p30
+aa(lp31
+V ELAINE 
 p32
-tp33
-a(V JERRY 
-p34
-V "So, uh, what's your son doing now, Dr. Stevens?"    "Oh, he's a public fornicator. Yes, he's a fine boy..."  
+aV What do you think their parents think?    
+p33
+aa(lp34
+V JERRY 
 p35
-tp36
-a(V ELAINE 
-p37
-V Y'know what? This would be a really funny gift for Pamela's    birthday.  
+aV "So, uh, what's your son doing now, Dr. Stevens?"    "Oh, he's a public fornicator. Yes, he's a fine boy..."  
+p36
+aa(lp37
+V ELAINE 
 p38
-tp39
-a(V JERRY 
-p40
-V Pamela? Do I know her?  
+aV Y'know what? This would be a really funny gift for Pamela's    birthday.  
+p39
+aa(lp40
+V JERRY 
 p41
-tp42
-a(V ELAINE 
-p43
-V Yeah, you met her when we were going out.   
+aV Pamela? Do I know her?  
+p42
+aa(lp43
+V ELAINE 
 p44
-tp45
-a(V JERRY 
-p46
-V Oh yeah, right...  
+aV Yeah, you met her when we were going out.   
+p45
+aa(lp46
+V JERRY 
 p47
-tp48
-a(V ELAINE 
-p49
-V You have *no* idea who I'm talking about, do you?   
+aV Oh yeah, right...  
+p48
+aa(lp49
+V ELAINE 
 p50
-tp51
-a(V JERRY 
-p52
-V (quickly) No.  
+aV You have *no* idea who I'm talking about, do you?   
+p51
+aa(lp52
+V JERRY 
 p53
-tp54
-a(V ELAINE 
-p55
-V Blonde hair remember? Glasses? (pause) Have you *totally* blocked    out the entire time we were a couple?   
+aV (quickly) No.  
+p54
+aa(lp55
+V ELAINE 
 p56
-tp57
-a(V JERRY 
-p58
-V Riverside Drive.  
+aV Blonde hair remember? Glasses? (pause) Have you *totally* blocked    out the entire time we were a couple?   
+p57
+aa(lp58
+V JERRY 
 p59
-tp60
-a(V ELAINE 
-p61
-V Right! In fact... No, never mind...    
+aV Riverside Drive.  
+p60
+aa(lp61
+V ELAINE 
 p62
-tp63
-a(V JERRY 
-p64
-V Well, what is it?  
+aV Right! In fact... No, never mind...    
+p63
+aa(lp64
+V JERRY 
 p65
-tp66
-a(V ELAINE 
-p67
-V Well, a bunch of people are getting together tomorrow night at some    bar for her birthday, but... you don't want to go to... that... no.   
+aV Well, what is it?  
+p66
+aa(lp67
+V ELAINE 
 p68
-tp69
-a(V JERRY 
-p70
-V Wait a second, wait a second. We could work out a little deal here.   
+aV Well, a bunch of people are getting together tomorrow night at some    bar for her birthday, but... you don't want to go to... that... no.   
+p69
+aa(lp70
+V JERRY 
 p71
-tp72
-a(V ELAINE 
-p73
-V What little deal?  
+aV Wait a second, wait a second. We could work out a little deal here.   
+p72
+aa(lp73
+V ELAINE 
 p74
-tp75
-a(V JERRY 
-p76
-V I will go to that, if you go with me to a little family wedding I    have on Saturday.  
+aV What little deal?  
+p75
+aa(lp76
+V JERRY 
 p77
-tp78
-a(V ELAINE 
-p79
-V A *wedding*!? Have you *lost* it, man?    
+aV I will go to that, if you go with me to a little family wedding I    have on Saturday.  
+p78
+aa(lp79
+V ELAINE 
 p80
-tp81
-a(V JERRY 
-p82
-V Y'know, my parents are coming in for this...   
+aV A *wedding*!? Have you *lost* it, man?    
+p81
+aa(lp82
+V JERRY 
 p83
-tp84
-a(V ELAINE 
-p85
-V They're coming in?  
+aV Y'know, my parents are coming in for this...   
+p84
+aa(lp85
+V ELAINE 
 p86
-tp87
-a(V JERRY 
-p88
-V Yeah, tomorrow.  
+aV They're coming in?  
+p87
+aa(lp88
+V JERRY 
 p89
-tp90
-a(V ELAINE 
-p91
-V Hey, did your father ever get that hair weave?   
+aV Yeah, tomorrow.  
+p90
+aa(lp91
+V ELAINE 
 p92
-tp93
-a(V JERRY 
-p94
-V No, no... Still doin' the big *sweep* across.   
+aV Hey, did your father ever get that hair weave?   
+p93
+aa(lp94
+V JERRY 
 p95
-tp96
-a(V ELAINE 
-p97
-V Why does he do that?  
+aV No, no... Still doin' the big *sweep* across.   
+p96
+aa(lp97
+V ELAINE 
 p98
-tp99
-a(V JERRY 
-p100
-V Doesn't think anyone can tell?  
+aV Why does he do that?  
+p99
+aa(lp100
+V JERRY 
 p101
-tp102
-a(V JERRY 
-p103
-V So c'mon, do we have a deal?  
+aV Doesn't think anyone can tell?  
+p102
+aa(lp103
+V JERRY 
 p104
-tp105
-a(V ELAINE 
-p106
-V A *wedding*?  
+aV So c'mon, do we have a deal?  
+p105
+aa(lp106
+V ELAINE 
 p107
-tp108
-a(V JERRY 
-p109
-V There's a lot of people to mock...    
+aV A *wedding*?  
+p108
+aa(lp109
+V JERRY 
 p110
-tp111
-a(V ELAINE 
-p112
-V Alright, what the Hell.  
+aV There's a lot of people to mock...    
+p111
+aa(lp112
+V ELAINE 
 p113
-tp114
-a(V JERRY 
-p115
-V Great!  
+aV Alright, what the Hell.  
+p114
+aa(lp115
+V JERRY 
 p116
-tp117
-a(V WOMAN 
-p118
-V When you're dead, you're dead. That's it. You're not goin'    anywhere...    
+aV Great!  
+p117
+aa(lp118
+V WOMAN 
 p119
-tp120
-a(V ELAINE 
-p121
-V C'mon lets go, c'mon...  
+aV When you're dead, you're dead. That's it. You're not goin'    anywhere...    
+p120
+aa(lp121
+V ELAINE 
 p122
-tp123
-a(V JERRY 
-p124
-V Was I supposed to bring something?    
+aV C'mon lets go, c'mon...  
+p123
+aa(lp124
+V JERRY 
 p125
-tp126
-a(V ELAINE 
-p127
-V You could have.  
+aV Was I supposed to bring something?    
+p126
+aa(lp127
+V ELAINE 
 p128
-tp129
-a(V JERRY 
-p130
-V I met her *one* time...  
+aV You could have.  
+p129
+aa(lp130
+V JERRY 
 p131
-tp132
-a(V ELAINE 
-p133
-V It is not necessary.  
+aV I met her *one* time...  
+p132
+aa(lp133
+V ELAINE 
 p134
-tp135
-a(V JERRY 
-p136
-V What did you say then?  
+aV It is not necessary.  
+p135
+aa(lp136
+V JERRY 
 p137
-tp138
-a(V ELAINE 
-p139
-V Sssshhhhhh!!!  
+aV What did you say then?  
+p138
+aa(lp139
+V ELAINE 
 p140
-tp141
-a(V PAMELA 
-p142
-V Hi  
+aV Sssshhhhhh!!!  
+p141
+aa(lp142
+V PAMELA 
 p143
-tp144
-a(V ELAINE 
-p145
-V Hi Pamela, you remember Jerry.  
+aV Hi  
+p144
+aa(lp145
+V ELAINE 
 p146
-tp147
-a(V PAMELA 
-p148
-V Yes, we met.  
+aV Hi Pamela, you remember Jerry.  
+p147
+aa(lp148
+V PAMELA 
 p149
-tp150
-a(V JERRY 
-p151
-V Hi, happy birthday.  
+aV Yes, we met.  
+p150
+aa(lp151
+V JERRY 
 p152
-tp153
-a(V PAMELA 
-p154
-V Ahh, everybody, this is Elaine and Jerry.    
+aV Hi, happy birthday.  
+p153
+aa(lp154
+V PAMELA 
 p155
-tp156
-a(V GUESTS 
-p157
-V Hi  
+aV Ahh, everybody, this is Elaine and Jerry.    
+p156
+aa(lp157
+V GUESTS 
 p158
-tp159
-a(V JERRY 
-p160
-V I didn't bring anything.  
+aV Hi  
+p159
+aa(lp160
+V JERRY 
 p161
-tp162
-a(V PAMELA 
-p163
-V Ahh, I put you two right here.  
+aV I didn't bring anything.  
+p162
+aa(lp163
+V PAMELA 
 p164
-tp165
-a(V JERRY 
-p166
-V Oh, Okay (turns to rest of table) I'm sorry, I didn't know what    to bring, nobody told me.      
+aV Ahh, I put you two right here.  
+p165
+aa(lp166
+V JERRY 
 p167
-tp168
-a(V VANESSA 
-p169
-V How big a tip do you think it'd take to get him to stop?   
+aV Oh, Okay (turns to rest of table) I'm sorry, I didn't know what    to bring, nobody told me.      
+p168
+aa(lp169
+V VANESSA 
 p170
-tp171
-a(V JERRY 
-p172
-V I'm in for five...  
+aV How big a tip do you think it'd take to get him to stop?   
+p171
+aa(lp172
+V JERRY 
 p173
-tp174
-a(V VANESSA 
-p175
-V I'll supply the hat.  
+aV I'm in for five...  
+p174
+aa(lp175
+V VANESSA 
 p176
-tp177
-a(V JERRY 
-p178
-V (To himself) Uh-oh... What do we have here...   
+aV I'll supply the hat.  
+p177
+aa(lp178
+V JERRY 
 p179
-tp180
-a(V VANESSA 
-p181
-V Why don't you relax and take your jacket off?   
+aV (To himself) Uh-oh... What do we have here...   
+p180
+aa(lp181
+V VANESSA 
 p182
-tp183
-a(V JERRY 
-p184
-V Oh, I can't-- I have a tendency to get chilly.   
+aV Why don't you relax and take your jacket off?   
+p183
+aa(lp184
+V JERRY 
 p185
-tp186
-a(V VANESSA 
-p187
-V How masculine...  
+aV Oh, I can't-- I have a tendency to get chilly.   
+p186
+aa(lp187
+V VANESSA 
 p188
-tp189
-a(V JERRY 
-p190
-V Plus I'm wearing short sleeves, I don't want to expose my tattoos.    (To himself) She's unbelievable!    
+aV How masculine...  
+p189
+aa(lp190
+V JERRY 
 p191
-tp192
-a(V ROGER 
-p193
-V (To Vanessa) Hey, this guy says he knows Bricker...   
+aV Plus I'm wearing short sleeves, I don't want to expose my tattoos.    (To himself) She's unbelievable!    
+p192
+aa(lp193
+V ROGER 
 p194
-tp195
-a(V VANESSA 
-p196
-V Oh, you know Bricker! From where?   
+aV (To Vanessa) Hey, this guy says he knows Bricker...   
+p195
+aa(lp196
+V VANESSA 
 p197
-tp198
-a(V JERRY 
-p199
-V (To himself) What's going on here? Gotta be her boyfriend, she's    too good to be alone... What's the difference, I can't maneuver     anyway with Elaine next to me...  
+aV Oh, you know Bricker! From where?   
+p198
+aa(lp199
+V JERRY 
 p200
-tp201
-a(V VANESSA 
-p202
-V (To Jerry) How do you know Pamela?    
+aV (To himself) What's going on here? Gotta be her boyfriend, she's    too good to be alone... What's the difference, I can't maneuver     anyway with Elaine next to me...  
+p201
+aa(lp202
+V VANESSA 
 p203
-tp204
-a(V JERRY 
-p205
-V Friend of a friend. And you?  
+aV (To Jerry) How do you know Pamela?    
+p204
+aa(lp205
+V JERRY 
 p206
-tp207
-a(V VANESSA 
-p208
-V We went to law school together.  
+aV Friend of a friend. And you?  
+p207
+aa(lp208
+V VANESSA 
 p209
-tp210
-a(V ELAINE 
-p211
-V Oh, Jerry!  
+aV We went to law school together.  
+p210
+aa(lp211
+V ELAINE 
 p212
-tp213
-a(V JERRY 
-p214
-V (To himself) Oh no, not *now*...  
+aV Oh, Jerry!  
+p213
+aa(lp214
+V JERRY 
 p215
-tp216
-a(V ELAINE 
-p217
-V I had this dream last night and you were in it.   
+aV (To himself) Oh no, not *now*...  
+p216
+aa(lp217
+V ELAINE 
 p218
-tp219
-a(V JERRY 
-p220
-V Oh really... (To himself) Oh God, I gotta get out of this...   
+aV I had this dream last night and you were in it.   
+p219
+aa(lp220
+V JERRY 
 p221
-tp222
-a(V ELAINE 
-p223
-V You were you, but, you weren't you...    
+aV Oh really... (To himself) Oh God, I gotta get out of this...   
+p222
+aa(lp223
+V ELAINE 
 p224
-tp225
-a(V JERRY 
-p226
-V No kidding... (To himself) Why is this happening? Please, make    her stop!  
+aV You were you, but, you weren't you...    
+p225
+aa(lp226
+V JERRY 
 p227
-tp228
-a(V ELAINE 
-p229
-V I think, I think we were in my house where I grew up, and you were    standing there, you were looking out the window--  
+aV No kidding... (To himself) Why is this happening? Please, make    her stop!  
+p228
+aa(lp229
+V ELAINE 
 p230
-tp231
-a(V JERRY 
-p232
-V (To himself) This is *brutal*...  
+aV I think, I think we were in my house where I grew up, and you were    standing there, you were looking out the window--  
+p231
+aa(lp232
+V JERRY 
 p233
-tp234
-a(V ELAINE 
-p235
-V You turned around and you had these wooden teeth...   
+aV (To himself) This is *brutal*...  
+p234
+aa(lp235
+V ELAINE 
 p236
-tp237
-a(V JERRY 
-p238
-V How do you like that... (To himself) Can I turn now? Is this    over? No, I can't, I can't... I'm stuck...  
+aV You turned around and you had these wooden teeth...   
+p237
+aa(lp238
+V JERRY 
 p239
-tp240
-a(V ELAINE 
-p241
-V Jerry? Are you listening to me?  
+aV How do you like that... (To himself) Can I turn now? Is this    over? No, I can't, I can't... I'm stuck...  
+p240
+aa(lp241
+V ELAINE 
 p242
-tp243
-a(V JERRY 
-p244
-V Yes, I *heard* you.  
+aV Jerry? Are you listening to me?  
+p243
+aa(lp244
+V JERRY 
 p245
-tp246
-a(V PAMELA 
-p247
-V Elaine, what's the name of that jewelry store you took me to that    time?  
+aV Yes, I *heard* you.  
+p246
+aa(lp247
+V PAMELA 
 p248
-tp249
-a(V JERRY 
-p250
-V (To himself) Thank *you*, Pamela!  
+aV Elaine, what's the name of that jewelry store you took me to that    time?  
+p249
+aa(lp250
+V JERRY 
 p251
-tp252
-a(V JERRY 
-p253
-V (To Vanessa) So, you're a lawyer...    
+aV (To himself) Thank *you*, Pamela!  
+p252
+aa(lp253
+V JERRY 
 p254
-tp255
-a(V VANESSA 
-p256
-V Sagman, Bennet, Robbins, Oppenheim and Taft.   
+aV (To Vanessa) So, you're a lawyer...    
+p255
+aa(lp256
+V VANESSA 
 p257
-tp258
-a(V JERRY 
-p259
-V (To himself, quickly) Sagman, Bennet, Robbins, Oppenheim and Taft.    Sagman, Bennet, Robbins, Oppenheim and Taft...   (To Vanessa) Of course, they handled my tattoo removal lawsuit!    
+aV Sagman, Bennet, Robbins, Oppenheim and Taft.   
+p258
+aa(lp259
+V JERRY 
 p260
-tp261
-a(V VANESSA 
-p262
-V Oh, that was you!  
+aV (To himself, quickly) Sagman, Bennet, Robbins, Oppenheim and Taft.    Sagman, Bennet, Robbins, Oppenheim and Taft...   (To Vanessa) Of course, they handled my tattoo removal lawsuit!    
+p261
+aa(lp262
+V VANESSA 
 p263
-tp264
-a(V JERRY 
-p265
-V Imagine, spelling "Mom" with two O's...    
+aV Oh, that was you!  
+p264
+aa(lp265
+V JERRY 
 p266
-tp267
-a(V VANESSA 
-p268
-V Very funny! What do you do?  
+aV Imagine, spelling "Mom" with two O's...    
+p267
+aa(lp268
+V VANESSA 
 p269
-tp270
-a(V JERRY 
-p271
-V Comedian.  
+aV Very funny! What do you do?  
+p270
+aa(lp271
+V JERRY 
 p272
-tp273
-a(V VANESSA 
-p274
-V Really... That explains it...  
+aV Comedian.  
+p273
+aa(lp274
+V VANESSA 
 p275
-tp276
-a(V JERRY 
-p277
-V (To himself, quickly) Sagman, Bennet, Robbins, Oppenheim and Taft.    Sagman, Bennet, Robbins, Oppenheim and Taft.  
+aV Really... That explains it...  
+p276
+aa(lp277
+V JERRY 
 p278
-tp279
-a(V ROGER 
-p280
-V Are you ready?  
+aV (To himself, quickly) Sagman, Bennet, Robbins, Oppenheim and Taft.    Sagman, Bennet, Robbins, Oppenheim and Taft.  
+p279
+aa(lp280
+V ROGER 
 p281
-tp282
-a(V VANESSA 
-p283
-V We gotta run. Happy birthday!   
+aV Are you ready?  
+p282
+aa(lp283
+V VANESSA 
 p284
-tp285
-a(V JERRY 
-p286
-V (To himself) I can't believe it-- I got *nothing*! I don't even    know her name!    
+aV We gotta run. Happy birthday!   
+p285
+aa(lp286
+V JERRY 
 p287
-tp288
-a(V JERRY 
-p289
-V (To himself, *very* quickly) Sagman, Bennet, Robbins, Oppenheim and    Taft. Sagman, Bennet, Robbins, Oppen... Sagman... Sag...    
+aV (To himself) I can't believe it-- I got *nothing*! I don't even    know her name!    
+p288
+aa(lp289
+V JERRY 
 p290
-tp291
-a(V JERRY 
-p292
-V That wasn't so bad, really...  
+aV (To himself, *very* quickly) Sagman, Bennet, Robbins, Oppenheim and    Taft. Sagman, Bennet, Robbins, Oppen... Sagman... Sag...    
+p291
+aa(lp292
+V JERRY 
 p293
-tp294
-a(V ELAINE 
-p295
-V Y'know, uh, you could use a little work on your manners.   
+aV That wasn't so bad, really...  
+p294
+aa(lp295
+V ELAINE 
 p296
-tp297
-a(V JERRY 
-p298
-V Why? What did I do?   
+aV Y'know, uh, you could use a little work on your manners.   
+p297
+aa(lp298
+V JERRY 
 p299
-tp300
-a(V ELAINE 
-p301
-V Well, I just don't appreciate these little "courtesy responses",    like I'm selling you aluminum siding.  
+aV Why? What did I do?   
+p300
+aa(lp301
+V ELAINE 
 p302
-tp303
-a(V JERRY 
-p304
-V I was listening!  
+aV Well, I just don't appreciate these little "courtesy responses",    like I'm selling you aluminum siding.  
+p303
+aa(lp304
+V JERRY 
 p305
-tp306
-a(V ELAINE 
-p307
-V No! You couldn't wait to get back to your little... "conversation".     
+aV I was listening!  
+p306
+aa(lp307
+V ELAINE 
 p308
-tp309
-a(V JERRY 
-p310
-V No, you were talking about the, the um, the dream you had.   
+aV No! You couldn't wait to get back to your little... "conversation".     
+p309
+aa(lp310
+V JERRY 
 p311
-tp312
-a(V ELAINE 
-p313
-V Uh-huh...   
+aV No, you were talking about the, the um, the dream you had.   
+p312
+aa(lp313
+V ELAINE 
 p314
-tp315
-a(V JERRY 
-p316
-V Where you had, uh, wooden teeth.   
+aV Uh-huh...   
+p315
+aa(lp316
+V JERRY 
 p317
-tp318
-a(V ELAINE 
-p319
-V No! No! *You* had wooden teeth! *You* had wooden teeth! *I*    didn't have wooden teeth, *you* did!  
+aV Where you had, uh, wooden teeth.   
+p318
+aa(lp319
+V ELAINE 
 p320
-tp321
-a(V JERRY 
-p322
-V Alright, so *I* had wooden teeth, so what?   
+aV No! No! *You* had wooden teeth! *You* had wooden teeth! *I*    didn't have wooden teeth, *you* did!  
+p321
+aa(lp322
+V JERRY 
 p323
-tp324
-a(V ELAINE 
-p325
-V So nothing... Nothing...   
+aV Alright, so *I* had wooden teeth, so what?   
+p324
+aa(lp325
+V ELAINE 
 p326
-tp327
-a(V JERRY 
-p328
-V Apparently Plato, who came up with the concept of the platonic    relationship, was pretty excited about it. He named it after     himself. He said ``Yeah, I got this new thing-- "platonic". My     idea, my name, callin' it after myself... What I do is, I go *out*    with the girls, I *talk* with them-- don't *do* anything... and go    right home. What'dya think? I think it's going to be *big*!''     I bet you there were other guys in history that tried to get     relationships named after them, but it didn't work. Y'know, I bet     Rico. Would you like to go to bed immediately? Hey, it's a   *"Riconic"* relationship...''    
+aV So nothing... Nothing...   
+p327
+aa(lp328
+V JERRY 
 p329
-tp330
-a(V JERRY 
-p331
-V Hey!  
+aV Apparently Plato, who came up with the concept of the platonic    relationship, was pretty excited about it. He named it after     himself. He said ``Yeah, I got this new thing-- "platonic". My     idea, my name, callin' it after myself... What I do is, I go *out*    with the girls, I *talk* with them-- don't *do* anything... and go    right home. What'dya think? I think it's going to be *big*!''     I bet you there were other guys in history that tried to get     relationships named after them, but it didn't work. Y'know, I bet     Rico. Would you like to go to bed immediately? Hey, it's a   *"Riconic"* relationship...''    
+p330
+aa(lp331
+V JERRY 
 p332
-tp333
-a(V MORTY 
-p334
-V Ah, there he is!  
+aV Hey!  
+p333
+aa(lp334
+V MORTY 
 p335
-tp336
-a(V JERRY 
-p337
-V This is what I like, see? You come home and your parents are in your    bed!  
+aV Ah, there he is!  
+p336
+aa(lp337
+V JERRY 
 p338
-tp339
-a(V HELEN 
-p340
-V Y'know, Jerry, we don't have to do this...    
+aV This is what I like, see? You come home and your parents are in your    bed!  
+p339
+aa(lp340
+V HELEN 
 p341
-tp342
-a(V JERRY 
-p343
-V What are you talkin' about? It's fine, I love having you here...   
+aV Y'know, Jerry, we don't have to do this...    
+p342
+aa(lp343
+V JERRY 
 p344
-tp345
-a(V HELEN 
-p346
-V Tomorrow we'll go to a hotel.  
+aV What are you talkin' about? It's fine, I love having you here...   
+p345
+aa(lp346
+V HELEN 
 p347
-tp348
-a(V JERRY 
-p349
-V Ma, will you stop?  
+aV Tomorrow we'll go to a hotel.  
+p348
+aa(lp349
+V JERRY 
 p350
-tp351
-a(V HELEN 
-p352
-V No, why should we take over your apartment?    
+aV Ma, will you stop?  
+p351
+aa(lp352
+V HELEN 
 p353
-tp354
-a(V JERRY 
-p355
-V I don't care-- I'm sleeping next door.    
+aV No, why should we take over your apartment?    
+p354
+aa(lp355
+V JERRY 
 p356
-tp357
-a(V HELEN 
-p358
-V Your friend Kramer doesn't mind?  
+aV I don't care-- I'm sleeping next door.    
+p357
+aa(lp358
+V HELEN 
 p359
-tp360
-a(V JERRY 
-p361
-V No, he's making a bouillabaisse.  
+aV Your friend Kramer doesn't mind?  
+p360
+aa(lp361
+V JERRY 
 p362
-tp363
-a(V JERRY 
-p364
-V So Dad, lemme ask you a question. How many people work at these big    law offices?  
+aV No, he's making a bouillabaisse.  
+p363
+aa(lp364
+V JERRY 
 p365
-tp366
-a(V MORTY 
-p367
-V Depends on the firm.  
+aV So Dad, lemme ask you a question. How many people work at these big    law offices?  
+p366
+aa(lp367
+V MORTY 
 p368
-tp369
-a(V JERRY 
-p370
-V Yeah, but if you called up and described someone, do you think they    would know who it was?  
+aV Depends on the firm.  
+p369
+aa(lp370
+V JERRY 
 p371
-tp372
-a(V MORTY 
-p373
-V What's the matter? You need a lawyer?    
+aV Yeah, but if you called up and described someone, do you think they    would know who it was?  
+p372
+aa(lp373
+V MORTY 
 p374
-tp375
-a(V JERRY 
-p376
-V No, I met someone at this party, and I know where she works, but I    don't know her name.  
+aV What's the matter? You need a lawyer?    
+p375
+aa(lp376
+V JERRY 
 p377
-tp378
-a(V MORTY 
-p379
-V So why don't you ask someone who was at the party?   
+aV No, I met someone at this party, and I know where she works, but I    don't know her name.  
+p378
+aa(lp379
+V MORTY 
 p380
-tp381
-a(V JERRY 
-p382
-V Nah, the only one I could ask is Elaine, and I can't ask her.   
+aV So why don't you ask someone who was at the party?   
+p381
+aa(lp382
+V JERRY 
 p383
-tp384
-a(V HELEN 
-p385
-V Why not?  
+aV Nah, the only one I could ask is Elaine, and I can't ask her.   
+p384
+aa(lp385
+V HELEN 
 p386
-tp387
-a(V JERRY 
-p388
-V Because it's complicated-- there's some tension there.   
+aV Why not?  
+p387
+aa(lp388
+V JERRY 
 p389
-tp390
-a(V HELEN 
-p391
-V He used to go with her...  
+aV Because it's complicated-- there's some tension there.   
+p390
+aa(lp391
+V HELEN 
 p392
-tp393
-a(V HELEN 
-p394
-V Which one is she?  
+aV He used to go with her...  
+p393
+aa(lp394
+V HELEN 
 p395
-tp396
-a(V MORTY 
-p397
-V From Maryland. The one who brought you the chocolate covered    cherries you didn't like.  
+aV Which one is she?  
+p396
+aa(lp397
+V MORTY 
 p398
-tp399
-a(V MORTY 
-p400
-V Oh yeah, very alert. Warm person.  
+aV From Maryland. The one who brought you the chocolate covered    cherries you didn't like.  
+p399
+aa(lp400
+V MORTY 
 p401
-tp402
-a(V JERRY 
-p403
-V Oh yeah, she's great.  
+aV Oh yeah, very alert. Warm person.  
+p402
+aa(lp403
+V JERRY 
 p404
-tp405
-a(V HELEN 
-p406
-V So, how come nothing materialized there?    
+aV Oh yeah, she's great.  
+p405
+aa(lp406
+V HELEN 
 p407
-tp408
-a(V JERRY 
-p409
-V Well, it's a tough thing to talk about... I dunno...   
+aV So, how come nothing materialized there?    
+p408
+aa(lp409
+V JERRY 
 p410
-tp411
-a(V HELEN 
-p412
-V I know what it was...  
+aV Well, it's a tough thing to talk about... I dunno...   
+p411
+aa(lp412
+V HELEN 
 p413
-tp414
-a(V JERRY 
-p415
-V You don't know what it was...  
+aV I know what it was...  
+p414
+aa(lp415
+V JERRY 
 p416
-tp417
-a(V HELEN 
-p418
-V So, what was it?  
+aV You don't know what it was...  
+p417
+aa(lp418
+V HELEN 
 p419
-tp420
-a(V JERRY 
-p421
-V Well, we fight a lot for some reason...       H + M  Oh, well...  
+aV So, what was it?  
+p420
+aa(lp421
+V JERRY 
 p422
-tp423
-a(V JERRY 
-p424
-V And there was a little problem with the physical chemistry...     
+aV Well, we fight a lot for some reason...       H + M  Oh, well...  
+p423
+aa(lp424
+V JERRY 
 p425
-tp426
-a(V HELEN 
-p427
-V Well, I think she's a very attractive girl.   
+aV And there was a little problem with the physical chemistry...     
+p426
+aa(lp427
+V HELEN 
 p428
-tp429
-a(V JERRY 
-p430
-V Oh, she is, she absolutely is.  
+aV Well, I think she's a very attractive girl.   
+p429
+aa(lp430
+V JERRY 
 p431
-tp432
-a(V HELEN 
-p433
-V I can see if there was a *weight* problem...    
+aV Oh, she is, she absolutely is.  
+p432
+aa(lp433
+V HELEN 
 p434
-tp435
-a(V JERRY 
-p436
-V No, it's not that. It wasn't all one-sided.     
+aV I can see if there was a *weight* problem...    
+p435
+aa(lp436
+V JERRY 
 p437
-tp438
-a(V HELEN 
-p439
-V You know, you can't be so particular. Nobody's perfect.    
+aV No, it's not that. It wasn't all one-sided.     
+p438
+aa(lp439
+V HELEN 
 p440
-tp441
-a(V JERRY 
-p442
-V I know, I know...  
+aV You know, you can't be so particular. Nobody's perfect.    
+p441
+aa(lp442
+V JERRY 
 p443
-tp444
-a(V MORTY 
-p445
-V Y'know Jerry, it's a good thing I wasn't so particular.   
+aV I know, I know...  
+p444
+aa(lp445
+V MORTY 
 p446
-tp447
-a(V HELEN 
-p448
-V Idiot... (To Jerry) So who're you looking for, Sophia Loren?   
+aV Y'know Jerry, it's a good thing I wasn't so particular.   
+p447
+aa(lp448
+V HELEN 
 p449
-tp450
-a(V JERRY 
-p451
-V That's got *nothin'* to do with it.    
+aV Idiot... (To Jerry) So who're you looking for, Sophia Loren?   
+p450
+aa(lp451
+V JERRY 
 p452
-tp453
-a(V MORTY 
-p454
-V How about Loni Anderson?  
+aV That's got *nothin'* to do with it.    
+p453
+aa(lp454
+V MORTY 
 p455
-tp456
-a(V HELEN 
-p457
-V Where do you get Loni Anderson?  
+aV How about Loni Anderson?  
+p456
+aa(lp457
+V HELEN 
 p458
-tp459
-a(V MORTY 
-p460
-V Why, what's wrong with Loni Anderson?    
+aV Where do you get Loni Anderson?  
+p459
+aa(lp460
+V MORTY 
 p461
-tp462
-a(V HELEN 
-p463
-V I like *Elaine* more than Loni Anderson...     
+aV Why, what's wrong with Loni Anderson?    
+p462
+aa(lp463
+V HELEN 
 p464
-tp465
-a(V JERRY 
-p466
-V What are you two talking about? Look, Elaine just wasn't "the one".   
+aV I like *Elaine* more than Loni Anderson...     
+p465
+aa(lp466
+V JERRY 
 p467
-tp468
-a(V HELEN 
-p469
-V And this other one's "the one"?  
+aV What are you two talking about? Look, Elaine just wasn't "the one".   
+p468
+aa(lp469
+V HELEN 
 p470
-tp471
-a(V JERRY 
-p472
-V I dunno, maybe...  
+aV And this other one's "the one"?  
+p471
+aa(lp472
+V JERRY 
 p473
-tp474
-a(V MORTY 
-p475
-V So ask Elaine there for the number.    
+aV I dunno, maybe...  
+p474
+aa(lp475
+V MORTY 
 p476
-tp477
-a(V JERRY 
-p478
-V I can't-- she'll get upset. I never talk about other women with her,    especially this one tonight.  
+aV So ask Elaine there for the number.    
+p477
+aa(lp478
+V JERRY 
 p479
-tp480
-a(V HELEN 
-p481
-V How could you still see her if your not interested?   
+aV I can't-- she'll get upset. I never talk about other women with her,    especially this one tonight.  
+p480
+aa(lp481
+V HELEN 
 p482
-tp483
-a(V JERRY 
-p484
-V We're *friends*.  
+aV How could you still see her if your not interested?   
+p483
+aa(lp484
+V JERRY 
 p485
-tp486
-a(V MORTY 
-p487
-V Doesn't sound like you're friends to me. If you were friends you'd    ask her for the number. Do you know where this other one works?    
+aV We're *friends*.  
+p486
+aa(lp487
+V MORTY 
 p488
-tp489
-a(V JERRY 
-p490
-V Oh yeah...   
+aV Doesn't sound like you're friends to me. If you were friends you'd    ask her for the number. Do you know where this other one works?    
+p489
+aa(lp490
+V JERRY 
 p491
-tp492
-a(V MORTY 
-p493
-V Well, go up to the office.  
+aV Oh yeah...   
+p492
+aa(lp493
+V MORTY 
 p494
-tp495
-a(V HELEN 
-p496
-V Up to her office?  
+aV Well, go up to the office.  
+p495
+aa(lp496
+V HELEN 
 p497
-tp498
-a(V MORTY 
-p499
-V Go to the building. She goes out to lunch, doesn't she?   
+aV Up to her office?  
+p498
+aa(lp499
+V MORTY 
 p500
-tp501
-a(V JERRY 
-p502
-V I guess...  
+aV Go to the building. She goes out to lunch, doesn't she?   
+p501
+aa(lp502
+V JERRY 
 p503
-tp504
-a(V MORTY 
-p505
-V So, you stand in the lobby, by the elevator, and wait for her to    come down for lunch.  
+aV I guess...  
+p504
+aa(lp505
+V MORTY 
 p506
-tp507
-a(V JERRY 
-p508
-V You mean "stakeout" the lobby?  
+aV So, you stand in the lobby, by the elevator, and wait for her to    come down for lunch.  
+p507
+aa(lp508
+V JERRY 
 p509
-tp510
-a(V HELEN 
-p511
-V Morty, that's ridiculous. Just ask Elaine for the number!   
+aV You mean "stakeout" the lobby?  
+p510
+aa(lp511
+V HELEN 
 p512
-tp513
-a(V MORTY 
-p514
-V He doesn't want to ask Elaine for the number.   
+aV Morty, that's ridiculous. Just ask Elaine for the number!   
+p513
+aa(lp514
+V MORTY 
 p515
-tp516
-a(V HELEN 
-p517
-V So you've got him standing by the elevator like a *dope*! What    happens when he sees her?  
+aV He doesn't want to ask Elaine for the number.   
+p516
+aa(lp517
+V HELEN 
 p518
-tp519
-a(V MORTY 
-p520
-V He pretends he *bumped* into her!  
+aV So you've got him standing by the elevator like a *dope*! What    happens when he sees her?  
+p519
+aa(lp520
+V MORTY 
 p521
-tp522
-a(V JERRY 
-p523
-V Y'know what? This is *not* that *bad* an idea...    
+aV He pretends he *bumped* into her!  
+p522
+aa(lp523
+V JERRY 
 p524
-tp525
-a(V GEORGE 
-p526
-V What does she look like?  
+aV Y'know what? This is *not* that *bad* an idea...    
+p525
+aa(lp526
+V GEORGE 
 p527
-tp528
-a(V JERRY 
-p529
-V I dunno. Hard to say.  
+aV What does she look like?  
+p528
+aa(lp529
+V JERRY 
 p530
-tp531
-a(V GEORGE 
-p532
-V What actress does she remind you of?    
+aV I dunno. Hard to say.  
+p531
+aa(lp532
+V GEORGE 
 p533
-tp534
-a(V JERRY 
-p535
-V Loni Anderson.  
+aV What actress does she remind you of?    
+p534
+aa(lp535
+V JERRY 
 p536
-tp537
-a(V GEORGE 
-p538
-V Loni Anderson?!  
+aV Loni Anderson.  
+p537
+aa(lp538
+V GEORGE 
 p539
-tp540
-a(V JERRY 
-p541
-V What, there's something wrong with Loni Anderson?   
+aV Loni Anderson?!  
+p540
+aa(lp541
+V JERRY 
 p542
-tp543
-a(V JERRY 
-p544
-V Hey listen, thanks again for running over here. I appreciate it.   
+aV What, there's something wrong with Loni Anderson?   
+p543
+aa(lp544
+V JERRY 
 p545
-tp546
-a(V GEORGE 
-p547
-V Yeah, sure. I was showing a condo on 48th st. Besides, you think    I wanna miss this?  
+aV Hey listen, thanks again for running over here. I appreciate it.   
+p546
+aa(lp547
+V GEORGE 
 p548
-tp549
-a(V JERRY 
-p550
-V I'm a little nervous.  
+aV Yeah, sure. I was showing a condo on 48th st. Besides, you think    I wanna miss this?  
+p549
+aa(lp550
+V JERRY 
 p551
-tp552
-a(V GEORGE 
-p553
-V Yeah, me too...  
+aV I'm a little nervous.  
+p552
+aa(lp553
+V GEORGE 
 p554
-tp555
-a(V JERRY 
-p556
-V If I see her, what do I say that I'm doing here in the building?   
+aV Yeah, me too...  
+p555
+aa(lp556
+V JERRY 
 p557
-tp558
-a(V GEORGE 
-p559
-V You came to see me; I work in the building.    
+aV If I see her, what do I say that I'm doing here in the building?   
+p558
+aa(lp559
+V GEORGE 
 p560
-tp561
-a(V JERRY 
-p562
-V What do you do?  
+aV You came to see me; I work in the building.    
+p561
+aa(lp562
+V JERRY 
 p563
-tp564
-a(V GEORGE 
-p565
-V I'm an *architect*.  
+aV What do you do?  
+p564
+aa(lp565
+V GEORGE 
 p566
-tp567
-a(V JERRY 
-p568
-V You're an *architect*?  
+aV I'm an *architect*.  
+p567
+aa(lp568
+V JERRY 
 p569
-tp570
-a(V GEORGE 
-p571
-V I'm not?  
+aV You're an *architect*?  
+p570
+aa(lp571
+V GEORGE 
 p572
-tp573
-a(V JERRY 
-p574
-V I don't see architecture comin from you...   
+aV I'm not?  
+p573
+aa(lp574
+V JERRY 
 p575
-tp576
-a(V GEORGE 
-p577
-V I suppose *you* could be an architect...    
+aV I don't see architecture comin from you...   
+p576
+aa(lp577
+V GEORGE 
 p578
-tp579
-a(V JERRY 
-p580
-V I never said that I was the architect. Just somethin' else...   
+aV I suppose *you* could be an architect...    
+p579
+aa(lp580
+V JERRY 
 p581
-tp582
-a(V GEORGE 
-p583
-V Alright, she's not even gonna ask, if we *see* her, which is remote.   
+aV I never said that I was the architect. Just somethin' else...   
+p582
+aa(lp583
+V GEORGE 
 p584
-tp585
-a(V JERRY 
-p586
-V Well what'dya want me to say, that I just wandered in here?!   
+aV Alright, she's not even gonna ask, if we *see* her, which is remote.   
+p585
+aa(lp586
+V JERRY 
 p587
-tp588
-a(V GEORGE 
-p589
-V We're having lunch with a friend-- he works in the building.   
+aV Well what'dya want me to say, that I just wandered in here?!   
+p588
+aa(lp589
+V GEORGE 
 p590
-tp591
-a(V JERRY 
-p592
-V What is *his* name?  
+aV We're having lunch with a friend-- he works in the building.   
+p591
+aa(lp592
+V JERRY 
 p593
-tp594
-a(V GEORGE 
-p595
-V Bert... Har... bin... son. Bert Har-bin-son.    
+aV What is *his* name?  
+p594
+aa(lp595
+V GEORGE 
 p596
-tp597
-a(V JERRY 
-p598
-V Bert Harbinson? It sounds made up.    
+aV Bert... Har... bin... son. Bert Har-bin-son.    
+p597
+aa(lp598
+V JERRY 
 p599
-tp600
-a(V GEORGE 
-p601
-V No good? Alright, how about Art... Corr.....    
+aV Bert Harbinson? It sounds made up.    
+p600
+aa(lp601
+V GEORGE 
 p602
-tp603
-a(V JERRY 
-p604
-V Art Corr...  
+aV No good? Alright, how about Art... Corr.....    
+p603
+aa(lp604
+V JERRY 
 p605
-tp606
-a(V GEORGE 
-p607
-V ...velay...  
+aV Art Corr...  
+p606
+aa(lp607
+V GEORGE 
 p608
-tp609
-a(V JERRY 
-p610
-V Corvelay?  
+aV ...velay...  
+p609
+aa(lp610
+V JERRY 
 p611
-tp612
-a(V GEORGE 
-p613
-V Yeah, right.  
+aV Corvelay?  
+p612
+aa(lp613
+V GEORGE 
 p614
-tp615
-a(V JERRY 
-p616
-V Well, what does *he* do?  
+aV Yeah, right.  
+p615
+aa(lp616
+V JERRY 
 p617
-tp618
-a(V GEORGE 
-p619
-V He's an importer.  
+aV Well, what does *he* do?  
+p618
+aa(lp619
+V GEORGE 
 p620
-tp621
-a(V JERRY 
-p622
-V Just imports, no exports?  
+aV He's an importer.  
+p621
+aa(lp622
+V JERRY 
 p623
-tp624
-a(V GEORGE 
-p625
-V He's an importer/exporter, okay?  
+aV Just imports, no exports?  
+p624
+aa(lp625
+V GEORGE 
 p626
-tp627
-a(V GEORGE 
-p628
-V Say, did Elaine ever call you back?    
+aV He's an importer/exporter, okay?  
+p627
+aa(lp628
+V GEORGE 
 p629
-tp630
-a(V JERRY 
-p631
-V No, I guess she's still mad.  
+aV Say, did Elaine ever call you back?    
+p630
+aa(lp631
+V JERRY 
 p632
-tp633
-a(V GEORGE 
-p634
-V I don't understand, you never talk to her about other women?   
+aV No, I guess she's still mad.  
+p633
+aa(lp634
+V GEORGE 
 p635
-tp636
-a(V JERRY 
-p637
-V Never.   
+aV I don't understand, you never talk to her about other women?   
+p636
+aa(lp637
+V JERRY 
 p638
-tp639
-a(V JERRY 
-p640
-V Wait a second... That's her... on the right.   
+aV Never.   
+p639
+aa(lp640
+V JERRY 
 p641
-tp642
-a(V GEORGE 
-p643
-V I forgot who I am! Who am I?!  
+aV Wait a second... That's her... on the right.   
+p642
+aa(lp643
+V GEORGE 
 p644
-tp645
-a(V JERRY 
-p646
-V You're you. We're having lunch with Art Corvelay.   
+aV I forgot who I am! Who am I?!  
+p645
+aa(lp646
+V JERRY 
 p647
-tp648
-a(V GEORGE 
-p649
-V Vandelay!  
+aV You're you. We're having lunch with Art Corvelay.   
+p648
+aa(lp649
+V GEORGE 
 p650
-tp651
-a(V JERRY 
-p652
-V Corvelay!  
+aV Vandelay!  
+p651
+aa(lp652
+V JERRY 
 p653
-tp654
-a(V GEORGE 
-p655
-V Let me be the architect, I can do it!     
+aV Corvelay!  
+p654
+aa(lp655
+V GEORGE 
 p656
-tp657
-a(V JERRY 
-p658
-V Hey, hey... Pamela's birthday party, didn't I see you there...    Jerry.  
+aV Let me be the architect, I can do it!     
+p657
+aa(lp658
+V JERRY 
 p659
-tp660
-a(V VANESSA 
-p661
-V Sure! Hi!  
+aV Hey, hey... Pamela's birthday party, didn't I see you there...    Jerry.  
+p660
+aa(lp661
+V VANESSA 
 p662
-tp663
-a(V JERRY 
-p664
-V This is George. ("Grasps" for her name) I'm sorry...   
+aV Sure! Hi!  
+p663
+aa(lp664
+V JERRY 
 p665
-tp666
-a(V VANESSA 
-p667
-V Vanessa.  
+aV This is George. ("Grasps" for her name) I'm sorry...   
+p666
+aa(lp667
+V VANESSA 
 p668
-tp669
-a(V GEORGE 
-p670
-V Nice to meet you.  
+aV Vanessa.  
+p669
+aa(lp670
+V GEORGE 
 p671
-tp672
-a(V JERRY 
-p673
-V Ah, Sagman, Bennet, Robbins, Oppenheim and Taft.   
+aV Nice to meet you.  
+p672
+aa(lp673
+V JERRY 
 p674
-tp675
-a(V VANESSA 
-p676
-V That's right! What're you doing here?    
+aV Ah, Sagman, Bennet, Robbins, Oppenheim and Taft.   
+p675
+aa(lp676
+V VANESSA 
 p677
-tp678
-a(V JERRY 
-p679
-V Oh, were meeting a friend of ours for lunch. He works here in the    building.  
+aV That's right! What're you doing here?    
+p678
+aa(lp679
+V JERRY 
 p680
-tp681
-a(V GEORGE 
-p682
-V Yeah, Art *Vandelay*.  
+aV Oh, were meeting a friend of ours for lunch. He works here in the    building.  
+p681
+aa(lp682
+V GEORGE 
 p683
-tp684
-a(V VANESSA 
-p685
-V Really? Which company?  
+aV Yeah, Art *Vandelay*.  
+p684
+aa(lp685
+V VANESSA 
 p686
-tp687
-a(V JERRY 
-p688
-V I don't know. He's an importer.  
+aV Really? Which company?  
+p687
+aa(lp688
+V JERRY 
 p689
-tp690
-a(V VANESSA 
-p691
-V Importer?  
+aV I don't know. He's an importer.  
+p690
+aa(lp691
+V VANESSA 
 p692
-tp693
-a(V GEORGE 
-p694
-V ...And exporter.  
+aV Importer?  
+p693
+aa(lp694
+V GEORGE 
 p695
-tp696
-a(V JERRY 
-p697
-V He's an importer/exporter.  
+aV ...And exporter.  
+p696
+aa(lp697
+V JERRY 
 p698
-tp699
-a(V GEORGE 
-p700
-V I'm, uh, I'm an architect.  
+aV He's an importer/exporter.  
+p699
+aa(lp700
+V GEORGE 
 p701
-tp702
-a(V VANESSA 
-p703
-V Really. What do you design?  
+aV I'm, uh, I'm an architect.  
+p702
+aa(lp703
+V VANESSA 
 p704
-tp705
-a(V GEORGE 
-p706
-V Uh, railroads, uh...  
+aV Really. What do you design?  
+p705
+aa(lp706
+V GEORGE 
 p707
-tp708
-a(V VANESSA 
-p709
-V I thought engineers do that.  
+aV Uh, railroads, uh...  
+p708
+aa(lp709
+V VANESSA 
 p710
-tp711
-a(V GEORGE 
-p712
-V They can...  
+aV I thought engineers do that.  
+p711
+aa(lp712
+V GEORGE 
 p713
-tp714
-a(V JERRY 
-p715
-V Y'know I'm sorry you had to leave so early the other night.   
+aV They can...  
+p714
+aa(lp715
+V JERRY 
 p716
-tp717
-a(V VANESSA 
-p718
-V Oh, me too. My cousin had to go back to Boston.   
+aV Y'know I'm sorry you had to leave so early the other night.   
+p717
+aa(lp718
+V VANESSA 
 p719
-tp720
-a(V JERRY 
-p721
-V Oh, that guy was your *cousin*!  
+aV Oh, me too. My cousin had to go back to Boston.   
+p720
+aa(lp721
+V JERRY 
 p722
-tp723
-a(V VANESSA 
-p724
-V Yeah, and that woman was your--  
+aV Oh, that guy was your *cousin*!  
+p723
+aa(lp724
+V VANESSA 
 p725
-tp726
-a(V JERRY 
-p727
-V Friend!  
+aV Yeah, and that woman was your--  
+p726
+aa(lp727
+V JERRY 
 p728
-tp729
-a(V GEORGE 
-p730
-V I'll just, uh, get a paper...  
+aV Friend!  
+p729
+aa(lp730
+V GEORGE 
 p731
-tp732
-a(V JERRY 
-p733
-V So, um, do you date immature men?  
+aV I'll just, uh, get a paper...  
+p732
+aa(lp733
+V JERRY 
 p734
-tp735
-a(V VANESSA 
-p736
-V Almost exclusively...        
+aV So, um, do you date immature men?  
+p735
+aa(lp736
+V VANESSA 
 p737
-tp738
-a(V HELEN 
-p739
-V Bum bum bum bum... I have no letters... Bum bum bum bum...   
+aV Almost exclusively...        
+p738
+aa(lp739
+V HELEN 
 p740
-tp741
-a(V JERRY 
-p742
-V Ma, will you go already?  
+aV Bum bum bum bum... I have no letters... Bum bum bum bum...   
+p741
+aa(lp742
+V JERRY 
 p743
-tp744
-a(V HELEN 
-p745
-V Bum bum bum bum...   
+aV Ma, will you go already?  
+p744
+aa(lp745
+V HELEN 
 p746
-tp747
-a(V JERRY 
-p748
-V What are you doing?!  
+aV Bum bum bum bum...   
+p747
+aa(lp748
+V JERRY 
 p749
-tp750
-a(V HELEN 
-p751
-V Wait, I just want to see something...    
+aV What are you doing?!  
+p750
+aa(lp751
+V HELEN 
 p752
-tp753
-a(V JERRY 
-p754
-V You can't look in there, we're playing!     
+aV Wait, I just want to see something...    
+p753
+aa(lp754
+V JERRY 
 p755
-tp756
-a(V MORTY 
-p757
-V Evening, Mr. Kramer!  
+aV You can't look in there, we're playing!     
+p756
+aa(lp757
+V MORTY 
 p758
-tp759
-a(V KRAMER 
-p760
-V Hey Morty! (To Jerry) Salad dressing?    
+aV Evening, Mr. Kramer!  
+p759
+aa(lp760
+V KRAMER 
 p761
-tp762
-a(V JERRY 
-p763
-V Look.  
+aV Hey Morty! (To Jerry) Salad dressing?    
+p762
+aa(lp763
+V JERRY 
 p764
-tp765
-a(V HELEN 
-p766
-V "Quo"? Is that a word?  
+aV Look.  
+p765
+aa(lp766
+V HELEN 
 p767
-tp768
-a(V JERRY 
-p769
-V Maybe!  
+aV "Quo"? Is that a word?  
+p768
+aa(lp769
+V JERRY 
 p770
-tp771
-a(V HELEN 
-p772
-V Will you challenge it?  
+aV Maybe!  
+p771
+aa(lp772
+V HELEN 
 p773
-tp774
-a(V JERRY 
-p775
-V Ma, you can't look up words in the dictionary! Dad, she's cheating!   
+aV Will you challenge it?  
+p774
+aa(lp775
+V JERRY 
 p776
-tp777
-a(V KRAMER 
-p778
-V "Quo"? That's not a word.  
+aV Ma, you can't look up words in the dictionary! Dad, she's cheating!   
+p777
+aa(lp778
+V KRAMER 
 p779
-tp780
-a(V HELEN 
-p781
-V (To Jerry) You're such a stickler...    
+aV "Quo"? That's not a word.  
+p780
+aa(lp781
+V HELEN 
 p782
-tp783
-a(V JERRY 
-p784
-V Well put *something* down, you're taking twenty minutes on this.    So is Uncle Mac, and Artie, they're all coming over here before the    wedding?  
+aV (To Jerry) You're such a stickler...    
+p783
+aa(lp784
+V JERRY 
 p785
-tp786
-a(V HELEN 
-p787
-V They'll be here at two o'clock... Oh, Elaine called. She said    SHE'D BE HERE AT 2  30. Oh, and she says ``Hope your meeting went    well with Art... "Vandelay"?''  
+aV Well put *something* down, you're taking twenty minutes on this.    So is Uncle Mac, and Artie, they're all coming over here before the    wedding?  
+p786
+aa(lp787
+V HELEN 
 p788
-tp789
-a(V JERRY 
-p790
-V She said *what*?  
+aV They'll be here at two o'clock... Oh, Elaine called. She said    SHE'D BE HERE AT 2  30. Oh, and she says ``Hope your meeting went    well with Art... "Vandelay"?''  
+p789
+aa(lp790
+V JERRY 
 p791
-tp792
-a(V HELEN 
-p793
-V Just what I said, here.   
+aV She said *what*?  
+p792
+aa(lp793
+V HELEN 
 p794
-tp795
-a(V JERRY 
-p796
-V She knows! Oh, I am *such* a *jackass*...    
+aV Just what I said, here.   
+p795
+aa(lp796
+V JERRY 
 p797
-tp798
-a(V HELEN 
-p799
-V She knows what?  
+aV She knows! Oh, I am *such* a *jackass*...    
+p798
+aa(lp799
+V HELEN 
 p800
-tp801
-a(V JERRY 
-p802
-V She knows the whole stupid thing... Vanessa and the elevator...    
+aV She knows what?  
+p801
+aa(lp802
+V JERRY 
 p803
-tp804
-a(V HELEN 
-p805
-V No, no, no, that won't do. He may have a "Z"...   
+aV She knows the whole stupid thing... Vanessa and the elevator...    
+p804
+aa(lp805
+V HELEN 
 p806
-tp807
-a(V MORTY 
-p808
-V So, how did she find out?  
+aV No, no, no, that won't do. He may have a "Z"...   
+p807
+aa(lp808
+V MORTY 
 p809
-tp810
-a(V JERRY 
-p811
-V Because, Vanessa probably told Pamela, and Pamela probably told    Elaine.     
+aV So, how did she find out?  
+p810
+aa(lp811
+V JERRY 
 p812
-tp813
-a(V MORTY 
-p814
-V So, what are you? Afraid of her?  
+aV Because, Vanessa probably told Pamela, and Pamela probably told    Elaine.     
+p813
+aa(lp814
+V MORTY 
 p815
-tp816
-a(V JERRY 
-p817
-V Yes. *Yes* *I* *am*!  
+aV So, what are you? Afraid of her?  
+p816
+aa(lp817
+V JERRY 
 p818
-tp819
-a(V JERRY 
-p820
-V What else did she say on the phone?    
+aV Yes. *Yes* *I* *am*!  
+p819
+aa(lp820
+V JERRY 
 p821
-tp822
-a(V HELEN 
-p823
-V Whatever I wrote down.  
+aV What else did she say on the phone?    
+p822
+aa(lp823
+V HELEN 
 p824
-tp825
-a(V JERRY 
-p826
-V Yeah, but what was the tone in her voice? How did she sound?   
+aV Whatever I wrote down.  
+p825
+aa(lp826
+V JERRY 
 p827
-tp828
-a(V HELEN 
-p829
-V Who am I, Rich Little?  
+aV Yeah, but what was the tone in her voice? How did she sound?   
+p828
+aa(lp829
+V HELEN 
 p830
-tp831
-a(V MORTY 
-p832
-V Well, she can't be too mad-- she's still coming to the wedding.   
+aV Who am I, Rich Little?  
+p831
+aa(lp832
+V MORTY 
 p833
-tp834
-a(V JERRY 
-p835
-V Yeah, but now I'm nervous.  
+aV Well, she can't be too mad-- she's still coming to the wedding.   
+p834
+aa(lp835
+V JERRY 
 p836
-tp837
-a(V HELEN 
-p838
-V Oh, stop it.   
+aV Yeah, but now I'm nervous.  
+p837
+aa(lp838
+V HELEN 
 p839
-tp840
-a(V JERRY 
-p841
-V "Quone"?  
+aV Oh, stop it.   
+p840
+aa(lp841
+V JERRY 
 p842
-tp843
-a(V HELEN 
-p844
-V ...30...31...   
+aV "Quone"?  
+p843
+aa(lp844
+V HELEN 
 p845
-tp846
-a(V JERRY 
-p847
-V "Quone"? No, I'm afraid that I'm going to have to challenge that.   
+aV ...30...31...   
+p846
+aa(lp847
+V JERRY 
 p848
-tp849
-a(V HELEN 
-p850
-V ...32...   
+aV "Quone"? No, I'm afraid that I'm going to have to challenge that.   
+p849
+aa(lp850
+V HELEN 
 p851
-tp852
-a(V KRAMER 
-p853
-V No, you don't have to challenge that. That's a word. That's a    *definite* word.  
+aV ...32...   
+p852
+aa(lp853
+V KRAMER 
 p854
-tp855
-a(V JERRY 
-p856
-V I am challenging...  
+aV No, you don't have to challenge that. That's a word. That's a    *definite* word.  
+p855
+aa(lp856
+V JERRY 
 p857
-tp858
-a(V KRAMER 
-p859
-V Quone: to quone something.  
+aV I am challenging...  
+p858
+aa(lp859
+V KRAMER 
 p860
-tp861
-a(V JERRY 
-p862
-V Uh-huh...  
+aV Quone: to quone something.  
+p861
+aa(lp862
+V JERRY 
 p863
-tp864
-a(V HELEN 
-p865
-V I'm not playing with you anymore...    
+aV Uh-huh...  
+p864
+aa(lp865
+V HELEN 
 p866
-tp867
-a(V MORTY 
-p868
-V Quone's not a word...  
+aV I'm not playing with you anymore...    
+p867
+aa(lp868
+V MORTY 
 p869
-tp870
-a(V JERRY 
-p871
-V No good. Sorry. There it is. Get it off...   
+aV Quone's not a word...  
+p870
+aa(lp871
+V JERRY 
 p872
-tp873
-a(V HELEN 
-p874
-V Why did you make me put that down?    
+aV No good. Sorry. There it is. Get it off...   
+p873
+aa(lp874
+V HELEN 
 p875
-tp876
-a(V KRAMER 
-p877
-V Nah, we need a *medical* dictionary! If a patient gets difficult,    you *quone* him...     
+aV Why did you make me put that down?    
+p876
+aa(lp877
+V KRAMER 
 p878
-tp879
-a(V CAROL 
-p880
-V You want some funny material, you oughta come down to where I work,    now that's a sitcom!  
+aV Nah, we need a *medical* dictionary! If a patient gets difficult,    you *quone* him...     
+p879
+aa(lp880
+V CAROL 
 p881
-tp882
-a(V JERRY 
-p883
-V You must have quite a time down there. (Checks his watch)   
+aV You want some funny material, you oughta come down to where I work,    now that's a sitcom!  
+p882
+aa(lp883
+V JERRY 
 p884
-tp885
-a(V CAROL 
-p886
-V We got plenty of time...  
+aV You must have quite a time down there. (Checks his watch)   
+p885
+aa(lp886
+V CAROL 
 p887
-tp888
-a(V JERRY 
-p889
-V Oh, I'm sorry. I'm just waiting for someone...   
+aV We got plenty of time...  
+p888
+aa(lp889
+V JERRY 
 p890
-tp891
-a(V MAC 
-p892
-V Watch what you say to this guy-- he'll put it in his next act!   
+aV Oh, I'm sorry. I'm just waiting for someone...   
+p891
+aa(lp892
+V MAC 
 p893
-tp894
-a(V JERRY 
-p895
-V Yeah, yeah...  
+aV Watch what you say to this guy-- he'll put it in his next act!   
+p894
+aa(lp895
+V JERRY 
 p896
-tp897
-a(V MAC 
-p898
-V Jerry, did I tell you that I'm writing a book? An autobiography.   
+aV Yeah, yeah...  
+p897
+aa(lp898
+V MAC 
 p899
-tp900
-a(V JERRY 
-p901
-V Yeah, Uncle Mac, you mentioned it...    
+aV Jerry, did I tell you that I'm writing a book? An autobiography.   
+p900
+aa(lp901
+V JERRY 
 p902
-tp903
-a(V MAC 
-p904
-V It's based on all my experiences!  
+aV Yeah, Uncle Mac, you mentioned it...    
+p903
+aa(lp904
+V MAC 
 p905
-tp906
-a(V JERRY 
-p907
-V That's perfect. (Elaine enters) Could you excuse me one second.    I'm sorry.   
+aV It's based on all my experiences!  
+p906
+aa(lp907
+V JERRY 
 p908
-tp909
-a(V JERRY 
-p910
-V How do you do, Jerry Seinfeld.  
+aV That's perfect. (Elaine enters) Could you excuse me one second.    I'm sorry.   
+p909
+aa(lp910
+V JERRY 
 p911
-tp912
-a(V ELAINE 
-p913
-V Oh, how do you do. Elaine Benes.  
+aV How do you do, Jerry Seinfeld.  
+p912
+aa(lp913
+V ELAINE 
 p914
-tp915
-a(V JERRY 
-p916
-V Um, do you want to do this now, or do you want to wait until we get    in the car?  
+aV Oh, how do you do. Elaine Benes.  
+p915
+aa(lp916
+V JERRY 
 p917
-tp918
-a(V ELAINE 
-p919
-V Oh no, let's do it now.  
+aV Um, do you want to do this now, or do you want to wait until we get    in the car?  
+p918
+aa(lp919
+V ELAINE 
 p920
-tp921
-a(V JERRY 
-p922
-V Alright, the whole elevator business, let me just explain--   
+aV Oh no, let's do it now.  
+p921
+aa(lp922
+V JERRY 
 p923
-tp924
-a(V ELAINE 
-p925
-V Okay...  
+aV Alright, the whole elevator business, let me just explain--   
+p924
+aa(lp925
+V ELAINE 
 p926
-tp927
-a(V ARTIE 
-p928
-V Jerry, were you goin' with us?  
+aV Okay...  
+p927
+aa(lp928
+V ARTIE 
 p929
-tp930
-a(V JERRY 
-p931
-V No, I'm gonna take my car.  
+aV Jerry, were you goin' with us?  
+p930
+aa(lp931
+V JERRY 
 p932
-tp933
-a(V ARTIE 
-p934
-V That's why I brought the wagon. Why the Hell did I bring the wagon?   
+aV No, I'm gonna take my car.  
+p933
+aa(lp934
+V ARTIE 
 p935
-tp936
-a(V JERRY 
-p937
-V Anyway, you know why I didn't ask you, I mean I felt so    uncomfortable, and you were *so* annoyed in the cab.  
+aV That's why I brought the wagon. Why the Hell did I bring the wagon?   
+p936
+aa(lp937
+V JERRY 
 p938
-tp939
-a(V ELAINE 
-p940
-V Well, Jerry, I never saw you flirt with anyone before. It was    quite the spectacle.  
+aV Anyway, you know why I didn't ask you, I mean I felt so    uncomfortable, and you were *so* annoyed in the cab.  
+p939
+aa(lp940
+V ELAINE 
 p941
-tp942
-a(V CAROL 
-p943
-V Jerry, we'll see you there. Bye, Elaine.    
+aV Well, Jerry, I never saw you flirt with anyone before. It was    quite the spectacle.  
+p942
+aa(lp943
+V CAROL 
 p944
-tp945
-a(V ELAINE 
-p946
-V Oh, bye. Good to see you.  
+aV Jerry, we'll see you there. Bye, Elaine.    
+p945
+aa(lp946
+V ELAINE 
 p947
-tp948
-a(V ARTIE 
-p949
-V Oh, we didn't meet.  
+aV Oh, bye. Good to see you.  
+p948
+aa(lp949
+V ARTIE 
 p950
-tp951
-a(V JERRY 
-p952
-V Oh, I'm sorry. Elaine, this is my cousin Artie Levine.    
+aV Oh, we didn't meet.  
+p951
+aa(lp952
+V JERRY 
 p953
-tp954
-a(V ARTIE 
-p955
-V Le*vine*.   
+aV Oh, I'm sorry. Elaine, this is my cousin Artie Levine.    
+p954
+aa(lp955
+V ARTIE 
 p956
-tp957
-a(V JERRY 
-p958
-V Yeah, "Le*vine*". And I'm Jerry Cougar Mellencamp... Anyway, I    admit it was a fairly ridiculous thing to do, but I mean, I mean,     obviously we have a little problem here.  
+aV Le*vine*.   
+p957
+aa(lp958
+V JERRY 
 p959
-tp960
-a(V ELAINE 
-p961
-V Yeah, obviously.  
+aV Yeah, "Le*vine*". And I'm Jerry Cougar Mellencamp... Anyway, I    admit it was a fairly ridiculous thing to do, but I mean, I mean,     obviously we have a little problem here.  
+p960
+aa(lp961
+V ELAINE 
 p962
-tp963
-a(V JERRY 
-p964
-V I mean, if we're gonna be friends, we gotta be able to talk about    other people...  
+aV Yeah, obviously.  
+p963
+aa(lp964
+V JERRY 
 p965
-tp966
-a(V ELAINE 
-p967
-V Couldn't agree more.  
+aV I mean, if we're gonna be friends, we gotta be able to talk about    other people...  
+p966
+aa(lp967
+V ELAINE 
 p968
-tp969
-a(V JERRY 
-p970
-V Good.  
+aV Couldn't agree more.  
+p969
+aa(lp970
+V JERRY 
 p971
-tp972
-a(V ELAINE 
-p973
-V Good.  
+aV Good.  
+p972
+aa(lp973
+V ELAINE 
 p974
-tp975
-a(V JERRY 
-p976
-V Good.  
+aV Good.  
+p975
+aa(lp976
+V JERRY 
 p977
-tp978
-a(V ELAINE 
-p979
-V Great!  
+aV Good.  
+p978
+aa(lp979
+V ELAINE 
 p980
-tp981
-a(V JERRY 
-p982
-V Great? Where do you get "great"?  
+aV Great!  
+p981
+aa(lp982
+V JERRY 
 p983
-tp984
-a(V ELAINE 
-p985
-V It's great to... talk about... other people...   
+aV Great? Where do you get "great"?  
+p984
+aa(lp985
+V ELAINE 
 p986
-tp987
-a(V JERRY 
-p988
-V ...Guys.  
+aV It's great to... talk about... other people...   
+p987
+aa(lp988
+V JERRY 
 p989
-tp990
-a(V ELAINE 
-p991
-V Yeah.  
+aV ...Guys.  
+p990
+aa(lp991
+V ELAINE 
 p992
-tp993
-a(V JERRY 
-p994
-V Uh-huh... Yeah... So, anybody specific?    
+aV Yeah.  
+p993
+aa(lp994
+V JERRY 
 p995
-tp996
-a(V ELAINE 
-p997
-V No. A general guy.  
+aV Uh-huh... Yeah... So, anybody specific?    
+p996
+aa(lp997
+V ELAINE 
 p998
-tp999
-a(V JERRY 
-p1000
-V Oh *really*... Elaine Marie Benes...    
+aV No. A general guy.  
+p999
+aa(lp1000
+V JERRY 
 p1001
-tp1002
-a(V ELAINE 
-p1003
-V What? No, it's not a big deal.  
+aV Oh *really*... Elaine Marie Benes...    
+p1002
+aa(lp1003
+V ELAINE 
 p1004
-tp1005
-a(V JERRY 
-p1006
-V No, that's great! That's terrific!    
+aV What? No, it's not a big deal.  
+p1005
+aa(lp1006
+V JERRY 
 p1007
-tp1008
-a(V ELAINE 
-p1009
-V No, we just met...  
+aV No, that's great! That's terrific!    
+p1008
+aa(lp1009
+V ELAINE 
 p1010
-tp1011
-a(V JERRY 
-p1012
-V Doesn't matter. What's the young man's name? I would like to    meet him.  
+aV No, we just met...  
+p1011
+aa(lp1012
+V JERRY 
 p1013
-tp1014
-a(V ELAINE 
-p1015
-V I don't think so...  
+aV Doesn't matter. What's the young man's name? I would like to    meet him.  
+p1014
+aa(lp1015
+V ELAINE 
 p1016
-tp1017
-a(V JERRY 
-p1018
-V Well, what does he do? Is he an artisan, a craftsman, a labourer    of some sort?  
+aV I don't think so...  
+p1017
+aa(lp1018
+V JERRY 
 p1019
-tp1020
-a(V ELAINE 
-p1021
-V Wall street.  
+aV Well, what does he do? Is he an artisan, a craftsman, a labourer    of some sort?  
+p1020
+aa(lp1021
+V ELAINE 
 p1022
-tp1023
-a(V JERRY 
-p1024
-V Ahh, high finance: bulls... bears... people from Conneticut.   
+aV Wall street.  
+p1023
+aa(lp1024
+V JERRY 
 p1025
-tp1026
-a(V ELAINE 
-p1027
-V And he happens to be pretty good lookin'    
+aV Ahh, high finance: bulls... bears... people from Conneticut.   
+p1026
+aa(lp1027
+V ELAINE 
 p1028
-tp1029
-a(V JERRY 
-p1030
-V (pause) Alright, sir.  
+aV And he happens to be pretty good lookin'    
+p1029
+aa(lp1030
+V JERRY 
 p1031
-tp1032
-a(V ELAINE 
-p1033
-V And... he's *hilarious*.  
+aV (pause) Alright, sir.  
+p1032
+aa(lp1033
+V ELAINE 
 p1034
-tp1035
-a(V JERRY 
-p1036
-V Now that's not fair! So where did you meet this guy?   
+aV And... he's *hilarious*.  
+p1035
+aa(lp1036
+V JERRY 
 p1037
-tp1038
-a(V ELAINE 
-p1039
-V I "staked" out his health club.    
+aV Now that's not fair! So where did you meet this guy?   
+p1038
+aa(lp1039
+V ELAINE 
 p1040
-tp1041
-a(V JERRY 
-p1042
-V When you're on a stakeout, do you find it's better to stand up    against the wall, or kinda crouch down behind a big plant?...     
+aV I "staked" out his health club.    
+p1041
+aa(lp1042
+V JERRY 
 p1043
-tp1044
-a.
+aV When you're on a stakeout, do you find it's better to stand up    against the wall, or kinda crouch down behind a big plant?...     
+p1044
+aa.

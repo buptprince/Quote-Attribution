@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup as bs
 import urllib2, pickle, re, os
 
-class Scrape:
+class Scraper:
 
     def __init__(self):
         self.url = "http://www.imsdb.com/TV/Seinfeld.html"
@@ -65,7 +65,7 @@ class Scrape:
 
             if re.match(r'\s[A-Z]+\s$|\s[A-Z]+\sAND\s[A-Z]+\s$', c):
                 if speaker:
-                    tscript.append((speaker, dialogue))
+                    tscript.append([speaker, dialogue])
                     dialogue = None
                 speaker = c
             else:
@@ -85,4 +85,4 @@ class Scrape:
             f.write(html)
 
 if __name__ == '__main__':
-    Scrape()
+    Scraper()

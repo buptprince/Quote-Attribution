@@ -1,1392 +1,1392 @@
 (lp0
-(V JERRY 
-p1
-V  THE STATUE  Written by Larry Charles     (Night club)   I have to tell you that I did some very exciting news recently, and I don't know if I should really tell you exactly what it is because it's really not a definite thing yet. Well, I will tell you what I know so far. According to the information that I have in the envelope that I've received, it seems that I may have already won some very valuable prizes. Well, thank you, thank you very much, well thank you. It's very nice to hear that. But, in all honesty, I have to say, I didn't even know I was in this thing. But, according to the readout, it looks like I am among the top people that they are considering. You know, that's what annoys me about the sweepstakes companies, they always tease you with that, "You may have already won." I'd like once for a sweepstakes company to have some guts, come out with the truth, just tell people the truth one time. Send out envelopes, "You have definitely lost!" You turn it over, giant printing, "Not even close!" You open it up, there's this whole letter of explanation, "Even we cannot believe how badly you've done in this contest."     (Scene ends) (Jerry's apartment)   (George is reading the paper. Kramer and Jerry both try to enter carrying a large carton with the name Seinfeld on it)   
+(lp1
+V JERRY 
 p2
-tp3
-a(V JERRY 
-p4
-V (Trying to get the box through the door. To Kramer) To the right. (They get it through)   
+aV  THE STATUE  Written by Larry Charles     (Night club)   I have to tell you that I did some very exciting news recently, and I don't know if I should really tell you exactly what it is because it's really not a definite thing yet. Well, I will tell you what I know so far. According to the information that I have in the envelope that I've received, it seems that I may have already won some very valuable prizes. Well, thank you, thank you very much, well thank you. It's very nice to hear that. But, in all honesty, I have to say, I didn't even know I was in this thing. But, according to the readout, it looks like I am among the top people that they are considering. You know, that's what annoys me about the sweepstakes companies, they always tease you with that, "You may have already won." I'd like once for a sweepstakes company to have some guts, come out with the truth, just tell people the truth one time. Send out envelopes, "You have definitely lost!" You turn it over, giant printing, "Not even close!" You open it up, there's this whole letter of explanation, "Even we cannot believe how badly you've done in this contest."     (Scene ends) (Jerry's apartment)   (George is reading the paper. Kramer and Jerry both try to enter carrying a large carton with the name Seinfeld on it)   
+p3
+aa(lp4
+V JERRY 
 p5
-tp6
-a(V GEORGE 
-p7
-V That took awhile.  
+aV (Trying to get the box through the door. To Kramer) To the right. (They get it through)   
+p6
+aa(lp7
+V GEORGE 
 p8
-tp9
-a(V JERRY 
-p10
-V (Sarcastic) Don't get up.  
+aV That took awhile.  
+p9
+aa(lp10
+V JERRY 
 p11
-tp12
-a(V GEORGE 
-p13
-V I'd like to help, but my neck..   (The set the box on the table)  
+aV (Sarcastic) Don't get up.  
+p12
+aa(lp13
+V GEORGE 
 p14
-tp15
-a(V GEORGE 
-p16
-V So how long has it been in the basement?    
+aV I'd like to help, but my neck..   (The set the box on the table)  
+p15
+aa(lp16
+V GEORGE 
 p17
-tp18
-a(V JERRY 
-p19
-V Since my grandfather died. I was suppose to send it down to my parents in Florida, but they didn't want it. They told me to get rid of it, but I felt funny and then I sort of forgot about it. And it's been sitting down there for three years.. until he saw it. (To Kramer) Alright, so, just take what you want and let's get it out of here.    (They open the box, and start going through it)  
+aV So how long has it been in the basement?    
+p18
+aa(lp19
+V JERRY 
 p20
-tp21
-a(V GEORGE 
-p22
-V What's in it?  
+aV Since my grandfather died. I was suppose to send it down to my parents in Florida, but they didn't want it. They told me to get rid of it, but I felt funny and then I sort of forgot about it. And it's been sitting down there for three years.. until he saw it. (To Kramer) Alright, so, just take what you want and let's get it out of here.    (They open the box, and start going through it)  
+p21
+aa(lp22
+V GEORGE 
 p23
-tp24
-a(V JERRY 
-p25
-V Grandpa clothes. I can't wear them.    
+aV What's in it?  
+p24
+aa(lp25
+V JERRY 
 p26
-tp27
-a(V KRAMER 
-p28
-V (Pulls out some socks) You want these? Knee socks. You don't wear knee socks.    
+aV Grandpa clothes. I can't wear them.    
+p27
+aa(lp28
+V KRAMER 
 p29
-tp30
-a(V JERRY 
-p31
-V No, go ahead. (Looks around his apartment) Look at this place. I can't wait to get it cleaned.   
+aV (Pulls out some socks) You want these? Knee socks. You don't wear knee socks.    
+p30
+aa(lp31
+V JERRY 
 p32
-tp33
-a(V GEORGE 
-p34
-V I know someone who'll do it. She's good. She's honest.   
+aV No, go ahead. (Looks around his apartment) Look at this place. I can't wait to get it cleaned.   
+p33
+aa(lp34
+V GEORGE 
 p35
-tp36
-a(V JERRY 
-p37
-V No, Elaine got this writer friend from Finland, Rava. Her boyfriend goes to Columbia grad school, and he's suppose to do it.   
+aV I know someone who'll do it. She's good. She's honest.   
+p36
+aa(lp37
+V JERRY 
 p38
-tp39
-a(V GEORGE 
-p40
-V Students can't clean. It's anathema. (Jerry's confused) ..They don't like it.   
+aV No, Elaine got this writer friend from Finland, Rava. Her boyfriend goes to Columbia grad school, and he's suppose to do it.   
+p39
+aa(lp40
+V GEORGE 
 p41
-tp42
-a(V JERRY 
-p43
-V How long have you been waiting to squeeze that into a conversation?    (Kramer pulls a statue out of the box)  
+aV Students can't clean. It's anathema. (Jerry's confused) ..They don't like it.   
+p42
+aa(lp43
+V JERRY 
 p44
-tp45
-a(V KRAMER 
-p46
-V Now this, I like.   (George's eyes light up when he sees the statue)  
+aV How long have you been waiting to squeeze that into a conversation?    (Kramer pulls a statue out of the box)  
+p45
+aa(lp46
+V KRAMER 
 p47
-tp48
-a(V GEORGE 
-p49
-V Wait a second. I can't believe this! Let me see this.   
+aV Now this, I like.   (George's eyes light up when he sees the statue)  
+p48
+aa(lp49
+V GEORGE 
 p50
-tp51
-a(V KRAMER 
-p52
-V (Getting possesive) Wait, wait, wait..    
+aV Wait a second. I can't believe this! Let me see this.   
+p51
+aa(lp52
+V KRAMER 
 p53
-tp54
-a(V GEORGE 
-p55
-V Let me just see it.  
+aV (Getting possesive) Wait, wait, wait..    
+p54
+aa(lp55
+V GEORGE 
 p56
-tp57
-a(V KRAMER 
-p58
-V Come on..   (The both grab it)  
+aV Let me just see it.  
+p57
+aa(lp58
+V KRAMER 
 p59
-tp60
-a(V GEORGE 
-p61
-V Let me just see it for a second. Oh my God, it's exactly the same!   
+aV Come on..   (The both grab it)  
+p60
+aa(lp61
+V GEORGE 
 p62
-tp63
-a(V JERRY 
-p64
-V What?  
+aV Let me just see it for a second. Oh my God, it's exactly the same!   
+p63
+aa(lp64
+V JERRY 
 p65
-tp66
-a(V GEORGE 
-p67
-V When I was ten years old, my parents had this very same statue on the mantle of our apartment. Exactly. And, one day, I grabbed it, and I was using it as a microphone. I was singing, "MacArthur Park", and I got to the part about, "I'll never have that recipe again," and it slipped out of my hand and it broke. My parents looked at me like I smashed the ten commandments. To this day, they bring it up. It was the single most damaging experience in my life, aside from seeing my father naked.     (George grips the statue, but Kramer wont let go. They start to fight for it)   
+aV What?  
+p66
+aa(lp67
+V GEORGE 
 p68
-tp69
-a(V KRAMER 
-p70
-V C'mon, George. I saw it first.  
+aV When I was ten years old, my parents had this very same statue on the mantle of our apartment. Exactly. And, one day, I grabbed it, and I was using it as a microphone. I was singing, "MacArthur Park", and I got to the part about, "I'll never have that recipe again," and it slipped out of my hand and it broke. My parents looked at me like I smashed the ten commandments. To this day, they bring it up. It was the single most damaging experience in my life, aside from seeing my father naked.     (George grips the statue, but Kramer wont let go. They start to fight for it)   
+p69
+aa(lp70
+V KRAMER 
 p71
-tp72
-a(V GEORGE 
-p73
-V No, Kramer. I have to have this statue.    
+aV C'mon, George. I saw it first.  
+p72
+aa(lp73
+V GEORGE 
 p74
-tp75
-a(V KRAMER 
-p76
-V No, I got dibs!  
+aV No, Kramer. I have to have this statue.    
+p75
+aa(lp76
+V KRAMER 
 p77
-tp78
-a(V GEORGE 
-p79
-V What? No dibs! I need this statue. C'mon, give it!   
+aV No, I got dibs!  
+p78
+aa(lp79
+V GEORGE 
 p80
-tp81
-a(V JERRY 
-p82
-V (Stepping in) Spread out, spread out you numbskulls. Why don't you just settle it like mature adults?   
+aV What? No dibs! I need this statue. C'mon, give it!   
+p81
+aa(lp82
+V JERRY 
 p83
-tp84
-a(V KRAMER 
-p85
-V Potato man!  
+aV (Stepping in) Spread out, spread out you numbskulls. Why don't you just settle it like mature adults?   
+p84
+aa(lp85
+V KRAMER 
 p86
-tp87
-a(V GEORGE 
-p88
-V No, no, no potato man.. Inka-dink.     (Kramer and George both visibly add up in their heads to see who would lose if Inka-Dink was the way to go)   
+aV Potato man!  
+p87
+aa(lp88
+V GEORGE 
 p89
-tp90
-a(V KRAMER 
-p91
-V Okay.. start with me.  
+aV No, no, no potato man.. Inka-dink.     (Kramer and George both visibly add up in their heads to see who would lose if Inka-Dink was the way to go)   
+p90
+aa(lp91
+V KRAMER 
 p92
-tp93
-a(V GEORGE 
-p94
-V Yeah, good, good.   (Jerry begins the childish choosing game of Inka-dink, pointing alternately between Kramer and George with every syllable)    
+aV Okay.. start with me.  
+p93
+aa(lp94
+V GEORGE 
 p95
-tp96
-a(V JERRY 
-p97
-V Inka-dink, a bottle of ink. The cork fell out, and you stink. Not because you're dirty, not because you're clean - just because you kissed the girl behind the magazine.. (He lands on Kramer, then completes the rhyme) And you are it! (Lands on George)   
+aV Yeah, good, good.   (Jerry begins the childish choosing game of Inka-dink, pointing alternately between Kramer and George with every syllable)    
+p96
+aa(lp97
+V JERRY 
 p98
-tp99
-a(V KRAMER 
-p100
-V What?! Wait a minute. No, no, no. What are you doing? No, no, oh, oh, okay. He's out. I get it.   
+aV Inka-dink, a bottle of ink. The cork fell out, and you stink. Not because you're dirty, not because you're clean - just because you kissed the girl behind the magazine.. (He lands on Kramer, then completes the rhyme) And you are it! (Lands on George)   
+p99
+aa(lp100
+V KRAMER 
 p101
-tp102
-a(V GEORGE 
-p103
-V No, no, no, no.. I'm "it". I win.  
+aV What?! Wait a minute. No, no, no. What are you doing? No, no, oh, oh, okay. He's out. I get it.   
+p102
+aa(lp103
+V GEORGE 
 p104
-tp105
-a(V JERRY 
-p106
-V No, he's it. He wins. "It" is good.    
+aV No, no, no, no.. I'm "it". I win.  
+p105
+aa(lp106
+V JERRY 
 p107
-tp108
-a(V KRAMER 
-p109
-V Do over - start with him.  
+aV No, he's it. He wins. "It" is good.    
+p108
+aa(lp109
+V KRAMER 
 p110
-tp111
-a(V JERRY 
-p112
-V No, no, no, come on, Kramer. Now, you got the socks.    (Kramer tosses the statue to George)  
+aV Do over - start with him.  
+p111
+aa(lp112
+V JERRY 
 p113
-tp114
-a(V KRAMER 
-p115
-V Alright, you can have it. Okay, I'm gonna take the suit, and the shoes, and the hat.   
+aV No, no, no, come on, Kramer. Now, you got the socks.    (Kramer tosses the statue to George)  
+p114
+aa(lp115
+V KRAMER 
 p116
-tp117
-a(V JERRY 
-p118
-V Alright, c'mon. Let's go.  
+aV Alright, you can have it. Okay, I'm gonna take the suit, and the shoes, and the hat.   
+p117
+aa(lp118
+V JERRY 
 p119
-tp120
-a(V KRAMER 
-p121
-V Hey, I'll look like Joe Friday in Dragnet. (Hums out the theme song)   
+aV Alright, c'mon. Let's go.  
+p120
+aa(lp121
+V KRAMER 
 p122
-tp123
-a(V GEORGE 
-p124
-V (In shock) I can't believe I won at Inka-dink.   
+aV Hey, I'll look like Joe Friday in Dragnet. (Hums out the theme song)   
+p123
+aa(lp124
+V GEORGE 
 p125
-tp126
-a(V JERRY 
-p127
-V Come on, let's go. (They go to the door. George sets the statue down) Aren't you gonna take it?   
+aV (In shock) I can't believe I won at Inka-dink.   
+p126
+aa(lp127
+V JERRY 
 p128
-tp129
-a(V GEORGE 
-p130
-V No, no, no, I don't want to carry it around all night. I'll pick it up later.    
+aV Come on, let's go. (They go to the door. George sets the statue down) Aren't you gonna take it?   
+p129
+aa(lp130
+V GEORGE 
 p131
-tp132
-a(V GOERGE 
-p133
-V (To Kramer) What about your stuff?    
+aV No, no, no, I don't want to carry it around all night. I'll pick it up later.    
+p132
+aa(lp133
+V GOERGE 
 p134
-tp135
-a(V KRAMER 
-p136
-V Oh, uh, well - okay. (Balls up the clothes he just got, and throws them into his apartment, and leaves)   
+aV (To Kramer) What about your stuff?    
+p135
+aa(lp136
+V KRAMER 
 p137
-tp138
-a(V JERRY 
-p139
-V Alright, let's go. Hey, you know, you owe me one.   
+aV Oh, uh, well - okay. (Balls up the clothes he just got, and throws them into his apartment, and leaves)   
+p138
+aa(lp139
+V JERRY 
 p140
-tp141
-a(V GEORGE 
-p142
-V What?  
+aV Alright, let's go. Hey, you know, you owe me one.   
+p141
+aa(lp142
+V GEORGE 
 p143
-tp144
-a(V JERRY 
-p145
-V The Inka-dink.. you were "It".  
+aV What?  
+p144
+aa(lp145
+V JERRY 
 p146
-tp147
-a(V GEORGE 
-p148
-V "It"'s bad?  
+aV The Inka-dink.. you were "It".  
+p147
+aa(lp148
+V GEORGE 
 p149
-tp150
-a(V JERRY 
-p151
-V "It" very bad.   (Scene ends) (Jerry's apartment)  
+aV "It"'s bad?  
+p150
+aa(lp151
+V JERRY 
 p152
-tp153
-a(V RAVA 
-p154
-V Well, if they don't let you be my editor on this book, I'll go to another publisher. It's that simple.   
+aV "It" very bad.   (Scene ends) (Jerry's apartment)  
+p153
+aa(lp154
+V RAVA 
 p155
-tp156
-a(V ELAINE 
-p157
-V You told them that?  
+aV Well, if they don't let you be my editor on this book, I'll go to another publisher. It's that simple.   
+p156
+aa(lp157
+V ELAINE 
 p158
-tp159
-a(V RAVA 
-p160
-V Of course.  
+aV You told them that?  
+p159
+aa(lp160
+V RAVA 
 p161
-tp162
-a(V ELAINE 
-p163
-V This is so fantastic. I don't know how to thank you.    (Jerry enters for the bedroom carrying luggage)  
+aV Of course.  
+p162
+aa(lp163
+V ELAINE 
 p164
-tp165
-a(V JERRY 
-p166
-V (Frantic) So, where's this boyfriend of yours? I can't wait much longer. I've got a flight.   
+aV This is so fantastic. I don't know how to thank you.    (Jerry enters for the bedroom carrying luggage)  
+p165
+aa(lp166
+V JERRY 
 p167
-tp168
-a(V ELAINE 
-p169
-V Oh, probably caught in traffic.  
+aV (Frantic) So, where's this boyfriend of yours? I can't wait much longer. I've got a flight.   
+p168
+aa(lp169
+V ELAINE 
 p170
-tp171
-a(V RAVA 
-p172
-V (Serious) Or maybe he's dead.  
+aV Oh, probably caught in traffic.  
+p171
+aa(lp172
+V RAVA 
 p173
-tp174
-a(V JERRY 
-p175
-V (Joking) So what do you write, children's books?    (There's a knock at the door)  
+aV (Serious) Or maybe he's dead.  
+p174
+aa(lp175
+V JERRY 
 p176
-tp177
-a(V RAVA 
-p178
-V That's Ray.   (Ray enters with cleaning gear)  
+aV (Joking) So what do you write, children's books?    (There's a knock at the door)  
+p177
+aa(lp178
+V RAVA 
 p179
-tp180
-a(V RAY 
-p181
-V Ah, greetings, greetings, and salutations. I beg your forgiveness. My tardiness was unavoidable. Rava, my love. Elaine, my dear friend.. And you must be Jerry. Lord of the manor. Ah, my liege. A pleasure to serve you. (Bows)   
+aV That's Ray.   (Ray enters with cleaning gear)  
+p180
+aa(lp181
+V RAY 
 p182
-tp183
-a(V JERRY 
-p184
-V (Taken aback) ..Alright.  
+aV Ah, greetings, greetings, and salutations. I beg your forgiveness. My tardiness was unavoidable. Rava, my love. Elaine, my dear friend.. And you must be Jerry. Lord of the manor. Ah, my liege. A pleasure to serve you. (Bows)   
+p183
+aa(lp184
+V JERRY 
 p185
-tp186
-a(V RAVA 
-p187
-V And we have to get back to work. (She exits with Elaine)   
+aV (Taken aback) ..Alright.  
+p186
+aa(lp187
+V RAVA 
 p188
-tp189
-a(V JERRY 
-p190
-V (Rushed) I gotta get to the airport.    
+aV And we have to get back to work. (She exits with Elaine)   
+p189
+aa(lp190
+V JERRY 
 p191
-tp192
-a(V RAY 
-p193
-V Your place shall sparkle like the stars in heaven upon your save arrival, Sire.    
+aV (Rushed) I gotta get to the airport.    
+p192
+aa(lp193
+V RAY 
 p194
-tp195
-a(V JERRY 
-p196
-V The toilet brush is under the sink.. (Exits)    (Scene ends) (Night club)  
+aV Your place shall sparkle like the stars in heaven upon your save arrival, Sire.    
+p195
+aa(lp196
+V JERRY 
 p197
-tp198
-a(V JERRY 
-p199
-V I don't really feel that comfortable with a maid, either, because there's that guilt when you have someone cleaning your house. You know, you're sitting there on your sofa, and they go by with the vacuum, "I'm really sorry about this. I don't know why I let that stuff over there." And that's why I could never be a maid, because I'd have an attitude. I'd find them, whereever they are in the house, "Oh, I suppose you couldn't do this? No, don't get up, let me clean up your filth. No, you couldn't dust. No, this is too tough, isn't it?"    (Scene ends) (Jerry's apartment)  
+aV The toilet brush is under the sink.. (Exits)    (Scene ends) (Night club)  
+p198
+aa(lp199
+V JERRY 
 p200
-tp201
-a(V JERRY 
-p202
-V He really did an amazing job, look! He uncoagulated the top of the dishwashing liquid. (Opens refrigerator) He cleaned out the bottom of the little egg cups. Come here, look at this. (Gets on his knees) He cleaned the little one-inch area between the refrigerator and the counter. How did he get in there? He must be like Rubber Man!   
+aV I don't really feel that comfortable with a maid, either, because there's that guilt when you have someone cleaning your house. You know, you're sitting there on your sofa, and they go by with the vacuum, "I'm really sorry about this. I don't know why I let that stuff over there." And that's why I could never be a maid, because I'd have an attitude. I'd find them, whereever they are in the house, "Oh, I suppose you couldn't do this? No, don't get up, let me clean up your filth. No, you couldn't dust. No, this is too tough, isn't it?"    (Scene ends) (Jerry's apartment)  
+p201
+aa(lp202
+V JERRY 
 p203
-tp204
-a(V ELAINE 
-p205
-V There's no Rubber Man.  
+aV He really did an amazing job, look! He uncoagulated the top of the dishwashing liquid. (Opens refrigerator) He cleaned out the bottom of the little egg cups. Come here, look at this. (Gets on his knees) He cleaned the little one-inch area between the refrigerator and the counter. How did he get in there? He must be like Rubber Man!   
+p204
+aa(lp205
+V ELAINE 
 p206
-tp207
-a(V JERRY 
-p208
-V ..Why did I think there was a Rubber Man? There's Elastic Man and Plastic Man.   
+aV There's no Rubber Man.  
+p207
+aa(lp208
+V JERRY 
 p209
-tp210
-a(V ELAINE 
-p211
-V I'm leaving.  
+aV ..Why did I think there was a Rubber Man? There's Elastic Man and Plastic Man.   
+p210
+aa(lp211
+V ELAINE 
 p212
-tp213
-a(V JERRY 
-p214
-V Where are you going?  
+aV I'm leaving.  
+p213
+aa(lp214
+V JERRY 
 p215
-tp216
-a(V ELAINE 
-p217
-V To Rava's house. I've gotta pick up her manuscript.   
+aV Where are you going?  
+p216
+aa(lp217
+V ELAINE 
 p218
-tp219
-a(V JERRY 
-p220
-V Wait. I'll go with you. (They both go tward the door. Jerry opens it) Elaine, he Windexed the little peep hole! (The leave)    (Scene ends) (Rava's apartment)   (Jerry, Elaine, and Rava sit in the living room)  
+aV To Rava's house. I've gotta pick up her manuscript.   
+p219
+aa(lp220
+V JERRY 
 p221
-tp222
-a(V ELAINE 
-p223
-V (To Rava) So, the meeting with Lippman is all set. He's the editor-in-chief! I think because of your request..    
+aV Wait. I'll go with you. (They both go tward the door. Jerry opens it) Elaine, he Windexed the little peep hole! (The leave)    (Scene ends) (Rava's apartment)   (Jerry, Elaine, and Rava sit in the living room)  
+p222
+aa(lp223
+V ELAINE 
 p224
-tp225
-a(V RAVA 
-p226
-V Demand. (The sound of locks being unlocked can be heard) There's Ray.. late as usual.    (Ray enters)  
+aV (To Rava) So, the meeting with Lippman is all set. He's the editor-in-chief! I think because of your request..    
+p225
+aa(lp226
+V RAVA 
 p227
-tp228
-a(V RAY 
-p229
-V Well, this is an unexpected surprise - and Delight! The once and future king of comedy, "Jerry the First," gracing our humble abode. Rava, we're in the presence of royalty.   
+aV Demand. (The sound of locks being unlocked can be heard) There's Ray.. late as usual.    (Ray enters)  
+p228
+aa(lp229
+V RAY 
 p230
-tp231
-a(V JERRY 
-p232
-V Hey, Ray, listen, you really did a tremendous job cleaning that apartment.   
+aV Well, this is an unexpected surprise - and Delight! The once and future king of comedy, "Jerry the First," gracing our humble abode. Rava, we're in the presence of royalty.   
+p231
+aa(lp232
+V JERRY 
 p233
-tp234
-a(V RAY 
-p235
-V But I didn't just clean your apartment. It was a ritual, a ceremony, a celebration of life.   
+aV Hey, Ray, listen, you really did a tremendous job cleaning that apartment.   
+p234
+aa(lp235
+V RAY 
 p236
-tp237
-a(V JERRY 
-p238
-V (Joking about his personality) Shouldn't you be out on a ledge somewhere?    (They all laugh - Ray laughs longer than everyone else. Jerry savors the laughs of his big fan - then he sees George's statue on the mantle of the fireplace. He's stunned by the sight)    
+aV But I didn't just clean your apartment. It was a ritual, a ceremony, a celebration of life.   
+p237
+aa(lp238
+V JERRY 
 p239
-tp240
-a(V RAVA 
-p241
-V The water is boiling. Are you having tea?   
+aV (Joking about his personality) Shouldn't you be out on a ledge somewhere?    (They all laugh - Ray laughs longer than everyone else. Jerry savors the laughs of his big fan - then he sees George's statue on the mantle of the fireplace. He's stunned by the sight)    
+p240
+aa(lp241
+V RAVA 
 p242
-tp243
-a(V ELAINE AND RAY 
-p244
-V Yes.   (Jerry's still stunned)  
+aV The water is boiling. Are you having tea?   
+p243
+aa(lp244
+V ELAINE AND RAY 
 p245
-tp246
-a(V ELAINE 
-p247
-V Jerry? ..Jerry!  
+aV Yes.   (Jerry's still stunned)  
+p246
+aa(lp247
+V ELAINE 
 p248
-tp249
-a(V JERRY 
-p250
-V (Snaps out of it) What?  
+aV Jerry? ..Jerry!  
+p249
+aa(lp250
+V JERRY 
 p251
-tp252
-a(V RAVA 
-p253
-V (From the kitchen) Ray, would you give me a hand?   
+aV (Snaps out of it) What?  
+p252
+aa(lp253
+V RAVA 
 p254
-tp255
-a(V RAY 
-p256
-V Yeah, I'm coming!   (He leaves. As soon as both Rava and Ray are in the kitchen, Jerry and Elaine start talking in loud whispers)   
+aV (From the kitchen) Ray, would you give me a hand?   
+p255
+aa(lp256
+V RAY 
 p257
-tp258
-a(V JERRY 
-p259
-V (Points to the statue) I think that's the statue from my house. That looks like the statue from my house!   
+aV Yeah, I'm coming!   (He leaves. As soon as both Rava and Ray are in the kitchen, Jerry and Elaine start talking in loud whispers)   
+p258
+aa(lp259
+V JERRY 
 p260
-tp261
-a(V ELAINE 
-p262
-V What statue?  
+aV (Points to the statue) I think that's the statue from my house. That looks like the statue from my house!   
+p261
+aa(lp262
+V ELAINE 
 p263
-tp264
-a(V JERRY 
-p265
-V I had a statue!  
+aV What statue?  
+p264
+aa(lp265
+V JERRY 
 p266
-tp267
-a(V ELAINE 
-p268
-V You have a statue? I never saw a statue.    
+aV I had a statue!  
+p267
+aa(lp268
+V ELAINE 
 p269
-tp270
-a(V JERRY 
-p271
-V My grandfather gave me a statue!  
+aV You have a statue? I never saw a statue.    
+p270
+aa(lp271
+V JERRY 
 p272
-tp273
-a(V ELAINE 
-p274
-V Since when?  
+aV My grandfather gave me a statue!  
+p273
+aa(lp274
+V ELAINE 
 p275
-tp276
-a(V JERRY 
-p277
-V What's the difference?! That's the one! He ripped me off! This guy ripped me off!    (Ray pops his head back into the living room)  
+aV Since when?  
+p276
+aa(lp277
+V JERRY 
 p278
-tp279
-a(V RAY 
-p280
-V Do you take sugar?  
+aV What's the difference?! That's the one! He ripped me off! This guy ripped me off!    (Ray pops his head back into the living room)  
+p279
+aa(lp280
+V RAY 
 p281
-tp282
-a(V JERRY AND ELAINE 
-p283
-V Uhh.. no.   (Ray goes back into the kitchen)  
+aV Do you take sugar?  
+p282
+aa(lp283
+V JERRY AND ELAINE 
 p284
-tp285
-a(V JERRY 
-p286
-V I can't believe it! This guy ripped me off!   
+aV Uhh.. no.   (Ray goes back into the kitchen)  
+p285
+aa(lp286
+V JERRY 
 p287
-tp288
-a(V ELAINE 
-p289
-V Do you realize what you're saying?    
+aV I can't believe it! This guy ripped me off!   
+p288
+aa(lp289
+V ELAINE 
 p290
-tp291
-a(V JERRY 
-p292
-V Yes! This guy ripped me off! He stole that statue right out of my house!     (Ray pops in again)  
+aV Do you realize what you're saying?    
+p291
+aa(lp292
+V JERRY 
 p293
-tp294
-a(V RAY 
-p295
-V Lemon?  
+aV Yes! This guy ripped me off! He stole that statue right out of my house!     (Ray pops in again)  
+p294
+aa(lp295
+V RAY 
 p296
-tp297
-a(V JERRY AND ELAINE 
-p298
-V (Causual) Uh.. sure, yeah..   (Ray goes back into the kitchen)  
+aV Lemon?  
+p297
+aa(lp298
+V JERRY AND ELAINE 
 p299
-tp300
-a(V ELAINE 
-p301
-V Are you sure?  
+aV (Causual) Uh.. sure, yeah..   (Ray goes back into the kitchen)  
+p300
+aa(lp301
+V ELAINE 
 p302
-tp303
-a(V JERRY 
-p304
-V Pretty sure! Ninety-nine percent sure.    
+aV Are you sure?  
+p303
+aa(lp304
+V JERRY 
 p305
-tp306
-a(V ELAINE 
-p307
-V Ninety-nine percent sure?!   (Ray and Rava both enter, carrying a tray of tea)  
+aV Pretty sure! Ninety-nine percent sure.    
+p306
+aa(lp307
+V ELAINE 
 p308
-tp309
-a(V RAY 
-p310
-V Ah, sweet elixir. It's fragrant nectar - a soothing balm for the soul.    (Jerry smells it suspiciously - like it's poisoned. A ding from the kitchen can be heard)   
+aV Ninety-nine percent sure?!   (Ray and Rava both enter, carrying a tray of tea)  
+p309
+aa(lp310
+V RAY 
 p311
-tp312
-a(V RAY 
-p313
-V The pastries!   (Ray and Rava exit in different directions)  
+aV Ah, sweet elixir. It's fragrant nectar - a soothing balm for the soul.    (Jerry smells it suspiciously - like it's poisoned. A ding from the kitchen can be heard)   
+p312
+aa(lp313
+V RAY 
 p314
-tp315
-a(V ELAINE 
-p316
-V Maybe it just looks the same. Maybe it's just a coincidence.   
+aV The pastries!   (Ray and Rava exit in different directions)  
+p315
+aa(lp316
+V ELAINE 
 p317
-tp318
-a(V JERRY 
-p319
-V Coincidence? This guy's in my apartment and then, just by coincidence, he has the same exact statue in his apartment.    
+aV Maybe it just looks the same. Maybe it's just a coincidence.   
+p318
+aa(lp319
+V JERRY 
 p320
-tp321
-a(V ELAINE 
-p322
-V I never saw the statue.  
+aV Coincidence? This guy's in my apartment and then, just by coincidence, he has the same exact statue in his apartment.    
+p321
+aa(lp322
+V ELAINE 
 p323
-tp324
-a(V JERRY 
-p325
-V I had a statue! What should I do?  
+aV I never saw the statue.  
+p324
+aa(lp325
+V JERRY 
 p326
-tp327
-a(V ELAINE 
-p328
-V I don't know.  
+aV I had a statue! What should I do?  
+p327
+aa(lp328
+V ELAINE 
 p329
-tp330
-a(V JERRY 
-p331
-V ..I'll call Kramer. He can check my house. (Grabs the phone, and dials)    
+aV I don't know.  
+p330
+aa(lp331
+V JERRY 
 p332
-tp333
-a(V ELAINE 
-p334
-V Oh Jerry, don't blow this for me.  
+aV ..I'll call Kramer. He can check my house. (Grabs the phone, and dials)    
+p333
+aa(lp334
+V ELAINE 
 p335
-tp336
-a(V JERRY 
-p337
-V Don't worry.. (Whispering into the phone) Kramer! Kramer!.. It's Jerry!.. Jerry! .. from next door!.. Never mind where I am!.. Yes, Jerry Seinfeld!.. (Rava enters with a manuscript. Jerry starts talking casually)   
+aV Oh Jerry, don't blow this for me.  
+p336
+aa(lp337
+V JERRY 
 p338
-tp339
-a(V JERRY 
-p340
-V Ma, I told ya, just dip the bread in the batter, and put in right in the pan. Okay, bye. (Hangs up) My mother.. She forgot how to make French Toast. You know how mothers are.   
+aV Don't worry.. (Whispering into the phone) Kramer! Kramer!.. It's Jerry!.. Jerry! .. from next door!.. Never mind where I am!.. Yes, Jerry Seinfeld!.. (Rava enters with a manuscript. Jerry starts talking casually)   
+p339
+aa(lp340
+V JERRY 
 p341
-tp342
-a(V RAVA 
-p343
-V My mother left us when I was six years old. All seven of us. He ever heard from her again. I hope she's rotting in an alley somewhere.    (A long beat passes)  
+aV Ma, I told ya, just dip the bread in the batter, and put in right in the pan. Okay, bye. (Hangs up) My mother.. She forgot how to make French Toast. You know how mothers are.   
+p342
+aa(lp343
+V RAVA 
 p344
-tp345
-a(V JERRY 
-p346
-V My mom's down in Florida.. she's go one of those condos.. Hot down there in the summer. You ever been down there?     (Ray enters with a tray of pastries)  
+aV My mother left us when I was six years old. All seven of us. He ever heard from her again. I hope she's rotting in an alley somewhere.    (A long beat passes)  
+p345
+aa(lp346
+V JERRY 
 p347
-tp348
-a(V RAY 
-p349
-V I love these pastries. You know, in Scandinavian mythology, the pastries were the food of the gods.   
+aV My mom's down in Florida.. she's go one of those condos.. Hot down there in the summer. You ever been down there?     (Ray enters with a tray of pastries)  
+p348
+aa(lp349
+V RAY 
 p350
-tp351
-a(V JERRY 
-p352
-V ..Listen, I just remembered.. I'm ..uh, getting a facial.   
+aV I love these pastries. You know, in Scandinavian mythology, the pastries were the food of the gods.   
+p351
+aa(lp352
+V JERRY 
 p353
-tp354
-a(V ELAINE 
-p355
-V (Takes the manuscript) Oh, see you tomarrow morning.    (They go to leave)  
+aV ..Listen, I just remembered.. I'm ..uh, getting a facial.   
+p354
+aa(lp355
+V ELAINE 
 p356
-tp357
-a(V RAY 
-p358
-V Oh, how about dinner?  
+aV (Takes the manuscript) Oh, see you tomarrow morning.    (They go to leave)  
+p357
+aa(lp358
+V RAY 
 p359
-tp360
-a(V JERRY 
-p361
-V No, I don't eat dinner. Dinner's for suckers. (They leave)    (Scene ends) (Jerry's apartment)  
+aV Oh, how about dinner?  
+p360
+aa(lp361
+V JERRY 
 p362
-tp363
-a(V JERRY 
-p364
-V (On the phone) Uh huh.. yeah.. Okay, thanks anyway. Bye. (Hangs up) Nope, the cop says it's my word against his. There's nothing they can do.   
+aV No, I don't eat dinner. Dinner's for suckers. (They leave)    (Scene ends) (Jerry's apartment)  
+p363
+aa(lp364
+V JERRY 
 p365
-tp366
-a(V KRAMER 
-p367
-V Let's go get him.  
+aV (On the phone) Uh huh.. yeah.. Okay, thanks anyway. Bye. (Hangs up) Nope, the cop says it's my word against his. There's nothing they can do.   
+p366
+aa(lp367
+V KRAMER 
 p368
-tp369
-a(V JERRY 
-p370
-V Yeah, right.  
+aV Let's go get him.  
+p369
+aa(lp370
+V JERRY 
 p371
-tp372
-a(V GEORGE 
-p373
-V We can't just let him get away with this.   
+aV Yeah, right.  
+p372
+aa(lp373
+V GEORGE 
 p374
-tp375
-a(V JERRY 
-p376
-V Do you realize how crazy he had to be to do something like this? He knew I was gonna know it's missing, and he took it! And of all things to take - I left my watch, tape recorder, stereo. He's crazy.   
+aV We can't just let him get away with this.   
+p375
+aa(lp376
+V JERRY 
 p377
-tp378
-a(V KRAMER 
-p379
-V You wanta go get him?  
+aV Do you realize how crazy he had to be to do something like this? He knew I was gonna know it's missing, and he took it! And of all things to take - I left my watch, tape recorder, stereo. He's crazy.   
+p378
+aa(lp379
+V KRAMER 
 p380
-tp381
-a(V ELAINE 
-p382
-V Well, then, if he's crazy you should just forget it.   
+aV You wanta go get him?  
+p381
+aa(lp382
+V ELAINE 
 p383
-tp384
-a(V GEORGE 
-p385
-V Forget it? I already called my parents. I told them to expect the surprise of a lifetime. My mother's making her roasted potatoes!   
+aV Well, then, if he's crazy you should just forget it.   
+p384
+aa(lp385
+V GEORGE 
 p386
-tp387
-a(V ELAINE 
-p388
-V George, do you realize that Rava's asked me to edit her book?   
+aV Forget it? I already called my parents. I told them to expect the surprise of a lifetime. My mother's making her roasted potatoes!   
+p387
+aa(lp388
+V ELAINE 
 p389
-tp390
-a(V GEORGE 
-p391
-V Who is this Rava?  
+aV George, do you realize that Rava's asked me to edit her book?   
+p390
+aa(lp391
+V GEORGE 
 p392
-tp393
-a(V KRAMER 
-p394
-V I say we get him.  
+aV Who is this Rava?  
+p393
+aa(lp394
+V KRAMER 
 p395
-tp396
-a(V ELAINE 
-p397
-V No!  
+aV I say we get him.  
+p396
+aa(lp397
+V ELAINE 
 p398
-tp399
-a(V GEORGE 
-p400
-V Let me just call him.  
+aV No!  
+p399
+aa(lp400
+V GEORGE 
 p401
-tp402
-a(V JERRY 
-p403
-V I'll call him. (Picks up the cordless phone. Kramer, George, and Elaine all struggle for control of the other - so they can listen in on the conversation. As Jerry's talking, the three others still fight) Hello, Ray? ..Hi, Ray, this is Rava's friend, Elaine's frined, Jerry.. The King of Comedy.. right. Listen, you know that statue on your mantle, the one with the blue lady? (To Kramer and George) Will you shut up?! (To Ray) Yeah, you don't want to talk about it over the phone? You don't want Rava to hear? ..Yeah, I understand.. You know that coffee shop near my house, Monk's? ..Alright, tomarrow. One o' clock. Great, okay, bye. (Hangs up)    
+aV Let me just call him.  
+p402
+aa(lp403
+V JERRY 
 p404
-tp405
-a(V ELAINE 
-p406
-V (Scrambling) Alright, look, look, look, Let's say he stole it.   
+aV I'll call him. (Picks up the cordless phone. Kramer, George, and Elaine all struggle for control of the other - so they can listen in on the conversation. As Jerry's talking, the three others still fight) Hello, Ray? ..Hi, Ray, this is Rava's friend, Elaine's frined, Jerry.. The King of Comedy.. right. Listen, you know that statue on your mantle, the one with the blue lady? (To Kramer and George) Will you shut up?! (To Ray) Yeah, you don't want to talk about it over the phone? You don't want Rava to hear? ..Yeah, I understand.. You know that coffee shop near my house, Monk's? ..Alright, tomarrow. One o' clock. Great, okay, bye. (Hangs up)    
+p405
+aa(lp406
+V ELAINE 
 p407
-tp408
-a(V GEORGE 
-p409
-V Oh, he stole it?  
+aV (Scrambling) Alright, look, look, look, Let's say he stole it.   
+p408
+aa(lp409
+V GEORGE 
 p410
-tp411
-a(V ELAINE 
-p412
-V C'mon, you can't do anything about it. The cops won't do anything. What, are you going to fight him? Why don't you just.. forget it?   
+aV Oh, he stole it?  
+p411
+aa(lp412
+V ELAINE 
 p413
-tp414
-a(V JERRY AND GEORGE 
-p415
-V No.   (Scene ends) (Coffee shop)   (Jerry sits alone. In the next booth to Jerry's back, George is sitting inconspicuously)   
+aV C'mon, you can't do anything about it. The cops won't do anything. What, are you going to fight him? Why don't you just.. forget it?   
+p414
+aa(lp415
+V JERRY AND GEORGE 
 p416
-tp417
-a(V GEORGE 
-p418
-V (To Jerry, without looking at him) I thought you said one o' clock.   
+aV No.   (Scene ends) (Coffee shop)   (Jerry sits alone. In the next booth to Jerry's back, George is sitting inconspicuously)   
+p417
+aa(lp418
+V GEORGE 
 p419
-tp420
-a(V JERRY 
-p421
-V Relax, he's late. He's always late. It's part of his "M.O."   
+aV (To Jerry, without looking at him) I thought you said one o' clock.   
+p420
+aa(lp421
+V JERRY 
 p422
-tp423
-a(V GEORGE 
-p424
-V Remember, don't take any crap.  
+aV Relax, he's late. He's always late. It's part of his "M.O."   
+p423
+aa(lp424
+V GEORGE 
 p425
-tp426
-a(V JERRY 
-p427
-V Yeah, yeah.. don't worry about it.    
+aV Remember, don't take any crap.  
+p426
+aa(lp427
+V JERRY 
 p428
-tp429
-a(V GEORGE 
-p430
-V I'll be right here.   (Ray enters)  
+aV Yeah, yeah.. don't worry about it.    
+p429
+aa(lp430
+V GEORGE 
 p431
-tp432
-a(V JERRY 
-p433
-V (Sarcastic) That's comforting.. Shh. He's here. (Greeting him) Ray?   
+aV I'll be right here.   (Ray enters)  
+p432
+aa(lp433
+V JERRY 
 p434
-tp435
-a(V RAY 
-p436
-V (Stands next to the table) Oh, Jerry. I can't believe you asked me about that statue. Do you know how much trouble you could've got me into?   
+aV (Sarcastic) That's comforting.. Shh. He's here. (Greeting him) Ray?   
+p435
+aa(lp436
+V RAY 
 p437
-tp438
-a(V JERRY 
-p439
-V ..Well, I didn't..  
+aV (Stands next to the table) Oh, Jerry. I can't believe you asked me about that statue. Do you know how much trouble you could've got me into?   
+p438
+aa(lp439
+V JERRY 
 p440
-tp441
-a(V RAY 
-p442
-V Rava was standing right next to me. I never told her where I got the statue.    
+aV ..Well, I didn't..  
+p441
+aa(lp442
+V RAY 
 p443
-tp444
-a(V GEORGE 
-p445
-V (Muttering to himself) I wonder why.    
+aV Rava was standing right next to me. I never told her where I got the statue.    
+p444
+aa(lp445
+V GEORGE 
 p446
-tp447
-a(V JERRY 
-p448
-V Well, just give it back, and I won't say anything.   
+aV (Muttering to himself) I wonder why.    
+p447
+aa(lp448
+V JERRY 
 p449
-tp450
-a(V RAY 
-p451
-V Give it back?  
+aV Well, just give it back, and I won't say anything.   
+p450
+aa(lp451
+V RAY 
 p452
-tp453
-a(V JERRY 
-p454
-V Yeah.  
+aV Give it back?  
+p453
+aa(lp454
+V JERRY 
 p455
-tp456
-a(V RAY 
-p457
-V What are you talking about?  
+aV Yeah.  
+p456
+aa(lp457
+V RAY 
 p458
-tp459
-a(V JERRY 
-p460
-V What are you talking about?  
+aV What are you talking about?  
+p459
+aa(lp460
+V JERRY 
 p461
-tp462
-a(V GEORGE 
-p463
-V (Muttering) What is he talking about..    
+aV What are you talking about?  
+p462
+aa(lp463
+V GEORGE 
 p464
-tp465
-a(V RAY 
-p466
-V I'm talking about the statue.  
+aV (Muttering) What is he talking about..    
+p465
+aa(lp466
+V RAY 
 p467
-tp468
-a(V JERRY 
-p469
-V Yeah, me too.  
+aV I'm talking about the statue.  
+p468
+aa(lp469
+V JERRY 
 p470
-tp471
-a(V RAY 
-p472
-V Give it back to whom?  
+aV Yeah, me too.  
+p471
+aa(lp472
+V RAY 
 p473
-tp474
-a(V JERRY 
-p475
-V Me.  
+aV Give it back to whom?  
+p474
+aa(lp475
+V JERRY 
 p476
-tp477
-a(V GEORGE 
-p478
-V (To himself) Yeah, him.  
+aV Me.  
+p477
+aa(lp478
+V GEORGE 
 p479
-tp480
-a(V RAY 
-p481
-V You?  
+aV (To himself) Yeah, him.  
+p480
+aa(lp481
+V RAY 
 p482
-tp483
-a(V JERRY 
-p484
-V Yeah. Me.  
+aV You?  
+p483
+aa(lp484
+V JERRY 
 p485
-tp486
-a(V RAY 
-p487
-V I'm not getting this.  
+aV Yeah. Me.  
+p486
+aa(lp487
+V RAY 
 p488
-tp489
-a(V GEORGE 
-p490
-V (To himself) You already got it.  
+aV I'm not getting this.  
+p489
+aa(lp490
+V GEORGE 
 p491
-tp492
-a(V JERRY 
-p493
-V Ray, I had a statue in my house. You were in my house - and then I saw it in your house.   
+aV (To himself) You already got it.  
+p492
+aa(lp493
+V JERRY 
 p494
-tp495
-a(V RAY 
-p496
-V What are you saying?  
+aV Ray, I had a statue in my house. You were in my house - and then I saw it in your house.   
+p495
+aa(lp496
+V RAY 
 p497
-tp498
-a(V JERRY 
-p499
-V What am I saying?  
+aV What are you saying?  
+p498
+aa(lp499
+V JERRY 
 p500
-tp501
-a(V GEORGE 
-p502
-V (To himself) Take a wild guess.  
+aV What am I saying?  
+p501
+aa(lp502
+V GEORGE 
 p503
-tp504
-a(V RAY 
-p505
-V Are you saying I stole your statue?    
+aV (To himself) Take a wild guess.  
+p504
+aa(lp505
+V RAY 
 p506
-tp507
-a(V GEORGE 
-p508
-V (To himself) What a mind.  
+aV Are you saying I stole your statue?    
+p507
+aa(lp508
+V GEORGE 
 p509
-tp510
-a(V JERRY 
-p511
-V Well, I..  
+aV (To himself) What a mind.  
+p510
+aa(lp511
+V JERRY 
 p512
-tp513
-a(V RAY 
-p514
-V I can't believe what I'm hearing.  
+aV Well, I..  
+p513
+aa(lp514
+V RAY 
 p515
-tp516
-a(V JERRY 
-p517
-V I can't believe what I'm hearing.  
+aV I can't believe what I'm hearing.  
+p516
+aa(lp517
+V JERRY 
 p518
-tp519
-a(V GEORGE 
-p520
-V (to himself) I can't believe what I'm hearing.   
+aV I can't believe what I'm hearing.  
+p519
+aa(lp520
+V GEORGE 
 p521
-tp522
-a(V RAY 
-p523
-V For your information, I got that statue at a pawn shop.   
+aV (to himself) I can't believe what I'm hearing.   
+p522
+aa(lp523
+V RAY 
 p524
-tp525
-a(V GEORGE 
-p526
-V (To Himself) A pawn shop?  
+aV For your information, I got that statue at a pawn shop.   
+p525
+aa(lp526
+V GEORGE 
 p527
-tp528
-a(V JERRY 
-p529
-V A pawn shop?  
+aV (To Himself) A pawn shop?  
+p528
+aa(lp529
+V JERRY 
 p530
-tp531
-a(V RAY 
-p532
-V Yes. In Chinatown with the money I earned cleaning people's apartments.   
+aV A pawn shop?  
+p531
+aa(lp532
+V RAY 
 p533
-tp534
-a(V GEORGE 
-p535
-V (To himself) And cleaning them out.     (Jerry elbows George - a message to shut up)  
+aV Yes. In Chinatown with the money I earned cleaning people's apartments.   
+p534
+aa(lp535
+V GEORGE 
 p536
-tp537
-a(V JERRY 
-p538
-V Oh, excuse me.. Look, Ray, you were the only person in my house.   
+aV (To himself) And cleaning them out.     (Jerry elbows George - a message to shut up)  
+p537
+aa(lp538
+V JERRY 
 p539
-tp540
-a(V RAY 
-p541
-V What's behind this? It's Rava, isn't it?   
+aV Oh, excuse me.. Look, Ray, you were the only person in my house.   
+p540
+aa(lp541
+V RAY 
 p542
-tp543
-a(V GEORGE 
-p544
-V (To himself) Again with the Rava.  
+aV What's behind this? It's Rava, isn't it?   
+p543
+aa(lp544
+V GEORGE 
 p545
-tp546
-a(V RAY 
-p547
-V You want her.  
+aV (To himself) Again with the Rava.  
+p546
+aa(lp547
+V RAY 
 p548
-tp549
-a(V JERRY 
-p550
-V (Joking) No, she's a little too cheery for me.   
+aV You want her.  
+p549
+aa(lp550
+V JERRY 
 p551
-tp552
-a(V RAY 
-p553
-V (Losing it) She's from Finland, for crying out loud. Finland! Do you understand?!    
+aV (Joking) No, she's a little too cheery for me.   
+p552
+aa(lp553
+V RAY 
 p554
-tp555
-a(V JERRY 
-p556
-V I know Finland. They're neutral.  
+aV (Losing it) She's from Finland, for crying out loud. Finland! Do you understand?!    
+p555
+aa(lp556
+V JERRY 
 p557
-tp558
-a(V RAY 
-p559
-V Is it me? Do I rub you the wrong way?    
+aV I know Finland. They're neutral.  
+p558
+aa(lp559
+V RAY 
 p560
-tp561
-a(V JERRY 
-p562
-V No, I actually find you quite charming.. a bit verbose at times.   
+aV Is it me? Do I rub you the wrong way?    
+p561
+aa(lp562
+V JERRY 
 p563
-tp564
-a(V GEORGE 
-p565
-V (Mocking) "Oh, I find you so charming" ..You wuss.   
+aV No, I actually find you quite charming.. a bit verbose at times.   
+p564
+aa(lp565
+V GEORGE 
 p566
-tp567
-a(V JERRY 
-p568
-V (To George) Did you call me a wuss?    
+aV (Mocking) "Oh, I find you so charming" ..You wuss.   
+p567
+aa(lp568
+V JERRY 
 p569
-tp570
-a(V RAY 
-p571
-V What did you say?  
+aV (To George) Did you call me a wuss?    
+p570
+aa(lp571
+V RAY 
 p572
-tp573
-a(V JERRY 
-p574
-V I said luss.. I'm at a luss..  
+aV What did you say?  
+p573
+aa(lp574
+V JERRY 
 p575
-tp576
-a(V RAY 
-p577
-V I would just love to take you down to the shop where I got it.   
+aV I said luss.. I'm at a luss..  
+p576
+aa(lp577
+V RAY 
 p578
-tp579
-a(V JERRY 
-p580
-V That's not necessary. (George slams his menu down on the table in anger) You know, maybe it's not that bad an idea.   
+aV I would just love to take you down to the shop where I got it.   
+p579
+aa(lp580
+V JERRY 
 p581
-tp582
-a(V RAY 
-p583
-V And I would love to. Nothing would please me more. But, unfortunately, the guy retired and moved to Singapore.   
+aV That's not necessary. (George slams his menu down on the table in anger) You know, maybe it's not that bad an idea.   
+p582
+aa(lp583
+V RAY 
 p584
-tp585
-a(V GEORGE 
-p586
-V (Muttering to himself) Singapore?! Do you hear this?   
+aV And I would love to. Nothing would please me more. But, unfortunately, the guy retired and moved to Singapore.   
+p585
+aa(lp586
+V GEORGE 
 p587
-tp588
-a(V RAY 
-p589
-V If you really want, maybe I can contact the guy in Singapore aand have him make a photostat of the receipt and send it over.   
+aV (Muttering to himself) Singapore?! Do you hear this?   
+p588
+aa(lp589
+V RAY 
 p590
-tp591
-a(V GEORGGE 
-p592
-V That's it! That's it! I can't take it. I can't take it anymore! (Gets up, turns around, and confronts Ray) You stole the statue! You're a theif! You're a liar!   
+aV If you really want, maybe I can contact the guy in Singapore aand have him make a photostat of the receipt and send it over.   
+p591
+aa(lp592
+V GEORGGE 
 p593
-tp594
-a(V JERRY 
-p595
-V (Pleading) George.  
+aV That's it! That's it! I can't take it. I can't take it anymore! (Gets up, turns around, and confronts Ray) You stole the statue! You're a theif! You're a liar!   
+p594
+aa(lp595
+V JERRY 
 p596
-tp597
-a(V RAY 
-p598
-V (To Jerry) Who is this?  
+aV (Pleading) George.  
+p597
+aa(lp598
+V RAY 
 p599
-tp600
-a(V GEORGE 
-p601
-V I'm the judge and the jury, pal. And the verdict is.. guilty!   
+aV (To Jerry) Who is this?  
+p600
+aa(lp601
+V GEORGE 
 p602
-tp603
-a(V RAY 
-p604
-V What's going on here?  
+aV I'm the judge and the jury, pal. And the verdict is.. guilty!   
+p603
+aa(lp604
+V RAY 
 p605
-tp606
-a(V GEORGE 
-p607
-V GUILTY!   
+aV What's going on here?  
+p606
+aa(lp607
+V GEORGE 
 p608
-tp609
-a(V RAY 
-p610
-V Your friend is crazy.  
+aV GUILTY!   
+p609
+aa(lp610
+V RAY 
 p611
-tp612
-a(V GEORGE 
-p613
-V Oh, I'm crazy!  
+aV Your friend is crazy.  
+p612
+aa(lp613
+V GEORGE 
 p614
-tp615
-a(V JERRY 
-p616
-V (Still pleading) George, george..  
+aV Oh, I'm crazy!  
+p615
+aa(lp616
+V JERRY 
 p617
-tp618
-a(V RAY 
-p619
-V I've got to get going. I have a class.    
+aV (Still pleading) George, george..  
+p618
+aa(lp619
+V RAY 
 p620
-tp621
-a(V GEORGE 
-p622
-V Oh ho! Class, huh? At Columbia? Let me tell you something, pal. I called the registrar's office. I checked you out. They have no record of a Ray Thomas at that school! You liar!   
+aV I've got to get going. I have a class.    
+p621
+aa(lp622
+V GEORGE 
 p623
-tp624
-a(V RAY 
-p625
-V Well, that's because I'm registered under my full legal name, Raymond Thomas Wochinski. Ray Thomas is my professional name.   
+aV Oh ho! Class, huh? At Columbia? Let me tell you something, pal. I called the registrar's office. I checked you out. They have no record of a Ray Thomas at that school! You liar!   
+p624
+aa(lp625
+V RAY 
 p626
-tp627
-a(V GEORGE 
-p628
-V You mean alias.  
+aV Well, that's because I'm registered under my full legal name, Raymond Thomas Wochinski. Ray Thomas is my professional name.   
+p627
+aa(lp628
+V GEORGE 
 p629
-tp630
-a(V RAY 
-p631
-V You are starting to make me angry.    
+aV You mean alias.  
+p630
+aa(lp631
+V RAY 
 p632
-tp633
-a(V GEORGE 
-p634
-V Well, that was bound to happen!  
+aV You are starting to make me angry.    
+p633
+aa(lp634
+V GEORGE 
 p635
-tp636
-a(V RAY 
-p637
-V (To Jerry) I hope you think about what you've done here today.. and if you want to call and apologize, you know where to reach me. (Goes to leave)    
+aV Well, that was bound to happen!  
+p636
+aa(lp637
+V RAY 
 p638
-tp639
-a(V JERRY 
-p640
-V Hey, Ray.  
+aV (To Jerry) I hope you think about what you've done here today.. and if you want to call and apologize, you know where to reach me. (Goes to leave)    
+p639
+aa(lp640
+V JERRY 
 p641
-tp642
-a(V RAY 
-p643
-V (Stops) Yes?  
+aV Hey, Ray.  
+p642
+aa(lp643
+V RAY 
 p644
-tp645
-a(V JERRY 
-p646
-V How did you get the goop out of the top of the dishwashing liquid? It was like a brand-new nozzle!    (Scene ends) (Pendant publishing)   (Elaine and Rava are waiting for an elevator)  
+aV (Stops) Yes?  
+p645
+aa(lp646
+V JERRY 
 p647
-tp648
-a(V ELAINE 
-p649
-V Nervous?  
+aV How did you get the goop out of the top of the dishwashing liquid? It was like a brand-new nozzle!    (Scene ends) (Pendant publishing)   (Elaine and Rava are waiting for an elevator)  
+p648
+aa(lp649
+V ELAINE 
 p650
-tp651
-a(V RAVA 
-p652
-V Why should I be?  
+aV Nervous?  
+p651
+aa(lp652
+V RAVA 
 p653
-tp654
-a(V ELAINE 
-p655
-V Yeah. Right.  
+aV Why should I be?  
+p654
+aa(lp655
+V ELAINE 
 p656
-tp657
-a(V RAVA 
-p658
-V Your notes are very insightful.  
+aV Yeah. Right.  
+p657
+aa(lp658
+V RAVA 
 p659
-tp660
-a(V ELAINE 
-p661
-V The book is great. Did you go out last night?   
+aV Your notes are very insightful.  
+p660
+aa(lp661
+V ELAINE 
 p662
-tp663
-a(V RAVA 
-p664
-V No. We made love on the floor like two animals. Ray is insatiable.   
+aV The book is great. Did you go out last night?   
+p663
+aa(lp664
+V RAVA 
 p665
-tp666
-a(V ELAINE 
-p667
-V They all are..  
+aV No. We made love on the floor like two animals. Ray is insatiable.   
+p666
+aa(lp667
+V ELAINE 
 p668
-tp669
-a(V RAVA 
-p670
-V Was Jerry?  
+aV They all are..  
+p669
+aa(lp670
+V RAVA 
 p671
-tp672
-a(V ELAINE 
-p673
-V I can't remember..   (Doors open. They step in)  
+aV Was Jerry?  
+p672
+aa(lp673
+V ELAINE 
 p674
-tp675
-a(V RAVA 
-p676
-V You know, Ray is very upset over these accusations.   
+aV I can't remember..   (Doors open. They step in)  
+p675
+aa(lp676
+V RAVA 
 p677
-tp678
-a(V ELAINE 
-p679
-V Oh, well, I'm staying out of this one. This is between them. I am not getting involved.    (The doors close. Scene cuts to moments later, on another floor. The doors open)   
+aV You know, Ray is very upset over these accusations.   
+p678
+aa(lp679
+V ELAINE 
 p680
-tp681
-a(V RAVA 
-p682
-V (Annoyed) So you think he stole it?!    
+aV Oh, well, I'm staying out of this one. This is between them. I am not getting involved.    (The doors close. Scene cuts to moments later, on another floor. The doors open)   
+p681
+aa(lp682
+V RAVA 
 p683
-tp684
-a(V ELAINE 
-p685
-V Well, you have to admit.. the circumstantial evidence.   
+aV (Annoyed) So you think he stole it?!    
+p684
+aa(lp685
+V ELAINE 
 p686
-tp687
-a(V RAVA 
-p688
-V I admit nothing!   (The doors close. Scene cuts to the inside of the elevator)    
+aV Well, you have to admit.. the circumstantial evidence.   
+p687
+aa(lp688
+V RAVA 
 p689
-tp690
-a(V MAN 
-p691
-V Will you put that cigarette out, please?     (Rava ignores him)  
+aV I admit nothing!   (The doors close. Scene cuts to the inside of the elevator)    
+p690
+aa(lp691
+V MAN 
 p692
-tp693
-a(V ELAINE 
-p694
-V Well, I mean, he was in the apartment, and then it's gon and it's in your apartment.    
+aV Will you put that cigarette out, please?     (Rava ignores him)  
+p693
+aa(lp694
+V ELAINE 
 p695
-tp696
-a(V RAVA 
-p697
-V Maybe you think we're in cahoots.  
+aV Well, I mean, he was in the apartment, and then it's gon and it's in your apartment.    
+p696
+aa(lp697
+V RAVA 
 p698
-tp699
-a(V ELAINE 
-p700
-V No, no.. but it is quite a coincidence.    
+aV Maybe you think we're in cahoots.  
+p699
+aa(lp700
+V ELAINE 
 p701
-tp702
-a(V RAVA 
-p703
-V Yes, that's all, a coincidence!  
+aV No, no.. but it is quite a coincidence.    
+p702
+aa(lp703
+V RAVA 
 p704
-tp705
-a(V ELAINE 
-p706
-V A big coincidence.  
+aV Yes, that's all, a coincidence!  
+p705
+aa(lp706
+V ELAINE 
 p707
-tp708
-a(V RAVA 
-p709
-V Not a big coincidence. A coincidence!    
+aV A big coincidence.  
+p708
+aa(lp709
+V RAVA 
 p710
-tp711
-a(V ELAINE 
-p712
-V No, that's a big coincidence.  
+aV Not a big coincidence. A coincidence!    
+p711
+aa(lp712
+V ELAINE 
 p713
-tp714
-a(V RAVA 
-p715
-V That's what a coincidence is! There are no small coincidences and big coincidences!    
+aV No, that's a big coincidence.  
+p714
+aa(lp715
+V RAVA 
 p716
-tp717
-a(V ELAINE 
-p718
-V No, there are degrees of coincidences.    
+aV That's what a coincidence is! There are no small coincidences and big coincidences!    
+p717
+aa(lp718
+V ELAINE 
 p719
-tp720
-a(V RAVA 
-p721
-V No, there are only coincidences! ..Ask anyone! (Enraged, she asks everone in the elevator) Are there big coincidences and small coincidences, or just coincidences? (Silent) ..Well?! Well?!..    (Everyone just kinda shrugs, then murmurs. The doors open)  
+aV No, there are degrees of coincidences.    
+p720
+aa(lp721
+V RAVA 
 p722
-tp723
-a(V MAN 
-p724
-V Will you put that cigarette out?!  
+aV No, there are only coincidences! ..Ask anyone! (Enraged, she asks everone in the elevator) Are there big coincidences and small coincidences, or just coincidences? (Silent) ..Well?! Well?!..    (Everyone just kinda shrugs, then murmurs. The doors open)  
+p723
+aa(lp724
+V MAN 
 p725
-tp726
-a(V RAVA 
-p727
-V (Pointing the lit end at him) Maybe I put it out on your face! (To Elaine) It's just like Ray said - you and Jerry are jealous of our love. You're trying to destroy us.   
+aV Will you put that cigarette out?!  
+p726
+aa(lp727
+V RAVA 
 p728
-tp729
-a(V ELAINE 
-p730
-V Shouldn't you be out on a ledge somewhere?     (The doors close. Scene cuts to another floor. The elevator is empty except for Elaine. There's a janitor's cart parked right outside the doors. She steps out, then throws the manuscript into the garbage can of the cart, and exits)    (Scene ends) (Jerry's apartment)  
+aV (Pointing the lit end at him) Maybe I put it out on your face! (To Elaine) It's just like Ray said - you and Jerry are jealous of our love. You're trying to destroy us.   
+p729
+aa(lp730
+V ELAINE 
 p731
-tp732
-a(V GEORGE 
-p733
-V (On the phone) Ma, will you stop?.. It's just a statue! How is it my fault?! ..It was stolen. I didn't even touch it this time.. Okay, fine. I don't se why this should affect to potatoes! Okay. Goodbye. (Hangs up) She doesn't react to disappointement very well.. unlike me.   
+aV Shouldn't you be out on a ledge somewhere?     (The doors close. Scene cuts to another floor. The elevator is empty except for Elaine. There's a janitor's cart parked right outside the doors. She steps out, then throws the manuscript into the garbage can of the cart, and exits)    (Scene ends) (Jerry's apartment)  
+p732
+aa(lp733
+V GEORGE 
 p734
-tp735
-a(V KRAMER 
-p736
-V I'm not happy about this.  
+aV (On the phone) Ma, will you stop?.. It's just a statue! How is it my fault?! ..It was stolen. I didn't even touch it this time.. Okay, fine. I don't se why this should affect to potatoes! Okay. Goodbye. (Hangs up) She doesn't react to disappointement very well.. unlike me.   
+p735
+aa(lp736
+V KRAMER 
 p737
-tp738
-a(V ELAINE 
-p739
-V Why don't we just throw a Molotov cocktail through their window?   
+aV I'm not happy about this.  
+p738
+aa(lp739
+V ELAINE 
 p740
-tp741
-a(V GEORGE 
-p742
-V There's just no justice. This experience has changed me. It's made me more cynical, more bitter, more jaded.   
+aV Why don't we just throw a Molotov cocktail through their window?   
+p741
+aa(lp742
+V GEORGE 
 p743
-tp744
-a(V JERRY 
-p745
-V Really?  
+aV There's just no justice. This experience has changed me. It's made me more cynical, more bitter, more jaded.   
+p744
+aa(lp745
+V JERRY 
 p746
-tp747
-a(V GEORGE 
-p748
-V (Casually) Sure. Why not?  
+aV Really?  
+p747
+aa(lp748
+V GEORGE 
 p749
-tp750
-a(V ELAINE 
-p751
-V Well, how do you think I feel? Instead of editing the first novel of a major young writing talent, I am proofreading a food allergy cookbook.   
+aV (Casually) Sure. Why not?  
+p750
+aa(lp751
+V ELAINE 
 p752
-tp753
-a(V JERRY 
-p754
-V Can't you talk to your boss?  
+aV Well, how do you think I feel? Instead of editing the first novel of a major young writing talent, I am proofreading a food allergy cookbook.   
+p753
+aa(lp754
+V JERRY 
 p755
-tp756
-a(V ELAINE 
-p757
-V I did. He loves Rava.. worse.. he loves Ray, and he doesn't think you're funny at all.   
+aV Can't you talk to your boss?  
+p756
+aa(lp757
+V ELAINE 
 p758
-tp759
-a(V KRAMER 
-p760
-V I'm not happy about this.  
+aV I did. He loves Rava.. worse.. he loves Ray, and he doesn't think you're funny at all.   
+p759
+aa(lp760
+V KRAMER 
 p761
-tp762
-a(V JERRY 
-p763
-V Well, perhaps we can take comfort in the knowledge that in the next world, Ray will be the recipient of a much larger and more harsh brand of justice..    
+aV I'm not happy about this.  
+p762
+aa(lp763
+V JERRY 
 p764
-tp765
-a(V GEORGE 
-p766
-V Yeah.. He'll have my parents!   (Scene ends) (Rava and Ray's apartment)   (Ray's home alone. There's a knock at the door)  
+aV Well, perhaps we can take comfort in the knowledge that in the next world, Ray will be the recipient of a much larger and more harsh brand of justice..    
+p765
+aa(lp766
+V GEORGE 
 p767
-tp768
-a(V KRAMER 
-p769
-V Police! Open up!  
+aV Yeah.. He'll have my parents!   (Scene ends) (Rava and Ray's apartment)   (Ray's home alone. There's a knock at the door)  
+p768
+aa(lp769
+V KRAMER 
 p770
-tp771
-a(V RAY 
-p772
-V Police? (Opens the door a crack - Kramer barges in like a cop. He's wearing Jerry's grandfather's suit and hat. He forces Ray against the wall - face first)    
+aV Police! Open up!  
+p771
+aa(lp772
+V RAY 
 p773
-tp774
-a(V KRAMER 
-p775
-V Freeze, mother!  
+aV Police? (Opens the door a crack - Kramer barges in like a cop. He's wearing Jerry's grandfather's suit and hat. He forces Ray against the wall - face first)    
+p774
+aa(lp775
+V KRAMER 
 p776
-tp777
-a(V RAY 
-p778
-V Hey..   (Kramer shoves him roughly against the wall)  
+aV Freeze, mother!  
+p777
+aa(lp778
+V RAY 
 p779
-tp780
-a(V KRAMER 
-p781
-V Shut up. Spread 'em. I said spread 'em! (Looks around) You're in big trouble son. Burglary, grand larceny, possession of stolen goods.. and uh, uh.. murder.    
+aV Hey..   (Kramer shoves him roughly against the wall)  
+p780
+aa(lp781
+V KRAMER 
 p782
-tp783
-a(V RAY 
-p784
-V Murder?!   (Kramer shoves him against the wall)  
+aV Shut up. Spread 'em. I said spread 'em! (Looks around) You're in big trouble son. Burglary, grand larceny, possession of stolen goods.. and uh, uh.. murder.    
+p783
+aa(lp784
+V RAY 
 p785
-tp786
-a(V KRAMER 
-p787
-V Shut up! Keep 'em spread! Just make love to that wall, pervert!   
+aV Murder?!   (Kramer shoves him against the wall)  
+p786
+aa(lp787
+V KRAMER 
 p788
-tp789
-a(V RAY 
-p790
-V I think you have me confused with somebody else.   
+aV Shut up! Keep 'em spread! Just make love to that wall, pervert!   
+p789
+aa(lp790
+V RAY 
 p791
-tp792
-a(V KRAMER 
-p793
-V (Afraid he's got the wrong guy) Is your name Ray?   
+aV I think you have me confused with somebody else.   
+p792
+aa(lp793
+V KRAMER 
 p794
-tp795
-a(V RAY 
-p796
-V Yeah.  
+aV (Afraid he's got the wrong guy) Is your name Ray?   
+p795
+aa(lp796
+V RAY 
 p797
-tp798
-a(V KRAMER 
-p799
-V (Assured) Yeah, you're the punk I'm looking for. (Grabs the statue from the mantle, and puts it in his bag)    
+aV Yeah.  
+p798
+aa(lp799
+V KRAMER 
 p800
-tp801
-a(V RAY 
-p802
-V Hey, hey, are you a cop?  
+aV (Assured) Yeah, you're the punk I'm looking for. (Grabs the statue from the mantle, and puts it in his bag)    
+p801
+aa(lp802
+V RAY 
 p803
-tp804
-a(V KRAMER 
-p805
-V Yeah, I'm a cop. I'm a good cop. I'm a damn good cop! Today's your lucky day, junior, 'cause I'm gonna let you off with a warning. Any more of this criminal activity, and you'll be sorry. You got me?   
+aV Hey, hey, are you a cop?  
+p804
+aa(lp805
+V KRAMER 
 p806
-tp807
-a(V RAY 
-p808
-V Got you? I don't even know what the hell you're talking about.   
+aV Yeah, I'm a cop. I'm a good cop. I'm a damn good cop! Today's your lucky day, junior, 'cause I'm gonna let you off with a warning. Any more of this criminal activity, and you'll be sorry. You got me?   
+p807
+aa(lp808
+V RAY 
 p809
-tp810
-a(V KRAMER 
-p811
-V Good. Good. Let's keep it that way. (Exits)    (Scene ends) (Jerry's apartment)   (Kramer guides Jerry, Elaine, and George into the apartment)    
+aV Got you? I don't even know what the hell you're talking about.   
+p810
+aa(lp811
+V KRAMER 
 p812
-tp813
-a(V JERRY 
-p814
-V Alright, alright. What's the big hubbub, bub?    (Kramer runs to his apartment, then returns with a duffel bag. He places it on the table, and reveals the statue)   
+aV Good. Good. Let's keep it that way. (Exits)    (Scene ends) (Jerry's apartment)   (Kramer guides Jerry, Elaine, and George into the apartment)    
+p813
+aa(lp814
+V JERRY 
 p815
-tp816
-a(V GEORGE 
-p817
-V Kramer, I can't believe it. Oh, you're my hero!   
+aV Alright, alright. What's the big hubbub, bub?    (Kramer runs to his apartment, then returns with a duffel bag. He places it on the table, and reveals the statue)   
+p816
+aa(lp817
+V GEORGE 
 p818
-tp819
-a(V KRAMER 
-p820
-V Yeah.  
+aV Kramer, I can't believe it. Oh, you're my hero!   
+p819
+aa(lp820
+V KRAMER 
 p821
-tp822
-a(V JERRY 
-p823
-V Kramer, what did you do?  
+aV Yeah.  
+p822
+aa(lp823
+V JERRY 
 p824
-tp825
-a(V KRAMER 
-p826
-V Well, let's put it this way: I didn't take him to People's Court.   
+aV Kramer, what did you do?  
+p825
+aa(lp826
+V KRAMER 
 p827
-tp828
-a(V GEORGE 
-p829
-V I feel like a huge weight's been lifted off my shoulders. (Giddily) I.. I.. I feel happy! Kramer, I don't know how to thank you!   
+aV Well, let's put it this way: I didn't take him to People's Court.   
+p828
+aa(lp829
+V GEORGE 
 p830
-tp831
-a(V KRAMER 
-p832
-V Well, I'll think of something.. (Slaps George on the back - sending the statue crashing to the ground)    (Scene ends) (Night club)  
+aV I feel like a huge weight's been lifted off my shoulders. (Giddily) I.. I.. I feel happy! Kramer, I don't know how to thank you!   
+p831
+aa(lp832
+V KRAMER 
 p833
-tp834
-a.
+aV Well, I'll think of something.. (Slaps George on the back - sending the statue crashing to the ground)    (Scene ends) (Night club)  
+p834
+aa.

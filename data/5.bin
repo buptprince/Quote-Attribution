@@ -1,1217 +1,1217 @@
 (lp0
-(V JERRY 
-p1
-V  THE EX-GIRLFRIEND  Written by Larry David & Jerry Seinfeld     (Nightclub)   I'm always in traffic with the lane expert. You know this type of person? Constantly reevaluating their lane choice.. Never quite sure, "Is this the best lane for    me? For my life?" They're always a little bit ahead of you, "Can I get in over there? Could I get in over here? Could I get in there?" "Yeah, come on over here, pal.    We're zoomin' over here. This is the secret lane, nobody knows about it.." The ultimate, I think the ultimate psychological test of traffic is the total dead stop. Not    even rolling. And you look out the window, you can see gum clearly. So we know that in the future traffic will get even worse than that. I mean, what will happen?    Will it start moving backwords, I wonder? I mean, is that possible? That someday we'll be going "Boy, this is some really bad traffic now, boy. This, is really bad.    I'm gonna try to get off and get back on going the other way."     (Jerry's car)  
+(lp1
+V JERRY 
 p2
-tp3
-a(V GEORGE 
-p4
-V She can't kill me right?!  
+aV  THE EX-GIRLFRIEND  Written by Larry David & Jerry Seinfeld     (Nightclub)   I'm always in traffic with the lane expert. You know this type of person? Constantly reevaluating their lane choice.. Never quite sure, "Is this the best lane for    me? For my life?" They're always a little bit ahead of you, "Can I get in over there? Could I get in over here? Could I get in there?" "Yeah, come on over here, pal.    We're zoomin' over here. This is the secret lane, nobody knows about it.." The ultimate, I think the ultimate psychological test of traffic is the total dead stop. Not    even rolling. And you look out the window, you can see gum clearly. So we know that in the future traffic will get even worse than that. I mean, what will happen?    Will it start moving backwords, I wonder? I mean, is that possible? That someday we'll be going "Boy, this is some really bad traffic now, boy. This, is really bad.    I'm gonna try to get off and get back on going the other way."     (Jerry's car)  
+p3
+aa(lp4
+V GEORGE 
 p5
-tp6
-a(V JERRY 
-p7
-V No, of course not.  
+aV She can't kill me right?!  
+p6
+aa(lp7
+V JERRY 
 p8
-tp9
-a(V GEORGE 
-p10
-V People break up all the time.  
+aV No, of course not.  
+p9
+aa(lp10
+V GEORGE 
 p11
-tp12
-a(V JERRY 
-p13
-V Everyday.  
+aV People break up all the time.  
+p12
+aa(lp13
+V JERRY 
 p14
-tp15
-a(V GEORGE 
-p16
-V It just didn't work out. What can I do? I wanted to love her. I tried to love her. I couldn't.   
+aV Everyday.  
+p15
+aa(lp16
+V GEORGE 
 p17
-tp18
-a(V JERRY 
-p19
-V You tried.  
+aV It just didn't work out. What can I do? I wanted to love her. I tried to love her. I couldn't.   
+p18
+aa(lp19
+V JERRY 
 p20
-tp21
-a(V GEORGE 
-p22
-V I kept looking at her face. I'd go: "C'mon, love her. Love her!"   
+aV You tried.  
+p21
+aa(lp22
+V GEORGE 
 p23
-tp24
-a(V JERRY 
-p25
-V Did you tell her you loved her?  
+aV I kept looking at her face. I'd go: "C'mon, love her. Love her!"   
+p24
+aa(lp25
+V JERRY 
 p26
-tp27
-a(V GEORGE 
-p28
-V Oh, I had no choice. She squeezed it out of me! She'd tell me she loved me. Alright, at first, I just look at her. I'd go "Oh, really?" or "Boy, that's, that's    something." But, eventually you have to come back with "Well, I love you." You know, you can only hold out for so long!"    
+aV Did you tell her you loved her?  
+p27
+aa(lp28
+V GEORGE 
 p29
-tp30
-a(V JERRY 
-p31
-V You're a human being.  
+aV Oh, I had no choice. She squeezed it out of me! She'd tell me she loved me. Alright, at first, I just look at her. I'd go "Oh, really?" or "Boy, that's, that's    something." But, eventually you have to come back with "Well, I love you." You know, you can only hold out for so long!"    
+p30
+aa(lp31
+V JERRY 
 p32
-tp33
-a(V GEORGE 
-p34
-V And I didn't even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no? I can't do that to someone.   
+aV You're a human being.  
+p33
+aa(lp34
+V GEORGE 
 p35
-tp36
-a(V JERRY 
-p37
-V You're too nice a guy.  
+aV And I didn't even ask her out. She asked me out first. She called me up. What was I supposed to do? Say no? I can't do that to someone.   
+p36
+aa(lp37
+V JERRY 
 p38
-tp39
-a(V GEORGE 
-p40
-V I am. I'm a nice guy.. (realizing) And she seduced me! We were in my apartment, I'm sitting on the couch, she's on the chair - I get up to go to the    bathroom, I come back, she's on the couch. What am I supposed to do? Not do anything? I couldn't do that. I would've insulted her.   
+aV You're too nice a guy.  
+p39
+aa(lp40
+V GEORGE 
 p41
-tp42
-a(V JERRY 
-p43
-V You're flesh and blood.  
+aV I am. I'm a nice guy.. (realizing) And she seduced me! We were in my apartment, I'm sitting on the couch, she's on the chair - I get up to go to the    bathroom, I come back, she's on the couch. What am I supposed to do? Not do anything? I couldn't do that. I would've insulted her.   
+p42
+aa(lp43
+V JERRY 
 p44
-tp45
-a(V GEORGE 
-p46
-V I had nothing to do wtih any of this! I met all her friends, I didn't want to meet them. I kept trying to avoid it. I knew it would only get me in deeper. But    they were everywhere! They kept popping up, all over the place. "This is Nancy, this is Susan, this is Amy.. This is my cousin.. this is my brother.. thisis my father."    It's like I'm in quicksand.  
+aV You're flesh and blood.  
+p45
+aa(lp46
+V GEORGE 
 p47
-tp48
-a(V JERRY 
-p49
-V I told you when I met her..  
+aV I had nothing to do wtih any of this! I met all her friends, I didn't want to meet them. I kept trying to avoid it. I knew it would only get me in deeper. But    they were everywhere! They kept popping up, all over the place. "This is Nancy, this is Susan, this is Amy.. This is my cousin.. this is my brother.. thisis my father."    It's like I'm in quicksand.  
+p48
+aa(lp49
+V JERRY 
 p50
-tp51
-a(V GEORGE 
-p52
-V My back is killing me.  
+aV I told you when I met her..  
+p51
+aa(lp52
+V GEORGE 
 p53
-tp54
-a(V JERRY 
-p55
-V You gotta go to my chiropractor, he's the best.   
+aV My back is killing me.  
+p54
+aa(lp55
+V JERRY 
 p56
-tp57
-a(V GEORGE 
-p58
-V Oh yeah, everybody's guy is the best.    
+aV You gotta go to my chiropractor, he's the best.   
+p57
+aa(lp58
+V GEORGE 
 p59
-tp60
-a(V JERRY 
-p61
-V I'm gonna make an appointment for you. We'll go together.   
+aV Oh yeah, everybody's guy is the best.    
+p60
+aa(lp61
+V JERRY 
 p62
-tp63
-a(V GEORGE 
-p64
-V Please. They don't do anything.. Look, do I have to break up with her in person? CAn't I do it over the phone? I have no stomach for these things.   
+aV I'm gonna make an appointment for you. We'll go together.   
+p63
+aa(lp64
+V GEORGE 
 p65
-tp66
-a(V JERRY 
-p67
-V You should just do it like a Band-Aid. One motion! Right off!    (Car door opens, it's Elaine)  
+aV Please. They don't do anything.. Look, do I have to break up with her in person? CAn't I do it over the phone? I have no stomach for these things.   
+p66
+aa(lp67
+V JERRY 
 p68
-tp69
-a(V ELAINE 
-p70
-V Hi.  
+aV You should just do it like a Band-Aid. One motion! Right off!    (Car door opens, it's Elaine)  
+p69
+aa(lp70
+V ELAINE 
 p71
-tp72
-a(V JERRY 
-p73
-V Hi.   (George pulls his seat forward to allow Elaine into the back seats)   
+aV Hi.  
+p72
+aa(lp73
+V JERRY 
 p74
-tp75
-a(V ELAINE 
-p76
-V Hey, what are you doing?  
+aV Hi.   (George pulls his seat forward to allow Elaine into the back seats)   
+p75
+aa(lp76
+V ELAINE 
 p77
-tp78
-a(V GEORGE 
-p79
-V I'm letting you in.  
+aV Hey, what are you doing?  
+p78
+aa(lp79
+V GEORGE 
 p80
-tp81
-a(V ELAINE 
-p82
-V Oh no. No. I don't want to sit in the back. I'll be left out of the conversation.    
+aV I'm letting you in.  
+p81
+aa(lp82
+V ELAINE 
 p83
-tp84
-a(V GEORGE 
-p85
-V No, you won't.  
+aV Oh no. No. I don't want to sit in the back. I'll be left out of the conversation.    
+p84
+aa(lp85
+V GEORGE 
 p86
-tp87
-a(V ELAINE 
-p88
-V Yes, I will, George. I'll have to sick my chin on top of the seat.   
+aV No, you won't.  
+p87
+aa(lp88
+V ELAINE 
 p89
-tp90
-a(V GEORGE 
-p91
-V Okay..   (George gets out, and gestures for Elaine to sit in the seat)    
+aV Yes, I will, George. I'll have to sick my chin on top of the seat.   
+p90
+aa(lp91
+V GEORGE 
 p92
-tp93
-a(V ELAINE 
-p94
-V Why can't you sit in the middle?  
+aV Okay..   (George gets out, and gestures for Elaine to sit in the seat)    
+p93
+aa(lp94
+V ELAINE 
 p95
-tp96
-a(V GEORGE 
-p97
-V Please, it doesn't look good. Boy, boy, girl.   
+aV Why can't you sit in the middle?  
+p96
+aa(lp97
+V GEORGE 
 p98
-tp99
-a(V ELAINE 
-p100
-V I think you're afraid to sit next to a man. You're a little homophobic, aren't you?   
+aV Please, it doesn't look good. Boy, boy, girl.   
+p99
+aa(lp100
+V ELAINE 
 p101
-tp102
-a(V GEORGE 
-p103
-V Is it that obvious?   (Elaine sits in the middle)  
+aV I think you're afraid to sit next to a man. You're a little homophobic, aren't you?   
+p102
+aa(lp103
+V GEORGE 
 p104
-tp105
-a(V ELAINE 
-p106
-V Hello, Jerry.  
+aV Is it that obvious?   (Elaine sits in the middle)  
+p105
+aa(lp106
+V ELAINE 
 p107
-tp108
-a(V JERRY 
-p109
-V Hello.  
+aV Hello, Jerry.  
+p108
+aa(lp109
+V JERRY 
 p110
-tp111
-a(V ELAINE 
-p112
-V Did you get a haircut?  
+aV Hello.  
+p111
+aa(lp112
+V ELAINE 
 p113
-tp114
-a(V JERRY 
-p115
-V No, shower. So, where are we eating?    
+aV Did you get a haircut?  
+p114
+aa(lp115
+V JERRY 
 p116
-tp117
-a(V ELAINE 
-p118
-V Tell me if you think this is strange: There's this guy who lives in my building, who I was introduced to a couple of years ago by a friend. He's a teacher, or    something. Anyway, after we met, whenever we'd run into each other on the street, or in the lobby, or whatever, we would stop and we would chat a little.. Nothing    much. Little pleasantries. He was a nice guy, he's got a family.. then after a while, I noticed there was not more stopping. Just saying hello and continuing on our way.     polite nodding. Then one day, he doesn't nod. Like I don't exist?! He went from nods to nothing.   
+aV No, shower. So, where are we eating?    
+p117
+aa(lp118
+V ELAINE 
 p119
-tp120
-a(V GEORGE 
-p121
-V (imitating Tony Bennett) "You know, I'd go from nods to nothing.."   
+aV Tell me if you think this is strange: There's this guy who lives in my building, who I was introduced to a couple of years ago by a friend. He's a teacher, or    something. Anyway, after we met, whenever we'd run into each other on the street, or in the lobby, or whatever, we would stop and we would chat a little.. Nothing    much. Little pleasantries. He was a nice guy, he's got a family.. then after a while, I noticed there was not more stopping. Just saying hello and continuing on our way.     polite nodding. Then one day, he doesn't nod. Like I don't exist?! He went from nods to nothing.   
+p120
+aa(lp121
+V GEORGE 
 p122
-tp123
-a(V ELAINE 
-p124
-V And now, there's this intense animosity whenever we passs. I mean, it's like we really hate each other. It's based on nothing.   
+aV (imitating Tony Bennett) "You know, I'd go from nods to nothing.."   
+p123
+aa(lp124
+V ELAINE 
 p125
-tp126
-a(V JERRY 
-p127
-V A relationship is an organism. You created this thing and then you starved it so it turned against you. Same thing happened to The Blob.   
+aV And now, there's this intense animosity whenever we passs. I mean, it's like we really hate each other. It's based on nothing.   
+p126
+aa(lp127
+V JERRY 
 p128
-tp129
-a(V GEORGE 
-p130
-V I think you absolutely have to say something to this guy. Confront him.   
+aV A relationship is an organism. You created this thing and then you starved it so it turned against you. Same thing happened to The Blob.   
+p129
+aa(lp130
+V GEORGE 
 p131
-tp132
-a(V ELAINE 
-p133
-V Really?  
+aV I think you absolutely have to say something to this guy. Confront him.   
+p132
+aa(lp133
+V ELAINE 
 p134
-tp135
-a(V GEORGE 
-p136
-V Yes.  
+aV Really?  
+p135
+aa(lp136
+V GEORGE 
 p137
-tp138
-a(V ELAINE 
-p139
-V You would do that?  
+aV Yes.  
+p138
+aa(lp139
+V ELAINE 
 p140
-tp141
-a(V GEORGE 
-p142
-V If I was a different person.   (Scene ends)   (Jerry's apartment; Jerry's on the phone)  
+aV You would do that?  
+p141
+aa(lp142
+V GEORGE 
 p143
-tp144
-a(V JERRY 
-p145
-V Hello.. hello. Is Glenn there? I'm sorry. Is this 805-555-3234?.. Yes, I know I have the wrong number. But I just want to know if I dialed wrong or if..     (Other guy hangs up on Jerry; he redials; enter Kramer)   (The buzzer buzzes; Kramer answers it)  
+aV If I was a different person.   (Scene ends)   (Jerry's apartment; Jerry's on the phone)  
+p144
+aa(lp145
+V JERRY 
 p146
-tp147
-a(V KRAMER 
-p148
-V Come on up.  
+aV Hello.. hello. Is Glenn there? I'm sorry. Is this 805-555-3234?.. Yes, I know I have the wrong number. But I just want to know if I dialed wrong or if..     (Other guy hangs up on Jerry; he redials; enter Kramer)   (The buzzer buzzes; Kramer answers it)  
+p147
+aa(lp148
+V KRAMER 
 p149
-tp150
-a(V JERRY 
-p151
-V (Into phone) Oh, it's you again. See? Now if you had answered me, I wouldn't have had to do this. Now that's too long distance calls I made to you why     can't you.. (guy hangs up on Jerry again). (To Kramer) Why? Why do they just hang up like that?! Thank you very much.    (Kramer holds up cantaloupe)  
+aV Come on up.  
+p150
+aa(lp151
+V JERRY 
 p152
-tp153
-a(V KRAMER 
-p154
-V Taste this.  
+aV (Into phone) Oh, it's you again. See? Now if you had answered me, I wouldn't have had to do this. Now that's too long distance calls I made to you why     can't you.. (guy hangs up on Jerry again). (To Kramer) Why? Why do they just hang up like that?! Thank you very much.    (Kramer holds up cantaloupe)  
+p153
+aa(lp154
+V KRAMER 
 p155
-tp156
-a(V JERRY 
-p157
-V No, I just had a sandwich.  
+aV Taste this.  
+p156
+aa(lp157
+V JERRY 
 p158
-tp159
-a(V KRAMER 
-p160
-V No, taste it. Taste it.  
+aV No, I just had a sandwich.  
+p159
+aa(lp160
+V KRAMER 
 p161
-tp162
-a(V JERRY 
-p163
-V I don't want cantaloupe now.  
+aV No, taste it. Taste it.  
+p162
+aa(lp163
+V JERRY 
 p164
-tp165
-a(V KRAMER 
-p166
-V You've never had cantaloupe like this before.   
+aV I don't want cantaloupe now.  
+p165
+aa(lp166
+V KRAMER 
 p167
-tp168
-a(V JERRY 
-p169
-V I only eat cantaloupe at certain times.    
+aV You've never had cantaloupe like this before.   
+p168
+aa(lp169
+V JERRY 
 p170
-tp171
-a(V KRAMER 
-p172
-V Jerry. This is great cantaloupe.  
+aV I only eat cantaloupe at certain times.    
+p171
+aa(lp172
+V KRAMER 
 p173
-tp174
-a(V JERRY 
-p175
-V Alright.. (tastes it)  
+aV Jerry. This is great cantaloupe.  
+p174
+aa(lp175
+V JERRY 
 p176
-tp177
-a(V KRAMER 
-p178
-V Ah, huh. It's good?  
+aV Alright.. (tastes it)  
+p177
+aa(lp178
+V KRAMER 
 p179
-tp180
-a(V JERRY 
-p181
-V It's very good.  
+aV Ah, huh. It's good?  
+p180
+aa(lp181
+V JERRY 
 p182
-tp183
-a(V KRAMER 
-p184
-V Good, huh?  
+aV It's very good.  
+p183
+aa(lp184
+V KRAMER 
 p185
-tp186
-a(V JERRY 
-p187
-V Good.  
+aV Good, huh?  
+p186
+aa(lp187
+V JERRY 
 p188
-tp189
-a(V KRAMER 
-p190
-V I got it at Joe's.  
+aV Good.  
+p189
+aa(lp190
+V KRAMER 
 p191
-tp192
-a(V JERRY 
-p193
-V Uh-Huh.  
+aV I got it at Joe's.  
+p192
+aa(lp193
+V JERRY 
 p194
-tp195
-a(V KRAMER 
-p196
-V Forty-nine cents a pound. That's practically half than what you're paying at the supermarket. I don't know why you don't go to Joe's.   
+aV Uh-Huh.  
+p195
+aa(lp196
+V KRAMER 
 p197
-tp198
-a(V JERRY 
-p199
-V It's too far.  
+aV Forty-nine cents a pound. That's practically half than what you're paying at the supermarket. I don't know why you don't go to Joe's.   
+p198
+aa(lp199
+V JERRY 
 p200
-tp201
-a(V KRAMER 
-p202
-V It's three blocks further. You can use my shopping cart..   
+aV It's too far.  
+p201
+aa(lp202
+V KRAMER 
 p203
-tp204
-a(V JERRY 
-p205
-V I'm not pulling a shopping cart. What am I suppose to wear? A kerchief? Put stockings on and roll 'em down below my knee?   
+aV It's three blocks further. You can use my shopping cart..   
+p204
+aa(lp205
+V JERRY 
 p206
-tp207
-a(V KRAMER 
-p208
-V See, the other thing is, if you don't like anything, he takes it right back.    
+aV I'm not pulling a shopping cart. What am I suppose to wear? A kerchief? Put stockings on and roll 'em down below my knee?   
+p207
+aa(lp208
+V KRAMER 
 p209
-tp210
-a(V JERRY 
-p211
-V I don't return fruit. Fruit is a gamble. I know that going in.    (Enter George; he's extremely excited - he's dancing around the room, singing the Zorba theme)   
+aV See, the other thing is, if you don't like anything, he takes it right back.    
+p210
+aa(lp211
+V JERRY 
 p212
-tp213
-a(V GEORGE 
-p214
-V I'm outta there. I did it! It's over.    
+aV I don't return fruit. Fruit is a gamble. I know that going in.    (Enter George; he's extremely excited - he's dancing around the room, singing the Zorba theme)   
+p213
+aa(lp214
+V GEORGE 
 p215
-tp216
-a(V JERRY 
-p217
-V You did it? What happened?  
+aV I'm outta there. I did it! It's over.    
+p216
+aa(lp217
+V JERRY 
 p218
-tp219
-a(V GEORGE 
-p220
-V I told her. In the kitchen - which was risky 'cause it's near all the knives. I started with the word "Listen."    
+aV You did it? What happened?  
+p219
+aa(lp220
+V GEORGE 
 p221
-tp222
-a(V JERRY 
-p223
-V Ah ha.  
+aV I told her. In the kitchen - which was risky 'cause it's near all the knives. I started with the word "Listen."    
+p222
+aa(lp223
+V JERRY 
 p224
-tp225
-a(V GEORGE 
-p226
-V I said, "Listen Marlene," and then the next thing I know, I'm in the middle of it. And there's this voice inside of me going: "You're doing it! You're doing    it!" And then she started to cry, and I weakened a bit. I almost relented, but the voice, Jerry. The voice said "Keep going, keep going. You're almost out!" It's like I    was making a prison break, you know. And I'm heading for the wall, and I trip and I twist my ankle, and they throw the light on you, you know. So, somehow I get     the front door. I opened it up, I'm one foot away, I took one last look around the penitentiary, and I jumped!   
+aV Ah ha.  
+p225
+aa(lp226
+V GEORGE 
 p227
-tp228
-a(V JERRY 
-p229
-V See, it's never as bad as you imagine.    
+aV I said, "Listen Marlene," and then the next thing I know, I'm in the middle of it. And there's this voice inside of me going: "You're doing it! You're doing    it!" And then she started to cry, and I weakened a bit. I almost relented, but the voice, Jerry. The voice said "Keep going, keep going. You're almost out!" It's like I    was making a prison break, you know. And I'm heading for the wall, and I trip and I twist my ankle, and they throw the light on you, you know. So, somehow I get     the front door. I opened it up, I'm one foot away, I took one last look around the penitentiary, and I jumped!   
+p228
+aa(lp229
+V JERRY 
 p230
-tp231
-a(V KRAMER 
-p232
-V I liked Marlene. What's her number?    
+aV See, it's never as bad as you imagine.    
+p231
+aa(lp232
+V KRAMER 
 p233
-tp234
-a(V GEORGE 
-p235
-V No, I, I don't think so.   (Kramer stants making noises while eating)  
+aV I liked Marlene. What's her number?    
+p234
+aa(lp235
+V GEORGE 
 p236
-tp237
-a(V JERRY 
-p238
-V Could you stop that smacking?  
+aV No, I, I don't think so.   (Kramer stants making noises while eating)  
+p237
+aa(lp238
+V JERRY 
 p239
-tp240
-a(V KRAMER 
-p241
-V George, I want you to taste this cantaloupe.    
+aV Could you stop that smacking?  
+p240
+aa(lp241
+V KRAMER 
 p242
-tp243
-a(V GEORGE 
-p244
-V Oh no, thank you.  
+aV George, I want you to taste this cantaloupe.    
+p243
+aa(lp244
+V GEORGE 
 p245
-tp246
-a(V KRAMER 
-p247
-V It's the best cantaloupe I ever had.    
+aV Oh no, thank you.  
+p246
+aa(lp247
+V KRAMER 
 p248
-tp249
-a(V GEORGE 
-p250
-V No, really. No, no, thanks.  
+aV It's the best cantaloupe I ever had.    
+p249
+aa(lp250
+V GEORGE 
 p251
-tp252
-a(V KRAMER 
-p253
-V Jerry, tell him how good this cantaloupe is.   
+aV No, really. No, no, thanks.  
+p252
+aa(lp253
+V KRAMER 
 p254
-tp255
-a(V JERRY 
-p256
-V It's very good cantaloupe. (changing subject) So that's it? You're out?    
+aV Jerry, tell him how good this cantaloupe is.   
+p255
+aa(lp256
+V JERRY 
 p257
-tp258
-a(V GEORGE 
-p259
-V Except for one small problem. I left some books in her apartment.   
+aV It's very good cantaloupe. (changing subject) So that's it? You're out?    
+p258
+aa(lp259
+V GEORGE 
 p260
-tp261
-a(V JERRY 
-p262
-V So, go get them.  
+aV Except for one small problem. I left some books in her apartment.   
+p261
+aa(lp262
+V JERRY 
 p263
-tp264
-a(V GEORGE 
-p265
-V Oh, no. No, I can't go back there. Jerry, it's so awkward and, you know, it could be dangerous - sexually. Something could happen, I'd be right back    where I started.  
+aV So, go get them.  
+p264
+aa(lp265
+V GEORGE 
 p266
-tp267
-a(V JERRY 
-p268
-V So forget about the books. Did you read them?   
+aV Oh, no. No, I can't go back there. Jerry, it's so awkward and, you know, it could be dangerous - sexually. Something could happen, I'd be right back    where I started.  
+p267
+aa(lp268
+V JERRY 
 p269
-tp270
-a(V GEORGE 
-p271
-V Well, yeah.  
+aV So forget about the books. Did you read them?   
+p270
+aa(lp271
+V GEORGE 
 p272
-tp273
-a(V JERRY 
-p274
-V What do you need them for?  
+aV Well, yeah.  
+p273
+aa(lp274
+V JERRY 
 p275
-tp276
-a(V GEORGE 
-p277
-V I don't know. They're books.  
+aV What do you need them for?  
+p276
+aa(lp277
+V GEORGE 
 p278
-tp279
-a(V JERRY 
-p280
-V What is this obsession people have with books? They put them in their houses - like they're trophies. What do you need it for after you read it?   
+aV I don't know. They're books.  
+p279
+aa(lp280
+V JERRY 
 p281
-tp282
-a(V GEORGE 
-p283
-V They're MY books.  
+aV What is this obsession people have with books? They put them in their houses - like they're trophies. What do you need it for after you read it?   
+p282
+aa(lp283
+V GEORGE 
 p284
-tp285
-a(V JERRY 
-p286
-V So you want me to get those books? Is that it?    (Scene ends)   (Coffee Shop)   (Jerry and Marlene are sitting, a pile of books are on the table.)    
+aV They're MY books.  
+p285
+aa(lp286
+V JERRY 
 p287
-tp288
-a(V MARLENE 
-p289
-V ..So, it must've been ninety-five degrees that night, and everyone's just standing around the pool with little drinks in their hands. I was wearing my old     jeans and T-shirt. And I don't know, I was just in one of those moods - so I said to myself, "Marlene, just do it," and I jumped in. And as I'm getting out, I feel all    these eyes on me, and I look up and everyone is just staring at me.   
+aV So you want me to get those books? Is that it?    (Scene ends)   (Coffee Shop)   (Jerry and Marlene are sitting, a pile of books are on the table.)    
+p288
+aa(lp289
+V MARLENE 
 p290
-tp291
-a(V JERRY 
-p292
-V So what'd you do?  
+aV ..So, it must've been ninety-five degrees that night, and everyone's just standing around the pool with little drinks in their hands. I was wearing my old     jeans and T-shirt. And I don't know, I was just in one of those moods - so I said to myself, "Marlene, just do it," and I jumped in. And as I'm getting out, I feel all    these eyes on me, and I look up and everyone is just staring at me.   
+p291
+aa(lp292
+V JERRY 
 p293
-tp294
-a(V MARLENE 
-p295
-V Well, nothing. It's not skin off my hide if people like to look. I just didn't see what the big attraction was.    
+aV So what'd you do?  
+p294
+aa(lp295
+V MARLENE 
 p296
-tp297
-a(V JERRY 
-p298
-V Well, I have a general idea what it was. I could take a guess.   
+aV Well, nothing. It's not skin off my hide if people like to look. I just didn't see what the big attraction was.    
+p297
+aa(lp298
+V JERRY 
 p299
-tp300
-a(V MARLENE 
-p301
-V (Laughs) Hey, you know, Jerry, just because George and I don't see each other anymore, it doesn't mean we shouldn't stay friends.   
+aV Well, I have a general idea what it was. I could take a guess.   
+p300
+aa(lp301
+V MARLENE 
 p302
-tp303
-a(V JERRY 
-p304
-V No.  
+aV (Laughs) Hey, you know, Jerry, just because George and I don't see each other anymore, it doesn't mean we shouldn't stay friends.   
+p303
+aa(lp304
+V JERRY 
 p305
-tp306
-a(V MARLENE 
-p307
-V Good enough. I'm really glad we got that settled.    (Scene ends)   (Chiropractor waiting room)  
+aV No.  
+p306
+aa(lp307
+V MARLENE 
 p308
-tp309
-a(V JERRY 
-p310
-V (Irritated) I don't know how this happened.    
+aV Good enough. I'm really glad we got that settled.    (Scene ends)   (Chiropractor waiting room)  
+p309
+aa(lp310
+V JERRY 
 p311
-tp312
-a(V GEORGE 
-p313
-V Jerry, it's not my fault.  
+aV (Irritated) I don't know how this happened.    
+p312
+aa(lp313
+V GEORGE 
 p314
-tp315
-a(V JERRY 
-p316
-V No, no. It's not your fault. Books, books, I need my books. Have you re-read those books yet, by the way? You know the great thing? When you read    Moby Dick the second time, Ahab and the whale become good friends. You know, it's not like Marlene's a bad person or anything, but, my God! I mean, we've    had like three lunches and a movie. And she never stops calling. (George nods - he knows exactly what Jerry's talking about) And it's these meaningless,    purposeless, blather calls. She never asks if I'm busy or anything. I just pick up the phone and she's in the middle of a sentence.    
+aV Jerry, it's not my fault.  
+p315
+aa(lp316
+V JERRY 
 p317
-tp318
-a(V GEORGE 
-p319
-V That's standard. Has she left you one of those messages where she uses up the whole machine?   
+aV No, no. It's not your fault. Books, books, I need my books. Have you re-read those books yet, by the way? You know the great thing? When you read    Moby Dick the second time, Ahab and the whale become good friends. You know, it's not like Marlene's a bad person or anything, but, my God! I mean, we've    had like three lunches and a movie. And she never stops calling. (George nods - he knows exactly what Jerry's talking about) And it's these meaningless,    purposeless, blather calls. She never asks if I'm busy or anything. I just pick up the phone and she's in the middle of a sentence.    
+p318
+aa(lp319
+V GEORGE 
 p320
-tp321
-a(V JERRY 
-p322
-V Ohh.. you know, and sometimes she'll go, "Hello, Jerry?" and I'll go "Oh, hi Marlene." And then it's "Jerry.."    
+aV That's standard. Has she left you one of those messages where she uses up the whole machine?   
+p321
+aa(lp322
+V JERRY 
 p323
-tp324
-a(V GEORGE 
-p325
-V What about getting off the phone?  
+aV Ohh.. you know, and sometimes she'll go, "Hello, Jerry?" and I'll go "Oh, hi Marlene." And then it's "Jerry.."    
+p324
+aa(lp325
+V GEORGE 
 p326
-tp327
-a(V JERRY 
-p328
-V Ohhhh.. you can't. It's impossible. There's no break in the conversation where you can go, "Alright, then.. " You know, it just goes on and on and on with    out a break in the wall. I mean, I gotta put a stop to this.    
+aV What about getting off the phone?  
+p327
+aa(lp328
+V JERRY 
 p329
-tp330
-a(V GEORGE 
-p331
-V Just do it like a Band-Aid. One motion, right off! She is sexy though. Don't you think?   
+aV Ohhhh.. you can't. It's impossible. There's no break in the conversation where you can go, "Alright, then.. " You know, it just goes on and on and on with    out a break in the wall. I mean, I gotta put a stop to this.    
+p330
+aa(lp331
+V GEORGE 
 p332
-tp333
-a(V JERRY 
-p334
-V Yeah. Yes, she is.   (Receptionist enters)  
+aV Just do it like a Band-Aid. One motion, right off! She is sexy though. Don't you think?   
+p333
+aa(lp334
+V JERRY 
 p335
-tp336
-a(V RECEPTIONIST 
-p337
-V Mr. Costanza?  
+aV Yeah. Yes, she is.   (Receptionist enters)  
+p336
+aa(lp337
+V RECEPTIONIST 
 p338
-tp339
-a(V GEORGE 
-p340
-V Yeah.  
+aV Mr. Costanza?  
+p339
+aa(lp340
+V GEORGE 
 p341
-tp342
-a(V RECEPTIONIST 
-p343
-V The doctor'll see you now.  
+aV Yeah.  
+p342
+aa(lp343
+V RECEPTIONIST 
 p344
-tp345
-a(V GEORGE 
-p346
-V (To Jerry, sarcastically) Yeah, doctor. I'm going to have to wait in that little room by myself, aren't I? (Picks up a crossword puzzle) I better take this. 
+aV The doctor'll see you now.  
+p345
+aa(lp346
+V GEORGE 
 p347
-tp348
-a(V I 
-p349
-V   hate the little room. "Oh, hello, Doctor."   (Scene ends)   (Night club)  
+aV (To Jerry, sarcastically) Yeah, doctor. I'm going to have to wait in that little room by myself, aren't I? (Picks up a crossword puzzle) I better take this. 
+p348
+aa(lp349
+V I 
 p350
-tp351
-a(V JERRY 
-p352
-V Waiting room. I hate when they make you wait in the room. 'Cause it says "Waiting room." There's no chance of not waiting, 'cause they call it the waiting    room, they're going to use it. They've got it. It's all set up for you to wait. And you sit there, you know, and you've got your little magazine. You pretend you're    reading it, but you're really looking at the other people. You know, you're thinking about about them things like "I wonder what he's got. As soon as she goes, I'm    getting her magazine." And then, they finally call you and it's a very exciting moment. They finally call you, and you stand up and you kinda look around at the other    people in the room. "Well, I guess I've been chosen. I'll see you all later." You know, so you think you're going to see the doctor, but you're not, are you? No.    You're going into the next waiting room. The littler waiting room. But if they are, you know, doing some sort of medical thing to you, you want to be in the smallest    room that they have, I think. You don't wnat to be in the largest room that they have. You know what I mean? You ever see these operating theaters, that they have,    with like, stadium seating? You don't want them doing antying to you that makes other doctors go, "I have to see this!" "Are you kidding? Are they really gonna do    that to him?" "Are there seats? Can we get in?" Do they scalp tickets to these things? "I got two for the Winslow tumor, I got two.."    (Scene ends)   (Waiting room)   (George returns)  
+aV   hate the little room. "Oh, hello, Doctor."   (Scene ends)   (Night club)  
+p351
+aa(lp352
+V JERRY 
 p353
-tp354
-a(V JERRY 
-p355
-V So, how was it?  
+aV Waiting room. I hate when they make you wait in the room. 'Cause it says "Waiting room." There's no chance of not waiting, 'cause they call it the waiting    room, they're going to use it. They've got it. It's all set up for you to wait. And you sit there, you know, and you've got your little magazine. You pretend you're    reading it, but you're really looking at the other people. You know, you're thinking about about them things like "I wonder what he's got. As soon as she goes, I'm    getting her magazine." And then, they finally call you and it's a very exciting moment. They finally call you, and you stand up and you kinda look around at the other    people in the room. "Well, I guess I've been chosen. I'll see you all later." You know, so you think you're going to see the doctor, but you're not, are you? No.    You're going into the next waiting room. The littler waiting room. But if they are, you know, doing some sort of medical thing to you, you want to be in the smallest    room that they have, I think. You don't wnat to be in the largest room that they have. You know what I mean? You ever see these operating theaters, that they have,    with like, stadium seating? You don't want them doing antying to you that makes other doctors go, "I have to see this!" "Are you kidding? Are they really gonna do    that to him?" "Are there seats? Can we get in?" Do they scalp tickets to these things? "I got two for the Winslow tumor, I got two.."    (Scene ends)   (Waiting room)   (George returns)  
+p354
+aa(lp355
+V JERRY 
 p356
-tp357
-a(V GEORGE 
-p358
-V I was in there for two minutes. He didn't do anything. (Imitating doctor) Touch this, feel that. Seventy-five bucks.    
+aV So, how was it?  
+p357
+aa(lp358
+V GEORGE 
 p359
-tp360
-a(V JERRY 
-p361
-V Well, it's a first visit.  
+aV I was in there for two minutes. He didn't do anything. (Imitating doctor) Touch this, feel that. Seventy-five bucks.    
+p360
+aa(lp361
+V JERRY 
 p362
-tp363
-a(V GEORGE 
-p364
-V What's seventy-five bucks? What, am I seeing Sinatra in there?! Amd I being entertained? I don't understand this. I'm only paying half.   
+aV Well, it's a first visit.  
+p363
+aa(lp364
+V GEORGE 
 p365
-tp366
-a(V JERRY 
-p367
-V You can't do that.  
+aV What's seventy-five bucks? What, am I seeing Sinatra in there?! Amd I being entertained? I don't understand this. I'm only paying half.   
+p366
+aa(lp367
+V JERRY 
 p368
-tp369
-a(V GEORGE 
-p370
-V Why not?  
+aV You can't do that.  
+p369
+aa(lp370
+V GEORGE 
 p371
-tp372
-a(V JERRY 
-p373
-V He's a doctor. You gotta pay what he says.   
+aV Why not?  
+p372
+aa(lp373
+V JERRY 
 p374
-tp375
-a(V GEORGE 
-p376
-V Oh, no, no, no. I pay what I say.   (Scene ends)   (Jerry's car)  
+aV He's a doctor. You gotta pay what he says.   
+p375
+aa(lp376
+V GEORGE 
 p377
-tp378
-a(V MARLENE 
-p379
-V Are you feeling weird?  
+aV Oh, no, no, no. I pay what I say.   (Scene ends)   (Jerry's car)  
+p378
+aa(lp379
+V MARLENE 
 p380
-tp381
-a(V JERRY 
-p382
-V No, I'm fine.  
+aV Are you feeling weird?  
+p381
+aa(lp382
+V JERRY 
 p383
-tp384
-a(V MARLENE 
-p385
-V Nothing really happened.  
+aV No, I'm fine.  
+p384
+aa(lp385
+V MARLENE 
 p386
-tp387
-a(V JERRY 
-p388
-V Yeah, I know.  
+aV Nothing really happened.  
+p387
+aa(lp388
+V JERRY 
 p389
-tp390
-a(V MARLENE 
-p391
-V We just kissed a little. People kiss.    
+aV Yeah, I know.  
+p390
+aa(lp391
+V MARLENE 
 p392
-tp393
-a(V JERRY 
-p394
-V Yeah.  
+aV We just kissed a little. People kiss.    
+p393
+aa(lp394
+V JERRY 
 p395
-tp396
-a(V MARLENE 
-p397
-V Well.. night.   (Leans over and kisses Jerry)  
+aV Yeah.  
+p396
+aa(lp397
+V MARLENE 
 p398
-tp399
-a(V JERRY 
-p400
-V Good night.   (Scene ends)   (Jerry's apartment)   (Kramer enters with a golf club)  
+aV Well.. night.   (Leans over and kisses Jerry)  
+p399
+aa(lp400
+V JERRY 
 p401
-tp402
-a(V KRAMER 
-p403
-V Hey.  
+aV Good night.   (Scene ends)   (Jerry's apartment)   (Kramer enters with a golf club)  
+p402
+aa(lp403
+V KRAMER 
 p404
-tp405
-a(V JERRY 
-p406
-V Hey.  
+aV Hey.  
+p405
+aa(lp406
+V JERRY 
 p407
-tp408
-a(V KRAMER 
-p409
-V I got it! This time, I got it!  
+aV Hey.  
+p408
+aa(lp409
+V KRAMER 
 p410
-tp411
-a(V JERRY 
-p412
-V Alright.  
+aV I got it! This time, I got it!  
+p411
+aa(lp412
+V JERRY 
 p413
-tp414
-a(V KRAMER 
-p415
-V Hips! See, it's all hips.  
+aV Alright.  
+p414
+aa(lp415
+V KRAMER 
 p416
-tp417
-a(V JERRY 
-p418
-V Uh-huh.  
+aV Hips! See, it's all hips.  
+p417
+aa(lp418
+V JERRY 
 p419
-tp420
-a(V KRAMER 
-p421
-V You gotta come through with the hips first. (Demonstrates)   
+aV Uh-huh.  
+p420
+aa(lp421
+V KRAMER 
 p422
-tp423
-a(V JERRY 
-p424
-V That is out there.   (Kramer notices Jerry's eating cantaloupe, his eyes light up)    
+aV You gotta come through with the hips first. (Demonstrates)   
+p423
+aa(lp424
+V JERRY 
 p425
-tp426
-a(V KRAMER 
-p427
-V Joe's?  
+aV That is out there.   (Kramer notices Jerry's eating cantaloupe, his eyes light up)    
+p426
+aa(lp427
+V KRAMER 
 p428
-tp429
-a(V JERRY 
-p430
-V No, supermarket.  
+aV Joe's?  
+p429
+aa(lp430
+V JERRY 
 p431
-tp432
-a(V KRAMER 
-p433
-V Well, is it good?  
+aV No, supermarket.  
+p432
+aa(lp433
+V KRAMER 
 p434
-tp435
-a(V JERRY 
-p436
-V It's okay.  
+aV Well, is it good?  
+p435
+aa(lp436
+V JERRY 
 p437
-tp438
-a(V KRAMER 
-p439
-V Let me taste it. (Takes a bite, spits it out) See, that stinks. You can't eat that. You should take it back.    
+aV It's okay.  
+p438
+aa(lp439
+V KRAMER 
 p440
-tp441
-a(V JERRY 
-p442
-V I'm not taking it back.  
+aV Let me taste it. (Takes a bite, spits it out) See, that stinks. You can't eat that. You should take it back.    
+p441
+aa(lp442
+V JERRY 
 p443
-tp444
-a(V KRAMER 
-p445
-V Alright, I'll take it back. I'm going by there.   
+aV I'm not taking it back.  
+p444
+aa(lp445
+V KRAMER 
 p446
-tp447
-a(V JERRY 
-p448
-V I don't care about it.  
+aV Alright, I'll take it back. I'm going by there.   
+p447
+aa(lp448
+V JERRY 
 p449
-tp450
-a(V KRAMER 
-p451
-V Jerry, you should care. Cantaloupe like this should be taken out of circulation.    
+aV I don't care about it.  
+p450
+aa(lp451
+V KRAMER 
 p452
-tp453
-a(V JERRY 
-p454
-V Alright. Take it back.   (Phone rings, Jerry is reluctant to answer it)  
+aV Jerry, you should care. Cantaloupe like this should be taken out of circulation.    
+p453
+aa(lp454
+V JERRY 
 p455
-tp456
-a(V JERRY 
-p457
-V (On his answering machine) Leave a message, I'll call you back.   
+aV Alright. Take it back.   (Phone rings, Jerry is reluctant to answer it)  
+p456
+aa(lp457
+V JERRY 
 p458
-tp459
-a(V MARLENE 
-p460
-V (Leaving a message) Jerry, have you ever taken a bath in the dark? If I'm not talking into the soap right now, call me back.   
+aV (On his answering machine) Leave a message, I'll call you back.   
+p459
+aa(lp460
+V MARLENE 
 p461
-tp462
-a(V KRAMER 
-p463
-V Well?  
+aV (Leaving a message) Jerry, have you ever taken a bath in the dark? If I'm not talking into the soap right now, call me back.   
+p462
+aa(lp463
+V KRAMER 
 p464
-tp465
-a(V JERRY 
-p466
-V Marlene  
+aV Well?  
+p465
+aa(lp466
+V JERRY 
 p467
-tp468
-a(V KRAMER 
-p469
-V (Smiles) Oh. Oh, Marlene.  
+aV Marlene  
+p468
+aa(lp469
+V KRAMER 
 p470
-tp471
-a(V JERRY 
-p472
-V Yeah, I took her home one night - we kinda started up a little bit in the car.   
+aV (Smiles) Oh. Oh, Marlene.  
+p471
+aa(lp472
+V JERRY 
 p473
-tp474
-a(V KRAMER 
-p475
-V I thought you were trying to get rid of her?   
+aV Yeah, I took her home one night - we kinda started up a little bit in the car.   
+p474
+aa(lp475
+V KRAMER 
 p476
-tp477
-a(V JERRY 
-p478
-V I was. She's got me, like, hypnotized.    
+aV I thought you were trying to get rid of her?   
+p477
+aa(lp478
+V JERRY 
 p479
-tp480
-a(V KRAMER 
-p481
-V Does George know?  
+aV I was. She's got me, like, hypnotized.    
+p480
+aa(lp481
+V KRAMER 
 p482
-tp483
-a(V JERRY 
-p484
-V No, he'd go nuts.  
+aV Does George know?  
+p483
+aa(lp484
+V JERRY 
 p485
-tp486
-a(V KRAMER 
-p487
-V Yeah, no kidding.  
+aV No, he'd go nuts.  
+p486
+aa(lp487
+V KRAMER 
 p488
-tp489
-a(V JERRY 
-p490
-V I feel terrible. (Kramer smiles) I mean, I've seen her a couple of times since then, and I know I can't go any further, but.. I've just got this like,    psycho-sexual hold over me. I just want her, I can't breathe. It's like a drug.   
+aV Yeah, no kidding.  
+p489
+aa(lp490
+V JERRY 
 p491
-tp492
-a(V KRAMER 
-p493
-V Woah, psycho-sexual.  
+aV I feel terrible. (Kramer smiles) I mean, I've seen her a couple of times since then, and I know I can't go any further, but.. I've just got this like,    psycho-sexual hold over me. I just want her, I can't breathe. It's like a drug.   
+p492
+aa(lp493
+V KRAMER 
 p494
-tp495
-a(V JERRY 
-p496
-V I don't know how I'm going to tell him.    
+aV Woah, psycho-sexual.  
+p495
+aa(lp496
+V JERRY 
 p497
-tp498
-a(V KRAMER 
-p499
-V Man, I don't understand people. I mean, why would George want to deprive you of pleasure? Is it just me?   
+aV I don't know how I'm going to tell him.    
+p498
+aa(lp499
+V KRAMER 
 p500
-tp501
-a(V JERRY 
-p502
-V It's partially you, yeah.  
+aV Man, I don't understand people. I mean, why would George want to deprive you of pleasure? Is it just me?   
+p501
+aa(lp502
+V JERRY 
 p503
-tp504
-a(V KRAMER 
-p505
-V You're his friend. Better that she should sleep with someone else. Some jerk that he doesn't even know.   
+aV It's partially you, yeah.  
+p504
+aa(lp505
+V KRAMER 
 p506
-tp507
-a(V JERRY 
-p508
-V Well, he can't kill me, right?  
+aV You're his friend. Better that she should sleep with someone else. Some jerk that he doesn't even know.   
+p507
+aa(lp508
+V JERRY 
 p509
-tp510
-a(V KRAMER 
-p511
-V You're a human being.  
+aV Well, he can't kill me, right?  
+p510
+aa(lp511
+V KRAMER 
 p512
-tp513
-a(V JERRY 
-p514
-V I mean, she called me. I haven't called her. She started it.   
+aV You're a human being.  
+p513
+aa(lp514
+V JERRY 
 p515
-tp516
-a(V KRAMER 
-p517
-V You're flesh and blood.  
+aV I mean, she called me. I haven't called her. She started it.   
+p516
+aa(lp517
+V KRAMER 
 p518
-tp519
-a(V JERRY 
-p520
-V I'm a nice guy.   (Enter Elaine, she's holding a lamp)  
+aV You're flesh and blood.  
+p519
+aa(lp520
+V JERRY 
 p521
-tp522
-a(V ELAINE 
-p523
-V Hi. (Hands Jerry the lamp)  
+aV I'm a nice guy.   (Enter Elaine, she's holding a lamp)  
+p522
+aa(lp523
+V ELAINE 
 p524
-tp525
-a(V JERRY 
-p526
-V Oh, my little airplane lamp.  
+aV Hi. (Hands Jerry the lamp)  
+p525
+aa(lp526
+V JERRY 
 p527
-tp528
-a(V ELAINE 
-p529
-V You know, you have the slowest elevator in the entire city? That's hard to get used to when you're in so many other fast ones.   
+aV Oh, my little airplane lamp.  
+p528
+aa(lp529
+V ELAINE 
 p530
-tp531
-a(V JERRY 
-p532
-V Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.   
+aV You know, you have the slowest elevator in the entire city? That's hard to get used to when you're in so many other fast ones.   
+p531
+aa(lp532
+V JERRY 
 p533
-tp534
-a(V ELAINE 
-p535
-V Unless you're married to a dictator..    
+aV Well, the apartment elevators are always slower than the offices, because you don't have to be home on time.   
+p534
+aa(lp535
+V ELAINE 
 p536
-tp537
-a(V JERRY 
-p538
-V Yeah.. because they would be very demanding people.   
+aV Unless you're married to a dictator..    
+p537
+aa(lp538
+V JERRY 
 p539
-tp540
-a(V ELAINE 
-p541
-V Right. Exactly. So I imagine at some point, somebody's going to offer me some cantaloupe.   
+aV Yeah.. because they would be very demanding people.   
+p540
+aa(lp541
+V ELAINE 
 p542
-tp543
-a(V KRAMER 
-p544
-V Nope. No good.  
+aV Right. Exactly. So I imagine at some point, somebody's going to offer me some cantaloupe.   
+p543
+aa(lp544
+V KRAMER 
 p545
-tp546
-a(V JERRY 
-p547
-V Well, you know what they say: Luck in love, Unlucky with fruit.   
+aV Nope. No good.  
+p546
+aa(lp547
+V JERRY 
 p548
-tp549
-a(V KRAMER 
-p550
-V Well, I'm taking this back. (Leaves)    
+aV Well, you know what they say: Luck in love, Unlucky with fruit.   
+p549
+aa(lp550
+V KRAMER 
 p551
-tp552
-a(V ELAINE 
-p553
-V So, I had what you might call a little encounter this morning.   
+aV Well, I'm taking this back. (Leaves)    
+p552
+aa(lp553
+V ELAINE 
 p554
-tp555
-a(V JERRY 
-p556
-V Really? That guy who stopped saying hello?   
+aV So, I had what you might call a little encounter this morning.   
+p555
+aa(lp556
+V JERRY 
 p557
-tp558
-a(V ELAINE 
-p559
-V Yep.  
+aV Really? That guy who stopped saying hello?   
+p558
+aa(lp559
+V ELAINE 
 p560
-tp561
-a(V JERRY 
-p562
-V You talked to him?  
+aV Yep.  
+p561
+aa(lp562
+V JERRY 
 p563
-tp564
-a(V ELAINE 
-p565
-V Yep. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought "no, no, no, no. Do not be afraid of this man."    
+aV You talked to him?  
+p564
+aa(lp565
+V ELAINE 
 p566
-tp567
-a(V JERRY 
-p568
-V Right.  
+aV Yep. I spotted him getting his mail. And at first, I was just going to walk on by, but then I thought "no, no, no, no. Do not be afraid of this man."    
+p567
+aa(lp568
+V JERRY 
 p569
-tp570
-a(V ELAINE 
-p571
-V So, I walked up behind him and I tapped him on the shoulder. And I said, "Hi, remember me?" And he furrows his brow as if he's really trying to figure it     out. So I said to him, I said, "You little phony. You know exactly who I am."   
+aV Right.  
+p570
+aa(lp571
+V ELAINE 
 p572
-tp573
-a(V JERRY 
-p574
-V "You little phony"?  
+aV So, I walked up behind him and I tapped him on the shoulder. And I said, "Hi, remember me?" And he furrows his brow as if he's really trying to figure it     out. So I said to him, I said, "You little phony. You know exactly who I am."   
+p573
+aa(lp574
+V JERRY 
 p575
-tp576
-a(V ELAINE 
-p577
-V I did. I most certainly did. And he said, he goes, "Oh, yeah. You're Jeanette's friend. We did meet once." And I said, "Well, how do you go from that to     totally ignoring a person when they walk by?"  
+aV "You little phony"?  
+p576
+aa(lp577
+V ELAINE 
 p578
-tp579
-a(V JERRY 
-p580
-V Amazing.  
+aV I did. I most certainly did. And he said, he goes, "Oh, yeah. You're Jeanette's friend. We did meet once." And I said, "Well, how do you go from that to     totally ignoring a person when they walk by?"  
+p579
+aa(lp580
+V JERRY 
 p581
-tp582
-a(V ELAINE 
-p583
-V And he says, he says, "Look, I just didn't want to say hello anymore, alright?" And I said, "Fine. Fine I didn't want to say hello anymore either, but I     wanted you to know that I'm aware of it."   (Elaine tastes some cantaloupe)  
+aV Amazing.  
+p582
+aa(lp583
+V ELAINE 
 p584
-tp585
-a(V JERRY 
-p586
-V You are the Queen of Confrontation. You're my new hero. In fact, you've inspired me. I'm gonna call George about something right now.   
+aV And he says, he says, "Look, I just didn't want to say hello anymore, alright?" And I said, "Fine. Fine I didn't want to say hello anymore either, but I     wanted you to know that I'm aware of it."   (Elaine tastes some cantaloupe)  
+p585
+aa(lp586
+V JERRY 
 p587
-tp588
-a(V ELAINE 
-p589
-V This cantaloupe stinks. (Spits it out)     (Scene ends)   (Coffee Shop)  
+aV You are the Queen of Confrontation. You're my new hero. In fact, you've inspired me. I'm gonna call George about something right now.   
+p588
+aa(lp589
+V ELAINE 
 p590
-tp591
-a(V GEORGE 
-p592
-V I don't care.  
+aV This cantaloupe stinks. (Spits it out)     (Scene ends)   (Coffee Shop)  
+p591
+aa(lp592
+V GEORGE 
 p593
-tp594
-a(V JERRY 
-p595
-V You're kidding.  
+aV I don't care.  
+p594
+aa(lp595
+V JERRY 
 p596
-tp597
-a(V GEORGE 
-p598
-V No, I don't care.  
+aV You're kidding.  
+p597
+aa(lp598
+V GEORGE 
 p599
-tp600
-a(V JERRY 
-p601
-V You mean that?  
+aV No, I don't care.  
+p600
+aa(lp601
+V JERRY 
 p602
-tp603
-a(V GEORGE 
-p604
-V Absolutely.  
+aV You mean that?  
+p603
+aa(lp604
+V GEORGE 
 p605
-tp606
-a(V JERRY 
-p607
-V You don't care?  
+aV Absolutely.  
+p606
+aa(lp607
+V JERRY 
 p608
-tp609
-a(V GEORGE 
-p610
-V No.  
+aV You don't care?  
+p609
+aa(lp610
+V GEORGE 
 p611
-tp612
-a(V JERRY 
-p613
-V How could you not care?  
+aV No.  
+p612
+aa(lp613
+V JERRY 
 p614
-tp615
-a(V GEORGE 
-p616
-V I don't know. But I don't. I'm actually almost happy to hear it.   
+aV How could you not care?  
+p615
+aa(lp616
+V GEORGE 
 p617
-tp618
-a(V JERRY 
-p619
-V I thought you'd be upset.  
+aV I don't know. But I don't. I'm actually almost happy to hear it.   
+p618
+aa(lp619
+V JERRY 
 p620
-tp621
-a(V GEORGE 
-p622
-V I guess I should be but I'm not.  
+aV I thought you'd be upset.  
+p621
+aa(lp622
+V GEORGE 
 p623
-tp624
-a(V JERRY 
-p625
-V Am I a bad person? Did I do something terrible?   
+aV I guess I should be but I'm not.  
+p624
+aa(lp625
+V JERRY 
 p626
-tp627
-a(V GEORGE 
-p628
-V No, you're a fine person. You're a humanitarian. She's very sexy.   
+aV Am I a bad person? Did I do something terrible?   
+p627
+aa(lp628
+V GEORGE 
 p629
-tp630
-a(V JERRY 
-p631
-V That voice. That voice. She's driving me crazy.   
+aV No, you're a fine person. You're a humanitarian. She's very sexy.   
+p630
+aa(lp631
+V JERRY 
 p632
-tp633
-a(V GEORGE 
-p634
-V I know, I know.  
+aV That voice. That voice. She's driving me crazy.   
+p633
+aa(lp634
+V GEORGE 
 p635
-tp636
-a(V JERRY 
-p637
-V So I can see her tonight, and you don't care?   
+aV I know, I know.  
+p636
+aa(lp637
+V JERRY 
 p638
-tp639
-a(V GEORGE 
-p640
-V See her tonight. See her tomarrow. Go. Knock yourself out. She's too crazy for me.   
+aV So I can see her tonight, and you don't care?   
+p639
+aa(lp640
+V GEORGE 
 p641
-tp642
-a(V JERRY 
-p643
-V Alright. As long as you're okay. Because I can't stop thinking about her.   
+aV See her tonight. See her tomarrow. Go. Knock yourself out. She's too crazy for me.   
+p642
+aa(lp643
+V JERRY 
 p644
-tp645
-a(V GEORGE 
-p646
-V I'm okay. I'm fine. I'm wonderful. I never felt better in my whole life.    
+aV Alright. As long as you're okay. Because I can't stop thinking about her.   
+p645
+aa(lp646
+V GEORGE 
 p647
-tp648
-a(V JERRY 
-p649
-V Good. And I'll tell you what.. You don't have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.   
+aV I'm okay. I'm fine. I'm wonderful. I never felt better in my whole life.    
+p648
+aa(lp649
+V JERRY 
 p650
-tp651
-a(V GEORGE 
-p652
-V (Angry) You paid that crook?!  
+aV Good. And I'll tell you what.. You don't have to pay me back the thirty-five I gave to the chiropractor for the rest of your bill.   
+p651
+aa(lp652
+V GEORGE 
 p653
-tp654
-a(V JERRY 
-p655
-V I had to.  
+aV (Angry) You paid that crook?!  
+p654
+aa(lp655
+V JERRY 
 p656
-tp657
-a(V GEORGE 
-p658
-V He didn't do anything, Jerry. It's a scam! Who told you to do that?   
+aV I had to.  
+p657
+aa(lp658
+V GEORGE 
 p659
-tp660
-a(V JERRY 
-p661
-V It was embarrassing to me.  
+aV He didn't do anything, Jerry. It's a scam! Who told you to do that?   
+p660
+aa(lp661
+V JERRY 
 p662
-tp663
-a(V GEORGE 
-p664
-V I was trying to make a point.  
+aV It was embarrassing to me.  
+p663
+aa(lp664
+V GEORGE 
 p665
-tp666
-a(V JERRY 
-p667
-V Why don't you make a point with your own doctor? (George gulps) What's wrong?    
+aV I was trying to make a point.  
+p666
+aa(lp667
+V JERRY 
 p668
-tp669
-a(V GEORGE 
-p670
-V (Gasping) I think I swallowed a fly! ..I swallowed a fly! What do I do? What can happen?    (Scene ends)   (Jerry's car)  
+aV Why don't you make a point with your own doctor? (George gulps) What's wrong?    
+p669
+aa(lp670
+V GEORGE 
 p671
-tp672
-a(V JERRY 
-p673
-V ..So, you want to come up for a few minutes?   
+aV (Gasping) I think I swallowed a fly! ..I swallowed a fly! What do I do? What can happen?    (Scene ends)   (Jerry's car)  
+p672
+aa(lp673
+V JERRY 
 p674
-tp675
-a(V MARLENE 
-p676
-V ..I'm sorry, Jerry. I just don't think this is going to work.   
+aV ..So, you want to come up for a few minutes?   
+p675
+aa(lp676
+V MARLENE 
 p677
-tp678
-a(V JERRY 
-p679
-V Really? I thought..  
+aV ..I'm sorry, Jerry. I just don't think this is going to work.   
+p678
+aa(lp679
+V JERRY 
 p680
-tp681
-a(V MARLENE 
-p682
-V I know, I'm sorry.  
+aV Really? I thought..  
+p681
+aa(lp682
+V MARLENE 
 p683
-tp684
-a(V JERRY 
-p685
-V I guess I just didn't expect it from the way you've been acting.   
+aV I know, I'm sorry.  
+p684
+aa(lp685
+V JERRY 
 p686
-tp687
-a(V MARLENE 
-p688
-V You sure you want to talk about this? 'Cause I sure don't.   
+aV I guess I just didn't expect it from the way you've been acting.   
+p687
+aa(lp688
+V MARLENE 
 p689
-tp690
-a(V JERRY 
-p691
-V Of course I want to talk about it.    
+aV You sure you want to talk about this? 'Cause I sure don't.   
+p690
+aa(lp691
+V JERRY 
 p692
-tp693
-a(V MARLENE 
-p694
-V Well, okay. I guess things changed for me on Tuesday night.   
+aV Of course I want to talk about it.    
+p693
+aa(lp694
+V MARLENE 
 p695
-tp696
-a(V JERRY 
-p697
-V Tuesday night? What happened Tuesday night?   
+aV Well, okay. I guess things changed for me on Tuesday night.   
+p696
+aa(lp697
+V JERRY 
 p698
-tp699
-a(V MARLENE 
-p700
-V ..I saw your act.  
+aV Tuesday night? What happened Tuesday night?   
+p699
+aa(lp700
+V MARLENE 
 p701
-tp702
-a(V JERRY 
-p703
-V My act? What does that have to do with anything?   
+aV ..I saw your act.  
+p702
+aa(lp703
+V JERRY 
 p704
-tp705
-a(V MARLENE 
-p706
-V Well, to be honest, it just didn't make it for me. It's just so much fluff.    
+aV My act? What does that have to do with anything?   
+p705
+aa(lp706
+V MARLENE 
 p707
-tp708
-a(V JERRY 
-p709
-V I can't believe this. So what are you saying? You didn't like my act, so that's it?   
+aV Well, to be honest, it just didn't make it for me. It's just so much fluff.    
+p708
+aa(lp709
+V JERRY 
 p710
-tp711
-a(V MARLENE 
-p712
-V I can't be with someone if I don't respect what they do.   
+aV I can't believe this. So what are you saying? You didn't like my act, so that's it?   
+p711
+aa(lp712
+V MARLENE 
 p713
-tp714
-a(V JERRY 
-p715
-V You're a cashier!  
+aV I can't be with someone if I don't respect what they do.   
+p714
+aa(lp715
+V JERRY 
 p716
-tp717
-a(V MARLENE 
-p718
-V Look, Jerry, it's just not my kind of humor.   
+aV You're a cashier!  
+p717
+aa(lp718
+V MARLENE 
 p719
-tp720
-a(V JERRY 
-p721
-V You can't go by the audience that night. It was late. They were terrible.   
+aV Look, Jerry, it's just not my kind of humor.   
+p720
+aa(lp721
+V JERRY 
 p722
-tp723
-a(V MARLENE 
-p724
-V I heard the material.  
+aV You can't go by the audience that night. It was late. They were terrible.   
+p723
+aa(lp724
+V MARLENE 
 p725
-tp726
-a(V JERRY 
-p727
-V I have other stuff. You should come see me on the weekend.    (Scene ends)   (Night club)  
+aV I heard the material.  
+p726
+aa(lp727
+V JERRY 
 p728
-tp729
-a.
+aV I have other stuff. You should come see me on the weekend.    (Scene ends)   (Night club)  
+p729
+aa.

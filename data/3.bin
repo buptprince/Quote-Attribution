@@ -1,1162 +1,1162 @@
 (lp0
-(V JERRY 
-p1
-V  MALE UNBONDING  Written by Larry David & Jerry Seinfeld     (Nightclub)   Most men like working on things, tools, objects, fixing things. This is what men enjoy doing. Have you ever noticed a guy's out in his driveway working on    something with tools, how all the other men in the neighborhood are magnetically drawn to this activity. They just come wandering out of the house like zombies.    Men, it's true, men hear a drill, it's like a dog whistle. Just.. you know, they go running up to that living room curtain, "Honey, I think Jim's working on something over    there." So they run over to the guy. Now they don't actually help the guy. No, they just want to hang around the area where work is being done. That's what men    want to do. We want to watch the guy, we want to talk to him, we want to ask him dumb questions. You know, "What are you using, the Philips head?" You know,    we feel involved. That's why when they have construction sites, they have to have those wood panel fences around it, that's just to keep the men out. They cut those    little holes for us so we can see what the hell is going on. But if they don't cut those holes - we are climbing those fences. Right over there. "What are you using the    steel girders down there? Yeah, that'll hold."   (Jerry's apartment building)   (Jerry and George are waiting for the elevator)  
+(lp1
+V JERRY 
 p2
-tp3
-a(V GEORGE 
-p4
-V I had to say something. I had to say something. Everything was going so well; I had to say something.   
+aV  MALE UNBONDING  Written by Larry David & Jerry Seinfeld     (Nightclub)   Most men like working on things, tools, objects, fixing things. This is what men enjoy doing. Have you ever noticed a guy's out in his driveway working on    something with tools, how all the other men in the neighborhood are magnetically drawn to this activity. They just come wandering out of the house like zombies.    Men, it's true, men hear a drill, it's like a dog whistle. Just.. you know, they go running up to that living room curtain, "Honey, I think Jim's working on something over    there." So they run over to the guy. Now they don't actually help the guy. No, they just want to hang around the area where work is being done. That's what men    want to do. We want to watch the guy, we want to talk to him, we want to ask him dumb questions. You know, "What are you using, the Philips head?" You know,    we feel involved. That's why when they have construction sites, they have to have those wood panel fences around it, that's just to keep the men out. They cut those    little holes for us so we can see what the hell is going on. But if they don't cut those holes - we are climbing those fences. Right over there. "What are you using the    steel girders down there? Yeah, that'll hold."   (Jerry's apartment building)   (Jerry and George are waiting for the elevator)  
+p3
+aa(lp4
+V GEORGE 
 p5
-tp6
-a(V JERRY 
-p7
-V I don't think you did anything wrong.    
+aV I had to say something. I had to say something. Everything was going so well; I had to say something.   
+p6
+aa(lp7
+V JERRY 
 p8
-tp9
-a(V GEORGE 
-p10
-V I told her I liked her. Why? Why did I tell her I like her? I have this sick compulsion to tell women how I feel. I like you I don't tell you.   
+aV I don't think you did anything wrong.    
+p9
+aa(lp10
+V GEORGE 
 p11
-tp12
-a(V JERRY 
-p13
-V We can only thank God for that.   (Elevator opens, they get on)  
+aV I told her I liked her. Why? Why did I tell her I like her? I have this sick compulsion to tell women how I feel. I like you I don't tell you.   
+p12
+aa(lp13
+V JERRY 
 p14
-tp15
-a(V GEORGE 
-p16
-V I'm outta the picture. I am outta the picture. (laughs) It's only a matter of time now.   
+aV We can only thank God for that.   (Elevator opens, they get on)  
+p15
+aa(lp16
+V GEORGE 
 p17
-tp18
-a(V JERRY 
-p19
-V You're imagining this. Really.  
+aV I'm outta the picture. I am outta the picture. (laughs) It's only a matter of time now.   
+p18
+aa(lp19
+V JERRY 
 p20
-tp21
-a(V GEORGE 
-p22
-V Oh no. No, no, no, no.   (elevator doors close)  
+aV You're imagining this. Really.  
+p21
+aa(lp22
+V GEORGE 
 p23
-tp24
-a(V GEORGE 
-p25
-V I'll tell you when it happened. When that floss came flying out of my pocket.    
+aV Oh no. No, no, no, no.   (elevator doors close)  
+p24
+aa(lp25
+V GEORGE 
 p26
-tp27
-a(V JERRY 
-p28
-V What floss? When?  
+aV I'll tell you when it happened. When that floss came flying out of my pocket.    
+p27
+aa(lp28
+V JERRY 
 p29
-tp30
-a(V GEORGE 
-p31
-V We were in the lobby during the intermission of the play. I was buying her one of those containers of orange drink, for five dollars. I reached into my    pocket to pay for it, I looked down; there's this piece of green floss hanging from my fingers.   
+aV What floss? When?  
+p30
+aa(lp31
+V GEORGE 
 p32
-tp33
-a(V JERRY 
-p34
-V Ah, mint.  
+aV We were in the lobby during the intermission of the play. I was buying her one of those containers of orange drink, for five dollars. I reached into my    pocket to pay for it, I looked down; there's this piece of green floss hanging from my fingers.   
+p33
+aa(lp34
+V JERRY 
 p35
-tp36
-a(V GEORGE 
-p37
-V Of course. So, I'm looking at it, I look up, I see she's looking at it. Our eyes lock. It was a horrible moment. I just..    (eleveator doors open, they get off)  
+aV Ah, mint.  
+p36
+aa(lp37
+V GEORGE 
 p38
-tp39
-a(V JERRY 
-p40
-V So let me get this straight: she saw the floss, you panicked and you told her you liked her.   
+aV Of course. So, I'm looking at it, I look up, I see she's looking at it. Our eyes lock. It was a horrible moment. I just..    (eleveator doors open, they get off)  
+p39
+aa(lp40
+V JERRY 
 p41
-tp42
-a(V GEORGE 
-p43
-V If I didn't put that floss in my pocket, I'd be crawling around her bedroom right now looking for my glasses.   
+aV So let me get this straight: she saw the floss, you panicked and you told her you liked her.   
+p42
+aa(lp43
+V GEORGE 
 p44
-tp45
-a(V JERRY 
-p46
-V And you're sure the floss was the catalyst?    
+aV If I didn't put that floss in my pocket, I'd be crawling around her bedroom right now looking for my glasses.   
+p45
+aa(lp46
+V JERRY 
 p47
-tp48
-a(V GEORGE 
-p49
-V Yes, I am.  
+aV And you're sure the floss was the catalyst?    
+p48
+aa(lp49
+V GEORGE 
 p50
-tp51
-a(V JERRY 
-p52
-V (looks at a carrying pouch George is wearing) You don't think it might've had anything to do with that?   
+aV Yes, I am.  
+p51
+aa(lp52
+V JERRY 
 p53
-tp54
-a(V GEORGE 
-p55
-V What? You don't like this?  
+aV (looks at a carrying pouch George is wearing) You don't think it might've had anything to do with that?   
+p54
+aa(lp55
+V GEORGE 
 p56
-tp57
-a(V JERRY 
-p58
-V It looks like your belt is digesting a small animal.    (they go into Jerry's apartment to find Kramer talking on the phone)   
+aV What? You don't like this?  
+p57
+aa(lp58
+V JERRY 
 p59
-tp60
-a(V KRAMER 
-p61
-V Oh, they've got a cure for cancer. See, it's all big business.. Oh hey, Jerry just walked in. Hi, George. (resumes talking on the phone) Yeah, yeah yeah,     yeah, take my number - 555-8643. Okay, here he is. (hands phone to Jerry.)   
+aV It looks like your belt is digesting a small animal.    (they go into Jerry's apartment to find Kramer talking on the phone)   
+p60
+aa(lp61
+V KRAMER 
 p62
-tp63
-a(V JERRY 
-p64
-V (to Kramer) Who is it?  
+aV Oh, they've got a cure for cancer. See, it's all big business.. Oh hey, Jerry just walked in. Hi, George. (resumes talking on the phone) Yeah, yeah yeah,     yeah, take my number - 555-8643. Okay, here he is. (hands phone to Jerry.)   
+p63
+aa(lp64
+V JERRY 
 p65
-tp66
-a(V KRAMER 
-p67
-V Take it.  
+aV (to Kramer) Who is it?  
+p66
+aa(lp67
+V KRAMER 
 p68
-tp69
-a(V JERRY 
-p70
-V Who is it?  
+aV Take it.  
+p69
+aa(lp70
+V JERRY 
 p71
-tp72
-a(V KRAMER 
-p73
-V It's for you.  
+aV Who is it?  
+p72
+aa(lp73
+V KRAMER 
 p74
-tp75
-a(V JERRY 
-p76
-V (into phone) Hello? Oh, hi Joel. (Jerry hits Kramer with a magazine.) .. No. I was out of town. I just got back.. Kramer doesn't know anything.. He's just    my next-door neighbor. Uh.. nothing much.. Tuesday? Uh, Tuesday, no. I'm meeting somebody.. Uh, Wednesday? Wednesday's okay.. Alright. Uh, I'm a little busy    right now. Can we talk Wednesday morning? .. Okay.. yeah.. right.. thanks.. bye. (hangs up, then addresses Kramer) Why did you put me on the phone with him? I    hate just being handed a phone.  
+aV It's for you.  
+p75
+aa(lp76
+V JERRY 
 p77
-tp78
-a(V KRAMER 
-p79
-V Well, it's your phone. He wanted to talk to you   
+aV (into phone) Hello? Oh, hi Joel. (Jerry hits Kramer with a magazine.) .. No. I was out of town. I just got back.. Kramer doesn't know anything.. He's just    my next-door neighbor. Uh.. nothing much.. Tuesday? Uh, Tuesday, no. I'm meeting somebody.. Uh, Wednesday? Wednesday's okay.. Alright. Uh, I'm a little busy    right now. Can we talk Wednesday morning? .. Okay.. yeah.. right.. thanks.. bye. (hangs up, then addresses Kramer) Why did you put me on the phone with him? I    hate just being handed a phone.  
+p78
+aa(lp79
+V KRAMER 
 p80
-tp81
-a(V JERRY 
-p82
-V Maybe I didn't want to talk to him.    
+aV Well, it's your phone. He wanted to talk to you   
+p81
+aa(lp82
+V JERRY 
 p83
-tp84
-a(V KRAMER 
-p85
-V Well, why not?  
+aV Maybe I didn't want to talk to him.    
+p84
+aa(lp85
+V KRAMER 
 p86
-tp87
-a(V JERRY 
-p88
-V He bothers me. I don't even answer the phone anymore because of him. He's turned me into a screener. Now I gotta go see him on Wednesday.   
+aV Well, why not?  
+p87
+aa(lp88
+V JERRY 
 p89
-tp90
-a(V GEORGE 
-p91
-V What do you mean Wednesday? I though we had tickets to the Knick game Wednesday. We got seats behind the bench! What happened? We're not    going?  
+aV He bothers me. I don't even answer the phone anymore because of him. He's turned me into a screener. Now I gotta go see him on Wednesday.   
+p90
+aa(lp91
+V GEORGE 
 p92
-tp93
-a(V JERRY 
-p94
-V We're going. That's next Wednesday.    
+aV What do you mean Wednesday? I though we had tickets to the Knick game Wednesday. We got seats behind the bench! What happened? We're not    going?  
+p93
+aa(lp94
+V JERRY 
 p95
-tp96
-a(V GEORGE 
-p97
-V Oh. Who is this guy?  
+aV We're going. That's next Wednesday.    
+p96
+aa(lp97
+V GEORGE 
 p98
-tp99
-a(V JERRY 
-p100
-V His name is Joel Horneck. He lived like three houses down from me when I grew up. He had a Ping Pong table. We were friends. Should I suffer the rest of     my life because I like to play Ping Pong? I was ten. I would've been friends with Stalin if he had a Ping Pong table.. he's so self-involved.    (phone rings, Kramer pulls his phone out of his pocket)  
+aV Oh. Who is this guy?  
+p99
+aa(lp100
+V JERRY 
 p101
-tp102
-a(V KRAMER 
-p103
-V That's for me. (into phone) Kramerica Industries.. Oh, hi, Mark.. No, no, no. Forget that. I got a better idea. A pizza place where you make your own     pie.  
+aV His name is Joel Horneck. He lived like three houses down from me when I grew up. He had a Ping Pong table. We were friends. Should I suffer the rest of     my life because I like to play Ping Pong? I was ten. I would've been friends with Stalin if he had a Ping Pong table.. he's so self-involved.    (phone rings, Kramer pulls his phone out of his pocket)  
+p102
+aa(lp103
+V KRAMER 
 p104
-tp105
-a(V JERRY 
-p106
-V Can you conduct your business elsewhere?    
+aV That's for me. (into phone) Kramerica Industries.. Oh, hi, Mark.. No, no, no. Forget that. I got a better idea. A pizza place where you make your own     pie.  
+p105
+aa(lp106
+V JERRY 
 p107
-tp108
-a(V KRAMER 
-p109
-V (ignoring Jerry) No, no, no. I'm talking about a whole chain of 'em. Yeah. (Kramer leaves Jerry's apartment while still on the phone.)   
+aV Can you conduct your business elsewhere?    
+p108
+aa(lp109
+V KRAMER 
 p110
-tp111
-a(V GEORGE 
-p112
-V I don't know why you even bother with this ping pong guy, I'll tell you that.    
+aV (ignoring Jerry) No, no, no. I'm talking about a whole chain of 'em. Yeah. (Kramer leaves Jerry's apartment while still on the phone.)   
+p111
+aa(lp112
+V GEORGE 
 p113
-tp114
-a(V JERRY 
-p115
-V I don't bother with him. He's been calling me for seven years. I've never called him once! He's got the attention span of a five-year-old. Sometimes I sit     there and I make up things just to see if he's paying attention.    
+aV I don't know why you even bother with this ping pong guy, I'll tell you that.    
+p114
+aa(lp115
+V JERRY 
 p116
-tp117
-a(V GEORGE 
-p118
-V I don't understand why you spend time with this guy.   
+aV I don't bother with him. He's been calling me for seven years. I've never called him once! He's got the attention span of a five-year-old. Sometimes I sit     there and I make up things just to see if he's paying attention.    
+p117
+aa(lp118
+V GEORGE 
 p119
-tp120
-a(V JERRY 
-p121
-V What can I do? Break up with him? Tell him "I Don't think we're right for each other.." He's a guy. At least with a woman, there's a precendent. You know,     the relationship goes sour, you end it.  
+aV I don't understand why you spend time with this guy.   
+p120
+aa(lp121
+V JERRY 
 p122
-tp123
-a(V GEORGE 
-p124
-V No, no, no,no you have to approach this as if he was a woman.   
+aV What can I do? Break up with him? Tell him "I Don't think we're right for each other.." He's a guy. At least with a woman, there's a precendent. You know,     the relationship goes sour, you end it.  
+p123
+aa(lp124
+V GEORGE 
 p125
-tp126
-a(V JERRY 
-p127
-V Just break up with him?  
+aV No, no, no,no you have to approach this as if he was a woman.   
+p126
+aa(lp127
+V JERRY 
 p128
-tp129
-a(V GEORGE 
-p130
-V Absolutely. You just tell him the truth.     (scene ends)   (Nightclub)  
+aV Just break up with him?  
+p129
+aa(lp130
+V GEORGE 
 p131
-tp132
-a(V JERRY 
-p133
-V As a guy I don't know how I can break up with another guy. You know what I mean? I don't know how to say, "Bill, I feel I need to see other men." Do     you know what I mean? There's nothing I can do. I have to wait for someone to die. I think that's the only way out of this relationship. It could be a long time. See,    the great thing about guys is that we can become friends based on almost nothing. Just two guys will just become friends just because they're two guys. That's almost    all we need to have in common. 'Cause sports - sports and women - is really all we talk about. If there was no sports and no women the only thing guys would ever    say is "So, what's in the refrigerator?"   (Coffee Shop)   (Jerry and Joel are sitting at a table)  
+aV Absolutely. You just tell him the truth.     (scene ends)   (Nightclub)  
+p132
+aa(lp133
+V JERRY 
 p134
-tp135
-a(V JOEL 
-p136
-V ..so my shrink wants me to bring my mother in for a session. This guy is a brilliant man. Lenny Bruce used to go to him.. and I think, uh, Geraldo.    
+aV As a guy I don't know how I can break up with another guy. You know what I mean? I don't know how to say, "Bill, I feel I need to see other men." Do     you know what I mean? There's nothing I can do. I have to wait for someone to die. I think that's the only way out of this relationship. It could be a long time. See,    the great thing about guys is that we can become friends based on almost nothing. Just two guys will just become friends just because they're two guys. That's almost    all we need to have in common. 'Cause sports - sports and women - is really all we talk about. If there was no sports and no women the only thing guys would ever    say is "So, what's in the refrigerator?"   (Coffee Shop)   (Jerry and Joel are sitting at a table)  
+p135
+aa(lp136
+V JOEL 
 p137
-tp138
-a(V JERRY 
-p139
-V You know, I read the Lenny Bruce biography, I thought it was really - interesting.. he would-   
+aV ..so my shrink wants me to bring my mother in for a session. This guy is a brilliant man. Lenny Bruce used to go to him.. and I think, uh, Geraldo.    
+p138
+aa(lp139
+V JERRY 
 p140
-tp141
-a(V JOEL 
-p142
-V (interrupting) Hey, hey, hey, hey we're starving here! We've been waiting here for ten minutes already!   
+aV You know, I read the Lenny Bruce biography, I thought it was really - interesting.. he would-   
+p141
+aa(lp142
+V JOEL 
 p143
-tp144
-a(V JERRY 
-p145
-V (testing Joel) So, I'm thinking about going to Iran this summer.   
+aV (interrupting) Hey, hey, hey, hey we're starving here! We've been waiting here for ten minutes already!   
+p144
+aa(lp145
+V JERRY 
 p146
-tp147
-a(V JOEL 
-p148
-V I have to eat! I mean, I'm hypoglycemic.    
+aV (testing Joel) So, I'm thinking about going to Iran this summer.   
+p147
+aa(lp148
+V JOEL 
 p149
-tp150
-a(V JERRY 
-p151
-V Anyway, the Hizballah has invited me to perform. You know, it's their annual terrorist luncheon. I'm gonna do it is Farsi.   
+aV I have to eat! I mean, I'm hypoglycemic.    
+p150
+aa(lp151
+V JERRY 
 p152
-tp153
-a(V JOEL 
-p154
-V Do you think I need a haircut?   (waitress comes to their table)  
+aV Anyway, the Hizballah has invited me to perform. You know, it's their annual terrorist luncheon. I'm gonna do it is Farsi.   
+p153
+aa(lp154
+V JOEL 
 p155
-tp156
-a(V WAITRESS 
-p157
-V Are you ready?  
+aV Do you think I need a haircut?   (waitress comes to their table)  
+p156
+aa(lp157
+V WAITRESS 
 p158
-tp159
-a(V JERRY 
-p160
-V Yeah, I'll have the egg salad on whole wheat.   
+aV Are you ready?  
+p159
+aa(lp160
+V JERRY 
 p161
-tp162
-a(V JOEL 
-p163
-V Let me ask you a question. This, uh, this turkey sandwich here, is that real turkey, or is it a turkey roll? I don't want that processed turkey. I hate it.    
+aV Yeah, I'll have the egg salad on whole wheat.   
+p162
+aa(lp163
+V JOEL 
 p164
-tp165
-a(V WAITRESS 
-p166
-V I think it's real turkey.  
+aV Let me ask you a question. This, uh, this turkey sandwich here, is that real turkey, or is it a turkey roll? I don't want that processed turkey. I hate it.    
+p165
+aa(lp166
+V WAITRESS 
 p167
-tp168
-a(V JOEL 
-p169
-V Is there a real bird in the back?  
+aV I think it's real turkey.  
+p168
+aa(lp169
+V JOEL 
 p170
-tp171
-a(V WAITRESS 
-p172
-V No, there's not bird but-  
+aV Is there a real bird in the back?  
+p171
+aa(lp172
+V WAITRESS 
 p173
-tp174
-a(V JOEL 
-p175
-V Well, how do you know for sure? Look, why don't you do me a favor. Why don't you go in the back and find out, okay?     (waitress leaves)  
+aV No, there's not bird but-  
+p174
+aa(lp175
+V JOEL 
 p176
-tp177
-a(V JOEL 
-p178
-V (cont.) Unbelievable..  
+aV Well, how do you know for sure? Look, why don't you do me a favor. Why don't you go in the back and find out, okay?     (waitress leaves)  
+p177
+aa(lp178
+V JOEL 
 p179
-tp180
-a(V JERRY 
-p181
-V How can you talk to someone like that?    
+aV (cont.) Unbelievable..  
+p180
+aa(lp181
+V JERRY 
 p182
-tp183
-a(V JOEL 
-p184
-V What are you saying? What, you like turkey roll?   
+aV How can you talk to someone like that?    
+p183
+aa(lp184
+V JOEL 
 p185
-tp186
-a(V JERRY 
-p187
-V Listen, Joel. There's something I have to tell you.   
+aV What are you saying? What, you like turkey roll?   
+p186
+aa(lp187
+V JERRY 
 p188
-tp189
-a(V JOEL 
-p190
-V Wait, you'll never guess who I ran into.    
+aV Listen, Joel. There's something I have to tell you.   
+p189
+aa(lp190
+V JOEL 
 p191
-tp192
-a(V JERRY AND JOEL 
-p193
-V Howard metro.  
+aV Wait, you'll never guess who I ran into.    
+p192
+aa(lp193
+V JERRY AND JOEL 
 p194
-tp195
-a(V JOEL 
-p196
-V He asked me if I still saw you. I said, "Sure, I see him all the time. We're great friends." Anyway, Howard says hello.   
+aV Howard metro.  
+p195
+aa(lp196
+V JOEL 
 p197
-tp198
-a(V JERRY 
-p199
-V ..listen, Joel.. I don't think we should see each other anymore.   
+aV He asked me if I still saw you. I said, "Sure, I see him all the time. We're great friends." Anyway, Howard says hello.   
+p198
+aa(lp199
+V JERRY 
 p200
-tp201
-a(V JOEL 
-p202
-V what?  
+aV ..listen, Joel.. I don't think we should see each other anymore.   
+p201
+aa(lp202
+V JOEL 
 p203
-tp204
-a(V JERRY 
-p205
-V This friendship.. it's not working.    
+aV what?  
+p204
+aa(lp205
+V JERRY 
 p206
-tp207
-a(V JOEL 
-p208
-V Not working? What are you talking about?    
+aV This friendship.. it's not working.    
+p207
+aa(lp208
+V JOEL 
 p209
-tp210
-a(V JERRY 
-p211
-V We're just not suited to be friends.    
+aV Not working? What are you talking about?    
+p210
+aa(lp211
+V JERRY 
 p212
-tp213
-a(V JOEL 
-p214
-V How can you say that?  
+aV We're just not suited to be friends.    
+p213
+aa(lp214
+V JOEL 
 p215
-tp216
-a(V JERRY 
-p217
-V Look, you're a nice guy, it's just that - we don't have anything in common.    
+aV How can you say that?  
+p216
+aa(lp217
+V JERRY 
 p218
-tp219
-a(V JOEL 
-p220
-V (starting to cry) Wait. Wat did I do? Tell me.. I want to know.   
+aV Look, you're a nice guy, it's just that - we don't have anything in common.    
+p219
+aa(lp220
+V JOEL 
 p221
-tp222
-a(V JERRY 
-p223
-V You didn't do anything. It's not you, it's me. It's.. this is very difficult.    
+aV (starting to cry) Wait. Wat did I do? Tell me.. I want to know.   
+p222
+aa(lp223
+V JERRY 
 p224
-tp225
-a(V JOEL 
-p226
-V Look, I know I call you too much, right? I mean, I know you're a very busy guy.    
+aV You didn't do anything. It's not you, it's me. It's.. this is very difficult.    
+p225
+aa(lp226
+V JOEL 
 p227
-tp228
-a(V JERRY 
-p229
-V No, it's not that.  
+aV Look, I know I call you too much, right? I mean, I know you're a very busy guy.    
+p228
+aa(lp229
+V JERRY 
 p230
-tp231
-a(V JOEL 
-p232
-V (crying) You're one of the few people I can talk to.   
+aV No, it's not that.  
+p231
+aa(lp232
+V JOEL 
 p233
-tp234
-a(V JERRY 
-p235
-V Oh, come on. That's not true.  
+aV (crying) You're one of the few people I can talk to.   
+p234
+aa(lp235
+V JERRY 
 p236
-tp237
-a(V JOEL 
-p238
-V I always tell everybody about you; tell everybody to go see your show. I mean, I'm your biggest fan!   
+aV Oh, come on. That's not true.  
+p237
+aa(lp238
+V JOEL 
 p239
-tp240
-a(V JERRY 
-p241
-V I know, I know.  
+aV I always tell everybody about you; tell everybody to go see your show. I mean, I'm your biggest fan!   
+p240
+aa(lp241
+V JERRY 
 p242
-tp243
-a(V JOEL 
-p244
-V I mean, you're my best friend.  
+aV I know, I know.  
+p243
+aa(lp244
+V JOEL 
 p245
-tp246
-a(V JERRY 
-p247
-V Best friend? I've never been to your apartment.   
+aV I mean, you're my best friend.  
+p246
+aa(lp247
+V JERRY 
 p248
-tp249
-a(V JOEL 
-p250
-V I cannot believe that this is happening. I can't believe it.   
+aV Best friend? I've never been to your apartment.   
+p249
+aa(lp250
+V JOEL 
 p251
-tp252
-a(V JERRY 
-p253
-V Okay, okay. Forget it. It's okay. Id didn't mean it.   
+aV I cannot believe that this is happening. I can't believe it.   
+p252
+aa(lp253
+V JERRY 
 p254
-tp255
-a(V JOEL 
-p256
-V Didn't mean what?  
+aV Okay, okay. Forget it. It's okay. Id didn't mean it.   
+p255
+aa(lp256
+V JOEL 
 p257
-tp258
-a(V JERRY 
-p259
-V What I said. I've been under a lot of stress.   
+aV Didn't mean what?  
+p258
+aa(lp259
+V JERRY 
 p260
-tp261
-a(V JOEL 
-p262
-V Oh, you've been under a lot of stress.    
+aV What I said. I've been under a lot of stress.   
+p261
+aa(lp262
+V JOEL 
 p263
-tp264
-a(V JERRY 
-p265
-V Just, can we just forget the whole thing ever happend? I'm sorry. I din't mean it. I took it out on you. We're still friends. We're still friends. Still friends.    Okay? Look, I'll tell you what. I've got Knick tickets this Wednesday. Great seats behind the bench. You want to come with me? Come on.   
+aV Oh, you've been under a lot of stress.    
+p264
+aa(lp265
+V JERRY 
 p266
-tp267
-a(V JOEL 
-p268
-V Tonight?  
+aV Just, can we just forget the whole thing ever happend? I'm sorry. I din't mean it. I took it out on you. We're still friends. We're still friends. Still friends.    Okay? Look, I'll tell you what. I've got Knick tickets this Wednesday. Great seats behind the bench. You want to come with me? Come on.   
+p267
+aa(lp268
+V JOEL 
 p269
-tp270
-a(V JERRY 
-p271
-V No, next Wednesday. If it was tonight, I would've said tonight.   
+aV Tonight?  
+p270
+aa(lp271
+V JERRY 
 p272
-tp273
-a(V JOEL 
-p274
-V Do you really want me to go?  
+aV No, next Wednesday. If it was tonight, I would've said tonight.   
+p273
+aa(lp274
+V JOEL 
 p275
-tp276
-a(V JERRY 
-p277
-V (faking) Yes.  
+aV Do you really want me to go?  
+p276
+aa(lp277
+V JERRY 
 p278
-tp279
-a(V JOEL 
-p280
-V Okay. yeah, okay. Great! That would be, that'd be great.. so, next Wednesday.    
+aV (faking) Yes.  
+p279
+aa(lp280
+V JOEL 
 p281
-tp282
-a(V JERRY 
-p283
-V Next Wednesday.  
+aV Okay. yeah, okay. Great! That would be, that'd be great.. so, next Wednesday.    
+p282
+aa(lp283
+V JERRY 
 p284
-tp285
-a(V JOEL 
-p286
-V Where is that waitress?! Hey! ..   (scene ends)   (Bank)   (Jerry is at the counter, filling out a slip; George is carrying a jug full of pennies.)   
+aV Next Wednesday.  
+p285
+aa(lp286
+V JOEL 
 p287
-tp288
-a(V GEORGE 
-p289
-V ..she calls me up at my office, she says, "We have to talk."   
+aV Where is that waitress?! Hey! ..   (scene ends)   (Bank)   (Jerry is at the counter, filling out a slip; George is carrying a jug full of pennies.)   
+p288
+aa(lp289
+V GEORGE 
 p290
-tp291
-a(V JERRY 
-p292
-V Uh, the four worst words in the English language.   
+aV ..she calls me up at my office, she says, "We have to talk."   
+p291
+aa(lp292
+V JERRY 
 p293
-tp294
-a(V GEORGE 
-p295
-V That, or "Who's bra is this?"  
+aV Uh, the four worst words in the English language.   
+p294
+aa(lp295
+V GEORGE 
 p296
-tp297
-a(V JERRY 
-p298
-V That is worse.  
+aV That, or "Who's bra is this?"  
+p297
+aa(lp298
+V JERRY 
 p299
-tp300
-a(V GEORGE 
-p301
-V So we order lunch, and we're talking. Finally, she blurts out how it's "not working".   
+aV That is worse.  
+p300
+aa(lp301
+V GEORGE 
 p302
-tp303
-a(V JERRY 
-p304
-V Really.  
+aV So we order lunch, and we're talking. Finally, she blurts out how it's "not working".   
+p303
+aa(lp304
+V JERRY 
 p305
-tp306
-a(V GEORGE 
-p307
-V So, I'm thinking, as she's saying this, I'm thinking: great, the relationship's over. But the egg salad's on the way. So now I have a decision - do I walk or    do I eat?  
+aV Really.  
+p306
+aa(lp307
+V GEORGE 
 p308
-tp309
-a(V JERRY 
-p310
-V Hm? You ate.  
+aV So, I'm thinking, as she's saying this, I'm thinking: great, the relationship's over. But the egg salad's on the way. So now I have a decision - do I walk or    do I eat?  
+p309
+aa(lp310
+V JERRY 
 p311
-tp312
-a(V GEORGE 
-p313
-V We sat there for twenty minutes, chewing, staring at each other in a defunct relationship.    
+aV Hm? You ate.  
+p312
+aa(lp313
+V GEORGE 
 p314
-tp315
-a(V JERRY 
-p316
-V Someone says, "Get out of my life!" and that doesn't affect your appetite?    
+aV We sat there for twenty minutes, chewing, staring at each other in a defunct relationship.    
+p315
+aa(lp316
+V JERRY 
 p317
-tp318
-a(V GEORGE 
-p319
-V Have you ever had their egg salad?    
+aV Someone says, "Get out of my life!" and that doesn't affect your appetite?    
+p318
+aa(lp319
+V GEORGE 
 p320
-tp321
-a(V JERRY 
-p322
-V It is unbelievable.  
+aV Have you ever had their egg salad?    
+p321
+aa(lp322
+V JERRY 
 p323
-tp324
-a(V GEORGE 
-p325
-V It's unbelievable. You know what else is unbelievable? I picked up the check. She didn't even offer. She ended it. The least she could do is send me off     with a sandwich.  
+aV It is unbelievable.  
+p324
+aa(lp325
+V GEORGE 
 p326
-tp327
-a(V JERRY 
-p328
-V (looking at George's penny jug) How much could you possibly have in there? GEORGE: It's my money. What should I do? Throw it out the window? I    know guy who took his vacation on change.  
+aV It's unbelievable. You know what else is unbelievable? I picked up the check. She didn't even offer. She ended it. The least she could do is send me off     with a sandwich.  
+p327
+aa(lp328
+V JERRY 
 p329
-tp330
-a(V JERRY 
-p331
-V Yeah? Where'd he go? To and arcade?    
+aV (looking at George's penny jug) How much could you possibly have in there? GEORGE: It's my money. What should I do? Throw it out the window? I    know guy who took his vacation on change.  
+p330
+aa(lp331
+V JERRY 
 p332
-tp333
-a(V GEORGE 
-p334
-V (sarcastic) That's funny. You're a funny guy.   
+aV Yeah? Where'd he go? To and arcade?    
+p333
+aa(lp334
+V GEORGE 
 p335
-tp336
-a(V JERRY 
-p337
-V C'mon, move up.   (George moves up in the bank line)  
+aV (sarcastic) That's funny. You're a funny guy.   
+p336
+aa(lp337
+V JERRY 
 p338
-tp339
-a(V CUSTOMER 
-p340
-V Oh great, Ewing's hurt.  
+aV C'mon, move up.   (George moves up in the bank line)  
+p339
+aa(lp340
+V CUSTOMER 
 p341
-tp342
-a(V GEORGE 
-p343
-V Ewing's hurt? How long is he going to be out?   
+aV Oh great, Ewing's hurt.  
+p342
+aa(lp343
+V GEORGE 
 p344
-tp345
-a(V CUSTOMER 
-p346
-V A couple of days at the most but..    
+aV Ewing's hurt? How long is he going to be out?   
+p345
+aa(lp346
+V CUSTOMER 
 p347
-tp348
-a(V GEORGE 
-p349
-V Geez.  
+aV A couple of days at the most but..    
+p348
+aa(lp349
+V GEORGE 
 p350
-tp351
-a(V JERRY 
-p352
-V Oh, God.  
+aV Geez.  
+p351
+aa(lp352
+V JERRY 
 p353
-tp354
-a(V GEORGE 
-p355
-V I got scared there for a second. The Knicks without Ewing.   
+aV Oh, God.  
+p354
+aa(lp355
+V GEORGE 
 p356
-tp357
-a(V JERRY 
-p358
-V Listen, George, little problem with the game.   
+aV I got scared there for a second. The Knicks without Ewing.   
+p357
+aa(lp358
+V JERRY 
 p359
-tp360
-a(V GEORGE 
-p361
-V What about it?  
+aV Listen, George, little problem with the game.   
+p360
+aa(lp361
+V GEORGE 
 p362
-tp363
-a(V JERRY 
-p364
-V The thing is, yesterday, I kind of.. uh..   
+aV What about it?  
+p363
+aa(lp364
+V JERRY 
 p365
-tp366
-a(V GEORGE 
-p367
-V What?  
+aV The thing is, yesterday, I kind of.. uh..   
+p366
+aa(lp367
+V GEORGE 
 p368
-tp369
-a(V JERRY 
-p370
-V I geve your ticket to Horneck.  
+aV What?  
+p369
+aa(lp370
+V JERRY 
 p371
-tp372
-a(V GEORGE 
-p373
-V You what?!  
+aV I geve your ticket to Horneck.  
+p372
+aa(lp373
+V GEORGE 
 p374
-tp375
-a(V JERRY 
-p376
-V Yeah, I'm sorry. I had to give it to Horneck.   
+aV You what?!  
+p375
+aa(lp376
+V JERRY 
 p377
-tp378
-a(V GEORGE 
-p379
-V No! My ticket?! You gave my ticket to Horneck?   
+aV Yeah, I'm sorry. I had to give it to Horneck.   
+p378
+aa(lp379
+V GEORGE 
 p380
-tp381
-a(V JERRY 
-p382
-V (talking about the line) C'mon, c'mon, go ahead, move up.   
+aV No! My ticket?! You gave my ticket to Horneck?   
+p381
+aa(lp382
+V JERRY 
 p383
-tp384
-a(V GEORGE 
-p385
-V Why did you give him my ticket for?    
+aV (talking about the line) C'mon, c'mon, go ahead, move up.   
+p384
+aa(lp385
+V GEORGE 
 p386
-tp387
-a(V JERRY 
-p388
-V You didn't see him. It was horrible.    
+aV Why did you give him my ticket for?    
+p387
+aa(lp388
+V JERRY 
 p389
-tp390
-a(V GOERGE 
-p391
-V Oh, c'mon, Jerry. I can't believe this.    
+aV You didn't see him. It was horrible.    
+p390
+aa(lp391
+V GOERGE 
 p392
-tp393
-a(V JERRY 
-p394
-V I had to do it.   (George is up to the teller, Jerry goes to another one.)  
+aV Oh, c'mon, Jerry. I can't believe this.    
+p393
+aa(lp394
+V JERRY 
 p395
-tp396
-a(V GEORGE 
-p397
-V Oh, please. (to the teller) Can you change this into bills?   
+aV I had to do it.   (George is up to the teller, Jerry goes to another one.)  
+p396
+aa(lp397
+V GEORGE 
 p398
-tp399
-a(V TELLER 
-p400
-V I'm sorry, sir. We can't do that.  
+aV Oh, please. (to the teller) Can you change this into bills?   
+p399
+aa(lp400
+V TELLER 
 p401
-tp402
-a(V JERRY 
-p403
-V Do you want to go with him? You go. I don't mind.   
+aV I'm sorry, sir. We can't do that.  
+p402
+aa(lp403
+V JERRY 
 p404
-tp405
-a(V GEORGE 
-p406
-V I'm not going with him. I don't even know the guy. (to the teller) Look, they did this for me before.   
+aV Do you want to go with him? You go. I don't mind.   
+p405
+aa(lp406
+V GEORGE 
 p407
-tp408
-a(V TELLER 
-p409
-V Look, I can give you these and you can roll them yourself.   
+aV I'm not going with him. I don't even know the guy. (to the teller) Look, they did this for me before.   
+p408
+aa(lp409
+V TELLER 
 p410
-tp411
-a(V GEORGE 
-p412
-V You want me to roll six thousand of these?! What, should I quit my job?!     (Scene ends.)   (Nightclub)  
+aV Look, I can give you these and you can roll them yourself.   
+p411
+aa(lp412
+V GEORGE 
 p413
-tp414
-a(V JERRY 
-p415
-V I do not like the bank. I've heard the expression "Laughing all the way to the bank." I have never seen anyone actually doing it. And those bank lines. I hate    it when there's nobody on the line at all, you know that part, you go to the bank, it's empty and you still have to go through the little maze. "Can you get a little piece    of cheese for me? I'm almost at the front. I'd like a reward for this please."    (Jerry's apartment)   (George is stuffing pennies into rolls.)  
+aV You want me to roll six thousand of these?! What, should I quit my job?!     (Scene ends.)   (Nightclub)  
+p414
+aa(lp415
+V JERRY 
 p416
-tp417
-a(V GEORGE 
-p418
-V ..Thirty-two, thirty-three-  
+aV I do not like the bank. I've heard the expression "Laughing all the way to the bank." I have never seen anyone actually doing it. And those bank lines. I hate    it when there's nobody on the line at all, you know that part, you go to the bank, it's empty and you still have to go through the little maze. "Can you get a little piece    of cheese for me? I'm almost at the front. I'd like a reward for this please."    (Jerry's apartment)   (George is stuffing pennies into rolls.)  
+p417
+aa(lp418
+V GEORGE 
 p419
-tp420
-a(V JERRY 
-p421
-V George.  
+aV ..Thirty-two, thirty-three-  
+p420
+aa(lp421
+V JERRY 
 p422
-tp423
-a(V GEORGE 
-p424
-V (raises his hand) Not now.. (counts to himself).   
+aV George.  
+p423
+aa(lp424
+V GEORGE 
 p425
-tp426
-a(V JERRY 
-p427
-V Could you stop the counting?  
+aV (raises his hand) Not now.. (counts to himself).   
+p426
+aa(lp427
+V JERRY 
 p428
-tp429
-a(V GEORGE 
-p430
-V Nnnnnnnninngaaa! (Dumping out roll) What?!   
+aV Could you stop the counting?  
+p429
+aa(lp430
+V GEORGE 
 p431
-tp432
-a(V JERRY 
-p433
-V Can I make it up to you? I'll give you fifty bucks for the jug.   
+aV Nnnnnnnninngaaa! (Dumping out roll) What?!   
+p432
+aa(lp433
+V JERRY 
 p434
-tp435
-a(V GEORGE 
-p436
-V Oh, yeah, sure. Keep your money.  
+aV Can I make it up to you? I'll give you fifty bucks for the jug.   
+p435
+aa(lp436
+V GEORGE 
 p437
-tp438
-a(V JERRY 
-p439
-V Well, then I'm not going to the game either. Okay? I'll give him both tickets.    
+aV Oh, yeah, sure. Keep your money.  
+p438
+aa(lp439
+V JERRY 
 p440
-tp441
-a(V GEORGE 
-p442
-V (pantomimes sticking an imaginary knife in his heart, and twists it) Oh geeeee.. Go, go!   
+aV Well, then I'm not going to the game either. Okay? I'll give him both tickets.    
+p441
+aa(lp442
+V GEORGE 
 p443
-tp444
-a(V JERRY 
-p445
-V I.. no, I don't want to go.  
+aV (pantomimes sticking an imaginary knife in his heart, and twists it) Oh geeeee.. Go, go!   
+p444
+aa(lp445
+V JERRY 
 p446
-tp447
-a(V GEORGE 
-p448
-V He was really crying?  
+aV I.. no, I don't want to go.  
+p447
+aa(lp448
+V GEORGE 
 p449
-tp450
-a(V JERRY 
-p451
-V I had to give him a tissue. In fact, let me call his machine now and I'll just make up some excuse why I can't go to the game either.   
+aV He was really crying?  
+p450
+aa(lp451
+V JERRY 
 p452
-tp453
-a(V GEORGE 
-p454
-V Wait a minute. Wait a minute. As long as you're going to lie to the guy, why don't you tell him that you lost both of the tickets, then we could go?    
+aV I had to give him a tissue. In fact, let me call his machine now and I'll just make up some excuse why I can't go to the game either.   
+p453
+aa(lp454
+V GEORGE 
 p455
-tp456
-a(V JERRY 
-p457
-V George, the man wept.   (Kramer enters.)  
+aV Wait a minute. Wait a minute. As long as you're going to lie to the guy, why don't you tell him that you lost both of the tickets, then we could go?    
+p456
+aa(lp457
+V JERRY 
 p458
-tp459
-a(V KRAMER 
-p460
-V Oh, hey guys. Man, I'm telling you. This pizza idea, is really going to happen.   
+aV George, the man wept.   (Kramer enters.)  
+p459
+aa(lp460
+V KRAMER 
 p461
-tp462
-a(V GEORGE 
-p463
-V This is the thing where you go and you have to make your own pizza?   
+aV Oh, hey guys. Man, I'm telling you. This pizza idea, is really going to happen.   
+p462
+aa(lp463
+V GEORGE 
 p464
-tp465
-a(V KRAMER 
-p466
-V Yeah, we give you the dough, you smash it, you pound it, you fling it in the air; and then you get to put your sauce and you get to sprinkle your cheese,     and they - you slide it into the oven.  
+aV This is the thing where you go and you have to make your own pizza?   
+p465
+aa(lp466
+V KRAMER 
 p467
-tp468
-a(V GOERGE 
-p469
-V You know, you have to know how to do that. You can't have people shoving their arms into a six-hundred degree oven.   
+aV Yeah, we give you the dough, you smash it, you pound it, you fling it in the air; and then you get to put your sauce and you get to sprinkle your cheese,     and they - you slide it into the oven.  
+p468
+aa(lp469
+V GOERGE 
 p470
-tp471
-a(V KRAMER 
-p472
-V It's all supervised.  
+aV You know, you have to know how to do that. You can't have people shoving their arms into a six-hundred degree oven.   
+p471
+aa(lp472
+V KRAMER 
 p473
-tp474
-a(V GEORGE 
-p475
-V Oh, well.  
+aV It's all supervised.  
+p474
+aa(lp475
+V GEORGE 
 p476
-tp477
-a(V KRAMER 
-p478
-V All of it. You want to invest?  
+aV Oh, well.  
+p477
+aa(lp478
+V KRAMER 
 p479
-tp480
-a(V GEORGE 
-p481
-V My money's all tied up in change right now.   
+aV All of it. You want to invest?  
+p480
+aa(lp481
+V GEORGE 
 p482
-tp483
-a(V KRAMER 
-p484
-V No, I'm tellin' ya, people, they really want to make their own pizza pie.    
+aV My money's all tied up in change right now.   
+p483
+aa(lp484
+V KRAMER 
 p485
-tp486
-a(V JERRY 
-p487
-V I have to say something. With all due respect, I just never.. I can't imagine anyone in any walk of life, under any circumstance, wanting to make their own    pizza pie.. but that's me.  
+aV No, I'm tellin' ya, people, they really want to make their own pizza pie.    
+p486
+aa(lp487
+V JERRY 
 p488
-tp489
-a(V KRAMER 
-p490
-V That's you.  
+aV I have to say something. With all due respect, I just never.. I can't imagine anyone in any walk of life, under any circumstance, wanting to make their own    pizza pie.. but that's me.  
+p489
+aa(lp490
+V KRAMER 
 p491
-tp492
-a(V JERRY 
-p493
-V I'm just saying..  
+aV That's you.  
+p492
+aa(lp493
+V JERRY 
 p494
-tp495
-a(V KRAMER 
-p496
-V Okay, okay. I just wanted to check with you guys.   
+aV I'm just saying..  
+p495
+aa(lp496
+V KRAMER 
 p497
-tp498
-a(V JERRY 
-p499
-V Okay.  
+aV Okay, okay. I just wanted to check with you guys.   
+p498
+aa(lp499
+V JERRY 
 p500
-tp501
-a(V KRAMER 
-p502
-V You know, this business is going to be big. I just wanted .. okay. (he exits quickly, then sticks his head back through the door) One day, you'll beg me to     make your own pie. (he leaves)   (Jerry dials up Joel)  
+aV Okay.  
+p501
+aa(lp502
+V KRAMER 
 p503
-tp504
-a(V JERRY 
-p505
-V Hi, Joel. This is Jerry. I hope you get this before you - Oh, Hi. Joel.. oh, you just came in.. listen, I can't amke it to the game tonight. I, uh, have to tutor my    nephew - Yeah, he's got an exam tomarrow.. geometry.. you know, trapezoids, rhombus.. Anyway, listen, you take the tickets. They're at the Will-Call window..    And I'm really sorry.. Have a good time. We'll talk next week. Okay.. yeah, I don't.. fine.. fine.. bye. (he hangs up).   
+aV You know, this business is going to be big. I just wanted .. okay. (he exits quickly, then sticks his head back through the door) One day, you'll beg me to     make your own pie. (he leaves)   (Jerry dials up Joel)  
+p504
+aa(lp505
+V JERRY 
 p506
-tp507
-a(V GEORGE 
-p508
-V Trapezoid?  
+aV Hi, Joel. This is Jerry. I hope you get this before you - Oh, Hi. Joel.. oh, you just came in.. listen, I can't amke it to the game tonight. I, uh, have to tutor my    nephew - Yeah, he's got an exam tomarrow.. geometry.. you know, trapezoids, rhombus.. Anyway, listen, you take the tickets. They're at the Will-Call window..    And I'm really sorry.. Have a good time. We'll talk next week. Okay.. yeah, I don't.. fine.. fine.. bye. (he hangs up).   
+p507
+aa(lp508
+V GEORGE 
 p509
-tp510
-a(V JERRY 
-p511
-V I know. I'm really running out of excuses with this guy. I need some kind of excuse Rolodex.    (Scene ends.)   (Jerry's apartment, night time)  
+aV Trapezoid?  
+p510
+aa(lp511
+V JERRY 
 p512
-tp513
-a(V ELAINE 
-p514
-V Come on, let's go do something. I don't want to just sit around here.   
+aV I know. I'm really running out of excuses with this guy. I need some kind of excuse Rolodex.    (Scene ends.)   (Jerry's apartment, night time)  
+p513
+aa(lp514
+V ELAINE 
 p515
-tp516
-a(V JERRY 
-p517
-V Okay.  
+aV Come on, let's go do something. I don't want to just sit around here.   
+p516
+aa(lp517
+V JERRY 
 p518
-tp519
-a(V ELAINE 
-p520
-V Want to go get something to eat?  
+aV Okay.  
+p519
+aa(lp520
+V ELAINE 
 p521
-tp522
-a(V JERRY 
-p523
-V Where do you want to go?  
+aV Want to go get something to eat?  
+p522
+aa(lp523
+V JERRY 
 p524
-tp525
-a(V ELAINE 
-p526
-V I don't care, I'm not hungry.  
+aV Where do you want to go?  
+p525
+aa(lp526
+V ELAINE 
 p527
-tp528
-a(V JERRY 
-p529
-V We could go to one of those cappuccino places. They let you just sit there.    
+aV I don't care, I'm not hungry.  
+p528
+aa(lp529
+V JERRY 
 p530
-tp531
-a(V ELAINE 
-p532
-V What are we gonna do there? Talk?  
+aV We could go to one of those cappuccino places. They let you just sit there.    
+p531
+aa(lp532
+V ELAINE 
 p533
-tp534
-a(V JERRY 
-p535
-V We can talk.  
+aV What are we gonna do there? Talk?  
+p534
+aa(lp535
+V JERRY 
 p536
-tp537
-a(V ELAINE 
-p538
-V I'll go if I don't have to talk.  
+aV We can talk.  
+p537
+aa(lp538
+V ELAINE 
 p539
-tp540
-a(V JERRY 
-p541
-V We'll just sit there.  
+aV I'll go if I don't have to talk.  
+p540
+aa(lp541
+V JERRY 
 p542
-tp543
-a(V ELAINE 
-p544
-V Okay. I'm gonna check my machine first.     (Elaine sees a pad by the phone, and starts reading it.)  
+aV We'll just sit there.  
+p543
+aa(lp544
+V ELAINE 
 p545
-tp546
-a(V ELAINE 
-p547
-V (cont.) "Picking someone up at the airport." "Jury Duty." "Waiting for cable guy."    
+aV Okay. I'm gonna check my machine first.     (Elaine sees a pad by the phone, and starts reading it.)  
+p546
+aa(lp547
+V ELAINE 
 p548
-tp549
-a(V JERRY 
-p550
-V Okay, just ahnd that over, please.    
+aV (cont.) "Picking someone up at the airport." "Jury Duty." "Waiting for cable guy."    
+p549
+aa(lp550
+V JERRY 
 p551
-tp552
-a(V ELAINE 
-p553
-V Oh, what is this?  
+aV Okay, just ahnd that over, please.    
+p552
+aa(lp553
+V ELAINE 
 p554
-tp555
-a(V JERRY 
-p556
-V It's a list of excuses, it's for that guy, Horneck, who's at the game tonight with my tickets. I have that list now so in case he calls, I just consult it and i don't    have to see him. (Elaine laughs.) I need it. (Elaine starts writing on the list.) What are you doing?   
+aV Oh, what is this?  
+p555
+aa(lp556
+V JERRY 
 p557
-tp558
-a(V ELAINE 
-p559
-V I got some for you.  
+aV It's a list of excuses, it's for that guy, Horneck, who's at the game tonight with my tickets. I have that list now so in case he calls, I just consult it and i don't    have to see him. (Elaine laughs.) I need it. (Elaine starts writing on the list.) What are you doing?   
+p558
+aa(lp559
+V ELAINE 
 p560
-tp561
-a(V JERRY 
-p562
-V I don't need anymore.  
+aV I got some for you.  
+p561
+aa(lp562
+V JERRY 
 p563
-tp564
-a(V ELAINE 
-p565
-V No, no, no, no, no, these are good. Listen, listen: "You ran out of underwear, you can't leave the house."   
+aV I don't need anymore.  
+p564
+aa(lp565
+V ELAINE 
 p566
-tp567
-a(V JERRY 
-p568
-V (sarcastic) Very funny.  
+aV No, no, no, no, no, these are good. Listen, listen: "You ran out of underwear, you can't leave the house."   
+p567
+aa(lp568
+V JERRY 
 p569
-tp570
-a(V ELAINE 
-p571
-V How about: "You've been diagnosed as a multiple personality, you're not even you, you're Dan."   
+aV (sarcastic) Very funny.  
+p570
+aa(lp571
+V ELAINE 
 p572
-tp573
-a(V JERRY 
-p574
-V I'm Dan. Can I have my list back, please?    
+aV How about: "You've been diagnosed as a multiple personality, you're not even you, you're Dan."   
+p573
+aa(lp574
+V JERRY 
 p575
-tp576
-a(V ELAINE 
-p577
-V (gives Jerry the list) Here, here. Jerry Seinfeld, I cannot believe you're doing this. This is absolutely infantile.    
+aV I'm Dan. Can I have my list back, please?    
+p576
+aa(lp577
+V ELAINE 
 p578
-tp579
-a(V JERRY 
-p580
-V What can I do?  
+aV (gives Jerry the list) Here, here. Jerry Seinfeld, I cannot believe you're doing this. This is absolutely infantile.    
+p579
+aa(lp580
+V JERRY 
 p581
-tp582
-a(V ELAINE 
-p583
-V Deal with it. Be a man!  
+aV What can I do?  
+p582
+aa(lp583
+V ELAINE 
 p584
-tp585
-a(V JERRY 
-p586
-V Oh no. That's impossible. I'd rather lie to him for the rest of my life that go through that again. He was crying, tears accompanied by mucus.   
+aV Deal with it. Be a man!  
+p585
+aa(lp586
+V JERRY 
 p587
-tp588
-a(V ELAINE 
-p589
-V You made a man cry? I've never made a man cry. I even kicked a guy in the groin once and he didn't cry.. I got the cab.   
+aV Oh no. That's impossible. I'd rather lie to him for the rest of my life that go through that again. He was crying, tears accompanied by mucus.   
+p588
+aa(lp589
+V ELAINE 
 p590
-tp591
-a(V JERRY 
-p592
-V A couple of touch monkeys.   (Elaine laughs, Kramer enters.)  
+aV You made a man cry? I've never made a man cry. I even kicked a guy in the groin once and he didn't cry.. I got the cab.   
+p591
+aa(lp592
+V JERRY 
 p593
-tp594
-a(V KRAMER 
-p595
-V Oh, hi Elaine, hey. (to Jerry) Hey, you missed a great game tonight, buddy!    
+aV A couple of touch monkeys.   (Elaine laughs, Kramer enters.)  
+p594
+aa(lp595
+V KRAMER 
 p596
-tp597
-a(V JERRY 
-p598
-V Game?  
+aV Oh, hi Elaine, hey. (to Jerry) Hey, you missed a great game tonight, buddy!    
+p597
+aa(lp598
+V JERRY 
 p599
-tp600
-a(V KRAMER 
-p601
-V Knock game. Horneck took me. We were sitting two rows behind the bench. We were getting hit by sweat!   
+aV Game?  
+p600
+aa(lp601
+V KRAMER 
 p602
-tp603
-a(V JERRY 
-p604
-V Wait. How does Horneck know you?  
+aV Knock game. Horneck took me. We were sitting two rows behind the bench. We were getting hit by sweat!   
+p603
+aa(lp604
+V JERRY 
 p605
-tp606
-a(V KRAMER 
-p607
-V Last week. When I, you know, game you the phone. He's really into my pizza place idea!   
+aV Wait. How does Horneck know you?  
+p606
+aa(lp607
+V KRAMER 
 p608
-tp609
-a(V JERRY 
-p610
-V This is too much.  
+aV Last week. When I, you know, game you the phone. He's really into my pizza place idea!   
+p609
+aa(lp610
+V JERRY 
 p611
-tp612
-a(V ELAINE 
-p613
-V Wait, what pizza place idea?  
+aV This is too much.  
+p612
+aa(lp613
+V ELAINE 
 p614
-tp615
-a(V JERRY 
-p616
-V Oh, no.  
+aV Wait, what pizza place idea?  
+p615
+aa(lp616
+V JERRY 
 p617
-tp618
-a(V KRAMER 
-p619
-V You make your own pie!  
+aV Oh, no.  
+p618
+aa(lp619
+V KRAMER 
 p620
-tp621
-a(V ELAINE 
-p622
-V Oh, that sounds like a great idea. It would be fun.   
+aV You make your own pie!  
+p621
+aa(lp622
+V ELAINE 
 p623
-tp624
-a(V JOEL 
-p625
-V (from the hallway.)Kramer..  
+aV Oh, that sounds like a great idea. It would be fun.   
+p624
+aa(lp625
+V JOEL 
 p626
-tp627
-a(V KRAMER 
-p628
-V Yeah.  
+aV (from the hallway.)Kramer..  
+p627
+aa(lp628
+V KRAMER 
 p629
-tp630
-a(V JERRY 
-p631
-V Perfect.   (Horneck enters.)  
+aV Yeah.  
+p630
+aa(lp631
+V JERRY 
 p632
-tp633
-a(V JOEL 
-p634
-V Hey..  
+aV Perfect.   (Horneck enters.)  
+p633
+aa(lp634
+V JOEL 
 p635
-tp636
-a(V KRAMER 
-p637
-V Okay, who wants meatloaf?  
+aV Hey..  
+p636
+aa(lp637
+V KRAMER 
 p638
-tp639
-a(V JERRY AND ELAINE 
-p640
-V No thanks.  
+aV Okay, who wants meatloaf?  
+p639
+aa(lp640
+V JERRY AND ELAINE 
 p641
-tp642
-a(V KRAMER 
-p643
-V (to Joel) It's gonna be hot in a minute. (exits)   
+aV No thanks.  
+p642
+aa(lp643
+V KRAMER 
 p644
-tp645
-a(V JOEL 
-p646
-V So, I though you were tutoring your nephew?   
+aV (to Joel) It's gonna be hot in a minute. (exits)   
+p645
+aa(lp646
+V JOEL 
 p647
-tp648
-a(V JERRY 
-p649
-V Oh, we finished early.  
+aV So, I though you were tutoring your nephew?   
+p648
+aa(lp649
+V JERRY 
 p650
-tp651
-a(V JOEL 
-p652
-V Uhm, I'll bet. So, are you going to introduce me to your - nephew?   
+aV Oh, we finished early.  
+p651
+aa(lp652
+V JOEL 
 p653
-tp654
-a(V JERRY 
-p655
-V Elaine Benes, this is Joel Horneck.    
+aV Uhm, I'll bet. So, are you going to introduce me to your - nephew?   
+p654
+aa(lp655
+V JERRY 
 p656
-tp657
-a(V ELAINE 
-p658
-V Hi.  
+aV Elaine Benes, this is Joel Horneck.    
+p657
+aa(lp658
+V ELAINE 
 p659
-tp660
-a(V JOEL 
-p661
-V Whoa, Nelson! This is Elaine? I though you guys split?   
+aV Hi.  
+p660
+aa(lp661
+V JOEL 
 p662
-tp663
-a(V JERRY 
-p664
-V We're still friends.  
+aV Whoa, Nelson! This is Elaine? I though you guys split?   
+p663
+aa(lp664
+V JERRY 
 p665
-tp666
-a(V JOEL 
-p667
-V So, thanks again for those tickets. But next week, I'm going to take you. You about next Tuesday night? (to Elaine) And why don't you come along?   
+aV We're still friends.  
+p666
+aa(lp667
+V JOEL 
 p668
-tp669
-a(V ELAINE 
-p670
-V Oh, no, no. Tuesday's no good becasue we've got choir practice.   
+aV So, thanks again for those tickets. But next week, I'm going to take you. You about next Tuesday night? (to Elaine) And why don't you come along?   
+p669
+aa(lp670
+V ELAINE 
 p671
-tp672
-a(V JERRY 
-p673
-V Right. I forgot about choir.  
+aV Oh, no, no. Tuesday's no good becasue we've got choir practice.   
+p672
+aa(lp673
+V JERRY 
 p674
-tp675
-a(V ELAINE 
-p676
-V We're doing that evening of Eastern European National Anthems.   
+aV Right. I forgot about choir.  
+p675
+aa(lp676
+V ELAINE 
 p677
-tp678
-a(V JERRY 
-p679
-V Right. You know, the wall being down and everything.   
+aV We're doing that evening of Eastern European National Anthems.   
+p678
+aa(lp679
+V JERRY 
 p680
-tp681
-a(V JOEL 
-p682
-V (to Jerry) What about Thursday night? I mean they're playing the Sonics.     (Jerry shakes his head.)  
+aV Right. You know, the wall being down and everything.   
+p681
+aa(lp682
+V JOEL 
 p683
-tp684
-a(V ELAINE 
-p685
-V Huh... Thursday is not good because we've got to get to the hospital to see if we qualify as those organ donors.    
+aV (to Jerry) What about Thursday night? I mean they're playing the Sonics.     (Jerry shakes his head.)  
+p684
+aa(lp685
+V ELAINE 
 p686
-tp687
-a(V JOEL 
-p688
-V You know, I should really try something like that.   
+aV Huh... Thursday is not good because we've got to get to the hospital to see if we qualify as those organ donors.    
+p687
+aa(lp688
+V JOEL 
 p689
-tp690
-a(V JERRY 
-p691
-V You really should.  
+aV You know, I should really try something like that.   
+p690
+aa(lp691
+V JERRY 
 p692
-tp693
-a(V JOEL 
-p694
-V Well, let's just take a look here. (looks at his schedule) Forty-one home games. Saturday night we've got the mavericks. If you don't like the Mavericks, next     Tuesday - Lakers. I mean, you gotta like Magic, right? Let's see, on the road, on the road, on the road, on the road, back on the fourteenth. They play the Bulls.    You can't miss Air Jordan..   (Scene ends.)   (Nightclub)  
+aV You really should.  
+p693
+aa(lp694
+V JOEL 
 p695
-tp696
-a.
+aV Well, let's just take a look here. (looks at his schedule) Forty-one home games. Saturday night we've got the mavericks. If you don't like the Mavericks, next     Tuesday - Lakers. I mean, you gotta like Magic, right? Let's see, on the road, on the road, on the road, on the road, back on the fourteenth. They play the Bulls.    You can't miss Air Jordan..   (Scene ends.)   (Nightclub)  
+p696
+aa.

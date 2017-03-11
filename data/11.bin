@@ -1,1317 +1,1317 @@
 (lp0
-(V LEVITAN 
-p1
-V  THE REVENGE  Written by Larry David     Remind me to tell you what we did in Lake George. (laughing) Get    this...I got it all on video. (laughing)  
+(lp1
+V LEVITAN 
 p2
-tp3
-a(V GEORGE 
-p4
-V That's it. This is it. I'm done. Through. It's over. I'm gone.    Finished. Over. I will never work for you again. Look at you.     (laughing) You think you're an important man? Is that what you think? You    are a laughingstock. You are a joke. These people are laughing at    you. You're nothing! You have no brains, no ability, nothing! (knocking    object over on desk) I quit!    
+aV  THE REVENGE  Written by Larry David     Remind me to tell you what we did in Lake George. (laughing) Get    this...I got it all on video. (laughing)  
+p3
+aa(lp4
+V GEORGE 
 p5
-tp6
-a(V KRAMER 
-p7
-V Hey.  
+aV That's it. This is it. I'm done. Through. It's over. I'm gone.    Finished. Over. I will never work for you again. Look at you.     (laughing) You think you're an important man? Is that what you think? You    are a laughingstock. You are a joke. These people are laughing at    you. You're nothing! You have no brains, no ability, nothing! (knocking    object over on desk) I quit!    
+p6
+aa(lp7
+V KRAMER 
 p8
-tp9
-a(V JERRY 
-p10
-V Hey.  
+aV Hey.  
+p9
+aa(lp10
+V JERRY 
 p11
-tp12
-a(V KRAMER 
-p13
-V Boy, I have really had it with Newman. He wakes me up again last    night at three o'clock in the morning to tell me he's going up onto the    roof to kill himself.  
+aV Hey.  
+p12
+aa(lp13
+V KRAMER 
 p14
-tp15
-a(V JERRY 
-p16
-V Well, what'd you say?  
+aV Boy, I have really had it with Newman. He wakes me up again last    night at three o'clock in the morning to tell me he's going up onto the    roof to kill himself.  
+p15
+aa(lp16
+V JERRY 
 p17
-tp18
-a(V KRAMER 
-p19
-V I said " Jump." Well, he's been threatening to do this for years. I    said " Look, if you're gonna kill yourself do it already and stop    bothering me." At least I'd respect the guy for accomplishing something.   
+aV Well, what'd you say?  
+p18
+aa(lp19
+V KRAMER 
 p20
-tp21
-a(V JERRY 
-p22
-V What's his problem?  
+aV I said " Jump." Well, he's been threatening to do this for years. I    said " Look, if you're gonna kill yourself do it already and stop    bothering me." At least I'd respect the guy for accomplishing something.   
+p21
+aa(lp22
+V JERRY 
 p23
-tp24
-a(V KRAMER 
-p25
-V No job. No women.  
+aV What's his problem?  
+p24
+aa(lp25
+V KRAMER 
 p26
-tp27
-a(V JERRY 
-p28
-V He called the right guy.  
+aV No job. No women.  
+p27
+aa(lp28
+V JERRY 
 p29
-tp30
-a(V KRAMER 
-p31
-V What am I supposed to tell him? How much there is for him to live    for? Why should I lie to him?  
+aV He called the right guy.  
+p30
+aa(lp31
+V KRAMER 
 p32
-tp33
-a(V JERRY 
-p34
-V All right, I'm leaving. I going to the laundry.   
+aV What am I supposed to tell him? How much there is for him to live    for? Why should I lie to him?  
+p33
+aa(lp34
+V JERRY 
 p35
-tp36
-a(V KRAMER 
-p37
-V Why don't you use the machines down in the basement?   
+aV All right, I'm leaving. I going to the laundry.   
+p36
+aa(lp37
+V KRAMER 
 p38
-tp39
-a(V JERRY 
-p40
-V Fluff and fold. The only way to live. (snapping fingers in tune with    words) I drop it off. I pick it up. It's a delight.  
+aV Why don't you use the machines down in the basement?   
+p39
+aa(lp40
+V JERRY 
 p41
-tp42
-a(V KRAMER 
-p43
-V How 'bout if I put a few things --    
+aV Fluff and fold. The only way to live. (snapping fingers in tune with    words) I drop it off. I pick it up. It's a delight.  
+p42
+aa(lp43
+V KRAMER 
 p44
-tp45
-a(V JERRY 
-p46
-V Wait a sec. I don't wanna do --  
+aV How 'bout if I put a few things --    
+p45
+aa(lp46
+V JERRY 
 p47
-tp48
-a(V KRAMER 
-p49
-V Well, you're going over there.  
+aV Wait a sec. I don't wanna do --  
+p48
+aa(lp49
+V KRAMER 
 p50
-tp51
-a(V JERRY 
-p52
-V I don't wanna mix in everything! My guys don't know your guys. You    can't just lock 'em all in the same machine together. They'll start a    riot.  
+aV Well, you're going over there.  
+p51
+aa(lp52
+V JERRY 
 p53
-tp54
-a(V KRAMER 
-p55
-V Have you ever met my guys?  
+aV I don't wanna mix in everything! My guys don't know your guys. You    can't just lock 'em all in the same machine together. They'll start a    riot.  
+p54
+aa(lp55
+V KRAMER 
 p56
-tp57
-a(V JERRY 
-p58
-V No. I can't say as I have.  
+aV Have you ever met my guys?  
+p57
+aa(lp58
+V JERRY 
 p59
-tp60
-a(V KRAMER 
-p61
-V Well!  
+aV No. I can't say as I have.  
+p60
+aa(lp61
+V KRAMER 
 p62
-tp63
-a(V JERRY 
-p64
-V All right. Put 'em on top.  
+aV Well!  
+p63
+aa(lp64
+V JERRY 
 p65
-tp66
-a(V KRAMER 
-p67
-V Ah!    
+aV All right. Put 'em on top.  
+p66
+aa(lp67
+V KRAMER 
 p68
-tp69
-a(V JERRY 
-p70
-V Oh, beautiful. This stuff on top is my friends'. Could I get it done    in a separate machine?  
+aV Ah!    
+p69
+aa(lp70
+V JERRY 
 p71
-tp72
-a(V VIC 
-p73
-V I'll have to charge you for another machine.   
+aV Oh, beautiful. This stuff on top is my friends'. Could I get it done    in a separate machine?  
+p72
+aa(lp73
+V VIC 
 p74
-tp75
-a(V JERRY 
-p76
-V Whatever it costs. In fact, I would prefer it if the machines are    not even touching each other. Because something could, you know, jump    across.  
+aV I'll have to charge you for another machine.   
+p75
+aa(lp76
+V JERRY 
 p77
-tp78
-a(V GEORGE 
-p79
-V Guess what.  
+aV Whatever it costs. In fact, I would prefer it if the machines are    not even touching each other. Because something could, you know, jump    across.  
+p78
+aa(lp79
+V GEORGE 
 p80
-tp81
-a(V JERRY 
-p82
-V How did you know I was here?  
+aV Guess what.  
+p81
+aa(lp82
+V JERRY 
 p83
-tp84
-a(V GEORGE 
-p85
-V Kramer. Guess what.  
+aV How did you know I was here?  
+p84
+aa(lp85
+V GEORGE 
 p86
-tp87
-a(V JERRY 
-p88
-V I don't know.  
+aV Kramer. Guess what.  
+p87
+aa(lp88
+V JERRY 
 p89
-tp90
-a(V GEORGE 
-p91
-V I quit my job.  
+aV I don't know.  
+p90
+aa(lp91
+V GEORGE 
 p92
-tp93
-a(V JERRY 
-p94
-V Get outta here.  
+aV I quit my job.  
+p93
+aa(lp94
+V JERRY 
 p95
-tp96
-a(V GEORGE 
-p97
-V I couldn't take it anymore.  
+aV Get outta here.  
+p96
+aa(lp97
+V GEORGE 
 p98
-tp99
-a(V VIC 
-p100
-V You can have this on Monday.  
+aV I couldn't take it anymore.  
+p99
+aa(lp100
+V VIC 
 p101
-tp102
-a(V JERRY 
-p103
-V What happened? Levitan?  
+aV You can have this on Monday.  
+p102
+aa(lp103
+V JERRY 
 p104
-tp105
-a(V GEORGE 
-p106
-V I go in to use his private bathroom, everybody uses it, and then I    get a memo - a memo - telling me to use the men's room in the hall.    Well, (laughing) we share it with Pace Electronics. It's disgusting!    
+aV What happened? Levitan?  
+p105
+aa(lp106
+V GEORGE 
 p107
-tp108
-a(V JERRY 
-p109
-V You and your toilets.  
+aV I go in to use his private bathroom, everybody uses it, and then I    get a memo - a memo - telling me to use the men's room in the hall.    Well, (laughing) we share it with Pace Electronics. It's disgusting!    
+p108
+aa(lp109
+V JERRY 
 p110
-tp111
-a(V GEORGE 
-p112
-V I snapped! It was the last straw. (sighs)    
+aV You and your toilets.  
+p111
+aa(lp112
+V GEORGE 
 p113
-tp114
-a(V JERRY 
-p115
-V So, what are you gonna do now? Are you gonna look for something else    in real estate?  
+aV I snapped! It was the last straw. (sighs)    
+p114
+aa(lp115
+V JERRY 
 p116
-tp117
-a(V GEORGE 
-p118
-V Nobody's hiring now. The market's terrible.    
+aV So, what are you gonna do now? Are you gonna look for something else    in real estate?  
+p117
+aa(lp118
+V GEORGE 
 p119
-tp120
-a(V JERRY 
-p121
-V So what are you gonna do?  
+aV Nobody's hiring now. The market's terrible.    
+p120
+aa(lp121
+V JERRY 
 p122
-tp123
-a(V GEORGE 
-p124
-V I like sports. I could do something in sports.   
+aV So what are you gonna do?  
+p123
+aa(lp124
+V GEORGE 
 p125
-tp126
-a(V JERRY 
-p127
-V Uh-huh. Uh-huh. In what capacity?  
+aV I like sports. I could do something in sports.   
+p126
+aa(lp127
+V JERRY 
 p128
-tp129
-a(V GEORGE 
-p130
-V You know, like the general manager of a baseball team or something.   
+aV Uh-huh. Uh-huh. In what capacity?  
+p129
+aa(lp130
+V GEORGE 
 p131
-tp132
-a(V JERRY 
-p133
-V Yeah. Well, that - that could be tough to get.   
+aV You know, like the general manager of a baseball team or something.   
+p132
+aa(lp133
+V JERRY 
 p134
-tp135
-a(V GEORGE 
-p136
-V Well, it doesn't even have to be the general manager. Maybe I could    be like, an announcer. Like a caller man. You know how I always make    those interesting comments during the game.  
+aV Yeah. Well, that - that could be tough to get.   
+p135
+aa(lp136
+V GEORGE 
 p137
-tp138
-a(V JERRY 
-p139
-V Yeah. Yeah. You make good comments.    
+aV Well, it doesn't even have to be the general manager. Maybe I could    be like, an announcer. Like a caller man. You know how I always make    those interesting comments during the game.  
+p138
+aa(lp139
+V JERRY 
 p140
-tp141
-a(V GEORGE 
-p142
-V What about that?  
+aV Yeah. Yeah. You make good comments.    
+p141
+aa(lp142
+V GEORGE 
 p143
-tp144
-a(V JERRY 
-p145
-V Well, they tend to give those jobs to ex-ballplayers and people that    are, you know, in broadcasting.  
+aV What about that?  
+p144
+aa(lp145
+V JERRY 
 p146
-tp147
-a(V GEORGE 
-p148
-V Well, that's really not fair.  
+aV Well, they tend to give those jobs to ex-ballplayers and people that    are, you know, in broadcasting.  
+p147
+aa(lp148
+V GEORGE 
 p149
-tp150
-a(V JERRY 
-p151
-V I know. Well, okay. Okay. What else do ya like?   
+aV Well, that's really not fair.  
+p150
+aa(lp151
+V JERRY 
 p152
-tp153
-a(V GEORGE 
-p154
-V Movies. I like to watch movies.  
+aV I know. Well, okay. Okay. What else do ya like?   
+p153
+aa(lp154
+V GEORGE 
 p155
-tp156
-a(V JERRY 
-p157
-V Yeah. Yeah.  
+aV Movies. I like to watch movies.  
+p156
+aa(lp157
+V JERRY 
 p158
-tp159
-a(V GEORGE 
-p160
-V Do they pay people to watch movies?    
+aV Yeah. Yeah.  
+p159
+aa(lp160
+V GEORGE 
 p161
-tp162
-a(V JERRY 
-p163
-V Projectionists.  
+aV Do they pay people to watch movies?    
+p162
+aa(lp163
+V JERRY 
 p164
-tp165
-a(V GEORGE 
-p166
-V That's true.  
+aV Projectionists.  
+p165
+aa(lp166
+V GEORGE 
 p167
-tp168
-a(V JERRY 
-p169
-V But you gotta know how to work the projector.    
+aV That's true.  
+p168
+aa(lp169
+V JERRY 
 p170
-tp171
-a(V GEORGE 
-p172
-V Right.  
+aV But you gotta know how to work the projector.    
+p171
+aa(lp172
+V GEORGE 
 p173
-tp174
-a(V JERRY 
-p175
-V And it's probably a union thing.  
+aV Right.  
+p174
+aa(lp175
+V JERRY 
 p176
-tp177
-a(V GEORGE 
-p178
-V (scoffs) Those unions. (sighs) Okay. Sports,...movies. What about a    talk show host?  
+aV And it's probably a union thing.  
+p177
+aa(lp178
+V GEORGE 
 p179
-tp180
-a(V JERRY 
-p181
-V Talk show host. That's good.  
+aV (scoffs) Those unions. (sighs) Okay. Sports,...movies. What about a    talk show host?  
+p180
+aa(lp181
+V JERRY 
 p182
-tp183
-a(V GEORGE 
-p184
-V I think I'd be good at that. I talk to people all the time. Someone    even told me once they thought I'd be a good talk show host.    
+aV Talk show host. That's good.  
+p183
+aa(lp184
+V GEORGE 
 p185
-tp186
-a(V JERRY 
-p187
-V Really?  
+aV I think I'd be good at that. I talk to people all the time. Someone    even told me once they thought I'd be a good talk show host.    
+p186
+aa(lp187
+V JERRY 
 p188
-tp189
-a(V GEORGE 
-p190
-V Yeah. A couple of people. I don't get that, though. Where do you    start?  
+aV Really?  
+p189
+aa(lp190
+V GEORGE 
 p191
-tp192
-a(V JERRY 
-p193
-V Well, that's where it gets tricky.    
+aV Yeah. A couple of people. I don't get that, though. Where do you    start?  
+p192
+aa(lp193
+V JERRY 
 p194
-tp195
-a(V GEORGE 
-p196
-V You can't just walk into a building and say " I wanna be a talk    show host."  
+aV Well, that's where it gets tricky.    
+p195
+aa(lp196
+V GEORGE 
 p197
-tp198
-a(V JERRY 
-p199
-V I wouldn't think so.  
+aV You can't just walk into a building and say " I wanna be a talk    show host."  
+p198
+aa(lp199
+V JERRY 
 p200
-tp201
-a(V GEORGE 
-p202
-V It's all politics.  
+aV I wouldn't think so.  
+p201
+aa(lp202
+V GEORGE 
 p203
-tp204
-a(V JERRY 
-p205
-V All right. Okay. Sports, movies, talk show host. What else?   
+aV It's all politics.  
+p204
+aa(lp205
+V JERRY 
 p206
-tp207
-a(V GEORGE 
-p208
-V This could have been a huge mistake.    
+aV All right. Okay. Sports, movies, talk show host. What else?   
+p207
+aa(lp208
+V GEORGE 
 p209
-tp210
-a(V JERRY 
-p211
-V Well, it doesn't sound like you completely thought this through.   
+aV This could have been a huge mistake.    
+p210
+aa(lp211
+V JERRY 
 p212
-tp213
-a(V GEORGE 
-p214
-V (sighs) What should I do?  
+aV Well, it doesn't sound like you completely thought this through.   
+p213
+aa(lp214
+V GEORGE 
 p215
-tp216
-a(V JERRY 
-p217
-V Maybe you can just go back.  
+aV (sighs) What should I do?  
+p216
+aa(lp217
+V JERRY 
 p218
-tp219
-a(V GEORGE 
-p220
-V Go back?  
+aV Maybe you can just go back.  
+p219
+aa(lp220
+V GEORGE 
 p221
-tp222
-a(V JERRY 
-p223
-V Yeah. Pretend like it never happened.    
+aV Go back?  
+p222
+aa(lp223
+V JERRY 
 p224
-tp225
-a(V GEORGE 
-p226
-V You mean just walk into the staff meeting on Monday morning like it    never happened?  
+aV Yeah. Pretend like it never happened.    
+p225
+aa(lp226
+V GEORGE 
 p227
-tp228
-a(V JERRY 
-p229
-V Sure. You're an emotional person. People don't take you seriously.   
+aV You mean just walk into the staff meeting on Monday morning like it    never happened?  
+p228
+aa(lp229
+V JERRY 
 p230
-tp231
-a(V GEORGE 
-p232
-V Just..go back. Pretend the whole thing never happened.   
+aV Sure. You're an emotional person. People don't take you seriously.   
+p231
+aa(lp232
+V GEORGE 
 p233
-tp234
-a(V JERRY 
-p235
-V Never happened.  
+aV Just..go back. Pretend the whole thing never happened.   
+p234
+aa(lp235
+V JERRY 
 p236
-tp237
-a(V GEORGE 
-p238
-V I was just blowin' off a little steam. So what?   
+aV Never happened.  
+p237
+aa(lp238
+V GEORGE 
 p239
-tp240
-a(V JERRY 
-p241
-V So what? You're entitled.  
+aV I was just blowin' off a little steam. So what?   
+p240
+aa(lp241
+V JERRY 
 p242
-tp243
-a(V GEORGE 
-p244
-V I'm emotional.  
+aV So what? You're entitled.  
+p243
+aa(lp244
+V GEORGE 
 p245
-tp246
-a(V JERRY 
-p247
-V That's right. You're emotional.  
+aV I'm emotional.  
+p246
+aa(lp247
+V JERRY 
 p248
-tp249
-a(V GEORGE 
-p250
-V Never happened.  
+aV That's right. You're emotional.  
+p249
+aa(lp250
+V GEORGE 
 p251
-tp252
-a(V JERRY 
-p253
-V Never happened.    
+aV Never happened.  
+p252
+aa(lp253
+V JERRY 
 p254
-tp255
-a(V GEORGE 
-p256
-V How ya doin'?  
+aV Never happened.    
+p255
+aa(lp256
+V GEORGE 
 p257
-tp258
-a(V GLENDA 
-p259
-V What are you doing here?  
+aV How ya doin'?  
+p258
+aa(lp259
+V GLENDA 
 p260
-tp261
-a(V GEORGE 
-p262
-V What? I work here.  
+aV What are you doing here?  
+p261
+aa(lp262
+V GEORGE 
 p263
-tp264
-a(V GLENDA 
-p265
-V I thought you quit.  
+aV What? I work here.  
+p264
+aa(lp265
+V GLENDA 
 p266
-tp267
-a(V GEORGE 
-p268
-V What quit? (laughing) Who quit?  
+aV I thought you quit.  
+p267
+aa(lp268
+V GEORGE 
 p269
-tp270
-a(V DAN 
-p271
-V Bill, how was your weekend?  
+aV What quit? (laughing) Who quit?  
+p270
+aa(lp271
+V DAN 
 p272
-tp273
-a(V BILL 
-p274
-V Oh, excellent weekend. What about your weekend?   
+aV Bill, how was your weekend?  
+p273
+aa(lp274
+V BILL 
 p275
-tp276
-a(V DAN 
-p277
-V Fine weekend.  
+aV Oh, excellent weekend. What about your weekend?   
+p276
+aa(lp277
+V DAN 
 p278
-tp279
-a(V GEORGE 
-p280
-V Yeah. Good weekend.  
+aV Fine weekend.  
+p279
+aa(lp280
+V GEORGE 
 p281
-tp282
-a(V DAN 
-p283
-V Went up to the Cape. Took the kids sailing. (laughing) Lisa was a    little scared at first, but that kids' gonna be a good sailor     someday.  
+aV Yeah. Good weekend.  
+p282
+aa(lp283
+V DAN 
 p284
-tp285
-a(V GEORGE 
-p286
-V Aw, she's gonna be a fine sailor.  
+aV Went up to the Cape. Took the kids sailing. (laughing) Lisa was a    little scared at first, but that kids' gonna be a good sailor     someday.  
+p285
+aa(lp286
+V GEORGE 
 p287
-tp288
-a(V LEVITAN 
-p289
-V Ava, what happened to you Friday afternoon?    
+aV Aw, she's gonna be a fine sailor.  
+p288
+aa(lp289
+V LEVITAN 
 p290
-tp291
-a(V AVA 
-p292
-V I got a little tied up.  
+aV Ava, what happened to you Friday afternoon?    
+p291
+aa(lp292
+V AVA 
 p293
-tp294
-a(V LEVITAN 
-p295
-V I'll bet you did.   (laughter breaks out in boardroom)  
+aV I got a little tied up.  
+p294
+aa(lp295
+V LEVITAN 
 p296
-tp297
-a(V LEVITAN 
-p298
-V I wanna remind everyone that the tenth anniversary party for Rick    Barr Properties is gonna be Wednesday afternoon at four o'clock in    Lasky's Bar, Madison 48th. I want all of you to be there. This really    means a lot to me. Is that Costanza over there? What are you doing    here?  
+aV I'll bet you did.   (laughter breaks out in boardroom)  
+p297
+aa(lp298
+V LEVITAN 
 p299
-tp300
-a(V GEORGE 
-p301
-V What?  
+aV I wanna remind everyone that the tenth anniversary party for Rick    Barr Properties is gonna be Wednesday afternoon at four o'clock in    Lasky's Bar, Madison 48th. I want all of you to be there. This really    means a lot to me. Is that Costanza over there? What are you doing    here?  
+p300
+aa(lp301
+V GEORGE 
 p302
-tp303
-a(V LEVITAN 
-p304
-V Am I crazy, or didn't you quit?  
+aV What?  
+p303
+aa(lp304
+V LEVITAN 
 p305
-tp306
-a(V GEORGE 
-p307
-V When?  
+aV Am I crazy, or didn't you quit?  
+p306
+aa(lp307
+V GEORGE 
 p308
-tp309
-a(V LEVITAN 
-p310
-V Friday.  
+aV When?  
+p309
+aa(lp310
+V LEVITAN 
 p311
-tp312
-a(V GEORGE 
-p313
-V Oh, what? What? That? Are you kidding? I didn't quit. What? You    took that seriously?  
+aV Friday.  
+p312
+aa(lp313
+V GEORGE 
 p314
-tp315
-a(V LEVITAN 
-p316
-V You mean, laughingstock? All that stuff?    
+aV Oh, what? What? That? Are you kidding? I didn't quit. What? You    took that seriously?  
+p315
+aa(lp316
+V LEVITAN 
 p317
-tp318
-a(V GEORGE 
-p319
-V Come on. Will you stop it.  
+aV You mean, laughingstock? All that stuff?    
+p318
+aa(lp319
+V GEORGE 
 p320
-tp321
-a(V LEVITAN 
-p322
-V No brains? No ability?  
+aV Come on. Will you stop it.  
+p321
+aa(lp322
+V LEVITAN 
 p323
-tp324
-a(V GEORGE 
-p325
-V Teasing.  
+aV No brains? No ability?  
+p324
+aa(lp325
+V GEORGE 
 p326
-tp327
-a(V LEVITAN 
-p328
-V Okay. I want you outta here.  
+aV Teasing.  
+p327
+aa(lp328
+V LEVITAN 
 p329
-tp330
-a(V GEORGE 
-p331
-V I don't know where you're getting this from. I....you're serious    aren't you? Oh, (laughing) you see?  
+aV Okay. I want you outta here.  
+p330
+aa(lp331
+V GEORGE 
 p332
-tp333
-a(V LEVITAN 
-p334
-V You can't win. You can't beat me. That's why I'm here and you're    there. Because I'm a winner. I'll always be a winner and you'll     always be a loser.  
+aV I don't know where you're getting this from. I....you're serious    aren't you? Oh, (laughing) you see?  
+p333
+aa(lp334
+V LEVITAN 
 p335
-tp336
-a(V GEORGE 
-p337
-V " I'll always be a winner and you'll always be a loser." This is    what he said to me.  
+aV You can't win. You can't beat me. That's why I'm here and you're    there. Because I'm a winner. I'll always be a winner and you'll     always be a loser.  
+p336
+aa(lp337
+V GEORGE 
 p338
-tp339
-a(V JERRY 
-p340
-V Well, so that's that.  
+aV " I'll always be a winner and you'll always be a loser." This is    what he said to me.  
+p339
+aa(lp340
+V JERRY 
 p341
-tp342
-a(V GEORGE 
-p343
-V No. That's not that.  
+aV Well, so that's that.  
+p342
+aa(lp343
+V GEORGE 
 p344
-tp345
-a(V JERRY 
-p346
-V That's not that?  
+aV No. That's not that.  
+p345
+aa(lp346
+V JERRY 
 p347
-tp348
-a(V GEORGE 
-p349
-V No.  
+aV That's not that?  
+p348
+aa(lp349
+V GEORGE 
 p350
-tp351
-a(V JERRY 
-p352
-V Well, if that's not that, what is that?    
+aV No.  
+p351
+aa(lp352
+V JERRY 
 p353
-tp354
-a(V GEORGE 
-p355
-V I've got some plans. I got plans.  
+aV Well, if that's not that, what is that?    
+p354
+aa(lp355
+V GEORGE 
 p356
-tp357
-a(V JERRY 
-p358
-V What kind of plans?  
+aV I've got some plans. I got plans.  
+p357
+aa(lp358
+V JERRY 
 p359
-tp360
-a(V GEORGE 
-p361
-V What's the difference?  
+aV What kind of plans?  
+p360
+aa(lp361
+V GEORGE 
 p362
-tp363
-a(V JERRY 
-p364
-V You don't wanna tell me?  
+aV What's the difference?  
+p363
+aa(lp364
+V JERRY 
 p365
-tp366
-a(V GEORGE 
-p367
-V I'm gonna slip him a mickey.  
+aV You don't wanna tell me?  
+p366
+aa(lp367
+V GEORGE 
 p368
-tp369
-a(V JERRY 
-p370
-V What? In his drink? Are you outta your mind? What? Are you Peter    Lorre?  
+aV I'm gonna slip him a mickey.  
+p369
+aa(lp370
+V JERRY 
 p371
-tp372
-a(V GEORGE 
-p373
-V You don't understand. He's got this big party coming up. He's been    looking forward to this for months. This is gonna destroy the whole    thing.  
+aV What? In his drink? Are you outta your mind? What? Are you Peter    Lorre?  
+p372
+aa(lp373
+V GEORGE 
 p374
-tp375
-a(V JERRY 
-p376
-V What if you destroy him?  
+aV You don't understand. He's got this big party coming up. He's been    looking forward to this for months. This is gonna destroy the whole    thing.  
+p375
+aa(lp376
+V JERRY 
 p377
-tp378
-a(V GEORGE 
-p379
-V No. No. No. No. No. Don't worry. It's perfectly safe. I researched    it. He'll get a little woozy. He might keel over.  
+aV What if you destroy him?  
+p378
+aa(lp379
+V GEORGE 
 p380
-tp381
-a(V JERRY 
-p382
-V Well, wha - what does that do? Big deal.    
+aV No. No. No. No. No. Don't worry. It's perfectly safe. I researched    it. He'll get a little woozy. He might keel over.  
+p381
+aa(lp382
+V JERRY 
 p383
-tp384
-a(V GEORGE 
-p385
-V This is what they would do in the movies! It's a beautiful thing!    It's like a movie! I'm gonna slip him a mickey!  
+aV Well, wha - what does that do? Big deal.    
+p384
+aa(lp385
+V GEORGE 
 p386
-tp387
-a(V JERRY 
-p388
-V You've really gone mental.  
+aV This is what they would do in the movies! It's a beautiful thing!    It's like a movie! I'm gonna slip him a mickey!  
+p387
+aa(lp388
+V JERRY 
 p389
-tp390
-a(V GEORGE 
-p391
-V Nah.  
+aV You've really gone mental.  
+p390
+aa(lp391
+V GEORGE 
 p392
-tp393
-a(V JERRY 
-p394
-V Where are you gonna get this mickey? I can't believe I'm saying    "mickey"!  
+aV Nah.  
+p393
+aa(lp394
+V JERRY 
 p395
-tp396
-a(V GEORGE 
-p397
-V I got a sauce.  
+aV Where are you gonna get this mickey? I can't believe I'm saying    "mickey"!  
+p396
+aa(lp397
+V GEORGE 
 p398
-tp399
-a(V JERRY 
-p400
-V You got a mickey sauce?  
+aV I got a sauce.  
+p399
+aa(lp400
+V JERRY 
 p401
-tp402
-a(V GEORGE 
-p403
-V And Elaine is gonna keep him busy.    
+aV You got a mickey sauce?  
+p402
+aa(lp403
+V GEORGE 
 p404
-tp405
-a(V JERRY 
-p406
-V Elaine? How did you rope her into this?    
+aV And Elaine is gonna keep him busy.    
+p405
+aa(lp406
+V JERRY 
 p407
-tp408
-a(V GEORGE 
-p409
-V I told her what a sexist he is. How he cheats on his wife.   
+aV Elaine? How did you rope her into this?    
+p408
+aa(lp409
+V GEORGE 
 p410
-tp411
-a(V JERRY 
-p412
-V She knew that.  
+aV I told her what a sexist he is. How he cheats on his wife.   
+p411
+aa(lp412
+V JERRY 
 p413
-tp414
-a(V GEORGE 
-p415
-V But she didn't know he doesn't recycle.    
+aV She knew that.  
+p414
+aa(lp415
+V GEORGE 
 p416
-tp417
-a(V JERRY 
-p418
-V What is the point of all this?  
+aV But she didn't know he doesn't recycle.    
+p417
+aa(lp418
+V JERRY 
 p419
-tp420
-a(V GEORGE 
-p421
-V Revenge.  
+aV What is the point of all this?  
+p420
+aa(lp421
+V GEORGE 
 p422
-tp423
-a(V JERRY 
-p424
-V Oh, the best revenge is living well.    
+aV Revenge.  
+p423
+aa(lp424
+V JERRY 
 p425
-tp426
-a(V GEORGE 
-p427
-V There's no chance of that.  
+aV Oh, the best revenge is living well.    
+p426
+aa(lp427
+V GEORGE 
 p428
-tp429
-a(V JERRY 
-p430
-V Did you get your laundry?  
+aV There's no chance of that.  
+p429
+aa(lp430
+V JERRY 
 p431
-tp432
-a(V KRAMER 
-p433
-V Yeah.  
+aV Did you get your laundry?  
+p432
+aa(lp433
+V KRAMER 
 p434
-tp435
-a(V JERRY 
-p436
-V What's with you?  
+aV Yeah.  
+p435
+aa(lp436
+V JERRY 
 p437
-tp438
-a(V KRAMER 
-p439
-V He jumped.  
+aV What's with you?  
+p438
+aa(lp439
+V KRAMER 
 p440
-tp441
-a(V JERRY 
-p442
-V What?  
+aV He jumped.  
+p441
+aa(lp442
+V JERRY 
 p443
-tp444
-a(V KRAMER 
-p445
-V Yeah. Newman jumped.  
+aV What?  
+p444
+aa(lp445
+V KRAMER 
 p446
-tp447
-a(V JERRY 
-p448
-V Did he call you last night?  
+aV Yeah. Newman jumped.  
+p447
+aa(lp448
+V JERRY 
 p449
-tp450
-a(V KRAMER 
-p451
-V Oh, yeah. Yeah. Yeah. Yeah. Yeah. Yeah.    
+aV Did he call you last night?  
+p450
+aa(lp451
+V KRAMER 
 p452
-tp453
-a(V JERRY 
-p454
-V What did you say?  
+aV Oh, yeah. Yeah. Yeah. Yeah. Yeah. Yeah.    
+p453
+aa(lp454
+V JERRY 
 p455
-tp456
-a(V KRAMER 
-p457
-V I said " Wave to me when you pass my window."   
+aV What did you say?  
+p456
+aa(lp457
+V KRAMER 
 p458
-tp459
-a(V JERRY 
-p460
-V Whew. Did he wave?  
+aV I said " Wave to me when you pass my window."   
+p459
+aa(lp460
+V JERRY 
 p461
-tp462
-a(V KRAMER 
-p463
-V No! He jumped from the second floor. Mr. Papanickolous saw him from    across the street. He's lying out there faking. See, he's trying to    get back at me.  
+aV Whew. Did he wave?  
+p462
+aa(lp463
+V KRAMER 
 p464
-tp465
-a(V JERRY 
-p466
-V Oh, my god!  
+aV No! He jumped from the second floor. Mr. Papanickolous saw him from    across the street. He's lying out there faking. See, he's trying to    get back at me.  
+p465
+aa(lp466
+V JERRY 
 p467
-tp468
-a(V KRAMER 
-p469
-V What's the matter?  
+aV Oh, my god!  
+p468
+aa(lp469
+V KRAMER 
 p470
-tp471
-a(V JERRY 
-p472
-V Well, on Thursday when I came home I had $1500 on me. For some    reason I decided to hide it in my laundry bag and then I completely     forgot about it...and then I took the laundry in on Friday! Oh, come on,    let's go.  
+aV What's the matter?  
+p471
+aa(lp472
+V JERRY 
 p473
-tp474
-a(V KRAMER 
-p475
-V Where? Where?  
+aV Well, on Thursday when I came home I had $1500 on me. For some    reason I decided to hide it in my laundry bag and then I completely     forgot about it...and then I took the laundry in on Friday! Oh, come on,    let's go.  
+p474
+aa(lp475
+V KRAMER 
 p476
-tp477
-a(V JERRY 
-p478
-V To the Laundromat.  
+aV Where? Where?  
+p477
+aa(lp478
+V JERRY 
 p479
-tp480
-a(V VIC 
-p481
-V I never saw it.  
+aV To the Laundromat.  
+p480
+aa(lp481
+V VIC 
 p482
-tp483
-a(V KRAMER 
-p484
-V Okay. Come on. Give the guy his money. What -- what are you doing?   
+aV I never saw it.  
+p483
+aa(lp484
+V KRAMER 
 p485
-tp486
-a(V VIC 
-p487
-V Hey, you see that sign right there?    
+aV Okay. Come on. Give the guy his money. What -- what are you doing?   
+p486
+aa(lp487
+V VIC 
 p488
-tp489
-a(V JERRY 
-p490
-V Oh, I see. So, you put up a sign so you can do whatever you want?   
+aV Hey, you see that sign right there?    
+p489
+aa(lp490
+V JERRY 
 p491
-tp492
-a(V VIC 
-p493
-V I'm not responsible.  
+aV Oh, I see. So, you put up a sign so you can do whatever you want?   
+p492
+aa(lp493
+V VIC 
 p494
-tp495
-a(V JERRY 
-p496
-V So, anybody leaves anything here, you can just take it? You have a    license to steal? You are like the James Bond of laundry?  
+aV I'm not responsible.  
+p495
+aa(lp496
+V JERRY 
 p497
-tp498
-a(V VIC 
-p499
-V You ever hear of a bank?  
+aV So, anybody leaves anything here, you can just take it? You have a    license to steal? You are like the James Bond of laundry?  
+p498
+aa(lp499
+V VIC 
 p500
-tp501
-a(V JERRY 
-p502
-V Come on. Let's go.  
+aV You ever hear of a bank?  
+p501
+aa(lp502
+V JERRY 
 p503
-tp504
-a(V KRAMER 
-p505
-V No. You can't let him get away with this.   
+aV Come on. Let's go.  
+p504
+aa(lp505
+V KRAMER 
 p506
-tp507
-a(V ELAINE 
-p508
-V Which one is he?  
+aV No. You can't let him get away with this.   
+p507
+aa(lp508
+V ELAINE 
 p509
-tp510
-a(V GEORGE 
-p511
-V That's him over there. The one that looks like a blowfish.   
+aV Which one is he?  
+p510
+aa(lp511
+V GEORGE 
 p512
-tp513
-a(V ELAINE 
-p514
-V Oh, yeah. I see him.  
+aV That's him over there. The one that looks like a blowfish.   
+p513
+aa(lp514
+V ELAINE 
 p515
-tp516
-a(V GEORGE 
-p517
-V Yeah. Hey, thanks for doing this.  
+aV Oh, yeah. I see him.  
+p516
+aa(lp517
+V GEORGE 
 p518
-tp519
-a(V ELAINE 
-p520
-V Why pass up the opportunity to go to prison?   
+aV Yeah. Hey, thanks for doing this.  
+p519
+aa(lp520
+V ELAINE 
 p521
-tp522
-a(V GEORGE 
-p523
-V This is by far the most exciting thing I've ever done.   
+aV Why pass up the opportunity to go to prison?   
+p522
+aa(lp523
+V GEORGE 
 p524
-tp525
-a(V ELAINE 
-p526
-V Yeah. It is kind of cool.  
+aV This is by far the most exciting thing I've ever done.   
+p525
+aa(lp526
+V ELAINE 
 p527
-tp528
-a(V GEORGE 
-p529
-V First time in my life I've ever gotten back at someone.   
+aV Yeah. It is kind of cool.  
+p528
+aa(lp529
+V GEORGE 
 p530
-tp531
-a(V ELAINE 
-p532
-V I can't believe we're doing this. This is the kind of thing they do    in the movies.  
+aV First time in my life I've ever gotten back at someone.   
+p531
+aa(lp532
+V ELAINE 
 p533
-tp534
-a(V GEORGE 
-p535
-V That's exactly what I told Jerry!  
+aV I can't believe we're doing this. This is the kind of thing they do    in the movies.  
+p534
+aa(lp535
+V GEORGE 
 p536
-tp537
-a(V ELAINE 
-p538
-V Really?  
+aV That's exactly what I told Jerry!  
+p537
+aa(lp538
+V ELAINE 
 p539
-tp540
-a(V GEORGE 
-p541
-V Yes!   (both laughing)  
+aV Really?  
+p540
+aa(lp541
+V GEORGE 
 p542
-tp543
-a(V GEORGE 
-p544
-V God, I've never felt so alive!  
+aV Yes!   (both laughing)  
+p543
+aa(lp544
+V GEORGE 
 p545
-tp546
-a(V JERRY 
-p547
-V Maybe we should call this off.  
+aV God, I've never felt so alive!  
+p546
+aa(lp547
+V JERRY 
 p548
-tp549
-a(V KRAMER 
-p550
-V Come on. What's the big deal? Just gonna put a little concrete in    the washing machine.  
+aV Maybe we should call this off.  
+p549
+aa(lp550
+V KRAMER 
 p551
-tp552
-a(V JERRY 
-p553
-V And what's gonna happen?  
+aV Come on. What's the big deal? Just gonna put a little concrete in    the washing machine.  
+p552
+aa(lp553
+V JERRY 
 p554
-tp555
-a(V KRAMER 
-p556
-V Well, it'll gonna mix up with the water, and then by the end of the    cycle it'll be a solid block!  
+aV And what's gonna happen?  
+p555
+aa(lp556
+V KRAMER 
 p557
-tp558
-a(V JERRY 
-p559
-V If only you could put your mind to something worthwhile. You're like    Lex Luthor.  
+aV Well, it'll gonna mix up with the water, and then by the end of the    cycle it'll be a solid block!  
+p558
+aa(lp559
+V JERRY 
 p560
-tp561
-a(V KRAMER 
-p562
-V You keep him busy.   (Kramer, holding heavy bag of concrete in arms, stumbles to machine,     knocking chairs around)   (Kramer plops concrete down onto washing machine)  
+aV If only you could put your mind to something worthwhile. You're like    Lex Luthor.  
+p561
+aa(lp562
+V KRAMER 
 p563
-tp564
-a(V KRAMER 
-p565
-V Whoa!   (lifting bag into the air, Kramer, thrown off balance, stumbles backwards    and slams into dryer)  
+aV You keep him busy.   (Kramer, holding heavy bag of concrete in arms, stumbles to machine,     knocking chairs around)   (Kramer plops concrete down onto washing machine)  
+p564
+aa(lp565
+V KRAMER 
 p566
-tp567
-a(V GEORGE 
-p568
-V You go over there -  
+aV Whoa!   (lifting bag into the air, Kramer, thrown off balance, stumbles backwards    and slams into dryer)  
+p567
+aa(lp568
+V GEORGE 
 p569
-tp570
-a(V ELAINE 
-p571
-V Yeah.  
+aV You go over there -  
+p570
+aa(lp571
+V ELAINE 
 p572
-tp573
-a(V GEORGE 
-p574
-V You start flirting with him and I'll come by and, while you're    keeping him busy, I'll slip it in his drink.  
+aV Yeah.  
+p573
+aa(lp574
+V GEORGE 
 p575
-tp576
-a(V ELAINE 
-p577
-V Wouldn't it be easier just to punch him in the mouth?   
+aV You start flirting with him and I'll come by and, while you're    keeping him busy, I'll slip it in his drink.  
+p576
+aa(lp577
+V ELAINE 
 p578
-tp579
-a(V LEVITAN 
-p580
-V Come on! They're terrible. They got no infield.   
+aV Wouldn't it be easier just to punch him in the mouth?   
+p579
+aa(lp580
+V LEVITAN 
 p581
-tp582
-a(V ELAINE 
-p583
-V Oops! 'Scuse me.  
+aV Come on! They're terrible. They got no infield.   
+p582
+aa(lp583
+V ELAINE 
 p584
-tp585
-a(V LEVITAN 
-p586
-V Yeah.  
+aV Oops! 'Scuse me.  
+p585
+aa(lp586
+V LEVITAN 
 p587
-tp588
-a(V GREENY 
-p589
-V I'm gonna get some food. You want some?    
+aV Yeah.  
+p588
+aa(lp589
+V GREENY 
 p590
-tp591
-a(V LEVITAN 
-p592
-V Nah.  
+aV I'm gonna get some food. You want some?    
+p591
+aa(lp592
+V LEVITAN 
 p593
-tp594
-a(V ELAINE 
-p595
-V Hi.  
+aV Nah.  
+p594
+aa(lp595
+V ELAINE 
 p596
-tp597
-a(V LEVITAN 
-p598
-V Hi.  
+aV Hi.  
+p597
+aa(lp598
+V LEVITAN 
 p599
-tp600
-a(V ELAINE 
-p601
-V (sneezes)  
+aV Hi.  
+p600
+aa(lp601
+V ELAINE 
 p602
-tp603
-a(V LEVITAN 
-p604
-V God bless you.  
+aV (sneezes)  
+p603
+aa(lp604
+V LEVITAN 
 p605
-tp606
-a(V ELAINE 
-p607
-V Oh! Thank you. Thank you very much. (blowing nose) Really. I mean    that. I am not one of those people who give insincere thank you's. No    sir. No sir. When I thank someone I really thank them. So, thank...     yoooou!  
+aV God bless you.  
+p606
+aa(lp607
+V ELAINE 
 p608
-tp609
-a(V LEVITAN 
-p610
-V You're welcome.  
+aV Oh! Thank you. Thank you very much. (blowing nose) Really. I mean    that. I am not one of those people who give insincere thank you's. No    sir. No sir. When I thank someone I really thank them. So, thank...     yoooou!  
+p609
+aa(lp610
+V LEVITAN 
 p611
-tp612
-a(V ELAINE 
-p613
-V People don't say " God bless you " as much as they used to. Have    you noticed that?  
+aV You're welcome.  
+p612
+aa(lp613
+V ELAINE 
 p614
-tp615
-a(V LEVITAN 
-p616
-V No.  
+aV People don't say " God bless you " as much as they used to. Have    you noticed that?  
+p615
+aa(lp616
+V LEVITAN 
 p617
-tp618
-a(V ELAINE 
-p619
-V So, I'm going to a nudist colony next week.   
+aV No.  
+p618
+aa(lp619
+V ELAINE 
 p620
-tp621
-a(V LEVITAN 
-p622
-V Nudist colony?  
+aV So, I'm going to a nudist colony next week.   
+p621
+aa(lp622
+V LEVITAN 
 p623
-tp624
-a(V ELAINE 
-p625
-V Oh, yeah. Yeah. I love nudist colonies. They help me..unwind. Aah!   
+aV Nudist colony?  
+p624
+aa(lp625
+V ELAINE 
 p626
-tp627
-a(V LEVITAN 
-p628
-V (laughing) I'd never been to a nudist colony.   
+aV Oh, yeah. Yeah. I love nudist colonies. They help me..unwind. Aah!   
+p627
+aa(lp628
+V LEVITAN 
 p629
-tp630
-a(V ELAINE 
-p631
-V Oh, really? Oh, you should go. They're great. They're great. Of    course, when it's over, it's - it's hard to get used to all this     clothing, you know. So, a lot of times, I'll just lock the door to my    office and I'll just sit there naked.  
+aV (laughing) I'd never been to a nudist colony.   
+p630
+aa(lp631
+V ELAINE 
 p632
-tp633
-a(V LEVITAN 
-p634
-V Seriously?  
+aV Oh, really? Oh, you should go. They're great. They're great. Of    course, when it's over, it's - it's hard to get used to all this     clothing, you know. So, a lot of times, I'll just lock the door to my    office and I'll just sit there naked.  
+p633
+aa(lp634
+V LEVITAN 
 p635
-tp636
-a(V ELAINE 
-p637
-V Oh, yeah. I usually work naked a...couple hours a day.   
+aV Seriously?  
+p636
+aa(lp637
+V ELAINE 
 p638
-tp639
-a(V GEORGE 
-p640
-V (whispering) Glenda, can I ask you a favor? Can I have this seat?   
+aV Oh, yeah. I usually work naked a...couple hours a day.   
+p639
+aa(lp640
+V GEORGE 
 p641
-tp642
-a(V GLENDA 
-p643
-V What do you have to sit here for? There are plenty of other seats.   
+aV (whispering) Glenda, can I ask you a favor? Can I have this seat?   
+p642
+aa(lp643
+V GLENDA 
 p644
-tp645
-a(V GEORGE 
-p646
-V (whispering) I can't explain. It's very important that I sit here.   
+aV What do you have to sit here for? There are plenty of other seats.   
+p645
+aa(lp646
+V GEORGE 
 p647
-tp648
-a(V GLENDA 
-p649
-V What are you doing here anyway? I thought you were fired.   
+aV (whispering) I can't explain. It's very important that I sit here.   
+p648
+aa(lp649
+V GLENDA 
 p650
-tp651
-a(V GEORGE 
-p652
-V (whispering) Okay. Okay. Fine.  
+aV What are you doing here anyway? I thought you were fired.   
+p651
+aa(lp652
+V GEORGE 
 p653
-tp654
-a(V ELAINE 
-p655
-V I cook naked, I clean....I clean naked, I drive naked. Naked.    Naked. Naked.  
+aV (whispering) Okay. Okay. Fine.  
+p654
+aa(lp655
+V ELAINE 
 p656
-tp657
-a(V LEVITAN 
-p658
-V Who are you?  
+aV I cook naked, I clean....I clean naked, I drive naked. Naked.    Naked. Naked.  
+p657
+aa(lp658
+V LEVITAN 
 p659
-tp660
-a(V ELAINE 
-p661
-V Oh, you don't wanna know, mistah. I'm trouble. Big trouble.    (lid on machine slams shut after Kramer opens it, forcing him to pour    concrete all over machine)  
+aV Who are you?  
+p660
+aa(lp661
+V ELAINE 
 p662
-tp663
-a(V JERRY 
-p664
-V What about the gentle cycle? You ever use that?    (opening lid, Kramer begins to contort & flail arms about as a cloud of    concrete covers his face)  
+aV Oh, you don't wanna know, mistah. I'm trouble. Big trouble.    (lid on machine slams shut after Kramer opens it, forcing him to pour    concrete all over machine)  
+p663
+aa(lp664
+V JERRY 
 p665
-tp666
-a(V JERRY 
-p667
-V Do you think it's effeminate for a man to put clothes in a gentle    cycle?   (Kramer emptying bag into machine)  
+aV What about the gentle cycle? You ever use that?    (opening lid, Kramer begins to contort & flail arms about as a cloud of    concrete covers his face)  
+p666
+aa(lp667
+V JERRY 
 p668
-tp669
-a(V JERRY 
-p670
-V What about fine fabrics? How do you deal with that kind of    temperament?   (finished with machine, Kramer walks to corner of room with half-full bag &    drops it on the floor)   (Kramer giving "OK" sign)   (Kramer starting machine & trying to brush the mounds of concrete off of    the machine)  
+aV Do you think it's effeminate for a man to put clothes in a gentle    cycle?   (Kramer emptying bag into machine)  
+p669
+aa(lp670
+V JERRY 
 p671
-tp672
-a(V JERRY 
-p673
-V What about stone washing? You ever witness one of those? That must    be something.   What? Do they just pummel the jeans with rocks?   (Kramer walks over to where Jerry is standing, his entire body covered with    dry concrete)  
+aV What about fine fabrics? How do you deal with that kind of    temperament?   (finished with machine, Kramer walks to corner of room with half-full bag &    drops it on the floor)   (Kramer giving "OK" sign)   (Kramer starting machine & trying to brush the mounds of concrete off of    the machine)  
+p672
+aa(lp673
+V JERRY 
 p674
-tp675
-a(V KRAMER 
-p676
-V I didn't realize it was a full box.    
+aV What about stone washing? You ever witness one of those? That must    be something.   What? Do they just pummel the jeans with rocks?   (Kramer walks over to where Jerry is standing, his entire body covered with    dry concrete)  
+p675
+aa(lp676
+V KRAMER 
 p677
-tp678
-a(V GEORGE 
-p679
-V I'm gonna count to three. If you don't give up the chair, the wig    is coming off.  
+aV I didn't realize it was a full box.    
+p678
+aa(lp679
+V GEORGE 
 p680
-tp681
-a(V GLENDA 
-p682
-V I don't' wear a wig.  
+aV I'm gonna count to three. If you don't give up the chair, the wig    is coming off.  
+p681
+aa(lp682
+V GLENDA 
 p683
-tp684
-a(V GEORGE 
-p685
-V One...  
+aV I don't' wear a wig.  
+p684
+aa(lp685
+V GEORGE 
 p686
-tp687
-a(V ELAINE 
-p688
-V No. No. No. No. No. I don't really have a phone. In fact, I - I    really don't have an apartment. I kinda sleep around.   (Levitan & Elaine laughing)  
+aV One...  
+p687
+aa(lp688
+V ELAINE 
 p689
-tp690
-a(V ELAINE 
-p691
-V I just like to have and few drinks and just let the guy do whatever    he wants. Would you close your eyes for a second? I wanna tell you a    secret about my bra.   (George empties contents of tiny bottle into Levitan's drink)     (Elaine & Levitan laughing)  
+aV No. No. No. No. No. I don't really have a phone. In fact, I - I    really don't have an apartment. I kinda sleep around.   (Levitan & Elaine laughing)  
+p690
+aa(lp691
+V ELAINE 
 p692
-tp693
-a(V GEORGE 
-p694
-V Hello, Rick.  
+aV I just like to have and few drinks and just let the guy do whatever    he wants. Would you close your eyes for a second? I wanna tell you a    secret about my bra.   (George empties contents of tiny bottle into Levitan's drink)     (Elaine & Levitan laughing)  
+p693
+aa(lp694
+V GEORGE 
 p695
-tp696
-a(V LEVITAN 
-p697
-V Heh heh heh hey! Look who's here!  
+aV Hello, Rick.  
+p696
+aa(lp697
+V LEVITAN 
 p698
-tp699
-a(V GEORGE 
-p700
-V That's right, Ricky Boy, it's me!  
+aV Heh heh heh hey! Look who's here!  
+p699
+aa(lp700
+V GEORGE 
 p701
-tp702
-a(V LEVITAN 
-p703
-V You know something, Costanza? I'm a very lucky man.   
+aV That's right, Ricky Boy, it's me!  
+p702
+aa(lp703
+V LEVITAN 
 p704
-tp705
-a(V GEORGE 
-p706
-V Oh!  
+aV You know something, Costanza? I'm a very lucky man.   
+p705
+aa(lp706
+V GEORGE 
 p707
-tp708
-a(V LEVITAN 
-p709
-V I've always been lucky. Things just seem to fall right in my lap.   
+aV Oh!  
+p708
+aa(lp709
+V LEVITAN 
 p710
-tp711
-a(V GEORGE 
-p712
-V Boom!   (all laughing)  
+aV I've always been lucky. Things just seem to fall right in my lap.   
+p711
+aa(lp712
+V GEORGE 
 p713
-tp714
-a(V LEVITAN 
-p715
-V You wouldn't believe it if I told you. In fact, uh, I'm glad    you're here. You know, maybe I've been a little rough on ya, huh?   
+aV Boom!   (all laughing)  
+p714
+aa(lp715
+V LEVITAN 
 p716
-tp717
-a(V GEORGE 
-p718
-V Oh.  
+aV You wouldn't believe it if I told you. In fact, uh, I'm glad    you're here. You know, maybe I've been a little rough on ya, huh?   
+p717
+aa(lp718
+V GEORGE 
 p719
-tp720
-a(V LEVITAN 
-p721
-V Why should we let petty, personal differences get in the way of    business? I, uh, I want   you to come back. You can use my bathroom anytime you want.    
+aV Oh.  
+p720
+aa(lp721
+V LEVITAN 
 p722
-tp723
-a(V GEORGE 
-p724
-V You want me to come back? Uh...  
+aV Why should we let petty, personal differences get in the way of    business? I, uh, I want   you to come back. You can use my bathroom anytime you want.    
+p723
+aa(lp724
+V GEORGE 
 p725
-tp726
-a(V LEVITAN 
-p727
-V Hey! How about a toast, huh? Everybody, a toast!   
+aV You want me to come back? Uh...  
+p726
+aa(lp727
+V LEVITAN 
 p728
-tp729
-a(V GEORGE 
-p730
-V Rick.  
+aV Hey! How about a toast, huh? Everybody, a toast!   
+p729
+aa(lp730
+V GEORGE 
 p731
-tp732
-a(V LEVITAN 
-p733
-V Everyone, I wanna propose a toast to ten great years at Rick Barr    Properties.  
+aV Rick.  
+p732
+aa(lp733
+V LEVITAN 
 p734
-tp735
-a(V GEORGE 
-p736
-V Uh, Rick..  
+aV Everyone, I wanna propose a toast to ten great years at Rick Barr    Properties.  
+p735
+aa(lp736
+V GEORGE 
 p737
-tp738
-a(V LEVITAN 
-p739
-V And all the people in this room, (clears throat) that made that    possible..  
+aV Uh, Rick..  
+p738
+aa(lp739
+V LEVITAN 
 p740
-tp741
-a(V GEORGE 
-p742
-V Rick.  
+aV And all the people in this room, (clears throat) that made that    possible..  
+p741
+aa(lp742
+V GEORGE 
 p743
-tp744
-a(V LEVITAN 
-p745
-V I'd also like to welcome back into the fold our..our little    shrimpy friend, George Costanza who, although he didn't really have a    very good year -- how you blew that McConnell deal, I'll never know. But,    hey, what the hell, huh? We've always enjoyed his antics around the    office. Heh heh. Anything you wanna add to this?  
+aV Rick.  
+p744
+aa(lp745
+V LEVITAN 
 p746
-tp747
-a(V GEORGE 
-p748
-V Drink up. I like history. Civil War. Maybe I could be a professor,    or something.  
+aV I'd also like to welcome back into the fold our..our little    shrimpy friend, George Costanza who, although he didn't really have a    very good year -- how you blew that McConnell deal, I'll never know. But,    hey, what the hell, huh? We've always enjoyed his antics around the    office. Heh heh. Anything you wanna add to this?  
+p747
+aa(lp748
+V GEORGE 
 p749
-tp750
-a(V ELAINE 
-p751
-V Well, to teach something you really have to know a lot about it. I    think you need a degree.  
+aV Drink up. I like history. Civil War. Maybe I could be a professor,    or something.  
+p750
+aa(lp751
+V ELAINE 
 p752
-tp753
-a(V JERRY 
-p754
-V Yeah. That's true. What? My God, the money! The 1500! Where'd you    find it?  
+aV Well, to teach something you really have to know a lot about it. I    think you need a degree.  
+p753
+aa(lp754
+V JERRY 
 p755
-tp756
-a(V KRAMER 
-p757
-V It was in my laundry.  
+aV Yeah. That's true. What? My God, the money! The 1500! Where'd you    find it?  
+p756
+aa(lp757
+V KRAMER 
 p758
-tp759
-a(V JERRY 
-p760
-V In your laundry the whole time? I told you not to mix in our guys.    What did we figure the damage on that machine would be?  
+aV It was in my laundry.  
+p759
+aa(lp760
+V JERRY 
 p761
-tp762
-a(V KRAMER 
-p763
-V It was about 1200 bucks.  
+aV In your laundry the whole time? I told you not to mix in our guys.    What did we figure the damage on that machine would be?  
+p762
+aa(lp763
+V KRAMER 
 p764
-tp765
-a(V NEWMAN 
-p766
-V Kramer!  
+aV It was about 1200 bucks.  
+p765
+aa(lp766
+V NEWMAN 
 p767
-tp768
-a(V KRAMER 
-p769
-V Oh! That's Newman.  
+aV Kramer!  
+p768
+aa(lp769
+V KRAMER 
 p770
-tp771
-a(V NEWMAN 
-p772
-V I'm on the roof!  
+aV Oh! That's Newman.  
+p771
+aa(lp772
+V NEWMAN 
 p773
-tp774
-a(V KRAMER 
-p775
-V Well, what are you waiting for?  
+aV I'm on the roof!  
+p774
+aa(lp775
+V KRAMER 
 p776
-tp777
-a(V JERRY 
-p778
-V Elaine, come on, take a walk with me down to the Laundromat. I gotta    pay this guy the money..  
+aV Well, what are you waiting for?  
+p777
+aa(lp778
+V JERRY 
 p779
-tp780
-a(V GEORGE 
-p781
-V I like horses. Maybe I could be a stable boy.   
+aV Elaine, come on, take a walk with me down to the Laundromat. I gotta    pay this guy the money..  
+p780
+aa(lp781
+V GEORGE 
 p782
-tp783
-a(V KRAMER 
-p784
-V You wanna shoot some pool tonight?    
+aV I like horses. Maybe I could be a stable boy.   
+p783
+aa(lp784
+V KRAMER 
 p785
-tp786
-a(V NEWMAN 
-p787
-V I can't. I'm goin' to the movies.  
+aV You wanna shoot some pool tonight?    
+p786
+aa(lp787
+V NEWMAN 
 p788
-tp789
-a.
+aV I can't. I'm goin' to the movies.  
+p789
+aa.
