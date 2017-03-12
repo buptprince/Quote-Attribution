@@ -7,8 +7,22 @@ class Preprocess:
         script = pickle.load(open(fname, 'rb'))
         for i in xrange(len(script)):
             script[i][0] = self.cleanName(script[i][0])
-            print self.cleanDial(script[i][1])
+            script[i][1] = self.cleanDial(script[i][1])
 
+            if re.match(r'(.+) and (.*)', script[i][0]):
+                actors = script[i][0].split(" and ")
+
+                script[i][0] = actors[0]
+                script.insert(i, [actors[1], script[i][1]])
+
+        fname = fname.split('.')
+        fname.insert(1, 'clean')
+        fname = ".".join(fname)
+        pickle.dump(script, open(fname, 'wb'))
+        del script
+        print "[SUCCESS] Cleaned", fname
+
+        
     def cleanName(self, name):
         return name.strip().lower()
 
@@ -22,7 +36,9 @@ class Preprocess:
     def cleanAllFiles(self):
         for f in os.listdir('data'):
             self.cleanFile(os.path.join("data", f))
-            break
+
+    def tokenizeFile(self, fname):
+        pass
 
 if __name__ == '__main__':
     Preprocess().cleanAllFiles()
