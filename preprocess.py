@@ -4,7 +4,7 @@ import nltk
 class Preprocess:
 
     def cleanFile(self, fname):
-        script = pickle.load(open(fname, 'rb'))
+        script = pickle.load(open(os.path.join("data", fname), 'rb'))
         for i in xrange(len(script)):
             script[i][0] = self.cleanName(script[i][0])
             script[i][1] = self.cleanDial(script[i][1])
@@ -19,7 +19,7 @@ class Preprocess:
         fname = fname.split('.')
         fname.insert(1, 'clean')
         fname = ".".join(fname)
-        pickle.dump(script, open(fname, 'wb'))
+        pickle.dump(script, open(os.path.join("data", "cleaned", fname), 'wb'))
         del script
         print "[SUCCESS] Cleaned", fname
 
@@ -38,7 +38,9 @@ class Preprocess:
 
     def cleanAllFiles(self):
         for f in os.listdir('data'):
-            self.cleanFile(os.path.join("data", f))
+            if f == "cleaned":
+                continue
+            self.cleanFile(f)
 
     def tokenizeQuote(self, quote):
         if not isinstance(quote, list):

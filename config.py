@@ -6,5 +6,11 @@
 
 class Config:
     def __init__(self):
-        self.wordVecPath = "glove.840B.300d.txt"
+        self.wordVecRoot = "./glove"
+        self.wordVecPath = "glove.6B.50d.txt"
         self.wordDim = int(self.wordVecPath.split('.')[2][:-1])
+        self.nTokens = int(self.wordVecPath.split('.')[1][:-1])
+
+        self.embedIndRoot = "./embed"
+        self.embedIndPath = "emb.6B.50d.txt"
+        self.embedIndPkl = "emb.6B.50d.pkl"

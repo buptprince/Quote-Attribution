@@ -1,4 +1,6 @@
-glove.840B.300d.txt
+glove/**
+data/**
+embed/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
