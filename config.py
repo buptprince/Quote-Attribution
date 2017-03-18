@@ -12,5 +12,4 @@ class Config:
         self.nTokens = int(self.wordVecPath.split('.')[1][:-1])
 
         self.embedIndRoot = "./embed"
-        self.embedIndPath = "emb.6B.50d.txt"
         self.embedIndPkl = "emb.6B.50d.pkl"

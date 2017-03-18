@@ -10,7 +10,7 @@ class Embed:
             self.getEmbedInd()
 
     def getEmbedInd(self):
-        embeddings_index = {}
+        embedInd = {}
 
         print "Opening", self.config.wordVecPath
         f = open(os.path.join(self.config.wordVecRoot, self.config.wordVecPath))
@@ -18,21 +18,23 @@ class Embed:
             values = line.split()
             word = values[0]
             coefs = np.asarray(values[1:], dtype='float32')
-            embeddings_index[word] = coefs
+            embedInd[word] = coefs
         f.close()
 
-        print('Found %s word vectors.' % len(embeddings_index))
+        print('Found %s word vectors.' % len(embedInd))
         with open(os.path.join(self.config.embedIndRoot, self.config.embedIndPkl), 'wb') as f:
-            pickle.dump(embeddings_index, f)
+            pickle.dump(embedInd, f)
             print "Pickled Embedding Matrix as", self.config.embedIndPkl
 
     def _loadEmbInd(self):
-        pass
-        
-    def getQVec(self):
-        pass
+        print "Loading Word Embedding Index"
+        with open(os.path.join(self.config.embedIndRoot, self.config.embedIndPkl), 'rb') as f:
+            return pickle.load(f)
+
+    def getQVec(self, d):
+        emdedInd = self._loadEmbInd()
 
 
 if __name__ == '__main__':
     obj = Embed()
-    obj.getEmbedInd()
+    obj.getQVec(["hello", "my", "name", "is"])
