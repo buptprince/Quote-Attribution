@@ -1,10 +1,14 @@
 from config import Config
 import os, pickle
+from preprocess import Preprocess
 
 class Util:
     def __init__(self):
         self.config = Config()
+        self.preprocess = Preprocess()
         self.speakers = []
+        
+        self.getSpeakers()
 
     def getSpeakers(self):
         root = self.config.cleanedRoot
@@ -15,9 +19,10 @@ class Util:
             break
 
     def addSpeaker(self, sess):
-        pass
-
+        for line in sess:
+            name = self.preprocess.cleanName(line[0])
+            if not name in self.speakers:
+                self.speakers.append(name)
 
 if __name__ == '__main__':
     obj = Util()
-    obj.getSpeakers()
