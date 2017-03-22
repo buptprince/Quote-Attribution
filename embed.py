@@ -1,3 +1,16 @@
+'''
+ Word Embedding Class
+ Transforms given sentence into 50d word vector.
+ If,
+ Q = {W1, W2, W3, ... Wn}
+ Wn = [a1, a2, a3, ... an]
+ Qvec = Simple mean of Q along axis 0
+
+ Methods:
+    loadData(): open the pretrained GloVe files and create Gensim model
+    getQuoteVec(): convert the sentence into 50d vector
+'''
+
 import numpy as np
 from config import Config
 import os, pickle, gensim

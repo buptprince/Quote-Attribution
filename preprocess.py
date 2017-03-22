@@ -1,3 +1,14 @@
+'''
+ Preprocessing Class
+ Clean and process the raw files into <sess>.cleaned.bin
+
+ Methods:
+    cleanFile(): for a given file name it cleans and process data
+    cleanName(): process speaker names
+    cleanDial(): clean and process the dialogue
+    tokenizeQuote(): tokenize the quote by words
+'''
+
 import pickle, os, re
 import nltk
 

@@ -1,11 +1,20 @@
-
 '''
-    Contains all the tuning parameters for all the models
-    along with the word embedding configs
+ Configuration Class
+ Contains all the tuning parameters for all the models
+ along with the word embedding configs
+
+ Attributes:
+    wordVecRoot: root dir of glove pretrained dataset
+    wordVecPath: pretrained word vector path
+    wordDim: Dimension of word vector
+    nToken: number of words
 '''
 
 class Config:
     def __init__(self):
+        self.urlRoot = "http://www.imsdb.com"
+        self.url = "http://www.imsdb.com/TV/Seinfeld.html"
+
         self.wordVecRoot = "./glove"
         self.wordVecPath = "glove.6B.50d.txt"
         self.wordVecModelPath = "glove.6B.50d.model.txt"
@@ -13,7 +22,4 @@ class Config:
         self.nTokens = int(self.wordVecPath.split('.')[1][:-1])
 
         self.cleanedRoot = "./data/cleaned"
-
-
-        # self.embedIndRoot = "./embed"
-        # self.embedIndPkl = "emb.6B.50d.pkl"
+        self.cachedLinks = "cache/links.pkl"

@@ -1,12 +1,26 @@
+'''
+ Scraper Class
+ Scrapes the url and stores the raw data
+
+ Attributes:
+    process: stores the data for current in process episode
+
+ Methods:
+    extractLinks(): extract all the episode links from Config.url
+    scrapeLink(): for every link scrape the page
+    scrapePage(): scrape the link for the givel url
+    extractScript(): extract the scripts from the page
+'''
+
+
 from bs4 import BeautifulSoup as bs
+from config import Config
 import urllib2, pickle, re, os
 
 class Scraper:
 
     def __init__(self):
-        self.url = "http://www.imsdb.com/TV/Seinfeld.html"
-        self.root = "http://www.imsdb.com"
-
+        self.configs = Config()
         self.process = {
             'season': None,
             'episode': None
@@ -16,7 +30,7 @@ class Scraper:
         self.scrapeLinks()
 
     def extractLinks(self):
-        with open("cache/%s" % self.url.split('/')[-1], "r") as f:
+        with open("cache/%s" % self.configs.url.split('/')[-1], "r") as f:
             soup = bs(f.read())
             mdiv = soup.find_all(valign="top")[1]
             mdiv = mdiv.find(valign="top")
@@ -29,13 +43,13 @@ class Scraper:
                     series.append([])
                     continue
                 if child.name == 'p':
-                    series[i].append(self.root+child.a['href'])
-        with open("cache/links.pkl", "wb") as f:
+                    series[i].append(self.configs.urlRoot+child.a['href'])
+        with open(self.configs.cachedLinks, "wb") as f:
             pickle.dump(series, f)
             del series, soup
 
     def scrapeLinks(self):
-        with open("cache/links.pkl", "rb") as f:
+        with open(self.configs.cachedLinks, "rb") as f:
             series =  pickle.load(f)
             for season in series:
                 self.process['season'] = series.index(season)+1
@@ -50,7 +64,7 @@ class Scraper:
 
         reg = re.compile(r'Read \"[\s\S]*\" Script')
         elements = [e for e in soup.find_all('a') if reg.match(e.text)][0]
-        self.extractScript(self.root+urllib2.quote(elements['href']))
+        self.extractScript(self.configs.urlRoot+urllib2.quote(elements['href']))
 
 
     def extractScript(self, link):
@@ -80,8 +94,8 @@ class Scraper:
 
 
     def cache(self):
-        html = urllib2.urlopen(self.url).read()
-        with open("cache/%s" % self.url.split('/')[-1], "w") as f:
+        html = urllib2.urlopen(self.configs.url).read()
+        with open("cache/%s" % self.configs.url.split('/')[-1], "w") as f:
             f.write(html)
 
 if __name__ == '__main__':
