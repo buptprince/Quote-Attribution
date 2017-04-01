@@ -28,7 +28,6 @@ class Util:
             pth = os.path.join(root, f)
             with open(pth, 'rb') as f:
                 self.addSpeaker(pickle.load(f))
-            break
         return self.speakers
 
     def addSpeaker(self, sess):

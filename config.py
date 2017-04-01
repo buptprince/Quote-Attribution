@@ -23,3 +23,5 @@ class Config:
 
         self.cleanedRoot = "./data/cleaned"
         self.cachedLinks = "cache/links.pkl"
+
+        self.qVecMatPath = "./data/vec"
