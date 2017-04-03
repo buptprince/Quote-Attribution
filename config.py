@@ -25,3 +25,12 @@ class Config:
         self.cachedLinks = "cache/links.pkl"
 
         self.qVecMatPath = "./data/vec"
+
+        # Parameter for Machine Learning Models
+        # MLP Model
+        self.mlp = {
+            'nHidden': 10,
+            'alpha': 0.2,
+            'stddev': 0.5,
+            'train': 0.70,
+        }

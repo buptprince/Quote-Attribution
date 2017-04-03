@@ -19,6 +19,7 @@ class Util:
         self.config = Config()
         self.preprocess = Preprocess()
         self.speakers = []
+        self.nSpeakers = 0
 
         self.getSpeakers()
 
@@ -28,6 +29,7 @@ class Util:
             pth = os.path.join(root, f)
             with open(pth, 'rb') as f:
                 self.addSpeaker(pickle.load(f))
+        self.nSpeakers = len(self.speakers)
         return self.speakers
 
     def addSpeaker(self, sess):
@@ -38,3 +40,4 @@ class Util:
 
 if __name__ == '__main__':
     obj = Util()
+    # print obj.speakers
