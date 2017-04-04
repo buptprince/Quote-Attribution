@@ -36,6 +36,19 @@ class mlp:
         return tf.Variable(weight)
 
     def model(self):
+        self.X = tf.placeholder("float", shape=[None, self.config.wordDim])
+        self.y = tf.placeholder("float", shape=[None, self.util.nSpeakers])
+
+        self.W1 = self.initWeight([self.config.wordDim, self.config.mlp['nHidden']])
+        self.W2 = self.initWeight([self.config.mlp['nHidden'], self.util.nSpeakers])
+
+        self.yhat = self.forwardProp(self.X, self.W1, self.W2)
+        self.predict = tf.argmax(self.yhat, axis=1)
+
+        self.cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=self.y, logits=self.yhat))
+        self.update = tf.train.GradientDescentOptimizer(self.config.mlp['alpha']).minimize(self.cost)
+
+    def train(self):
         dataPath = self.config.qVecMatPath
         X, Y = self.loadData()
 
@@ -45,18 +58,6 @@ class mlp:
 
         print "Xtrain:", Xtrain.shape, "Xtest:", Xtest.shape
         print "Ytrain:", Ytrain.shape, "Ytest:", Ytest.shape
-
-        X = tf.placeholder("float", shape=[None, self.config.wordDim])
-        y = tf.placeholder("float", shape=[None, self.util.nSpeakers])
-
-        W1 = self.initWeight([self.config.wordDim, self.config.mlp['nHidden']])
-        W2 = self.initWeight([self.config.mlp['nHidden'], self.util.nSpeakers])
-
-        yhat = self.forwardProp(X, W1, W2)
-        predict = tf.argmax(yhat, axis=1)
-
-        cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y, logits=yhat))
-        update = tf.train.GradientDescentOptimizer(self.config.mlp['alpha']).minimize(cost)
 
 
 if __name__ == '__main__':
