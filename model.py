@@ -64,6 +64,7 @@ class mlp:
         init = tf.global_variables_initializer()
         sess.run(init)
 
+        saver = tf.train.Saver()
         for epoch in xrange(self.config.mlp['epochs']):
             sess.run(self.update, feed_dict={
                 self.X: Xtrain,
@@ -73,18 +74,30 @@ class mlp:
             trainAccuracy = np.mean(np.argmax(Ytrain, axis=1) ==
                                  sess.run(self.predict, feed_dict={
                                  self.X: Xtrain,
-                                 self.y: Ytrain
+
                                 }))
             testAccuracy  = np.mean(np.argmax(Ytest, axis=1) ==
                                  sess.run(self.predict, feed_dict={
                                  self.X: Xtest,
-                                 self.y: Ytest
+
                                 }))
             if epoch%self.config.mlp['disp'] == 0:
                 print("Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%"
               % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy))
 
+        save_path = saver.save(sess, self.config.mlp['modelPath'])
+        print "Model saved in file: %s" % save_path
         sess.close()
+
+    def predict(self, X):
+        with tf.Session() as sess:
+            sess.restore(sess, self.config.mlp['modelPath'])
+            Yhat = sess.run(self.predict, feed_dict={
+                self.X: X
+            })
+
+            print Yhat
+
 
 
 if __name__ == '__main__':

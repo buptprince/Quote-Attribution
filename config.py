@@ -30,9 +30,10 @@ class Config:
         # MLP Model
         self.mlp = {
             'nHidden': 1200,
-            'alpha': 0.3,
+            'alpha': 0.2,
             'stddev': 0.5,
             'train': 0.70,
-            'epochs': 3000,
-            'disp': 50
+            'epochs': 1000,
+            'disp': 50,
+            'modelPath': './bin/mlp.ckpl'
         }
