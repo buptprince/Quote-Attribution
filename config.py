@@ -40,12 +40,24 @@ class Config:
 
         # RNN Model
         self.rnn = {
-            'isLSTM': False,
-            'numStep': 20,
-            'stateSize': 60,
-            'alpha': 0.2,
-            'train': 0.7,
-            'epochs': 100,
-            'disp': 50,
-            'modelPath': './bin/rnn.ckpl'
+            'basic': {
+                'numStep': 10,
+                'stateSize': 22,
+                'alpha': 0.2,
+                'stddev': 0.5,
+                'train': 0.7,
+                'epochs': 500,
+                'disp': 50,
+                'modelPath': './bin/rnn.basic.ckpl'
+            },
+            'LSTM': {
+                'numStep': 10,
+                'stateSize': 40,
+                'alpha': 0.2,
+                'stddev': 0.5,
+                'train': 0.7,
+                'epochs': 500,
+                'disp': 50,
+                'modelPath': './bin/rnn.lstm.ckpl'
+            }
         }

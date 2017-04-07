@@ -76,8 +76,8 @@ class mlp:
                                  self.X: self.Xtest,
                                 }))
             if epoch%self.config.mlp['disp'] == 0:
-                print("Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%"
-              % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy))
+                print "Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%"
+              % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy)
 
         # save_path = saver.save(sess, self.config.mlp['modelPath'])
         # print "Model saved in file: %s" % save_path
