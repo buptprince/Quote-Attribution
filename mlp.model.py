@@ -1,3 +1,19 @@
+'''
+ Multi Layered Perceptron Model
+ 3 layered perceptron model with
+ 1st Layer[Input Layer]: 50 nodes [config.wordDim]
+ 2nd Layer[Hidden Layer]: 1200 Nodes [config.mlp['nHidden']]
+ 3rd Layer[Output Layer]: 65 Nodes [util.nSpeakers]
+
+ H = sigmoid(X.W1)
+ Yhat = softmax(H.W2)
+
+ Test Accuracy: 36.96%
+ Train Accuracy: 41.98%
+'''
+
+
+
 import tensorflow as tf
 import numpy as np
 import os, pickle
@@ -9,23 +25,10 @@ class mlp:
         self.config = Config()
         self.util = Util()
 
-    def loadData(self):
-        dataPath = self.config.qVecMatPath
-        X = None
-
-        for fname in os.listdir(dataPath):
-            with open(os.path.join(dataPath, fname), 'rb') as f:
-                mat = pickle.load(f)
-                if X is None:
-                    X = mat
-                    continue
-                X = np.append(X, mat, axis=0)
-
-        X= np.array(X)
-        Y = np.array(X[:, 0], dtype=int)
-        Y = np.eye(self.util.nSpeakers)[Y]
-        X = X[:, 1:]
-        return X, Y
+        X, Y = self.util.loadData()
+        trainLen = int(X.shape[0]*self.config.mlp['train'])
+        self.Xtrain, self.Xtest = X[:trainLen], X[trainLen:]
+        self.Ytrain, self.Ytest = Y[:trainLen], Y[trainLen:]
 
     def forwardProp(self, X, W1, W2):
         h = tf.nn.sigmoid(tf.matmul(X, W1))
@@ -50,15 +53,8 @@ class mlp:
         self.update = tf.train.GradientDescentOptimizer(self.config.mlp['alpha']).minimize(self.cost)
 
     def train(self):
-        dataPath = self.config.qVecMatPath
-        X, Y = self.loadData()
-
-        trainLen = int(X.shape[0]*self.config.mlp['train'])
-        Xtrain, Xtest = X[:trainLen], X[trainLen:]
-        Ytrain, Ytest = Y[:trainLen], Y[trainLen:]
-
-        print "Xtrain:", Xtrain.shape, "Xtest:", Xtest.shape
-        print "Ytrain:", Ytrain.shape, "Ytest:", Ytest.shape
+        print "Xtrain:", self.Xtrain.shape, "Xtest:", self.Xtest.shape
+        print "Ytrain:", self.Ytrain.shape, "Ytest:", self.Ytest.shape
 
         sess = tf.Session()
         init = tf.global_variables_initializer()
@@ -67,26 +63,24 @@ class mlp:
         saver = tf.train.Saver()
         for epoch in xrange(self.config.mlp['epochs']):
             sess.run(self.update, feed_dict={
-                self.X: Xtrain,
-                self.y: Ytrain
+                self.X: self.Xtrain,
+                self.y: self.Ytrain
             })
 
             trainAccuracy = np.mean(np.argmax(Ytrain, axis=1) ==
                                  sess.run(self.predict, feed_dict={
-                                 self.X: Xtrain,
-
+                                 self.X: self.Xtrain,
                                 }))
             testAccuracy  = np.mean(np.argmax(Ytest, axis=1) ==
                                  sess.run(self.predict, feed_dict={
-                                 self.X: Xtest,
-
+                                 self.X: self.Xtest,
                                 }))
             if epoch%self.config.mlp['disp'] == 0:
                 print("Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%"
               % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy))
 
-        save_path = saver.save(sess, self.config.mlp['modelPath'])
-        print "Model saved in file: %s" % save_path
+        # save_path = saver.save(sess, self.config.mlp['modelPath'])
+        # print "Model saved in file: %s" % save_path
         sess.close()
 
     def predict(self, X):
@@ -95,10 +89,7 @@ class mlp:
             Yhat = sess.run(self.predict, feed_dict={
                 self.X: X
             })
-
             print Yhat
-
-
 
 if __name__ == '__main__':
     obj = mlp()

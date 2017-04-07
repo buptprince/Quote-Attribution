@@ -37,3 +37,15 @@ class Config:
             'disp': 50,
             'modelPath': './bin/mlp.ckpl'
         }
+
+        # RNN Model
+        self.rnn = {
+            'isLSTM': False,
+            'numStep': 20,
+            'stateSize': 60,
+            'alpha': 0.2,
+            'train': 0.7,
+            'epochs': 100,
+            'disp': 50,
+            'modelPath': './bin/rnn.ckpl'
+        }

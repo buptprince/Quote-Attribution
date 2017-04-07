@@ -11,8 +11,9 @@
 '''
 
 from config import Config
-import os, pickle
 from preprocess import Preprocess
+import os, pickle
+import numpy as np
 
 class Util:
     def __init__(self):
@@ -37,6 +38,24 @@ class Util:
             name = self.preprocess.cleanName(line[0])
             if not name in self.speakers:
                 self.speakers.append(name)
+
+    def loadData(self):
+        dataPath = self.config.qVecMatPath
+        X = None
+
+        for fname in os.listdir(dataPath):
+            with open(os.path.join(dataPath, fname), 'rb') as f:
+                mat = pickle.load(f)
+                if X is None:
+                    X = mat
+                    continue
+                X = np.append(X, mat, axis=0)
+
+        X= np.array(X)
+        Y = np.array(X[:, 0], dtype=int)
+        Y = np.eye(self.nSpeakers)[Y]
+        X = X[:, 1:]
+        return X, Y
 
 if __name__ == '__main__':
     obj = Util()
