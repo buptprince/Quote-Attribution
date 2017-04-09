@@ -31,9 +31,11 @@ class rnn:
         if self.cellType is "LSTM":
             cell = tf.contrib.rnn.BasicLSTMCell(self.config.rnn['stateSize'])
             print "Loaded basic LSTM Cell"
-        else:
+        elif self.cellType is "basic":
             cell = tf.contrib.rnn.BasicRNNCell(self.config.rnn['stateSize'])
             print "Loaded basic RNN Cell"
+        elif self.cellType is "GRU":
+            cell = tf.contrib.rnn.GRUCell(self.config.rnn['stateSize'])
         return cell
 
     def genBatch(self, x):
@@ -73,6 +75,7 @@ class rnn:
         init = tf.global_variables_initializer()
         sess.run(init)
 
+        saver = tf.train.Saver()
         for epoch in xrange(self.config.rnn['epochs']):
             sess.run(self.update, feed_dict={
                 self.X: self.Xtrain,
@@ -92,9 +95,11 @@ class rnn:
             if (epoch+1) % self.config.rnn['disp'] == 0:
                 print "Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%" % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy)
 
+        save_path = saver.save(sess, self.config.rnn['modelPath'])
+        print "Model saved in file: %s" % save_path
         sess.close()
 
 if __name__ == '__main__':
-    obj = rnn(cellType="basic")
+    obj = rnn(cellType="LSTM")
     obj.model()
     obj.train()
