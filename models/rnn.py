@@ -66,7 +66,9 @@ class rnn:
         self.cost = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=self.y, logits=logits))
         self.update = tf.train.AdamOptimizer(self.config.rnn['alpha']).minimize(self.cost)
 
-        self.accuracy = tf.equal(tf.argmax(logits,1), tf.argmax(self.y,1))
+        self.predict = tf.argmax(tf.reshape(logits, [-1, self.util.nSpeakers]),1)
+        y_ = tf.argmax(tf.reshape(self.y, [-1, self.util.nSpeakers]),1)
+        self.accuracy = tf.equal(self.predict, y_)
 
     def train(self):
         print "Xtrain:", self.Xtrain.shape, "Xtest:", self.Xtest.shape
@@ -96,9 +98,21 @@ class rnn:
             if (epoch+1) % self.config.rnn['disp'] == 0:
                 print "Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%" % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy)
 
-        # save_path = saver.save(sess, self.config.rnn['modelPath'])
-        # print "Model saved in file: %s" % save_path
+        save_path = saver.save(sess, self.config.rnn['modelPath'])
+        print "Model saved in file: %s" % save_path
         sess.close()
+
+    def hypothesis(self):
+        X = self.Xtest
+        print np.argmax(self.Ytest.reshape(-1 ,self.Ytest.shape[-1]), axis=1)
+
+        saver = tf.train.Saver()
+        with tf.Session() as sess:
+            saver.restore(sess, self.config.rnn['modelPath'])
+            Yhat = sess.run(self.predict, feed_dict={
+                self.X: X
+            })
+            return Yhat
 
 if __name__ == '__main__':
     os.chdir('..')
@@ -106,3 +120,4 @@ if __name__ == '__main__':
     obj = rnn(cellType="LSTM")
     obj.model()
     obj.train()
+    # print obj.hypothesis()

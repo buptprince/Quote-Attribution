@@ -45,7 +45,7 @@
 \IEEEauthorblockA{Computer Science and Engineering\\
 SRM University, Kattankulathur\\
 Chennai, India 603203\\
-Email: sayandas@srmuniv.edu.in}}
+Email: sayan\_das@srmuniv.edu.in}}
 
 
 % make the title area
@@ -86,8 +86,16 @@ Given a quote $q$ consists of $\{w_1, w_2, w_3 ... w_n\}$ word vectors and the n
 \end{center}
 
 \section{Models}
-\subsection{Multi Layered Perceptron}
+\subsection{n-Way Multi Layered Perceptron}
+This model consist of 1 hiddenl layer with softmax output layer, that takes quote vector ($\overrightarrow{\rm q}$) as input. Input layer consist of \emph{d} nodes and output layer consist on \emph{n} (\emph{n} is number of speakers) nodes. It requires predetermined list of speaker's list.
 
+\begin{center}
+	$f(\overrightarrow{\rm q}) = W.\overrightarrow{\rm q} + b$\\
+	$h = sigmoid(f(\overrightarrow{\rm q}))$\\
+	$\hat{y} = softmax(h)$
+\end{center}
+
+Then the speaker can be predicted by $argmax_i(\hat{y})$, where in \emph{i} is the index of speaker in speaker list.
 
 \appendices
 \section{Proof of the First Zonklar Equation}

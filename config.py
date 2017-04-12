@@ -29,11 +29,11 @@ class Config:
         # Parameter for Machine Learning Models
         # MLP Model
         self.mlp = {
-            'nHidden': 1200,
+            'nHidden': 220,
             'alpha': 0.2,
             'stddev': 0.5,
             'train': 0.70,
-            'epochs': 1000,
+            'epochs': 2000,
             'disp': 50,
             'modelPath': './bin/mlp.ckpl'
         }
@@ -42,17 +42,17 @@ class Config:
         self.rnn = {
             'basic': {
                 'numStep': 10,
-                'stateSize': 22,
+                'stateSize': 12,
                 'alpha': 0.2,
-                'stddev': 0.5,
+                'stddev': 0.3,
                 'train': 0.7,
-                'epochs': 500,
+                'epochs': 5000,
                 'disp': 50,
                 'modelPath': './bin/rnn.basic.ckpl'
             },
             'LSTM': {
-                'numStep': 4,
-                'stateSize': 20,
+                'numStep': 5,
+                'stateSize': 140,
                 'alpha': 0.2,
                 'stddev': 0.5,
                 'train': 0.7,

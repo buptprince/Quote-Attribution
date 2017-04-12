@@ -79,21 +79,21 @@ class mlp:
             if epoch%self.config.mlp['disp'] == 0:
                 print "Epoch = %d, train accuracy = %.2f%%, test accuracy = %.2f%%" % (epoch + 1, 100. * trainAccuracy, 100. * testAccuracy)
 
-        # save_path = saver.save(sess, self.config.mlp['modelPath'])
-        # print "Model saved in file: %s" % save_path
+        save_path = saver.save(sess, self.config.mlp['modelPath'])
+        print "Model saved in file: %s" % save_path
         sess.close()
 
-    def predict(self, X):
+    def hypothesis(self, X):
         with tf.Session() as sess:
             sess.restore(sess, self.config.mlp['modelPath'])
             Yhat = sess.run(self.predict, feed_dict={
                 self.X: X
             })
-            print Yhat
+            return Yhat
 
 if __name__ == '__main__':
     os.chdir('..')
-    
+
     obj = mlp()
     obj.model()
     obj.train()
