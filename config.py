@@ -52,7 +52,7 @@ class Config:
             },
             'LSTM': {
                 'numStep': 5,
-                'stateSize': 140,
+                'stateSize': 40,
                 'alpha': 0.2,
                 'stddev': 0.5,
                 'train': 0.7,

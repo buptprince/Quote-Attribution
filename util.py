@@ -22,6 +22,14 @@ class Util:
         self.speakers = []
         self.nSpeakers = 0
 
+        self.patch = ["george", ["goerge", "georgge"]]
+        self.mainCharacters = [
+            "george",
+            "jerry",
+            "kramer",
+            "laura"
+        ]
+
         self.getSpeakers()
 
     def getSpeakers(self):
@@ -36,10 +44,12 @@ class Util:
     def addSpeaker(self, sess):
         for line in sess:
             name = self.preprocess.cleanName(line[0])
+            if name in self.patch[1]:
+                name = self.patch[0]
             if not name in self.speakers:
                 self.speakers.append(name)
 
-    def loadData(self):
+    def loadData(self, redChars = False):
         dataPath = self.config.qVecMatPath
         X = None
 
@@ -52,11 +62,27 @@ class Util:
                 X = np.append(X, mat, axis=0)
 
         X= np.array(X)
+        if redChars:
+            X = self.reduceCharacters(X)
         Y = np.array(X[:, 0], dtype=int)
         Y = np.eye(self.nSpeakers)[Y]
         X = X[:, 1:]
         return X, Y
 
+    def reduceCharacters(self, mat):
+        for char in self.mainCharacters:
+            Oi = self.speakers.index(char)
+            Ni = (self.mainCharacters.index(char)+1)*(-1) # Negative index to prevent updating updated values again
+
+            mat[np.where(mat[:,0] == Oi),0] = Ni
+        # Bin speakers not in mainCharacters list to 'others'
+        mat[np.where(mat[:,0] >= 0), 0] = len(self.mainCharacters)+1-1
+        # Convert negative index to positive form
+        mat[np.where(mat[:,0] < 0), 0] = mat[np.where(mat[:,0] < 0), 0]*(-1)-1
+        self.nSpeakers = len(self.mainCharacters)+1
+        return mat
+
 if __name__ == '__main__':
     obj = Util()
-    # print obj.speakers
+    obj.loadData(redChars=True)
+    print obj.speakers

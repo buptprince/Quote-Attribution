@@ -6,6 +6,6 @@ if __name__ == '__main__':
     obj.model()
     obj.train()
 
-    # obj = rnn(cellType="basic")
+    # obj = rnn(cellType="GRU")
     # obj.model()
     # obj.train()

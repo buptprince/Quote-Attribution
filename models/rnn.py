@@ -19,7 +19,7 @@ class rnn:
         self.config.rnn = self.config.rnn[self.cellType]
         self.util = Util()
 
-        X, Y = self.util.loadData()
+        X, Y = self.util.loadData(redChars=True)
         trainLen = int(X.shape[0]*self.config.rnn['train'])
         self.Xtrain, self.Xtest = X[:trainLen], X[trainLen:]
         self.Ytrain, self.Ytest = Y[:trainLen], Y[trainLen:]
@@ -30,7 +30,7 @@ class rnn:
     def rnnCell(self):
         cell = None
         if self.cellType is "LSTM":
-            cell = tf.contrib.rnn.BasicLSTMCell(self.config.rnn['stateSize'])
+            cell = tf.contrib.rnn.LSTMCell(self.config.rnn['stateSize'])
             print "Loaded basic LSTM Cell"
         elif self.cellType is "basic":
             cell = tf.contrib.rnn.BasicRNNCell(self.config.rnn['stateSize'])
