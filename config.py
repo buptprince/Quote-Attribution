@@ -62,12 +62,12 @@ class Config:
             },
             'GRU': {
                 'numStep': 4,
-                'stateSize': 42,
+                'stateSize': 22,
                 'alpha': 0.2,
                 'stddev': 0.5,
                 'train': 0.7,
-                'epochs': 2500,
-                'disp': 50,
+                'epochs': 200,
+                'disp': 10,
                 'modelPath': './bin/rnn.gru.ckpl'
             }
         }

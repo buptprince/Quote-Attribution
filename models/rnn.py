@@ -11,13 +11,17 @@ import tensorflow as tf
 import numpy as np
 import os, pickle, sys
 sys.path.insert(0, '..')
+
 from config import Config
 from util import Util
+import sklearn.metrics as metrics
+
 
 class rnn:
     def __init__(self, cellType="basic", wrapDropout=False, redChars=False):
         self.cellType = cellType
         self.wrapDropout = wrapDropout
+        self.name = self.cellType + " Cell Type RNN Model"
 
         self.config = Config()
         self.config.rnn = self.config.rnn[self.cellType]
@@ -111,10 +115,7 @@ class rnn:
         print "Model saved in file: %s" % save_path
         sess.close()
 
-    def hypothesis(self):
-        X = self.Xtest
-        print np.argmax(self.Ytest.reshape(-1 ,self.Ytest.shape[-1]), axis=1)
-
+    def forecast(self, X):
         saver = tf.train.Saver()
         with tf.Session() as sess:
             saver.restore(sess, self.config.rnn['modelPath'])
@@ -126,7 +127,15 @@ class rnn:
 if __name__ == '__main__':
     os.chdir('..')
 
-    obj = rnn(cellType="LSTM")
+    obj = rnn(cellType="LSTM", redChars=True, wrapDropout=True)
     obj.model()
     obj.train()
-    # print obj.hypothesis()
+
+    Yhat = obj.forecast(obj.Xtest)
+    Y = obj.Ytest
+
+    Y = Y.reshape(-1, Y.shape[-1])
+    Y = np.argmax(Y, axis=1)
+    cm = metrics.confusion_matrix(Y, Yhat)
+
+    print cm

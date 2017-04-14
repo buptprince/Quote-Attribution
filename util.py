@@ -25,7 +25,7 @@ class Util:
         self.patch = ["george", ["goerge", "georgge"]]
         self.mainCharacters = [
             "george",
-            "jerry",
+            "elaine",
             "kramer",
             "laura"
         ]
@@ -79,6 +79,7 @@ class Util:
         mat[np.where(mat[:,0] >= 0), 0] = len(self.mainCharacters)+1-1
         # Convert negative index to positive form
         mat[np.where(mat[:,0] < 0), 0] = mat[np.where(mat[:,0] < 0), 0]*(-1)-1
+
         self.nSpeakers = len(self.mainCharacters)+1
         return mat
 

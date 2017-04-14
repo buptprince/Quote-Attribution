@@ -25,6 +25,7 @@ class mlp:
     def __init__(self):
         self.config = Config()
         self.util = Util()
+        self.name = "MLP Model"
 
         X, Y = self.util.loadData()
         trainLen = int(X.shape[0]*self.config.mlp['train'])
@@ -83,7 +84,7 @@ class mlp:
         print "Model saved in file: %s" % save_path
         sess.close()
 
-    def hypothesis(self, X):
+    def forecast(self, X):
         with tf.Session() as sess:
             sess.restore(sess, self.config.mlp['modelPath'])
             Yhat = sess.run(self.predict, feed_dict={
