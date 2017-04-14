@@ -1,7 +1,10 @@
 '''
  Recurrent Neural Network Model
+ 3 layered RNN Models with defferent cell types
+ with L2 Regularization using Dropout optimization
 
-
+ Input Dimension Def.: Batch Size X Num Steps X Input Vector
+ Output Dimension Def.: Batch Size * Num Steps X Speaker Vector
 '''
 
 import tensorflow as tf
@@ -12,14 +15,15 @@ from config import Config
 from util import Util
 
 class rnn:
-    def __init__(self, cellType="basic"):
+    def __init__(self, cellType="basic", wrapDropout=False, redChars=False):
         self.cellType = cellType
+        self.wrapDropout = wrapDropout
 
         self.config = Config()
         self.config.rnn = self.config.rnn[self.cellType]
         self.util = Util()
 
-        X, Y = self.util.loadData(redChars=True)
+        X, Y = self.util.loadData(redChars=redChars)
         trainLen = int(X.shape[0]*self.config.rnn['train'])
         self.Xtrain, self.Xtest = X[:trainLen], X[trainLen:]
         self.Ytrain, self.Ytest = Y[:trainLen], Y[trainLen:]
@@ -37,6 +41,11 @@ class rnn:
             print "Loaded basic RNN Cell"
         elif self.cellType is "GRU":
             cell = tf.contrib.rnn.GRUCell(self.config.rnn['stateSize'])
+            print "Loaded GRU Cell"
+
+        if self.wrapDropout:
+            cell = tf.contrib.rnn.core_rnn_cell.DropoutWrapper(cell)
+            print "Added Dropout Wrapper"
         return cell
 
     def genBatch(self, x):

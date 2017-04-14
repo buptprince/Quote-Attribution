@@ -46,18 +46,18 @@ class Config:
                 'alpha': 0.2,
                 'stddev': 0.3,
                 'train': 0.7,
-                'epochs': 5000,
-                'disp': 50,
+                'epochs': 300,
+                'disp': 20,
                 'modelPath': './bin/rnn.basic.ckpl'
             },
             'LSTM': {
-                'numStep': 5,
-                'stateSize': 40,
+                'numStep': 4,
+                'stateSize': 100,
                 'alpha': 0.2,
                 'stddev': 0.5,
                 'train': 0.7,
-                'epochs': 5000,
-                'disp': 50,
+                'epochs': 200,
+                'disp': 20,
                 'modelPath': './bin/rnn.lstm.ckpl'
             },
             'GRU': {
