@@ -22,8 +22,6 @@ class Embed:
         self.loadData()
         self.util = Util()
 
-        self.patch = ["george", ["goerge", "georgge"]]
-
     def loadData(self):
         gensim_file = os.path.join(self.config.wordVecRoot, self.config.wordVecModelPath)
         self.wordVec = gensim.models.KeyedVectors.load_word2vec_format(gensim_file, binary=False)
@@ -41,33 +39,21 @@ class Embed:
 
     def saveQuoteVec(self):
         print "Saving Quote Vector Matrix"
-        root = self.config.cleanedRoot
-        vecMatRoot = self.config.qVecMatPath
-        for fname in os.listdir(root):
-            pth = os.path.join(root, fname)
+        pth = self.config.cleanedData
+        vecMatPath = self.config.qVecMatPath
+        with open(pth, 'rb') as f:
             mat = []
-            with open(pth, 'rb') as f:
-                for dial in pickle.load(f):
-                    if len(dial) == 2 and isinstance(dial[1], list):
-                        spk = None
-                        if dial[0] in self.patch[1]:
-                            spk = self.util.speakers.index(self.patch[0])
-                        else:
-                            spk = self.util.speakers.index(dial[0])
-                        qVec = self.getQuoteVec(dial[1])
-                        # qVec = np.random.rand(50)
-                        if qVec == None:
-                            continue
-                        mat.append(np.append(np.array([spk]), qVec))
-            mat = np.mat(mat)
-            f_ = fname.split('.')[0]+".vecmat.bin"
-            f_ = os.path.join(vecMatRoot, f_)
-
-            with open(f_, 'wb') as f:
+            for dial in pickle.load(f):
+                spk = self.util.speakers.index(dial[0])
+                qVec = self.getQuoteVec(dial[1])
+                # qVec = np.random.rand(50)
+                if qVec is None:
+                    continue
+                mat.append(np.append(np.array([spk]), qVec))
+            mat = np.array(mat)
+            with open(vecMatPath, 'wb') as f:
                 pickle.dump(mat, f)
-                print "[SUCCESS] ", f_, mat.shape
-
-
+                print "[SUCCESS] ", vecMatPath, mat.shape
 
 if __name__ == '__main__':
     obj = Embed()

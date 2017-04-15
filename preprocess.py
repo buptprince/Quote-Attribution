@@ -11,28 +11,22 @@
 
 import pickle, os, re
 import nltk
+from config import Config
 
 class Preprocess:
 
     def cleanFile(self, fname):
-        script = pickle.load(open(os.path.join("data", fname), 'rb'))
+        script = open(fname, 'r').read().split('\n')
+        cleaned = []
         for i in xrange(len(script)):
-            script[i][0] = self.cleanName(script[i][0])
-            script[i][1] = self.cleanDial(script[i][1])
-            script[i][1] = self.tokenizeQuote(script[i][1])
+            row = script[i].split("\t")
+            row[1] = self.cleanName(row[1])
+            row[2] = self.cleanDial(row[2])
+            cleaned.append([row[1], self.tokenizeQuote(row[2])])
 
-            # Check for 'jerry and john' and split it 2 unique quotes
-            if re.match(r'(.+) and (.*)', script[i][0]):
-                actors = script[i][0].split(" and ")
-
-                script[i][0] = actors[0]
-                script.insert(i, [actors[1], script[i][1]])
-        fname = fname.split('.')
-        fname.insert(1, 'clean')
-        fname = ".".join(fname)
-        pickle.dump(script, open(os.path.join("data", "cleaned", fname), 'wb'))
-        del script
-        print "[SUCCESS] Cleaned", fname
+        pickle.dump(cleaned, open("./data/cleaned.bin", 'wb'))
+        del cleaned, script
+        print "[SUCCESS] Cleaned at ./data/cleaned.bin"
 
     def cleanName(self, name):
         return name.strip().lower()
@@ -47,12 +41,6 @@ class Preprocess:
         else:
             return d
 
-    def cleanAllFiles(self):
-        for f in os.listdir('data'):
-            if f == "cleaned":
-                continue
-            self.cleanFile(f)
-
     def tokenizeQuote(self, quote):
         if not isinstance(quote, list):
             return nltk.word_tokenize(quote)
@@ -60,4 +48,4 @@ class Preprocess:
             return quote
 
 if __name__ == '__main__':
-    Preprocess().cleanAllFiles()
+    Preprocess().cleanFile(Config().rawData)

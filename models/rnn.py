@@ -50,6 +50,7 @@ class rnn:
         if self.wrapDropout:
             cell = tf.contrib.rnn.core_rnn_cell.DropoutWrapper(cell)
             print "Added Dropout Wrapper"
+        # cell = tf.contrib.rnn.MultiRNNCell([cell]*2)
         return cell
 
     def genBatch(self, x):
@@ -127,7 +128,7 @@ class rnn:
 if __name__ == '__main__':
     os.chdir('..')
 
-    obj = rnn(cellType="LSTM", redChars=True, wrapDropout=True)
+    obj = rnn(cellType="GRU", redChars=True, wrapDropout=True)
     obj.model()
     obj.train()
 
@@ -137,5 +138,7 @@ if __name__ == '__main__':
     Y = Y.reshape(-1, Y.shape[-1])
     Y = np.argmax(Y, axis=1)
     cm = metrics.confusion_matrix(Y, Yhat)
+    f1 = metrics.f1_score(Y, Yhat,average=None)
 
     print cm
+    print f1

@@ -21,10 +21,11 @@ class Config:
         self.wordDim = int(self.wordVecPath.split('.')[2][:-1])
         self.nTokens = int(self.wordVecPath.split('.')[1][:-1])
 
-        self.cleanedRoot = "./data/cleaned"
+        self.cleanedData = "./data/cleaned.bin"
         self.cachedLinks = "cache/links.pkl"
+        self.rawData = "./data/raw.txt"
 
-        self.qVecMatPath = "./data/vec"
+        self.qVecMatPath = "./data/vecMat.bin"
 
         # Parameter for Machine Learning Models
         # MLP Model
@@ -52,7 +53,7 @@ class Config:
             },
             'LSTM': {
                 'numStep': 4,
-                'stateSize': 100,
+                'stateSize': 22,
                 'alpha': 0.2,
                 'stddev': 0.5,
                 'train': 0.7,

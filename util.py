@@ -21,45 +21,31 @@ class Util:
         self.preprocess = Preprocess()
         self.speakers = []
         self.nSpeakers = 0
-
-        self.patch = ["george", ["goerge", "georgge"]]
-        self.mainCharacters = [
-            "george",
-            "elaine",
-            "kramer",
-            "laura"
-        ]
-
         self.getSpeakers()
 
+        self.mainCharacters = [
+            "fry", "bender", "leela", "farnsworth", "zoidberg", "amy"
+        ]
+
     def getSpeakers(self):
-        root = self.config.cleanedRoot
-        for f in os.listdir(root):
-            pth = os.path.join(root, f)
-            with open(pth, 'rb') as f:
-                self.addSpeaker(pickle.load(f))
+        f = open(self.config.cleanedData, 'rb')
+        self.addSpeaker(pickle.load(f))
         self.nSpeakers = len(self.speakers)
         return self.speakers
 
     def addSpeaker(self, sess):
         for line in sess:
-            name = self.preprocess.cleanName(line[0])
-            if name in self.patch[1]:
-                name = self.patch[0]
+            name = line[0]
             if not name in self.speakers:
                 self.speakers.append(name)
 
     def loadData(self, redChars = False):
-        dataPath = self.config.qVecMatPath
+        vecMatPath = self.config.qVecMatPath
         X = None
 
-        for fname in os.listdir(dataPath):
-            with open(os.path.join(dataPath, fname), 'rb') as f:
-                mat = pickle.load(f)
-                if X is None:
-                    X = mat
-                    continue
-                X = np.append(X, mat, axis=0)
+        with open(vecMatPath, 'rb') as f:
+            mat = pickle.load(f)
+            X = mat
 
         X= np.array(X)
         if redChars:
@@ -85,5 +71,7 @@ class Util:
 
 if __name__ == '__main__':
     obj = Util()
-    obj.loadData(redChars=True)
+    x, y = obj.loadData(redChars=True)
+
+    print y
     print obj.speakers
