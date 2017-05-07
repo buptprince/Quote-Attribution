@@ -1,0 +1,25 @@
+\BOOKMARK [0][-]{chapter*.2}{ABSTRACT}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{ACKNOWLEDGEMENTS}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Problem Statement}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Data and Pre Processing}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Cleaning}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Code}{chapter.2}% 7
+\BOOKMARK [0][-]{chapter.3}{Quote Vector}{}% 8
+\BOOKMARK [1][-]{section.3.1}{Simple Averaging}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{Sentence Level Embeding}{chapter.3}% 10
+\BOOKMARK [0][-]{chapter.4}{n-Way Multi Layer Neural Network Model}{}% 11
+\BOOKMARK [1][-]{section.4.1}{Feed Forward Method}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.2}{Training}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.3}{Model Performance}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.4}{Code}{chapter.4}% 15
+\BOOKMARK [0][-]{chapter.5}{Single Layered LSTM-Recurrent Neural Network Model}{}% 16
+\BOOKMARK [1][-]{section.5.1}{Drawbacks with normal Recurrent Neural Network}{chapter.5}% 17
+\BOOKMARK [1][-]{section.5.2}{LSTM Networks}{chapter.5}% 18
+\BOOKMARK [1][-]{section.5.3}{Model Performance}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.4}{Code}{chapter.5}% 20
+\BOOKMARK [0][-]{chapter.6}{Deep RNN Network with Contextual Sentence Embedder}{}% 21
+\BOOKMARK [1][-]{section.6.1}{Model Description}{chapter.6}% 22
+\BOOKMARK [1][-]{section.6.2}{Model Performance}{chapter.6}% 23
+\BOOKMARK [1][-]{section.6.3}{Code}{chapter.6}% 24
+\BOOKMARK [0][-]{chapter.7}{Conclusion}{}% 25

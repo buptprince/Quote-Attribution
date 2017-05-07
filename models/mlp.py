@@ -20,6 +20,7 @@ import os, pickle, sys
 sys.path.insert(0,'..')
 from config import Config
 from util import Util
+import test
 
 class mlp:
     def __init__(self):
@@ -27,7 +28,7 @@ class mlp:
         self.util = Util()
         self.name = "MLP Model"
 
-        X, Y = self.util.loadData()
+        X, Y = self.util.loadData(redChars=True)
         trainLen = int(X.shape[0]*self.config.mlp['train'])
         self.Xtrain, self.Xtest = X[:trainLen], X[trainLen:]
         self.Ytrain, self.Ytest = Y[:trainLen], Y[trainLen:]
@@ -85,8 +86,9 @@ class mlp:
         sess.close()
 
     def forecast(self, X):
+        saver = tf.train.Saver()
         with tf.Session() as sess:
-            sess.restore(sess, self.config.mlp['modelPath'])
+            saver.restore(sess, self.config.mlp['modelPath'])
             Yhat = sess.run(self.predict, feed_dict={
                 self.X: X
             })
@@ -97,4 +99,5 @@ if __name__ == '__main__':
 
     obj = mlp()
     obj.model()
-    obj.train()
+    # obj.train()
+    test.genReport(obj.Ytest, obj.forecast(obj.Xtest))

@@ -34,7 +34,7 @@ class Config:
             'alpha': 0.2,
             'stddev': 0.5,
             'train': 0.70,
-            'epochs': 2000,
+            'epochs': 1000,
             'disp': 50,
             'modelPath': './bin/mlp.ckpl'
         }
@@ -71,4 +71,17 @@ class Config:
                 'disp': 10,
                 'modelPath': './bin/rnn.gru.ckpl'
             }
+        }
+
+        # Cntextual RNN Model
+        self.contRNN = {
+            'alpha': 0.2,
+            'numStep': 5,
+            'stateSize': 50,
+            'contStateSize': 8,
+            'epochs': 100,
+            'train': 0.7,
+            'stddev': 0.5,
+            'disp': 10,
+            'modelPath': './bin/contrnn.ckpl'
         }

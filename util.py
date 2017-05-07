@@ -24,7 +24,7 @@ class Util:
         self.getSpeakers()
 
         self.mainCharacters = [
-            "fry", "bender", "leela", "farnsworth", "zoidberg", "amy"
+                "fry", "bender", "leela", "farnsworth", "zoidberg", "amy"
         ]
 
     def getSpeakers(self):

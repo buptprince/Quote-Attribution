@@ -15,6 +15,7 @@ sys.path.insert(0, '..')
 from config import Config
 from util import Util
 import sklearn.metrics as metrics
+import test
 
 
 class rnn:
@@ -68,7 +69,6 @@ class rnn:
 
         cell = self.rnnCell()
         rnnOutputs, rnnStates = tf.nn.dynamic_rnn(cell, self.X, dtype="float")
-
         W = tf.Variable(tf.random_normal(shape=(self.config.rnn['stateSize'], self.util.nSpeakers), stddev=self.config.rnn['stddev']))
         b = tf.Variable(tf.constant(0.1, shape=[self.util.nSpeakers]))
 
@@ -128,17 +128,8 @@ class rnn:
 if __name__ == '__main__':
     os.chdir('..')
 
-    obj = rnn(cellType="GRU", redChars=True, wrapDropout=True)
+    obj = rnn(cellType="LSTM", redChars=True, wrapDropout=True)
     obj.model()
-    obj.train()
+    # obj.train()
 
-    Yhat = obj.forecast(obj.Xtest)
-    Y = obj.Ytest
-
-    Y = Y.reshape(-1, Y.shape[-1])
-    Y = np.argmax(Y, axis=1)
-    cm = metrics.confusion_matrix(Y, Yhat)
-    f1 = metrics.f1_score(Y, Yhat,average=None)
-
-    print cm
-    print f1
+    test.genReport(obj.Ytest, obj.forecast(obj.Xtest))

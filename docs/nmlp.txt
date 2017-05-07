@@ -1,0 +1,87 @@
+\chapter{n-Way Multi Layer Neural Network Model}
+
+This model consist of 3 layered neural network. With first layer consist of input layer and the third layer as the output layer. Input layer is same as the dimension of the quote vector and the output layer as the number of speakers. Here 'n' states the number of speakers as the output. As the number of speakers in the dataset is more than the dimensions hence we have reduced the number of speakers to 5. Number of speakers are chosen on the basis of hom much he/she speaks and the importance of the speaker on the plot. Number of hidden layers are manually auto tuned to get better F-measure scores. 
+
+
+\tikzset{%
+  every neuron/.style={
+    circle,
+    draw,
+    minimum size=1cm
+  },
+  neuron missing/.style={
+    draw=none, 
+    scale=4,
+    text height=0.333cm,
+    execute at begin node=\color{black}$\vdots$
+  },
+}
+
+\begin{tikzpicture}[x=1.5cm, y=1.5cm, >=stealth]
+
+\foreach \m/\l [count=\y] in {1,2,3,missing,4}
+  \node [every neuron/.try, neuron \m/.try] (input-\m) at (0,2.5-\y) {};
+
+\foreach \m [count=\y] in {1,missing,2}
+  \node [every neuron/.try, neuron \m/.try ] (hidden-\m) at (2,2-\y*1.25) {};
+
+\foreach \m [count=\y] in {1,missing,2}
+  \node [every neuron/.try, neuron \m/.try ] (output-\m) at (4,1.5-\y) {};
+
+\foreach \l [count=\i] in {1,2,3,n}
+  \draw [<-] (input-\i) -- ++(-1,0)
+    node [above, midway] {$I_\l$};
+
+\foreach \l [count=\i] in {1,n}
+  \node [above] at (hidden-\i.north) {$H_\l$};
+
+\foreach \l [count=\i] in {1,n}
+  \draw [->] (output-\i) -- ++(1,0)
+    node [above, midway] {$O_\l$};
+
+\foreach \i in {1,...,4}
+  \foreach \j in {1,...,2}
+    \draw [->] (input-\i) -- (hidden-\j);
+
+\foreach \i in {1,...,2}
+  \foreach \j in {1,...,2}
+    \draw [->] (hidden-\i) -- (output-\j);
+
+\foreach \l [count=\x from 0] in {Input, Hidden, Ouput}
+  \node [align=center, above] at (\x*2,2) {\l \\ layer};
+
+\end{tikzpicture}
+
+\section{Feed Forward Method}
+
+Feed forward network is used to predict the speaker. In this the information is passed from left to right using the following:
+
+\begin{center}
+	$f(\overrightarrow{\rm q}) = W.\overrightarrow{\rm q} + b$\\
+	$h = sigmoid(f(\overrightarrow{\rm q}))$\\
+	$\hat{y} = softmax(h)$
+\end{center}
+
+The activation functions of the hidden layer and the out put layer has been carefully chosen to obtain the best performance possible. Here in this case due to the limitation of the hardware specification we used Simple Averaging method to obtain the input quote vector.
+
+\section{Training}
+
+Training has been done using delta rule. Taking the loss function as the entropy loss function with adam's optimiser. Backpropagation is the key algorithm that makes training deep models computationally tractable. For modern neural networks, it can make training with gradient descent as much as ten million times faster, relative to a naive implementation. Thats the difference between a model taking a week to train and taking 200,000 years.
+
+\begin{center}
+$C= -\frac{1}{n} \sum x [y \ln a+(1−y)\ln(1−a)]$
+\end{center}
+
+Derivation for error propagation from the output layer to the hidden layer.
+
+\begin{center}
+$g'_{tanh}(z) = \frac{\partial}{\partial z} \frac{\text{sinh}(z)}{cosh(z)}$ \\  
+$= \frac{\frac{\partial}{\partial z} \text{sinh}(z) \times \text{cosh}(z) - \frac{\partial}{\partial z} \text{cosh}(z) \times \text{sinh}(z)}{\text{cosh}^2(z)}$ \\ 
+$= \frac{cosh^2(z) - sinh^2(z)}{cosh^2(z)}$ \\  
+$= 1 - \frac{sinh^2(z)}{cosh^2(z)}$ \\  
+$= 1 - \tanh^2(z)$
+\end{center}
+
+\section{Model Performance}
+
+Model has been trained for 1000 epochs, with learning rate of 0.2. Hidden layer consist of 220 nodes. Training time to train 70\% of dataset was 26minutes.
